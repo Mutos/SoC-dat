@@ -6,6 +6,7 @@
  <sound>engine</sound>
  <class>Carrier</class>
  <price>1100000</price>
+ <time_mod>1.0</time_mod>
  <fabricator>Core League Staryards</fabricator>
  <description>The latest and greatest of the Core Fleet's ships of the line, the Vikramaditya is basically a missiles cruiser with a spinal gun and carrier capabilities added. Thanks to a League-Council agreement, it features the same fighters as the Ma'Tang.</description>
  <health>
