@@ -95,19 +95,19 @@ end
 
 function create()
 	-- Ask the player with which species they want to play
-	tk.msgImg ( menuTitle ["Species"], menuComment ["Species"], "dialogues/startup/001-SpaceGoingSpecies.png" )
+	tk.msg ( menuTitle ["Species"], menuComment ["Species"], "dialogues/startup/001-SpaceGoingSpecies.png" )
 	_, speciesSelection = tk.choice(menuTitle ["Species"], menuText ["Species"], menuOptions ["Species"]["K'Rinn"], menuOptions ["Species"]["Rith"], menuOptions ["Species"]["Human"], menuOptions ["Species"]["Pupeteer"], menuOptions ["Species"]["Sshaad"], menuOptions ["Species"]["Shapeshifter"])
 
 	-- Ask the player in which State they wish to begin the game
-	tk.msgImg ( menuTitle ["Start"], menuComment ["Start"], "dialogues/startup/002-States.png" )
+	tk.msg ( menuTitle ["Start"], menuComment ["Start"], "dialogues/startup/002-States.png" )
 	_, selection = tk.choice(menuTitle ["Start"], menuText ["Start"], menuOptions ["Start"]["Ek'In"], menuOptions ["Start"]["Sanctuary"], menuOptions ["Start"]["Sol"])
 
 	-- Ask the player with which ship type they want
-	tk.msgImg ( menuTitle ["ShipType"], menuComment ["ShipType"], "dialogues/startup/003-Ships.png" )
+	tk.msg ( menuTitle ["ShipType"], menuComment ["ShipType"], "dialogues/startup/003-Ships.png" )
 	_, shipType = tk.choice(menuTitle ["ShipType"], menuText ["ShipType"], menuOptions ["ShipType"]["Fighter"], menuOptions ["ShipType"]["Freighter"], menuOptions ["ShipType"]["Courier"])
 
 	-- Alpha-test choices: Money and Map
-	tk.msgImg ( menuTitle ["Alpha"], menuComment ["Alpha"], "dialogues/startup/004-LawfulGood.png" )
+	tk.msg ( menuTitle ["Alpha"], menuComment ["Alpha"], "dialogues/startup/004-LawfulGood.png" )
 	_, moneyAmount = tk.choice(menuTitle ["Money"], menuText ["Money"], menuOptions ["Money"]["Regular"], menuOptions ["Money"]["Ridiculous"])
 	_, mapType = tk.choice(menuTitle ["Map"], menuText ["Map"], menuOptions ["Map"]["Regular"], menuOptions ["Map"]["Complete"])
 
