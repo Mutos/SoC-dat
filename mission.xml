@@ -155,7 +155,7 @@
   </avail>
  </mission>
  <mission name="Core League Rehabilitation">
-  <lua>factions/coreleague/rehab</lua>
+  <lua>factions/CoreLeague/rehab</lua>
   <avail>
    <cond>faction.playerStanding("Core League") &lt; 0</cond>
    <chance>100</chance>
