@@ -75,20 +75,12 @@
   </jump>
  </jumps>
  <asteroids>
-  <asteroid>
-   <corner>
-    <x>10000.000000</x>
-    <y>-1000.000000</y>
-   </corner>
-   <corner>
-    <x>10000.000000</x>
-    <y>3000.000000</y>
-   </corner>
-   <corner>
-    <x>5000.000000</x>
-    <y>1000.000000</y>
-   </corner>
-   <density>1.000000</density>
-  </asteroid>
+   <type>default</type>
+   <type>default</type>
+   <type>default</type>
+   <type>golden</type>
+   <pos x="1000" y="-3000"/>
+   <radius>2000</radius>
+   <density>0.500000</density>
  </asteroids>
 </ssys>
