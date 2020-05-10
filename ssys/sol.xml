@@ -81,6 +81,6 @@
    <type>golden</type>
    <pos x="1000" y="-3000"/>
    <radius>2000</radius>
-   <density>0.500000</density>
+   <density>5.00000</density>
  </asteroids>
 </ssys>
