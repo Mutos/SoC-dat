@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Rith no Doa">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-300.752960</x>
+  <y>-1379.816000</y>
+ </pos>
+ <assets>
+  <asset>Asteroids Cluster 138610</asset>
+  <asset>Asteroids Cluster 171573</asset>
+  <asset>Asteroids Cluster 200359</asset>
+  <asset>Asteroids Cluster 222059</asset>
+  <asset>Asteroids Cluster 579447</asset>
+  <asset>Asteroids Cluster 711729</asset>
+  <asset>Asteroids Cluster 757260</asset>
+  <asset>Asteroids Cluster 971484</asset>
+ </assets>
+ <jumps>
+  <jump target="PA 0012">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="PA 0031">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="PA-Iri - 1 - 1">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Sora no Shikyuu">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Thalin">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+</ssys>

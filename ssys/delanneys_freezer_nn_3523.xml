@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Delanney's Freezer (NN 3523)">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-2052.772480</x>
+  <y>-1208.226880</y>
+ </pos>
+ <assets>
+  <asset>Asteroids Cluster 204506</asset>
+  <asset>Asteroids Cluster 450157</asset>
+  <asset>Asteroids Cluster 455970</asset>
+  <asset>Asteroids Cluster 457820</asset>
+  <asset>Asteroids Cluster 502487</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+ </assets>
+ <jumps>
+  <jump target="Gl 293.2">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Gl 334">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Meetpoint (Gl 291)">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+</ssys>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Mir">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>0.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-1205.914000</x>
+  <y>-893.413333</y>
+ </pos>
+ <assets>
+  <asset>Asteroids Cluster 133650</asset>
+  <asset>Asteroids Cluster 138764</asset>
+  <asset>Asteroids Cluster 182422</asset>
+  <asset>Asteroids Cluster 531064</asset>
+  <asset>Asteroids Cluster 556713</asset>
+  <asset>Asteroids Cluster 691007</asset>
+  <asset>Asteroids Cluster 765100</asset>
+  <asset>Asteroids Cluster 784220</asset>
+  <asset>Asteroids Cluster 789102</asset>
+  <asset>Asteroids Cluster 826539</asset>
+  <asset>Asteroids Cluster 895119</asset>
+  <asset>LiangXi Mechanics</asset>
+  <asset>Mir</asset>
+  <asset>Oryol</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+  <asset>Voronin</asset>
+ </assets>
+ <jumps>
+  <jump target="Nouvelle Mars">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Peschinka">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Tripoint">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Vikra">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+</ssys>

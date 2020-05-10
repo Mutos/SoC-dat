@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="KT 93">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-298.800000</x>
+  <y>-521.664000</y>
+ </pos>
+ <assets>
+  <asset>Asteroids Cluster 142565</asset>
+  <asset>Asteroids Cluster 162729</asset>
+  <asset>Asteroids Cluster 231498</asset>
+  <asset>Asteroids Cluster 236808</asset>
+  <asset>Asteroids Cluster 253668</asset>
+  <asset>Asteroids Cluster 289431</asset>
+  <asset>Asteroids Cluster 289583</asset>
+  <asset>Asteroids Cluster 290264</asset>
+  <asset>Asteroids Cluster 292128</asset>
+  <asset>Asteroids Cluster 296052</asset>
+  <asset>Asteroids Cluster 339953</asset>
+  <asset>Asteroids Cluster 350220</asset>
+  <asset>Asteroids Cluster 352422</asset>
+  <asset>Asteroids Cluster 514554</asset>
+  <asset>Asteroids Cluster 519491</asset>
+  <asset>Asteroids Cluster 554194</asset>
+  <asset>Asteroids Cluster 563901</asset>
+  <asset>Asteroids Cluster 577401</asset>
+  <asset>Asteroids Cluster 593159</asset>
+  <asset>Asteroids Cluster 609060</asset>
+  <asset>Asteroids Cluster 632820</asset>
+  <asset>Asteroids Cluster 650420</asset>
+  <asset>Asteroids Cluster 697414</asset>
+  <asset>Asteroids Cluster 728831</asset>
+  <asset>Asteroids Cluster 796096</asset>
+  <asset>Asteroids Cluster 872371</asset>
+  <asset>Asteroids Cluster 915814</asset>
+  <asset>Asteroids Cluster 960687</asset>
+  <asset>Azul</asset>
+  <asset>FeuerTurm</asset>
+  <asset>Stromboli</asset>
+ </assets>
+ <jumps>
+  <jump target="Anel'f T'en">
+   <pos x="8629.464595" y="7639.887546"/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="CL-KC - 1 - 2">
+   <pos x="-11469.777843" y="-7990.868527"/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="RS-1 - Freiheit Turen">
+   <pos x="-13786.690121" y="5955.199280"/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+</ssys>

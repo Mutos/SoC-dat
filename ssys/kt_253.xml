@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="KT 253">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>0.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-148.520000</x>
+  <y>57.648000</y>
+ </pos>
+ <assets>
+  <asset>Asteroids Cluster 162380</asset>
+  <asset>Asteroids Cluster 665046</asset>
+  <asset>Asteroids Cluster 733439</asset>
+  <asset>Asteroids Cluster 936231</asset>
+ </assets>
+ <jumps>
+  <jump target="KT 241">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="KT 52">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+</ssys>

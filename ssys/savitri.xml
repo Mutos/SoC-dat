@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Savitri">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>0.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-1931.240000</x>
+  <y>141.456000</y>
+ </pos>
+ <assets>
+  <asset>Asteroids Cluster 272514</asset>
+  <asset>Asteroids Cluster 295165</asset>
+  <asset>Asteroids Cluster 366118</asset>
+  <asset>Asteroids Cluster 403882</asset>
+  <asset>Asteroids Cluster 428868</asset>
+  <asset>Asteroids Cluster 442201</asset>
+  <asset>Asteroids Cluster 476165</asset>
+  <asset>Asteroids Cluster 582611</asset>
+  <asset>Asteroids Cluster 602614</asset>
+  <asset>Asteroids Cluster 611156</asset>
+  <asset>Asteroids Cluster 674597</asset>
+  <asset>Asteroids Cluster 860102</asset>
+  <asset>Asteroids Cluster 873498</asset>
+  <asset>Savitri A</asset>
+  <asset>Savitri B</asset>
+  <asset>Savitri C</asset>
+  <asset>Savitri D</asset>
+ </assets>
+ <jumps>
+  <jump target="Anhui">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="CL 0055">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Le Manege">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="RS-7 - Delta Lock">
+   <pos x="11063.104438" y="7499.151367"/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Villera">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+</ssys>

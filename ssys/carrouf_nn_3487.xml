@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Carrouf (NN 3487)">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-2077.684480</x>
+  <y>-1477.162880</y>
+ </pos>
+ <assets>
+  <asset>Asteroids Cluster 262736</asset>
+  <asset>Asteroids Cluster 313686</asset>
+  <asset>Asteroids Cluster 433736</asset>
+  <asset>Asteroids Cluster 860492</asset>
+ </assets>
+ <jumps>
+  <jump target="Dwarves' Tunnels (Gl 261)">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="GJ 1093">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="GJ 1097">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Meetpoint (Gl 291)">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+</ssys>

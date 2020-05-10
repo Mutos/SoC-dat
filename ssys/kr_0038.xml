@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="KR 0038">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>2204.440000</x>
+  <y>-1120.272000</y>
+ </pos>
+ <assets>
+  <asset>Asteroids Cluster 259620</asset>
+  <asset>Asteroids Cluster 270440</asset>
+  <asset>Asteroids Cluster 277961</asset>
+  <asset>Asteroids Cluster 451296</asset>
+  <asset>Asteroids Cluster 464939</asset>
+  <asset>Asteroids Cluster 490153</asset>
+  <asset>Asteroids Cluster 516354</asset>
+  <asset>Asteroids Cluster 523919</asset>
+  <asset>Asteroids Cluster 562800</asset>
+  <asset>Asteroids Cluster 581170</asset>
+  <asset>Asteroids Cluster 604250</asset>
+  <asset>Asteroids Cluster 649172</asset>
+  <asset>Asteroids Cluster 715849</asset>
+  <asset>Asteroids Cluster 765301</asset>
+  <asset>Asteroids Cluster 779803</asset>
+  <asset>Asteroids Cluster 949230</asset>
+  <asset>Asteroids Cluster 964405</asset>
+  <asset>Asteroids Cluster 991436</asset>
+  <asset>Asteroids Cluster 992885</asset>
+ </assets>
+ <jumps>
+  <jump target="K'Tilk'Elh">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="KR 0021">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="KR 0039">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="T'Kell's Fringe">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+</ssys>

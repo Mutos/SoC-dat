@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Peschinka">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-1202.280000</x>
+  <y>-749.944000</y>
+ </pos>
+ <assets>
+  <asset>Asteroids Cluster 112671</asset>
+  <asset>Asteroids Cluster 133743</asset>
+  <asset>Asteroids Cluster 208744</asset>
+  <asset>Asteroids Cluster 228797</asset>
+  <asset>Asteroids Cluster 308463</asset>
+  <asset>Asteroids Cluster 321341</asset>
+  <asset>Asteroids Cluster 331661</asset>
+  <asset>Asteroids Cluster 345769</asset>
+  <asset>Asteroids Cluster 408448</asset>
+  <asset>Asteroids Cluster 488378</asset>
+  <asset>Asteroids Cluster 515578</asset>
+  <asset>Asteroids Cluster 519466</asset>
+  <asset>Asteroids Cluster 527059</asset>
+  <asset>Asteroids Cluster 605060</asset>
+  <asset>Asteroids Cluster 651789</asset>
+  <asset>Asteroids Cluster 657710</asset>
+  <asset>Asteroids Cluster 658760</asset>
+  <asset>Asteroids Cluster 689746</asset>
+  <asset>Asteroids Cluster 735407</asset>
+  <asset>Asteroids Cluster 749027</asset>
+  <asset>Asteroids Cluster 765369</asset>
+  <asset>Asteroids Cluster 826498</asset>
+  <asset>Asteroids Cluster 861720</asset>
+  <asset>Asteroids Cluster 971278</asset>
+  <asset>Asteroids Cluster 984075</asset>
+  <asset>Asteroids Cluster 992631</asset>
+  <asset>Asteroids Cluster 994232</asset>
+  <asset>Medved</asset>
+ </assets>
+ <jumps>
+  <jump target="CL-KC - 1 - 1">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Gl 121">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Mir">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+</ssys>

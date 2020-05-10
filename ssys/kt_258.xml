@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="KT 258">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-50.112000</x>
+  <y>-146.880000</y>
+ </pos>
+ <assets>
+  <asset>Asteroids Cluster 348612</asset>
+  <asset>Asteroids Cluster 348765</asset>
+  <asset>Asteroids Cluster 602894</asset>
+  <asset>Asteroids Cluster 679521</asset>
+  <asset>K'Til'n 0001</asset>
+  <asset>T'Talin</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+ </assets>
+ <jumps>
+  <jump target="Ek'In">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="KT 59 (K'Tinaalt)">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="RkL 3521">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+</ssys>

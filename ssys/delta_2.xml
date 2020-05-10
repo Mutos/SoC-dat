@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Delta 2">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>0.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-1893.512000</x>
+  <y>552.144000</y>
+ </pos>
+ <assets>
+  <asset>Asteroids Cluster 141987</asset>
+  <asset>Asteroids Cluster 153671</asset>
+  <asset>Asteroids Cluster 174883</asset>
+  <asset>Asteroids Cluster 185373</asset>
+  <asset>Asteroids Cluster 187109</asset>
+  <asset>Asteroids Cluster 345941</asset>
+  <asset>Asteroids Cluster 388014</asset>
+  <asset>Asteroids Cluster 398477</asset>
+  <asset>Asteroids Cluster 459668</asset>
+  <asset>Asteroids Cluster 538404</asset>
+  <asset>Asteroids Cluster 599586</asset>
+  <asset>Asteroids Cluster 612891</asset>
+  <asset>Asteroids Cluster 681847</asset>
+  <asset>Asteroids Cluster 722797</asset>
+  <asset>Asteroids Cluster 729176</asset>
+  <asset>Asteroids Cluster 778838</asset>
+  <asset>Asteroids Cluster 779735</asset>
+  <asset>Asteroids Cluster 896208</asset>
+  <asset>Asteroids Cluster 933517</asset>
+  <asset>Asteroids Cluster 998409</asset>
+  <asset>Delta 2 A</asset>
+  <asset>Delta 2 B</asset>
+  <asset>Delta 2 C</asset>
+  <asset>Delta 2 D</asset>
+ </assets>
+ <jumps>
+  <jump target="CL 0051">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Crossover">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Delta 1">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Delta 9">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="RS-7 - Delta Lock">
+   <pos x="3078.904103" y="2175.633156"/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+</ssys>

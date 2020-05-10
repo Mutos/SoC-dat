@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Alpha Corvis">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-1633.440000</x>
+  <y>-120.800000</y>
+ </pos>
+ <assets>
+  <asset>Asteroids Cluster 135936</asset>
+  <asset>Asteroids Cluster 219208</asset>
+  <asset>Asteroids Cluster 229766</asset>
+  <asset>Asteroids Cluster 273347</asset>
+  <asset>Asteroids Cluster 349456</asset>
+  <asset>Asteroids Cluster 640849</asset>
+  <asset>Asteroids Cluster 669453</asset>
+  <asset>Asteroids Cluster 684909</asset>
+  <asset>Asteroids Cluster 719963</asset>
+  <asset>Asteroids Cluster 754042</asset>
+  <asset>Asteroids Cluster 756717</asset>
+  <asset>Asteroids Cluster 804579</asset>
+  <asset>Asteroids Cluster 897682</asset>
+  <asset>Asteroids Cluster 997003</asset>
+  <asset>McNab</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+  <asset>Virtual Independent Local</asset>
+ </assets>
+ <jumps>
+  <jump target="CL 0061">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="CL 0062">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Sol">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+</ssys>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Asteroids Cluster 612891">
+ <pos>
+  <x>5371.620532</x>
+  <y>5136.433166</y>
+ </pos>
+ <GFX>
+  <space>asteroids-004.png</space>
+  <exterior>snow.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

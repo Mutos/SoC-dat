@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Ka'Ralt Crossing">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>1007.424000</x>
+  <y>-654.912000</y>
+ </pos>
+ <assets>
+  <asset>Asteroids Cluster 155758</asset>
+  <asset>Asteroids Cluster 233948</asset>
+  <asset>Asteroids Cluster 472426</asset>
+  <asset>Asteroids Cluster 683282</asset>
+  <asset>Asteroids Cluster 731338</asset>
+  <asset>Asteroids Cluster 755208</asset>
+  <asset>Asteroids Cluster 967714</asset>
+  <asset>K'Tint</asset>
+  <asset>K'Tint Nilal</asset>
+  <asset>Virtual Truce Local</asset>
+ </assets>
+ <jumps>
+  <jump target="Iri 0119 (KT 38)">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Iri-KR-KC - 1 - 1">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Iri-KR-KC - 1 - 4">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Ka'Ralt Corridor">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+</ssys>
