@@ -13,5 +13,6 @@
   <ammo>DFM Missile</ammo>
   <amount>20</amount>
   <delay>0.3</delay>
+  <reload_time>10</reload_time>
  </specific>
 </outfit>

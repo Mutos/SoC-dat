@@ -6,6 +6,7 @@
  <sound>engine</sound>
  <class>Freighter</class>
  <price>120000</price>
+ <time_mod>1.0</time_mod>
  <fabricator>California High Staryards</fabricator>
  <description>One of the most widely used small freighters in the galaxy. Renowned for its stability and stubbornness, but also for its high jump fuel consumption. The design hasn't been modified much since its creation many many years ago.</description>
  <health>

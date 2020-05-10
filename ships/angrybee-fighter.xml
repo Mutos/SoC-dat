@@ -6,6 +6,7 @@
  <sound>engine</sound>
  <class>Fighter</class>
  <price>85000</price>
+ <time_mod>1.0</time_mod>
  <fabricator>Robosys</fabricator>
  <description>This is the classical Angry Bee drone, transformed into a low-cost fighter yet including a small missile launcher. It features a life support system built for Humans, K'Rinns or Sshaads, and can even accomodate a Rith with some field modding. Its internal hold can allow it to be used as a courier.</description>
  <health>

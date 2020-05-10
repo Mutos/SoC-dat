@@ -6,6 +6,7 @@
  <sound>engine</sound>
  <class>Cruiser</class>
  <price>280000</price>
+ <time_mod>1.0</time_mod>
  <fabricator>Shoden Shipyards</fabricator>
  <description>
 This relatively nimble capital ship is the mainstay of Shoden forces. It is a powerful cruiser, built for naval combat but featuring long-range capabilities. Its main weapons are its pair of spinal guns, complemented by missiles and relatively small fighter bays, split up for fast deployment. It stands out for the variety of system extensions that can be field-mounted to adapt it to varied needs.

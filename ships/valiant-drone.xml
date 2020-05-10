@@ -6,6 +6,7 @@
  <sound>engine</sound>
  <class>Fighter</class>
  <price>140000</price>
+ <time_mod>1.0</time_mod>
  <fabricator>Starsong Shipyards</fabricator>
  <description>Built for low-cost and low-mass cargo escort aimed at quickly disabling any attacker, the Drone is the smallest ship in the Valiant lineage. Despite its name, it requires a pupeteer pilot, but the extra weight in life support is far less than for a any other species, so it was deemed better to stay this way.</description>
  <health>

@@ -13,6 +13,7 @@
  <specific type="fighter bay" secondary="1">
   <ammo>Akk'Ti'Makkt Bomber</ammo>
   <delay>5</delay>
+  <reload_time>10</reload_time>
   <amount>15</amount>
  </specific>
 </outfit>

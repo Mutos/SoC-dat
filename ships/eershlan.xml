@@ -6,6 +6,7 @@
  <sound>engine</sound>
  <class>Fighter</class>
  <price>120000</price>
+ <time_mod>1.0</time_mod>
  <fabricator>Shoden Shipyards</fabricator>
  <description>The Eershlan ("Bright Javelin") is the base Shoden interceptor, often deployed from Sshilaan-class carriers. Its energy-guns-only weaponry increases staying power at the expense of engagement range. It features four mounts for core system extension, enhancing versatility, as often with sshaad ships.</description>
  <health>

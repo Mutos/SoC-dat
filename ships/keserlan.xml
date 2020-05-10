@@ -6,6 +6,7 @@
  <sound>engine</sound>
  <class>Freighter</class>
  <price>1100000</price>
+ <time_mod>1.0</time_mod>
  <fabricator>Irmothem Skarae Planetside</fabricator>
  <description>This "flying skyscrapper" is the heaviest bulk freighter in known space. Neither particularly modular nor fast, it is rather renowned for its cargo capacity and its relatively heavy flak, the latter being a classical feature in Irmothem designs.</description>
  <health>

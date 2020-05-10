@@ -6,6 +6,7 @@
  <sound>engine</sound>
  <class>Freighter</class>
  <price>1100000</price>
+ <time_mod>1.0</time_mod>
  <fabricator>Blowing Winds Staryards</fabricator>
  <description>One of the rare freighter from the Pupeteers occasionally seen in core Commonwealth space. The Sunflower is actually twin living ships, born from the same DNA, raised together and coupled by a heavy cargo-bearing structure.</description>
  <health>

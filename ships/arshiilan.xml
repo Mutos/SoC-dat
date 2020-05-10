@@ -6,6 +6,7 @@
  <sound>engine</sound>
  <class>Freighter</class>
  <price>120000</price>
+ <time_mod>1.0</time_mod>
  <fabricator>Hiban Niigal</fabricator>
  <description>The Hiban Niigal shipyards is a main asset in Baartish hands, and the Arshiilan is their best ambassador out of the Sshaad Sphere. Ungainly and jury-rigged as it seems, it is a most efficient way of carrying cargo from one planet to another, with its quite low jump consumption and high range. As always with sshaad designs, versatility is a highly sought-after quality. Its standard fitting includes 4 modular containers and 2 more can be fitted, as well as 3 multipurpose extensions points. </description>
  <health>

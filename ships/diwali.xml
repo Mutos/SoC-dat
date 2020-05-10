@@ -6,6 +6,7 @@
  <sound>engine</sound>
  <class>Freighter</class>
  <price>1100000</price>
+ <time_mod>1.0</time_mod>
  <fabricator>Core League Staryards</fabricator>
  <description>One of the most famed liners class, this ship features one of the best of Core League technologies on a luxury package for transporting wealthy passengers through grandiose stellar vistas.</description>
  <health>

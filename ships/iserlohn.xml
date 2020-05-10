@@ -6,6 +6,7 @@
  <sound>engine</sound>
  <class>Freighter</class>
  <price>1100000</price>
+ <time_mod>1.0</time_mod>
  <fabricator>Core League Staryards</fabricator>
  <description>The Iserlohn competes with the Irali for the title of oldest starship still currently in use. This refit of the plasma class Weifeng was launched even before Humans discovered the jump drive, and earned fame as a mainstay of Cartel Sol logistics during the Planetarist War. Only Core League Staryards still build brand-new Iserlohn, but the ship is easy to find on the used market.</description>
  <health>

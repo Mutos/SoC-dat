@@ -6,6 +6,7 @@
  <sound>engine</sound>
  <class>Freighter</class>
  <price>150000</price>
+ <time_mod>1.0</time_mod>
  <fabricator>Star Melodies Yards</fabricator>
  <description>This pupeteer lineage is a quite old small freighter commonly found throughout the Pupeteer Sphere, an equivalent to the Caravelle or Eresslih. It boasts two modular holds easily adaptable to every kind of cargo possible, at the expense of defense turrets. Like all Pupeteer design, it must be driven by a Pupeteer or via a special interface and has ample initiative to keep its own security, even if this means countering the pilot's orders.</description>
  <health>

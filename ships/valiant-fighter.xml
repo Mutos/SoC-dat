@@ -6,6 +6,7 @@
  <sound>engine</sound>
  <class>Fighter</class>
  <price>200000</price>
+ <time_mod>1.0</time_mod>
  <fabricator>Starsong Shipyards</fabricator>
  <description>The Fighter is the mainstay of the Valiant lineage, boasting two Ion Cannons as main weapons for disabling its opponents as Pupeteers standard combat ethics require. Its two hardpoints and two internal core slots give it enough flexibility to extend its capabilities. Grown on the same base spaceframe as the Drone, its three engines instead of one give it ample speed despite its larger mass.</description>
  <health>

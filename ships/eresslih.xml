@@ -6,7 +6,9 @@
  <sound>engine</sound>
  <class>Freighter</class>
  <price>80000</price>
+ <time_mod>1.0</time_mod>
  <price>120000</price>
+ <time_mod>1.0</time_mod>
  <fabricator>Baartish and Instrumentality</fabricator>
  <description>The 3rd generation of this ship from the beginning of the Sshaad space age is still a common sight after centuries. Original models were built for quasi-orbital transfer with acceleration only at startup and arrival, hence the centrifuge. It's been long since all Eresslihs were converted to warp engines, but centrifuges remained, often used by smugglers as a comfort when drifting warpless among asteroids, waiting for a shadowy contact. It is commonly known that the ship's slow but cheap propulsion is offset by its builtin stealth capabilities and quite large cargo space.</description>
  <health>

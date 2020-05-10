@@ -6,6 +6,7 @@
  <sound>engine</sound>
  <class>Freighter</class>
  <price>1100000</price>
+ <time_mod>1.0</time_mod>
  <fabricator>Rith Core</fabricator>
  <description>
 The original freighter that built the Rith Sphere. Used by all three Major Clans in the Expansion era, before they came up with their own designs. Its reliability and heavy load allowed it to last with little changes throughout the Expansion Era, the Fringe Wars and the building of the Commonwealth. Current-time Irali are either fifth or sixth generation, depending on the contractor shipyard.

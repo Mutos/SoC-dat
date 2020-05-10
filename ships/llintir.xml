@@ -6,6 +6,7 @@
  <sound>engine</sound>
  <class>Freighter</class>
  <price>1100000</price>
+ <time_mod>1.0</time_mod>
  <fabricator>United K'Rinn Staryards</fabricator>
  <description>After the Fringe Wars, hundreds of T'Kalt were available and there was a need of transport vessels. So a hauler was designed from three T'Kalt hulls, an extended crew compartment and four vernier pods. The makeshift class has been a most successful ship over years and is still manufactured all over k'rinn, human and rith spaces, despite its somewhat high jump consumption.</description>
  <health>

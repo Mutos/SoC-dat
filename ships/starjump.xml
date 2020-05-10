@@ -6,6 +6,7 @@
  <sound>engine</sound>
  <class>Freighter</class>
  <price>120000</price>
+ <time_mod>1.0</time_mod>
  <fabricator>Eden Ships</fabricator>
  <description>
 The StarJump is far from being the most beautiful ship in the known universe, but it is a solid workhorse. Its large cargo space and armored hull allow it to be profitable in mildly unstable sectors and it is a favorite for smugglers-in-disguise, who bet on an old rustbucket for staying under the radar of the officials.

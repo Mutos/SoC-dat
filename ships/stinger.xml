@@ -6,6 +6,7 @@
  <sound>engine</sound>
  <class>Fighter</class>
  <price>105000</price>
+ <time_mod>1.0</time_mod>
  <fabricator>Skull and Bones Shipyards</fabricator>
  <description>As Robosys' leaked blueprints were used by the Skull and Bones network of small hidden shipyards, they were adapted for piracy needs. The new Stinger was faster, better armed and boasted extra mounts for field modding. For keeping mass and energy consumption within reasonable limits, already weak armour and shield were reduced, but that couldn't keep the ship from becoming more fuel-hungry than the Angry Bee. As extra range was in the specs, this led the ship to boast a very large fuel tank fr its size.</description>
  <health>

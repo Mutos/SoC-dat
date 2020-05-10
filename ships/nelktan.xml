@@ -6,6 +6,7 @@
  <sound>engine</sound>
  <class>Fighter</class>
  <price>120000</price>
+ <time_mod>1.0</time_mod>
  <fabricator>Uktalm Staryards</fabricator>
  <description>The Nelk'Tan is the Akk'Ti'Makkt interceptor version. The missiles are replaced by guns and for a smaller mass, part of the armor and fuel storage are removed. Built for insystem role, the ship has a very limited jump range.</description>
  <health>

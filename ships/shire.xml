@@ -6,6 +6,7 @@
  <sound>engine</sound>
  <class>Freighter</class>
  <price>120000</price>
+ <time_mod>1.0</time_mod>
  <fabricator>Core League Staryards</fabricator>
  <description>One of the most widely used small freighters in the galaxy and a great concurrent of the Caravelle, notably thanks to its lower jump fuel consumption.</description>
  <health>

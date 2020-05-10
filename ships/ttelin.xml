@@ -6,6 +6,7 @@
  <sound>engine</sound>
  <class>Fighter</class>
  <price>150000</price>
+ <time_mod>1.0</time_mod>
  <fabricator>Uktalm Staryards</fabricator>
  <description>The T'Telin is the Nelk'Tan successor, adding a Small Missiles Launcher hardpoint to its parent's already impressive arsenal, and replacing the Ions by more powerful railguns.</description>
  <health>

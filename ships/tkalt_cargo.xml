@@ -6,6 +6,7 @@
  <sound>engine</sound>
  <class>Freighter</class>
  <price>120000</price>
+ <time_mod>1.0</time_mod>
  <fabricator>E'Kin Orbital Yards</fabricator>
  <description>Once the mainstay of the K'Rinn Council logistics, the original T'Kalt has been sold in mass to independent merchants after the Fringe Wars. From then on, it has always been a must among space traders, thanks to its wide cargo bay and its overall good performances. It can mount 4 Flak turrets, generally equipped with non-lethal Ion Cannons on k'rinn ships.</description>
  <health>

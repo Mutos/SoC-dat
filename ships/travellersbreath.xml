@@ -6,6 +6,7 @@
  <sound>engine</sound>
  <class>Freighter</class>
  <price>900000</price>
+ <time_mod>1.0</time_mod>
  <fabricator>Star Melodies Yards</fabricator>
  <license>Large Civilian Vessel License</license>
  <description>One of the rare freighter from the Pupeteers occasionally seen in core Commonwealth space. The marine origin of this breed of ships shows in it elegant shape.</description>

@@ -6,6 +6,7 @@
  <sound>engine</sound>
  <class>Freighter</class>
  <price>900000</price>
+ <time_mod>1.0</time_mod>
  <fabricator>Melendez Corp.</fabricator>
  <description>A derivative of the original Percheron, carrying 24 small standard containers. Less armored than the fixed-holds models, it features an enhanced jump range.</description>
  <health>

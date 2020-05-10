@@ -6,6 +6,7 @@
  <sound>engine</sound>
  <class>Courier</class>
  <price>120000</price>
+ <time_mod>1.0</time_mod>
  <fabricator>Core League Staryards</fabricator>
  <description>While still a cargo hauler, the Eclair d'Etoiles is quite different from other offerings. Featuring a streamlined frame and oversized engines, it's the prime choice for expedient shipping.</description>
  <health>

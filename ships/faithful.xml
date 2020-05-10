@@ -6,6 +6,7 @@
  <sound>engine</sound>
  <class>Courier</class>
  <price>150000</price>
+ <time_mod>1.0</time_mod>
  <fabricator>Star Melodies Yards</fabricator>
  <description>This Pupeteers' small freighter is an adaptation from a patrol ship. Fast and nimble despite a limited cargo space, it quickly earned a massive success as a courier ship. However, there is restriction to their use by non-Pupeteers and in this case, they come with either a Pupeteer pilot or a builtin tracking-limiting sytem for preventing the owner from harming the ship in any way.</description>
  <health>

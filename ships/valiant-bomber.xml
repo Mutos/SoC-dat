@@ -6,6 +6,7 @@
  <sound>engine</sound>
  <class>Fighter</class>
  <price>120000</price>
+ <time_mod>1.0</time_mod>
  <fabricator>Starsong Shipyards</fabricator>
  <description>In the Valiant lineage, the Bomber could rather be described a missiles platform. It is an evolution of the classical Fighter, with enlarged forwards tentacles to accomodate four missiles launchers and their ammo storage, while keeping the disabler cannons. Fire-control for the launchers is provided by a dedicated secondary brain.</description>
  <health>

@@ -6,6 +6,7 @@
  <sound>engine</sound>
  <class>Cruiser</class>
  <price>1100000</price>
+ <time_mod>1.0</time_mod>
  <fabricator>United K'Rinn Staryards</fabricator>
  <description>The Ma'Tang, third of the name, is a powerful carrier with some cruiser capabilities. Its main assets are its stae-of-the-art Nelk'Tan fighters, complemented by a powerful spinal gun and average missiles bay and flak turrets.</description>
  <health>
