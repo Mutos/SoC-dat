@@ -40,6 +40,21 @@
   </enemies>
  </faction>
  <faction>
+  <name>Miner</name>
+  <known/>
+  <logo>miner</logo>
+  <longname>Space Miners</longname>
+  <player>3</player>
+  <spawn>miner</spawn>
+  <standing>miner</standing>
+  <equip>miner</equip>
+  <allies>
+  </allies>
+  <enemies>
+   <enemy>Pirate</enemy>
+  </enemies>
+ </faction>
+ <faction>
   <name>Asteroids</name>
   <static />
   <invisible />
