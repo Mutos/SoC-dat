@@ -60,6 +60,13 @@
    <pilot name="Caravelle" ship="Slower Caravelle"></pilot>
   </pilots>
  </fleet>
+ <fleet name="Miner Caravelle">
+  <ai>miner</ai>
+  <faction>Miner</faction>
+  <pilots>
+   <pilot name="Miner Caravelle" ship="Caravelle"></pilot>
+  </pilots>
+ </fleet>
  <fleet name="Diwali">
   <ai>independent</ai>
   <faction>Independent</faction>
@@ -86,6 +93,13 @@
   <faction>Independent</faction>
   <pilots>
    <pilot name="Eresslih" ship="Eresslih"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Miner Eresslih">
+  <ai>miner</ai>
+  <faction>Miner</faction>
+  <pilots>
+   <pilot name="Miner Eresslih" ship="Eresslih"></pilot>
   </pilots>
  </fleet>
  <fleet name="Erlith">
@@ -149,6 +163,13 @@
   <faction>Independent</faction>
   <pilots>
    <pilot name="Mosquito" ship="Mosquito"></pilot>
+  </pilots>
+ </fleet>
+ <fleet name="Miner Mosquito">
+  <ai>miner</ai>
+  <faction>Miner</faction>
+  <pilots>
+   <pilot name="Miner Mosquito" ship="Mosquito"></pilot>
   </pilots>
  </fleet>
  <fleet name="Nelk'Tan">
