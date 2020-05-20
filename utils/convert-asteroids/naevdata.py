@@ -345,6 +345,7 @@ class SSystem(object):
 		assets -- A set of Asset instances present in this system.
 			TODO: Actually, at the moment this is just a set of asset
 			names, not instances.
+		asteroids -- A set of asteroids present in the system.
 		interference -- The prevailing sensor interference from any
 			background radiation or nebula presence in this system.
 		jumps -- A mapping object pairing destination system names with
@@ -374,6 +375,7 @@ class SSystem(object):
 		if filename is None:
 			# Create an empty star system.
 			self.assets = set()
+			self.asteroids = set()
 			self.interference = 0.0
 			self.jumps = {}
 			self.name = ''
@@ -388,6 +390,7 @@ class SSystem(object):
 				# Grab the elements we want.
 				doc = xml.dom.minidom.parse(f)
 				assets = doc.getElementsByTagName('asset')
+				asteroids = doc.getElementsByTagName('asteroid')
 				general = doc.getElementsByTagName('general')[0]
 				jumps = doc.getElementsByTagName('jump')
 				pos = doc.getElementsByTagName('pos')[0]
@@ -401,6 +404,7 @@ class SSystem(object):
 				self.assets=set()
 				self.assetsInstances=set()
 				for asset in assets:
+					# Note : find() returns 
 					if not nodetext(asset).find("Asteroids Cluster"):
 						# BR for Hoshikaze : eliminate Asteroids Clusters from assets list
 						self.hasAsteroids=True
