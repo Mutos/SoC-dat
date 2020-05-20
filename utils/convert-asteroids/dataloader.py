@@ -33,7 +33,7 @@ import glob
 import os
 
 # The main Naev data directory.
-DATA_ROOT = 'dat'
+DATA_ROOT = '.'
 
 # Locations for each type of data. Values in this mapping are 2-tuples, holding
 # the directory and a filename pattern.

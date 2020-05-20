@@ -293,8 +293,8 @@ def main():
 	The data files are assumed to be in ./dat/ssys/, relative to the
 	current path, so this should be run from the root of the Naev
 	source directory.
-		BR change : runs from naevroot/utils/starmap
-		so data is in ../../dat/ssys
+		BR change : runs from naevroot/dat/utils/convert-asteroids
+		so data is in ../../ssys
 	'''
 	sys.stderr.write("Begin\n")
 	# Local variables
