@@ -1,22 +1,27 @@
 #!python
 # -*- coding: utf-8 -*-
 
-'''Universe mapping tool for Naev.
+'''Asteroids  conversion for Stars of Call.
 
-Run this script from the root directory of your Naev source tree. It
-reads the XML files in dat/ssys/ and outputs an SVG map to standard
-output. Example usage:
+In SoC, asteroids fields were faked with assets before NAEV included fully featured asteroids fields.
+This script converts these "fake" asteroids fields to <asteroid> tages in the ssys.xml files.
+
+Run this script from the dat directory of your SoC source tree.
+	- It first reads the XML files in ssys/ and assets/ ;
+	- Then it adds an asteroids field each time it finds an asset named "Asteuroids Cluster xxxxxx"
+Example usage:
 	user@home:~/naev/$ jumpmap > map.svg
 
 '''
 
-# Copyright © 2012 Tim Pederick.
+# Copyright © 2020 Benoît 'Mutos' ROBIN from starmap.py © 2012 Tim Pederick.
+# Uses naevdata.py and dataloader.py
 #
-# Version 0.008
-#   Modified by Benoît 'Mutos' ROBIN, 01/04/2020
-#    - Python indentation using tabulations
-#    - SVG indentation using tabulations
-#    - Graphics attributes for better map readability
+# Version 0.001
+#   - Copied starmap.py
+#   - Adjusted comments and header
+#   - Added Asteroids class to naevdata.py
+#   - Added asteroids attribute to SSystem class
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by

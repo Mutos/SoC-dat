@@ -3,7 +3,7 @@
 
 '''Naev data file tools.'''
 
-# Copyright © 2012 Tim Pederick.
+# Copyright © 2020 Benoît 'Mutos' ROBIN from © 2012 Tim Pederick.
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -336,7 +336,21 @@ class Asset(object):
 					if (commodities is not None and
 						self.services.commodities is not None):
 						self.services.commodities = commodities
+ 
+class Asteroid(object):
+	'''Represents an asteroids field, called and anchor in NAEV C code.
 
+	Instance attributes:
+		x -- A string describing the local spaceport bar, or None if
+			no bar is present.
+	'''
+	def __init__(self, pos=Coords(), radius=1000, density=0.2, type=set("default")):
+		'''Construct the asteroids field from position and radius.
+		'''
+		self.pos     = pos
+		self.radius  = radius
+		self.density = density
+		self.type    = type
 
 class SSystem(object):
 	'''Represents a star system.

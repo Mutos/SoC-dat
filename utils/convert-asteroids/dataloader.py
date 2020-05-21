@@ -9,7 +9,7 @@ needs to be updated to match.
 
 '''
 
-# Copyright © 2012 Tim Pederick.
+# Copyright © 2020 Benoît 'Mutos' ROBIN from © 2012 Tim Pederick.
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
