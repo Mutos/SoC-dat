@@ -29,6 +29,15 @@ import sys
 nodetext = lambda elem: ''.join(c.data for c in elem.childNodes
 								if c.nodeType == c.TEXT_NODE)
 
+def get_all_text( node ):
+	if node.nodeType ==  node.TEXT_NODE:
+		return node.data
+	else:
+		text_string = ""
+		for child_node in node.childNodes:
+			text_string += get_all_text( child_node )
+		return text_string
+
 class Coords(object):
 	'''Represents an x-y coordinate pair.
 
@@ -336,21 +345,45 @@ class Asset(object):
 					if (commodities is not None and
 						self.services.commodities is not None):
 						self.services.commodities = commodities
- 
-class Asteroid(object):
+
+class Asteroids(object):
 	'''Represents an asteroids field, called and anchor in NAEV C code.
 
 	Instance attributes:
 		x -- A string describing the local spaceport bar, or None if
 			no bar is present.
 	'''
-	def __init__(self, pos=Coords(), radius=1000, density=0.2, type=set("default")):
+	def __init__(self, pos=Coords(), radius=1000, density=0.2, types=set("default")):
 		'''Construct the asteroids field from position and radius.
 		'''
 		self.pos     = pos
 		self.radius  = radius
 		self.density = density
-		self.type    = type
+		self.types   = types
+
+	@classmethod
+	def fromXML(cls, asteroidXML=None):
+		'''Construct the asteroids field from position and radius.
+		'''
+		if asteroidXML is None:
+			return cls()
+		else:
+			# DEBUG : output the full XML element
+			strXML = asteroidXML.toxml()
+			sys.stderr.write("asteroidXML :\n=============\n" + strXML + "\n=============\n")
+			# Get position
+			posXML   = asteroidXML.getElementsByTagName('pos')[0]
+			pos      = Coords(posXML.getAttribute('x'), posXML.getAttribute('y'))
+			# Get numeric attributes
+			radius   = nodetext(asteroidXML.getElementsByTagName('radius')[0])
+			density  = nodetext(asteroidXML.getElementsByTagName('density')[0])
+			# get the types set
+			typesXML = asteroidXML.getElementsByTagName('type')
+			types    = set()
+			for typeXML in typesXML:
+				types.add(nodetext(typeXML))
+			# Finally call the init method
+			return cls(pos, radius, density, types)
 
 class SSystem(object):
 	'''Represents a star system.
@@ -389,6 +422,7 @@ class SSystem(object):
 		if filename is None:
 			# Create an empty star system.
 			self.assets = set()
+			self.assetsInstances=set()
 			self.asteroids = set()
 			self.interference = 0.0
 			self.jumps = {}
@@ -397,20 +431,21 @@ class SSystem(object):
 			self.pos = Coords()
 			self.radius = 0.0
 			self.stars = 0
-			self.hasAsteroids = False
+			self.hasAsteroidsAsAssets = False
 		else:
 			# Read the star system from the given file.
 			with open(filename) as f:
 				# Grab the elements we want.
 				doc = xml.dom.minidom.parse(f)
-				assets = doc.getElementsByTagName('asset')
-				asteroids = doc.getElementsByTagName('asteroid')
 				general = doc.getElementsByTagName('general')[0]
-				jumps = doc.getElementsByTagName('jump')
 				pos = doc.getElementsByTagName('pos')[0]
+				assets = doc.getElementsByTagName('asset')
+				jumps = doc.getElementsByTagName('jump')
+				asteroids = doc.getElementsByTagName('asteroid')
 
+				# Init attributes from the XML
 				self.name = doc.documentElement.getAttribute('name')
-				self.hasAsteroids = False
+				self.hasAsteroidsAsAssets = False
 
 				# Get the system's position, assets (planets and stations and
 				# such), and jump points.
@@ -421,8 +456,8 @@ class SSystem(object):
 					# Note : find() returns 
 					if not nodetext(asset).find("Asteroids Cluster"):
 						# BR for Hoshikaze : eliminate Asteroids Clusters from assets list
-						self.hasAsteroids=True
-						#sys.stderr.write("hasAsteroids : " + self.name + " : " + nodetext(asset) + "\n")
+						self.hasAsteroidsAsAssets=True
+						sys.stderr.write("\t\thasAsteroidsAsAssets : " + self.name + " : " + nodetext(asset) + "\n")
 					else:
 						self.assets.add(nodetext(asset))
 						#sys.stderr.write("hasAssets    : " + self.name + " : " + nodetext(asset) + "\n")
@@ -442,6 +477,10 @@ class SSystem(object):
 					self.jumps[jump.getAttribute('target')] = Jump(jump_pos,
 																   hide,
 																   exit_only)
+
+				self.asteroids = set()
+				for asteroidsAnchor in asteroids:
+					self.asteroids.add(Asteroids.fromXML(asteroidsAnchor))
 
 				# Extract the <general> information. Initialise each one just
 				# in case it's missing.

@@ -104,7 +104,7 @@ def mapdata(ssystems, assets):
 
 		# Note down if the system has asteroids
 		sysasteroids[ssys.name] = True
-		sysasteroids[ssys.name] = ( ssys.hasAsteroids )
+		sysasteroids[ssys.name] = ( ssys.hasAsteroidsAsAssets )
 		sys.stderr.write("\t\t\tAsteroids : " + str(sysasteroids[ssys.name]) + "\n")
 
 		# Note down if the system has non-asteroids assets
