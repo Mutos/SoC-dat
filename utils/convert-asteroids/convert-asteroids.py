@@ -308,16 +308,6 @@ def main():
 	ssystems = []
 	assets   = []
 
-	sys.stderr.write("\tLoading stellar systems\n")
-	for ssysfile in datafiles('SSystems', naevRoot):
-		# Parse each XML file into a SSystem object.
-		try:
-			ssystems.append(SSystem(ssysfile))
-		except:
-			print("Choked on '{}'".format(ssysfile), file=sys.stderr)
-			raise
-	sys.stderr.write("\t\t" + str(len(ssystems)) + " systems loaded\n")
-
 	sys.stderr.write("\tLoading assets\n")
 	for assetfile in datafiles('Assets', naevRoot):
 		# Parse each XML file into a Asset object.
@@ -328,8 +318,25 @@ def main():
 			raise
 	sys.stderr.write("\t\t" + str(len(assets)) + " assets loaded\n")
 
+	sys.stderr.write("\tLoading stellar systems\n")
+	for ssysfile in datafiles('SSystems', naevRoot):
+		# Parse each XML file into a SSystem object.
+		try:
+			ssystems.append(SSystem(ssysfile))
+		except:
+			print("Choked on '{}'".format(ssysfile), file=sys.stderr)
+			raise
+	sys.stderr.write("\t\t" + str(len(ssystems)) + " systems loaded\n")
+
+	sys.stderr.write("\tConverting Asteroids Cluster Assets ==> Asteroids Anchors\n")
+	# Find position : needs to read the assets
+	#addAsteroidsAnchors(ssystems, assets)
+	#self.asteroids.add(Asteroids(pos=Coords(), radius=1000, density=0.2, types=set("default")))
+	sys.stderr.write("\tEnd Converting Asteroids Cluster Assets ==> Asteroids Anchors\n")
+
 	sys.stderr.write("\tBuilding map\n")
 	makemap(ssystems, assets)
+	sys.stderr.write("\tEnd Building map\n")
 	sys.stderr.write("Normal end\n")
 
 if __name__ == '__main__':

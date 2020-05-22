@@ -374,6 +374,7 @@ class Asteroids(object):
 			# Get position
 			posXML   = asteroidXML.getElementsByTagName('pos')[0]
 			pos      = Coords(posXML.getAttribute('x'), posXML.getAttribute('y'))
+			sys.stderr.write("asteroids anchor position : (" + str(pos.x) + " ;" + str(pos.y) + ")\n")
 			# Get numeric attributes
 			radius   = nodetext(asteroidXML.getElementsByTagName('radius')[0])
 			density  = nodetext(asteroidXML.getElementsByTagName('density')[0])
@@ -452,6 +453,8 @@ class SSystem(object):
 				self.pos = Coords(pos)
 				self.assets=set()
 				self.assetsInstances=set()
+				self.jumps = {}
+				self.asteroids = set()
 				for asset in assets:
 					# Note : find() returns 
 					if not nodetext(asset).find("Asteroids Cluster"):
@@ -462,7 +465,6 @@ class SSystem(object):
 						self.assets.add(nodetext(asset))
 						#sys.stderr.write("hasAssets    : " + self.name + " : " + nodetext(asset) + "\n")
 
-				self.jumps = {}
 				for jump in jumps:
 					autopos = jump.getElementsByTagName('autopos')
 					exit_only = jump.getElementsByTagName('exitonly')
@@ -478,7 +480,6 @@ class SSystem(object):
 																   hide,
 																   exit_only)
 
-				self.asteroids = set()
 				for asteroidsAnchor in asteroids:
 					self.asteroids.add(Asteroids.fromXML(asteroidsAnchor))
 
