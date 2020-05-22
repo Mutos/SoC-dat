@@ -85,7 +85,7 @@ def mapdata(ssystems, assets):
 	xmin = xmax = ymin = ymax = 0
 
 	# Extract the data.
-	for ssys in ssystems:
+	for ssys in ssystems.values():
 		sys.stderr.write("\t\t" + ssys.name + "\n")
 		# Note down the system name and location.
 		syslocs[ssys.name] = ssys.pos
@@ -93,18 +93,15 @@ def mapdata(ssystems, assets):
 		# Note down if the system is inhabited
 		#assets = ssys.assets
 		sysinhabited[ssys.name] = False
-		for asset in ssys.assets:
-			result = set(assetInstance for assetInstance in assets if assetInstance.name==asset)
-			#sys.stderr.write("\t\t\t" + asset + " : " + str(len(result)) + "\n")
-			for assetInstance in result:
-				pass
-			#sys.stderr.write("\t\t\t\t" + assetInstance.name + "\n")
+		for assetName in ssys.assets:
+			assetInstance = assets[assetName]
+			sys.stderr.write("\t\t\t\t" + assetName + "\n")
 			sysinhabited[ssys.name] = sysinhabited[ssys.name] or (assetInstance.services.land!=None)
 		sys.stderr.write("\t\t\tInhabited : " + str(sysinhabited[ssys.name]) + "\n")
 
 		# Note down if the system has asteroids
 		sysasteroids[ssys.name] = True
-		sysasteroids[ssys.name] = ( ssys.hasAsteroidsAsAssets )
+		sysasteroids[ssys.name] = ( ssys.hasAsteroidsAsAssets or ssys.hasAsteroidsAsAnchors )
 		sys.stderr.write("\t\t\tAsteroids : " + str(sysasteroids[ssys.name]) + "\n")
 
 		# Note down if the system has non-asteroids assets
@@ -305,34 +302,30 @@ def main():
 	# Local variables
 	naevRoot = '../..'
 	logging.basicConfig(level=logging.DEBUG)
-	ssystems = []
-	assets   = []
+	ssystems = {}
+	assets   = {}
 
 	sys.stderr.write("\tLoading assets\n")
 	for assetfile in datafiles('Assets', naevRoot):
 		# Parse each XML file into a Asset object.
 		try:
-			assets.append(Asset(assetfile))
+			asset = Asset(assetfile)
+			assets[asset.name] = asset
 		except:
 			print("Choked on '{}'".format(assetfile), file=sys.stderr)
 			raise
-	sys.stderr.write("\t\t" + str(len(assets)) + " assets loaded\n")
+	sys.stderr.write("\tEnd Loading assets : " + str(len(assets)) + " assets\n")
 
 	sys.stderr.write("\tLoading stellar systems\n")
 	for ssysfile in datafiles('SSystems', naevRoot):
 		# Parse each XML file into a SSystem object.
 		try:
-			ssystems.append(SSystem(ssysfile))
+			ssystem = SSystem(ssysfile, assets)
+			ssystems[ssystem.name] = ssystem
 		except:
 			print("Choked on '{}'".format(ssysfile), file=sys.stderr)
 			raise
-	sys.stderr.write("\t\t" + str(len(ssystems)) + " systems loaded\n")
-
-	sys.stderr.write("\tConverting Asteroids Cluster Assets ==> Asteroids Anchors\n")
-	# Find position : needs to read the assets
-	#addAsteroidsAnchors(ssystems, assets)
-	#self.asteroids.add(Asteroids(pos=Coords(), radius=1000, density=0.2, types=set("default")))
-	sys.stderr.write("\tEnd Converting Asteroids Cluster Assets ==> Asteroids Anchors\n")
+	sys.stderr.write("\tEnd Loading stellar systems : " + str(len(ssystems)) + " systems\n")
 
 	sys.stderr.write("\tBuilding map\n")
 	makemap(ssystems, assets)

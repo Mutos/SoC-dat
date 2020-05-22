@@ -29,4 +29,30 @@
    <hide>1.250000</hide>
   </jump>
  </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 359750">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3698.301459" y="-9224.491957"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 518942">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="5207.573292" y="1247.968748"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 970245">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-3734.045749" y="-2457.728082"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster750498">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-539.245755" y="-61.628086"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
 </ssys>

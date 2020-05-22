@@ -29,4 +29,12 @@
    <hide>1.250000</hide>
   </jump>
  </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 068701">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="2107.680551" y="6500.530543"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
 </ssys>

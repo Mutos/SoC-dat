@@ -37,4 +37,36 @@
    <hide>1.250000</hide>
   </jump>
  </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 201562">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-653.134459" y="1604.405056"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 242512">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3301.293327" y="1730.516663"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 254210">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-1038.309998" y="2156.489996"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 286421">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-40.797793" y="1281.699854"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 521254">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-2502.593328" y="5111.67999"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
 </ssys>

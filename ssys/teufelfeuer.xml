@@ -35,4 +35,18 @@
    <hide>1.250000</hide>
   </jump>
  </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 168795">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="5611.860386" y="-5080.504737"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 698721">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="6529.969366" y="-5233.995193"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
 </ssys>

@@ -33,4 +33,30 @@
    <hide>1.250000</hide>
   </jump>
  </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 168711">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="7617.231466" y="6230.599525"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 781556">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="10128.649306" y="-1683.967717"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 798216">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="10738.76736" y="-778.034849"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 879168">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="9296.670141" y="-2146.178365"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
 </ssys>

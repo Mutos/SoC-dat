@@ -28,4 +28,18 @@
    <hide>1.250000</hide>
   </jump>
  </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 482015">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-905.932869" y="2089.192126"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 541208">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3827.104159" y="-2717.798606"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
 </ssys>

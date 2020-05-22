@@ -43,4 +43,24 @@
    <hide>1.250000</hide>
   </jump>
  </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 348702">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="2067.108728" y="-2452.284267"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 620879">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="2811.781437" y="-2991.530022"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 824019">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3325.348823" y="-2388.088344"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
 </ssys>

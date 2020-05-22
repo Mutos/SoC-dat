@@ -45,4 +45,30 @@
    <hide>1.250000</hide>
   </jump>
  </jumps>
+ <asteroids>
+  <asteroid name="Asteroids Cluster 616489">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="958.439998" y="-2928.566661"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 640774">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="186.363333" y="-2795.449994"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 687108">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="479.219999" y="-3540.903326"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Cluster 853042">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="1066.226876" y="-2438.096074"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
 </ssys>

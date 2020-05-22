@@ -23,11 +23,14 @@ from __future__ import division, print_function, unicode_literals
 
 # Standard library imports.
 import xml.dom.minidom
-import sys
+import sys, os
 
 # Shortcut function to extract the text content from an element.
-nodetext = lambda elem: ''.join(c.data for c in elem.childNodes
-								if c.nodeType == c.TEXT_NODE)
+nodetext = lambda elem: ''.join(c.data for c in elem.childNodes if c.nodeType == c.TEXT_NODE)
+
+# Shortcut function to replace the awful minidom toprettyprint
+pretty_print = lambda f: '\n'.join([line for line in md.parse(open(f)).toprettyxml(indent=' ').split('\n') if line.strip()])
+
 
 def get_all_text( node ):
 	if node.nodeType ==  node.TEXT_NODE:
@@ -229,6 +232,7 @@ class Asset(object):
 		'''
 		if filename is None:
 			# Create an empty, virtual asset.
+			self.filename = ''
 			self.description = ''
 			self.gfx = {}
 			self.hide = 0.0
@@ -240,6 +244,7 @@ class Asset(object):
 			self.world_class = None
 		else:
 			# Read the asset from the given file.
+			self.filename = filename
 			with open(filename) as f:
 				# Grab the elements we want.
 				doc = xml.dom.minidom.parse(f)
@@ -253,6 +258,7 @@ class Asset(object):
 				virtual = doc.getElementsByTagName('virtual')
 
 				self.name = doc.documentElement.getAttribute('name')
+				sys.stderr.write("\t\tLoading asset : " + self.name +"\n")
 
 				# Set the asset's position, graphics, and virtual-ness.
 				self.pos = (Coords() if not pos else Coords(pos[0]))
@@ -411,17 +417,19 @@ class SSystem(object):
 			is supposed to represent.
 
 	'''
-	def __init__(self, filename=None):
+	def __init__(self, filename=None, assetsInstances=None):
 		'''Construct the star system from an XML file.
 
 		Keyword arguments:
 			filename -- The filename of the XML system data. If omitted,
 				a zero-size system without any interesting attributes is
 				created.
+			assetsInstances -- a dict of assets indexed on asset name, if it already exists
 
 		'''
 		if filename is None:
 			# Create an empty star system.
+			self.filename = ''
 			self.assets = set()
 			self.assetsInstances=set()
 			self.asteroids = set()
@@ -433,20 +441,25 @@ class SSystem(object):
 			self.radius = 0.0
 			self.stars = 0
 			self.hasAsteroidsAsAssets = False
+			self.hasAsteroidsAsAnchors = False
 		else:
 			# Read the star system from the given file.
+			self.filename = filename
 			with open(filename) as f:
 				# Grab the elements we want.
 				doc = xml.dom.minidom.parse(f)
+				ssys = doc.getElementsByTagName('ssys')[0]
 				general = doc.getElementsByTagName('general')[0]
 				pos = doc.getElementsByTagName('pos')[0]
 				assets = doc.getElementsByTagName('asset')
 				jumps = doc.getElementsByTagName('jump')
-				asteroids = doc.getElementsByTagName('asteroid')
+				asteroids = doc.getElementsByTagName('asteroids')
+				asteroidList = doc.getElementsByTagName('asteroid')
 
 				# Init attributes from the XML
 				self.name = doc.documentElement.getAttribute('name')
 				self.hasAsteroidsAsAssets = False
+				self.hasAsteroidsAsAnchors = False
 
 				# Get the system's position, assets (planets and stations and
 				# such), and jump points.
@@ -455,12 +468,52 @@ class SSystem(object):
 				self.assetsInstances=set()
 				self.jumps = {}
 				self.asteroids = set()
+
+				asteroids = {}
+				if not asteroids:
+					sys.stderr.write("System " + self.name + " has no <asteroids> tag\n")
+				else:
+					sys.stderr.write("System " + self.name + " : FOUND <asteroids> TAG\n")
+					self.hasAsteroidsAsAnchors = True
+					for asteroidsAnchor in asteroidList:
+						self.asteroids.add(Asteroids.fromXML(asteroidsAnchor))
+
 				for asset in assets:
 					# Note : find() returns 
+					assetName = nodetext(asset)
 					if not nodetext(asset).find("Asteroids Cluster"):
+						# Must add an <asteroids> element, if none exists
+						if not asteroids:
+							asteroids[0] = doc.createElement('asteroids')
+							ssys.appendChild(asteroids[0])
 						# BR for Hoshikaze : eliminate Asteroids Clusters from assets list
 						self.hasAsteroidsAsAssets=True
-						sys.stderr.write("\t\thasAsteroidsAsAssets : " + self.name + " : " + nodetext(asset) + "\n")
+						sys.stderr.write("\t\thasAsteroidsAsAssets : " + self.name + " : " + assetName + "\n")
+						# Create and populate a default <asteroid> element
+						asteroid = doc.createElement('asteroid')
+						asteroid.setAttribute('name', assetName)
+						# Type : default
+						type = doc.createElement('type')
+						text = doc.createTextNode('default')
+						type.appendChild(text)
+						asteroid.appendChild(type)
+						# Radius : 1000
+						radius = doc.createElement('radius')
+						text = doc.createTextNode('1000')
+						radius.appendChild(text)
+						asteroid.appendChild(radius)
+						# Position : asteroids asset position
+						assetInstance = assetsInstances[assetName]
+						posXML = doc.createElement('pos')
+						posXML.setAttribute('x', str(assetInstance.pos.x))
+						posXML.setAttribute('y', str(assetInstance.pos.y))
+						asteroid.appendChild(posXML)
+						density = doc.createElement('density')
+						text = doc.createTextNode('0.5')
+						density.appendChild(text)
+						asteroid.appendChild(density)
+						# Add the new element to the <asteroids> element
+						asteroids[0].appendChild(asteroid)
 					else:
 						self.assets.add(nodetext(asset))
 						#sys.stderr.write("hasAssets    : " + self.name + " : " + nodetext(asset) + "\n")
@@ -479,9 +532,6 @@ class SSystem(object):
 					self.jumps[jump.getAttribute('target')] = Jump(jump_pos,
 																   hide,
 																   exit_only)
-
-				for asteroidsAnchor in asteroids:
-					self.asteroids.add(Asteroids.fromXML(asteroidsAnchor))
 
 				# Extract the <general> information. Initialise each one just
 				# in case it's missing.
@@ -507,3 +557,11 @@ class SSystem(object):
 				# And just in case <nebula> was absent...
 				if self.nebula is None:
 					self.nebula = Nebula()
+
+				newFilename = filename.replace("ssys", "ssys-new")
+				strXML = doc.toprettyxml(indent=" ", newl="\n", encoding="UTF-8")
+				strXML = os.linesep.join([s for s in strXML.splitlines() if s.strip()])
+				sys.stderr.write("new SSystem XML :" + filename + " ==> " + newFilename + "\n=============\n" + strXML + "\n=============\n")
+				file = open(newFilename, "w")
+				file.write(strXML)
+				file.close
