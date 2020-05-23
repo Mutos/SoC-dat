@@ -233,6 +233,7 @@ class Asset(object):
 		if filename is None:
 			# Create an empty, virtual asset.
 			self.filename = ''
+			self.document = None
 			self.description = ''
 			self.gfx = {}
 			self.hide = 0.0
@@ -347,10 +348,20 @@ class Asset(object):
 					if bar_desc is not None and self.services.bar is not None:
 						self.services.bar = bar_desc
 					# Put the commodities list into the services -- again, only
-					# if there are commodities traded here.
+					# if there are commodities traded heree.
 					if (commodities is not None and
 						self.services.commodities is not None):
 						self.services.commodities = commodities
+
+	''' Equality checks only name against either another Asset or a string
+	'''
+	def __eq__(self, other):
+		if isinstance(other, Asset):
+			return self.name == other.name
+		elif isinstance(other, str if sys.version_info[0] >= 3 else basestring):
+			return self.name == other
+		else:
+			return False
 
 class Asteroids(object):
 	'''Represents an asteroids field, called and anchor in NAEV C code.
@@ -430,6 +441,7 @@ class SSystem(object):
 		if filename is None:
 			# Create an empty star system.
 			self.filename = ''
+			self.document = None
 			self.assets = set()
 			self.assetsInstances=set()
 			self.asteroids = set()
@@ -452,6 +464,7 @@ class SSystem(object):
 				general = doc.getElementsByTagName('general')[0]
 				pos = doc.getElementsByTagName('pos')[0]
 				assets = doc.getElementsByTagName('asset')
+				assetsXML = doc.getElementsByTagName('assets')[0]
 				jumps = doc.getElementsByTagName('jump')
 				asteroids = doc.getElementsByTagName('asteroids')
 				asteroidList = doc.getElementsByTagName('asteroid')
@@ -481,39 +494,48 @@ class SSystem(object):
 				for asset in assets:
 					# Note : find() returns 
 					assetName = nodetext(asset)
-					if not nodetext(asset).find("Asteroids Cluster"):
+					if nodetext(asset).find("Asteroids Cluster")<>-1:
+						# BR for Hoshikaze : eliminate Asteroids Clusters from assets list
+						self.hasAsteroidsAsAssets=True
+						sys.stderr.write("\t\thasAsteroidsAsAssets : " + self.name + " : " + assetName + "\n")
 						# Must add an <asteroids> element, if none exists
 						if not asteroids:
 							asteroids[0] = doc.createElement('asteroids')
 							ssys.appendChild(asteroids[0])
-						# BR for Hoshikaze : eliminate Asteroids Clusters from assets list
-						self.hasAsteroidsAsAssets=True
-						sys.stderr.write("\t\thasAsteroidsAsAssets : " + self.name + " : " + assetName + "\n")
-						# Create and populate a default <asteroid> element
-						asteroid = doc.createElement('asteroid')
-						asteroid.setAttribute('name', assetName)
-						# Type : default
-						type = doc.createElement('type')
-						text = doc.createTextNode('default')
-						type.appendChild(text)
-						asteroid.appendChild(type)
-						# Radius : 1000
-						radius = doc.createElement('radius')
-						text = doc.createTextNode('1000')
-						radius.appendChild(text)
-						asteroid.appendChild(radius)
-						# Position : asteroids asset position
-						assetInstance = assetsInstances[assetName]
-						posXML = doc.createElement('pos')
-						posXML.setAttribute('x', str(assetInstance.pos.x))
-						posXML.setAttribute('y', str(assetInstance.pos.y))
-						asteroid.appendChild(posXML)
-						density = doc.createElement('density')
-						text = doc.createTextNode('0.5')
-						density.appendChild(text)
-						asteroid.appendChild(density)
-						# Add the new element to the <asteroids> element
-						asteroids[0].appendChild(asteroid)
+						# Search for an existing <asteroid> element
+						found = False
+						for asteroidsAnchor in asteroidList:
+							if assetName==asteroidsAnchor.getAttribute('name'):
+								found = True
+								break
+						if not found:
+							# Create and populate a default <asteroid> element
+							asteroid = doc.createElement('asteroid')
+							asteroid.setAttribute('name', assetName)
+							# Type : default
+							type = doc.createElement('type')
+							text = doc.createTextNode('default')
+							type.appendChild(text)
+							asteroid.appendChild(type)
+							# Radius : 1000
+							radius = doc.createElement('radius')
+							text = doc.createTextNode('1000')
+							radius.appendChild(text)
+							asteroid.appendChild(radius)
+							# Position : asteroids asset position
+							assetInstance = assetsInstances[assetName]
+							posXML = doc.createElement('pos')
+							posXML.setAttribute('x', str(assetInstance.pos.x))
+							posXML.setAttribute('y', str(assetInstance.pos.y))
+							asteroid.appendChild(posXML)
+							density = doc.createElement('density')
+							text = doc.createTextNode('0.5')
+							density.appendChild(text)
+							asteroid.appendChild(density)
+							# Add the new element to the <asteroids> element
+							asteroids[0].appendChild(asteroid)
+						# Finally remove <asset> tag
+						assetsXML.removeChild(asset)
 					else:
 						self.assets.add(nodetext(asset))
 						#sys.stderr.write("hasAssets    : " + self.name + " : " + nodetext(asset) + "\n")
