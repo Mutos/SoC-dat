@@ -11,16 +11,6 @@
   <y>1974.000000</y>
  </pos>
  <assets>
-  <asset>Asteroids Field 142663</asset>
-  <asset>Asteroids Field 178415</asset>
-  <asset>Asteroids Field 258103</asset>
-  <asset>Asteroids Field 362810</asset>
-  <asset>Asteroids Field 468021</asset>
-  <asset>Asteroids Field 546871</asset>
-  <asset>Asteroids Field 658721</asset>
-  <asset>Asteroids Field 720185</asset>
-  <asset>Asteroids Field 826412</asset>
-  <asset>Asteroids Field 920145</asset>
   <asset>Gizzard Mining Prison</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
@@ -91,4 +81,66 @@
   </asteroid>
  </asteroids>
  <asteroids/>
+ <asteroids>
+  <asteroid name="Asteroids Field 142663">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="5239.47199" y="10319.20398"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Field 178415">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="6961.093666" y="11956.863551"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Field 258103">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="6134.015988" y="10351.15198"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Field 362810">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="9967.77598" y="13066.731974"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Field 468021">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="7763.363985" y="14280.755972"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Field 546871">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="7415.974948" y="12355.963067"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Field 658721">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="7359.10839" y="13857.062879"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Field 720185">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="4012.037721" y="13296.037758"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Field 826412">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3481.674627" y="13279.29957"/>
+   <density>0.5</density>
+  </asteroid>
+  <asteroid name="Asteroids Field 920145">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="3194.799994" y="12875.043975"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
 </ssys>
