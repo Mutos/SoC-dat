@@ -494,7 +494,8 @@ class SSystem(object):
 				for asset in assets:
 					# Note : find() returns 
 					assetName = nodetext(asset)
-					if nodetext(asset).find("Asteroids Cluster")<>-1:
+					found = ( assetName.find("Asteroids Cluster")<>-1 or assetName.find("Asteroid Cluster")<>-1 or assetName.find("Asteroids Field")<>-1 )
+					if found:
 						# BR for Hoshikaze : eliminate Asteroids Clusters from assets list
 						self.hasAsteroidsAsAssets=True
 						sys.stderr.write("\t\thasAsteroidsAsAssets : " + self.name + " : " + assetName + "\n")
