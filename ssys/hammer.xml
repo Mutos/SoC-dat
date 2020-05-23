@@ -11,10 +11,6 @@
   <y>-1782.672000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 168642</asset>
-  <asset>Asteroids Cluster 709100</asset>
-  <asset>Asteroids Cluster 767019</asset>
-  <asset>Asteroids Cluster 769888</asset>
   <asset>Iron Hammer</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
@@ -58,4 +54,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

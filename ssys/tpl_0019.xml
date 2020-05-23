@@ -11,12 +11,6 @@
   <y>-3674.071680</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 138891</asset>
-  <asset>Asteroids Cluster 414877</asset>
-  <asset>Asteroids Cluster 466825</asset>
-  <asset>Asteroids Cluster 587998</asset>
-  <asset>Asteroids Cluster 699809</asset>
-  <asset>Asteroids Cluster 769109</asset>
  </assets>
  <jumps>
   <jump target="Miners' Crossroad">
@@ -74,4 +68,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

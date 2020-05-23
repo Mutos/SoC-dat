@@ -11,8 +11,6 @@
   <y>-2125.984000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 168795</asset>
-  <asset>Asteroids Cluster 698721</asset>
   <asset>FeuerRing</asset>
   <asset>FeuerRing Memorial</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
@@ -49,4 +47,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

@@ -11,10 +11,6 @@
   <y>-2639.760000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 278014</asset>
-  <asset>Asteroids Cluster 345187</asset>
-  <asset>Asteroids Cluster 678102</asset>
-  <asset>Asteroids Cluster 801246</asset>
   <asset>Explorers' Cabin</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
@@ -62,4 +58,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

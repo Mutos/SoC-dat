@@ -12,12 +12,6 @@
  </pos>
  <assets>
   <asset>Asteroid Cluster 617465</asset>
-  <asset>Asteroids Cluster 175768</asset>
-  <asset>Asteroids Cluster 267811</asset>
-  <asset>Asteroids Cluster 514352</asset>
-  <asset>Asteroids Cluster 687159</asset>
-  <asset>Asteroids Cluster 761663</asset>
-  <asset>Asteroids Cluster 817201</asset>
   <asset>Eden</asset>
   <asset>Eden High</asset>
   <asset>Tanuki</asset>
@@ -76,4 +70,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

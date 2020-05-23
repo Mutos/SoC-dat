@@ -11,12 +11,6 @@
   <y>695.280000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 136421</asset>
-  <asset>Asteroids Cluster 187542</asset>
-  <asset>Asteroids Cluster 212542</asset>
-  <asset>Asteroids Cluster 264595</asset>
-  <asset>Asteroids Cluster 345621</asset>
-  <asset>Asteroids Cluster 875412</asset>
   <asset>Ershell Border Station</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
@@ -76,4 +70,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

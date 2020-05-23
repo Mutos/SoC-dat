@@ -11,13 +11,6 @@
   <y>-654.912000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 155758</asset>
-  <asset>Asteroids Cluster 233948</asset>
-  <asset>Asteroids Cluster 472426</asset>
-  <asset>Asteroids Cluster 683282</asset>
-  <asset>Asteroids Cluster 731338</asset>
-  <asset>Asteroids Cluster 755208</asset>
-  <asset>Asteroids Cluster 967714</asset>
   <asset>K'Tint</asset>
   <asset>K'Tint Nilal</asset>
   <asset>Virtual Truce Local</asset>
@@ -84,4 +77,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

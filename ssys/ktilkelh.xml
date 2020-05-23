@@ -11,13 +11,6 @@
   <y>-1072.752000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 209539</asset>
-  <asset>Asteroids Cluster 260733</asset>
-  <asset>Asteroids Cluster 267518</asset>
-  <asset>Asteroids Cluster 510372</asset>
-  <asset>Asteroids Cluster 695426</asset>
-  <asset>Asteroids Cluster 719843</asset>
-  <asset>Asteroids Cluster 921763</asset>
   <asset>K'Tilk'Elh</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
@@ -71,4 +64,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

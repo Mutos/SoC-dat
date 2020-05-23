@@ -11,11 +11,6 @@
   <y>-1805.136000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 156457</asset>
-  <asset>Asteroids Cluster 410955</asset>
-  <asset>Asteroids Cluster 573745</asset>
-  <asset>Asteroids Cluster 645525</asset>
-  <asset>Asteroids Cluster 892542</asset>
   <asset>Brinn Border Station</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
@@ -65,4 +60,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

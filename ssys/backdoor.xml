@@ -11,10 +11,6 @@
   <y>188.344000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 206048</asset>
-  <asset>Asteroids Cluster 264781</asset>
-  <asset>Asteroids Cluster 364128</asset>
-  <asset>Asteroids Cluster 402179</asset>
   <asset>Jokers Patrol Base</asset>
   <asset>Loki</asset>
  </assets>
@@ -58,4 +54,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

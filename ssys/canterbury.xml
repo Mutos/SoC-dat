@@ -12,13 +12,6 @@
  </pos>
  <assets>
   <asset>Annuschka</asset>
-  <asset>Asteroids Cluster 173717</asset>
-  <asset>Asteroids Cluster 518073</asset>
-  <asset>Asteroids Cluster 607965</asset>
-  <asset>Asteroids Cluster 711367</asset>
-  <asset>Asteroids Cluster 827445</asset>
-  <asset>Asteroids Cluster 937387</asset>
-  <asset>Asteroids Cluster 999341</asset>
   <asset>Canterbury</asset>
  </assets>
  <jumps>
@@ -83,4 +76,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

@@ -11,10 +11,6 @@
   <y>-2892.048000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 262541</asset>
-  <asset>Asteroids Cluster 655541</asset>
-  <asset>Asteroids Cluster 845126</asset>
-  <asset>Asteroids Cluster 956654</asset>
   <asset>Beautiful Sands</asset>
   <asset>Burning Clouds</asset>
   <asset>Gentle Light</asset>
@@ -56,4 +52,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

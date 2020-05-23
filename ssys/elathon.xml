@@ -11,8 +11,6 @@
   <y>-2271.696000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 225641</asset>
-  <asset>Asteroids Cluster 652124</asset>
   <asset>Elathon</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
@@ -48,4 +46,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

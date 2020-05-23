@@ -11,29 +11,6 @@
   <y>-3249.744000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 133859</asset>
-  <asset>Asteroids Cluster 186514</asset>
-  <asset>Asteroids Cluster 239530</asset>
-  <asset>Asteroids Cluster 276309</asset>
-  <asset>Asteroids Cluster 294880</asset>
-  <asset>Asteroids Cluster 296773</asset>
-  <asset>Asteroids Cluster 373567</asset>
-  <asset>Asteroids Cluster 405417</asset>
-  <asset>Asteroids Cluster 417110</asset>
-  <asset>Asteroids Cluster 418741</asset>
-  <asset>Asteroids Cluster 497290</asset>
-  <asset>Asteroids Cluster 548479</asset>
-  <asset>Asteroids Cluster 552465</asset>
-  <asset>Asteroids Cluster 558351</asset>
-  <asset>Asteroids Cluster 598871</asset>
-  <asset>Asteroids Cluster 609034</asset>
-  <asset>Asteroids Cluster 796287</asset>
-  <asset>Asteroids Cluster 829403</asset>
-  <asset>Asteroids Cluster 840852</asset>
-  <asset>Asteroids Cluster 885530</asset>
-  <asset>Asteroids Cluster 941416</asset>
-  <asset>Asteroids Cluster 945962</asset>
-  <asset>Asteroids Cluster 965113</asset>
   <asset>Naled I</asset>
   <asset>Naled II</asset>
   <asset>Naled III</asset>
@@ -204,4 +181,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

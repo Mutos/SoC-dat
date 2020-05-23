@@ -11,9 +11,6 @@
   <y>-1340.304000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 348702</asset>
-  <asset>Asteroids Cluster 620879</asset>
-  <asset>Asteroids Cluster 824019</asset>
   <asset>Ermel</asset>
   <asset>Irilia</asset>
   <asset>Irnalth</asset>
@@ -63,4 +60,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

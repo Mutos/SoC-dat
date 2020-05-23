@@ -12,16 +12,6 @@
  </pos>
  <assets>
   <asset>Alaith</asset>
-  <asset>Asteroids Cluster 187817</asset>
-  <asset>Asteroids Cluster 411924</asset>
-  <asset>Asteroids Cluster 505577</asset>
-  <asset>Asteroids Cluster 594444</asset>
-  <asset>Asteroids Cluster 638088</asset>
-  <asset>Asteroids Cluster 694893</asset>
-  <asset>Asteroids Cluster 722093</asset>
-  <asset>Asteroids Cluster 749584</asset>
-  <asset>Asteroids Cluster 763923</asset>
-  <asset>Asteroids Cluster 886871</asset>
   <asset>Erinath Habitat</asset>
   <asset>Fafnir</asset>
  </assets>
@@ -105,4 +95,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

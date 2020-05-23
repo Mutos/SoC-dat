@@ -12,16 +12,6 @@
  </pos>
  <assets>
   <asset>Anhui Habitat</asset>
-  <asset>Asteroids Cluster 140386</asset>
-  <asset>Asteroids Cluster 193940</asset>
-  <asset>Asteroids Cluster 264217</asset>
-  <asset>Asteroids Cluster 279421</asset>
-  <asset>Asteroids Cluster 302066</asset>
-  <asset>Asteroids Cluster 503049</asset>
-  <asset>Asteroids Cluster 674544</asset>
-  <asset>Asteroids Cluster 801409</asset>
-  <asset>Asteroids Cluster 960222</asset>
-  <asset>Asteroids Cluster 970215</asset>
   <asset>Shenyang</asset>
   <asset>Suzhou</asset>
   <asset>Suzhou Reasearch</asset>
@@ -104,4 +94,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

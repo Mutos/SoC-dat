@@ -11,14 +11,7 @@
   <y>539.760000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 127502</asset>
-  <asset>Asteroids Cluster 208131</asset>
-  <asset>Asteroids Cluster 247964</asset>
-  <asset>Asteroids Cluster 429855</asset>
-  <asset>Asteroids Cluster 620148</asset>
-  <asset>Asteroids Cluster 835112</asset>
   <asset>Bamara Border Station</asset>
-  <asset>Neufeld Asteroids Cluster</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
   <asset>Virtual Miner Local</asset>
  </assets>
@@ -71,6 +64,14 @@
    <type>default</type>
    <radius>1000</radius>
    <pos x="13183.227161" y="8612.158447"/>
+   <density>0.5</density>
+  </asteroid>
+ </asteroids>
+ <asteroids>
+  <asteroid name="Neufeld Asteroids Cluster">
+   <type>default</type>
+   <radius>1000</radius>
+   <pos x="-7684.974428" y="1507.525704"/>
    <density>0.5</density>
   </asteroid>
  </asteroids>

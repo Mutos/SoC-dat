@@ -11,15 +11,6 @@
   <y>9.264000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 215634</asset>
-  <asset>Asteroids Cluster 261067</asset>
-  <asset>Asteroids Cluster 277423</asset>
-  <asset>Asteroids Cluster 334123</asset>
-  <asset>Asteroids Cluster 471533</asset>
-  <asset>Asteroids Cluster 579280</asset>
-  <asset>Asteroids Cluster 722559</asset>
-  <asset>Asteroids Cluster 807633</asset>
-  <asset>Asteroids Cluster 880967</asset>
   <asset>Banthory IV</asset>
   <asset>Beuzeley-la-Bastille</asset>
   <asset>Huoxing</asset>
@@ -100,4 +91,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

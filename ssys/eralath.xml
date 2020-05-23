@@ -11,13 +11,6 @@
   <y>-1294.062720</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 041274</asset>
-  <asset>Asteroids Cluster 065814</asset>
-  <asset>Asteroids Cluster 234781</asset>
-  <asset>Asteroids Cluster 287975</asset>
-  <asset>Asteroids Cluster 348750</asset>
-  <asset>Asteroids Cluster 648791</asset>
-  <asset>Asteroids Cluster 879457</asset>
   <asset>Eralath Border Station</asset>
   <asset>Eralth</asset>
   <asset>Lothinal</asset>
@@ -85,4 +78,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

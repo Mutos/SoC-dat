@@ -11,8 +11,6 @@
   <y>-2239.456000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 225487</asset>
-  <asset>Asteroids Cluster 645457</asset>
   <asset>Freeport 5</asset>
   <asset>Nour</asset>
   <asset>Salam</asset>
@@ -50,4 +48,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

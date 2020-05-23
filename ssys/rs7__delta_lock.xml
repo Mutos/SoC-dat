@@ -11,12 +11,6 @@
   <y>251.136000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 408426</asset>
-  <asset>Asteroids Cluster 459892</asset>
-  <asset>Asteroids Cluster 688724</asset>
-  <asset>Asteroids Cluster 765296</asset>
-  <asset>Asteroids Cluster 830009</asset>
-  <asset>Asteroids Cluster 933063</asset>
   <asset>Delta Lock</asset>
  </assets>
  <jumps>
@@ -71,4 +65,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

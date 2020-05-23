@@ -11,23 +11,6 @@
   <y>-3968.592000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 117328</asset>
-  <asset>Asteroids Cluster 168690</asset>
-  <asset>Asteroids Cluster 326466</asset>
-  <asset>Asteroids Cluster 389237</asset>
-  <asset>Asteroids Cluster 405522</asset>
-  <asset>Asteroids Cluster 411352</asset>
-  <asset>Asteroids Cluster 634714</asset>
-  <asset>Asteroids Cluster 696068</asset>
-  <asset>Asteroids Cluster 713752</asset>
-  <asset>Asteroids Cluster 763477</asset>
-  <asset>Asteroids Cluster 859074</asset>
-  <asset>Asteroids Cluster 891845</asset>
-  <asset>Asteroids Cluster 909288</asset>
-  <asset>Asteroids Cluster 931973</asset>
-  <asset>Asteroids Cluster 936318</asset>
-  <asset>Asteroids Cluster 952123</asset>
-  <asset>Asteroids Cluster 966007</asset>
   <asset>Eclaireur-4</asset>
   <asset>Rock Bottom</asset>
  </assets>
@@ -153,4 +136,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

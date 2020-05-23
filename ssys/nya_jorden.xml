@@ -11,9 +11,6 @@
   <y>-828.240000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 403739</asset>
-  <asset>Asteroids Cluster 708184</asset>
-  <asset>Asteroids Cluster 947761</asset>
   <asset>Nya Jorden</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
@@ -51,4 +48,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

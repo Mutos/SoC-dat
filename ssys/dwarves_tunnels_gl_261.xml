@@ -11,7 +11,6 @@
   <y>-1438.329600</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 145621</asset>
   <asset>Dwarves' Tunnels</asset>
   <asset>Godjaveri Staryards</asset>
   <asset>Runners' Station</asset>
@@ -43,4 +42,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

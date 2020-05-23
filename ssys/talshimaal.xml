@@ -11,14 +11,6 @@
   <y>-322.512000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 304067</asset>
-  <asset>Asteroids Cluster 304527</asset>
-  <asset>Asteroids Cluster 630245</asset>
-  <asset>Asteroids Cluster 632421</asset>
-  <asset>Asteroids Cluster 632871</asset>
-  <asset>Asteroids Cluster 679820</asset>
-  <asset>Asteroids Cluster 685656</asset>
-  <asset>Asteroids Cluster 952078</asset>
   <asset>Talshimaal Border Station</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
@@ -86,4 +78,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

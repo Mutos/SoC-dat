@@ -12,8 +12,6 @@
  </pos>
  <assets>
   <asset>Ainal</asset>
-  <asset>Asteroids Cluster 099162</asset>
-  <asset>Asteroids Cluster 658721</asset>
   <asset>Salinath</asset>
   <asset>Thinal</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
@@ -46,4 +44,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

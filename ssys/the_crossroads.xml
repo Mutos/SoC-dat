@@ -11,10 +11,6 @@
   <y>-4051.536000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 265641</asset>
-  <asset>Asteroids Cluster 323540</asset>
-  <asset>Asteroids Cluster 562158</asset>
-  <asset>Asteroids Cluster 687565</asset>
   <asset>Crossroads Relay</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
@@ -62,4 +58,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

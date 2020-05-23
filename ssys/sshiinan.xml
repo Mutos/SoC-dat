@@ -12,8 +12,6 @@
  </pos>
  <assets>
   <asset>Aarinel</asset>
-  <asset>Asteroids Cluster 459754</asset>
-  <asset>Asteroids Cluster 645875</asset>
   <asset>Sshiinan Border Station</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
@@ -45,4 +43,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

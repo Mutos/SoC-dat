@@ -11,13 +11,6 @@
   <y>-3142.032000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 124121</asset>
-  <asset>Asteroids Cluster 125784</asset>
-  <asset>Asteroids Cluster 215754</asset>
-  <asset>Asteroids Cluster 290146</asset>
-  <asset>Asteroids Cluster 545484</asset>
-  <asset>Asteroids Cluster 648754</asset>
-  <asset>Asteroids Cluster 854025</asset>
   <asset>Skaeth Border Station</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
@@ -79,4 +72,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

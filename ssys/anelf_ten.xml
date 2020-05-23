@@ -12,9 +12,6 @@
  </pos>
  <assets>
   <asset>Anel'f Border Station</asset>
-  <asset>Asteroids Cluster 0529172</asset>
-  <asset>Asteroids Cluster 168709</asset>
-  <asset>Asteroids Cluster 687181</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
@@ -55,4 +52,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

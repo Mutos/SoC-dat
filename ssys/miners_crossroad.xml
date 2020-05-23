@@ -12,16 +12,6 @@
  </pos>
  <assets>
   <asset>Ariisha Elasaii</asset>
-  <asset>Asteroids Cluster 295757</asset>
-  <asset>Asteroids Cluster 317011</asset>
-  <asset>Asteroids Cluster 495831</asset>
-  <asset>Asteroids Cluster 564524</asset>
-  <asset>Asteroids Cluster 586965</asset>
-  <asset>Asteroids Cluster 620250</asset>
-  <asset>Asteroids Cluster 784698</asset>
-  <asset>Asteroids Cluster 820557</asset>
-  <asset>Asteroids Cluster 884085</asset>
-  <asset>Asteroids Cluster 993457</asset>
   <asset>Candlelight</asset>
  </assets>
  <jumps>
@@ -100,4 +90,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

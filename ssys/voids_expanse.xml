@@ -11,8 +11,6 @@
   <y>-3868.368000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 459217</asset>
-  <asset>Asteroids Cluster 656875</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
   <asset>Void's Expanse</asset>
  </assets>
@@ -44,4 +42,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

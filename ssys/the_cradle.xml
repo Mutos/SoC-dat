@@ -11,10 +11,6 @@
   <y>-4283.088000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 231875</asset>
-  <asset>Asteroids Cluster 287455</asset>
-  <asset>Asteroids Cluster 567841</asset>
-  <asset>Asteroids Cluster 898754</asset>
   <asset>Cradle's Warder</asset>
   <asset>Fierce</asset>
   <asset>Pupeteers' Earth</asset>
@@ -56,4 +52,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

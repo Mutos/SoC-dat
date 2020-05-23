@@ -11,11 +11,6 @@
   <y>285.744000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 258103</asset>
-  <asset>Asteroids Cluster 587918</asset>
-  <asset>Asteroids Cluster 769012</asset>
-  <asset>Asteroids Cluster 798131</asset>
-  <asset>Asteroids Cluster 809139</asset>
   <asset>Iridian</asset>
   <asset>Jenac ud Althean</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
@@ -74,4 +69,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

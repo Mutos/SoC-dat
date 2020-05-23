@@ -11,37 +11,6 @@
   <y>24.440000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 123711</asset>
-  <asset>Asteroids Cluster 133280</asset>
-  <asset>Asteroids Cluster 146940</asset>
-  <asset>Asteroids Cluster 147902</asset>
-  <asset>Asteroids Cluster 149199</asset>
-  <asset>Asteroids Cluster 199698</asset>
-  <asset>Asteroids Cluster 231503</asset>
-  <asset>Asteroids Cluster 241989</asset>
-  <asset>Asteroids Cluster 339655</asset>
-  <asset>Asteroids Cluster 393485</asset>
-  <asset>Asteroids Cluster 403123</asset>
-  <asset>Asteroids Cluster 421953</asset>
-  <asset>Asteroids Cluster 453985</asset>
-  <asset>Asteroids Cluster 459911</asset>
-  <asset>Asteroids Cluster 471910</asset>
-  <asset>Asteroids Cluster 513105</asset>
-  <asset>Asteroids Cluster 520341</asset>
-  <asset>Asteroids Cluster 526267</asset>
-  <asset>Asteroids Cluster 530091</asset>
-  <asset>Asteroids Cluster 534046</asset>
-  <asset>Asteroids Cluster 548448</asset>
-  <asset>Asteroids Cluster 625860</asset>
-  <asset>Asteroids Cluster 655135</asset>
-  <asset>Asteroids Cluster 765350</asset>
-  <asset>Asteroids Cluster 780765</asset>
-  <asset>Asteroids Cluster 848077</asset>
-  <asset>Asteroids Cluster 858981</asset>
-  <asset>Asteroids Cluster 866629</asset>
-  <asset>Asteroids Cluster 876073</asset>
-  <asset>Asteroids Cluster 920079</asset>
-  <asset>Asteroids Cluster 979835</asset>
  </assets>
  <jumps>
   <jump target="Anhui">
@@ -245,4 +214,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

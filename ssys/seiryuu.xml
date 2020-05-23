@@ -12,9 +12,6 @@
  </pos>
  <assets>
   <asset>Aoiyama</asset>
-  <asset>Asteroids Cluster 106382</asset>
-  <asset>Asteroids Cluster 476459</asset>
-  <asset>Asteroids Cluster 820569</asset>
   <asset>Ryuu Border Station</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
@@ -52,4 +49,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

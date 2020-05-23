@@ -11,12 +11,6 @@
   <y>-1377.026880</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 158794</asset>
-  <asset>Asteroids Cluster 176830</asset>
-  <asset>Asteroids Cluster 218723</asset>
-  <asset>Asteroids Cluster 548795</asset>
-  <asset>Asteroids Cluster 698706</asset>
-  <asset>Asteroids Cluster 921709</asset>
   <asset>Engelstadt</asset>
   <asset>Hallier</asset>
   <asset>Krasnoia Station</asset>
@@ -71,4 +65,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

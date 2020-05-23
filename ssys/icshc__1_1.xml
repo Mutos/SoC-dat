@@ -13,13 +13,6 @@
  <assets>
   <asset>Aans Border Station</asset>
   <asset>Anniin es Losth</asset>
-  <asset>Asteroids Cluster 256408</asset>
-  <asset>Asteroids Cluster 450124</asset>
-  <asset>Asteroids Cluster 587264</asset>
-  <asset>Asteroids Cluster 642180</asset>
-  <asset>Asteroids Cluster 642879</asset>
-  <asset>Asteroids Cluster 832706</asset>
-  <asset>Asteroids Cluster 972050</asset>
   <asset>Eshell</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
@@ -81,4 +74,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

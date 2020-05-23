@@ -11,19 +11,6 @@
   <y>141.456000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 272514</asset>
-  <asset>Asteroids Cluster 295165</asset>
-  <asset>Asteroids Cluster 366118</asset>
-  <asset>Asteroids Cluster 403882</asset>
-  <asset>Asteroids Cluster 428868</asset>
-  <asset>Asteroids Cluster 442201</asset>
-  <asset>Asteroids Cluster 476165</asset>
-  <asset>Asteroids Cluster 582611</asset>
-  <asset>Asteroids Cluster 602614</asset>
-  <asset>Asteroids Cluster 611156</asset>
-  <asset>Asteroids Cluster 674597</asset>
-  <asset>Asteroids Cluster 860102</asset>
-  <asset>Asteroids Cluster 873498</asset>
   <asset>Savitri A</asset>
   <asset>Savitri B</asset>
   <asset>Savitri C</asset>
@@ -131,4 +118,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

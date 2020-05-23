@@ -11,12 +11,6 @@
   <y>-1039.880000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 158204</asset>
-  <asset>Asteroids Cluster 629266</asset>
-  <asset>Asteroids Cluster 683014</asset>
-  <asset>Asteroids Cluster 750317</asset>
-  <asset>Asteroids Cluster 835063</asset>
-  <asset>Asteroids Cluster 960012</asset>
   <asset>Sheng Border Station</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
@@ -72,4 +66,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

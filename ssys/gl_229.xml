@@ -11,14 +11,6 @@
   <y>-546.480000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 268410</asset>
-  <asset>Asteroids Cluster 287547</asset>
-  <asset>Asteroids Cluster 379410</asset>
-  <asset>Asteroids Cluster 528406</asset>
-  <asset>Asteroids Cluster 641087</asset>
-  <asset>Asteroids Cluster 678120</asset>
-  <asset>Asteroids Cluster 687914</asset>
-  <asset>Asteroids Cluster 798421</asset>
   <asset>Meetpoint Station</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
@@ -94,4 +86,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

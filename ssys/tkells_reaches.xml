@@ -11,14 +11,6 @@
   <y>-912.264000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 249230</asset>
-  <asset>Asteroids Cluster 348543</asset>
-  <asset>Asteroids Cluster 400492</asset>
-  <asset>Asteroids Cluster 593992</asset>
-  <asset>Asteroids Cluster 720589</asset>
-  <asset>Asteroids Cluster 801270</asset>
-  <asset>Asteroids Cluster 849106</asset>
-  <asset>Asteroids Cluster 907176</asset>
   <asset>T'Kell Outpost</asset>
  </assets>
  <jumps>
@@ -89,4 +81,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

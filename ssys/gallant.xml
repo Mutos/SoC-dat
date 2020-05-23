@@ -11,10 +11,6 @@
   <y>-1443.408000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 633812</asset>
-  <asset>Asteroids Cluster 641538</asset>
-  <asset>Asteroids Cluster 715789</asset>
-  <asset>Asteroids Cluster 863080</asset>
   <asset>Gallant's Moon</asset>
   <asset>Paradiso</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
@@ -67,4 +63,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

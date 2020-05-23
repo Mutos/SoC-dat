@@ -12,16 +12,6 @@
  </pos>
  <assets>
   <asset>Alaissh</asset>
-  <asset>Asteroids Cluster 212045</asset>
-  <asset>Asteroids Cluster 287971</asset>
-  <asset>Asteroids Cluster 456810</asset>
-  <asset>Asteroids Cluster 457821</asset>
-  <asset>Asteroids Cluster 458761</asset>
-  <asset>Asteroids Cluster 487947</asset>
-  <asset>Asteroids Cluster 578413</asset>
-  <asset>Asteroids Cluster 789131</asset>
-  <asset>Asteroids Cluster 879112</asset>
-  <asset>Asteroids Cluster 894124</asset>
   <asset>Erathan Base</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
@@ -101,4 +91,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

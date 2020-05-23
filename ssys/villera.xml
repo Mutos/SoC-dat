@@ -11,9 +11,6 @@
   <y>45.112000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 576100</asset>
-  <asset>Asteroids Cluster 687116</asset>
-  <asset>Asteroids Cluster 710812</asset>
   <asset>Mahanadee</asset>
   <asset>Villera High</asset>
   <asset>Villera I</asset>
@@ -60,4 +57,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

@@ -12,12 +12,6 @@
  </pos>
  <assets>
   <asset>Asteroid Cluster 812956</asset>
-  <asset>Asteroids Cluster 420671</asset>
-  <asset>Asteroids Cluster 576189</asset>
-  <asset>Asteroids Cluster 613702</asset>
-  <asset>Asteroids Cluster 680787</asset>
-  <asset>Asteroids Cluster 701782</asset>
-  <asset>Asteroids Cluster 981620</asset>
   <asset>Shin Yokosuka</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
@@ -73,4 +67,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

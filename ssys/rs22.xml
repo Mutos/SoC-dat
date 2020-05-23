@@ -11,22 +11,6 @@
   <y>-413.000000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 129965</asset>
-  <asset>Asteroids Cluster 172066</asset>
-  <asset>Asteroids Cluster 178715</asset>
-  <asset>Asteroids Cluster 295033</asset>
-  <asset>Asteroids Cluster 409367</asset>
-  <asset>Asteroids Cluster 571595</asset>
-  <asset>Asteroids Cluster 575069</asset>
-  <asset>Asteroids Cluster 603467</asset>
-  <asset>Asteroids Cluster 649727</asset>
-  <asset>Asteroids Cluster 716741</asset>
-  <asset>Asteroids Cluster 748547</asset>
-  <asset>Asteroids Cluster 827107</asset>
-  <asset>Asteroids Cluster 865357</asset>
-  <asset>Asteroids Cluster 906477</asset>
-  <asset>Asteroids Cluster 914285</asset>
-  <asset>Asteroids Cluster 993781</asset>
  </assets>
  <jumps>
   <jump target="RS-1 - Freiheit Turen">
@@ -140,4 +124,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

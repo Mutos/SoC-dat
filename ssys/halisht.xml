@@ -11,8 +11,6 @@
   <y>-1729.104000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 262240</asset>
-  <asset>Asteroids Cluster 564824</asset>
   <asset>Halisht</asset>
   <asset>Halisht Relay</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
@@ -45,4 +43,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

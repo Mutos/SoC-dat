@@ -12,15 +12,6 @@
  </pos>
  <assets>
   <asset>Abandoned Station</asset>
-  <asset>Asteroids Cluster 172928</asset>
-  <asset>Asteroids Cluster 174130</asset>
-  <asset>Asteroids Cluster 230749</asset>
-  <asset>Asteroids Cluster 248702</asset>
-  <asset>Asteroids Cluster 455867</asset>
-  <asset>Asteroids Cluster 555814</asset>
-  <asset>Asteroids Cluster 613326</asset>
-  <asset>Asteroids Cluster 864542</asset>
-  <asset>Asteroids Cluster 971886</asset>
   <asset>Marduk</asset>
  </assets>
  <jumps>
@@ -93,4 +84,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

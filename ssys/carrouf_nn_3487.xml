@@ -11,10 +11,6 @@
   <y>-1477.162880</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 262736</asset>
-  <asset>Asteroids Cluster 313686</asset>
-  <asset>Asteroids Cluster 433736</asset>
-  <asset>Asteroids Cluster 860492</asset>
  </assets>
  <jumps>
   <jump target="Dwarves' Tunnels (Gl 261)">
@@ -60,4 +56,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

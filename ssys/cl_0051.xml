@@ -11,13 +11,6 @@
   <y>710.832000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 344467</asset>
-  <asset>Asteroids Cluster 423145</asset>
-  <asset>Asteroids Cluster 458552</asset>
-  <asset>Asteroids Cluster 471978</asset>
-  <asset>Asteroids Cluster 808235</asset>
-  <asset>Asteroids Cluster 877112</asset>
-  <asset>Asteroids Cluster 908045</asset>
  </assets>
  <jumps>
   <jump target="CL 0054">
@@ -77,4 +70,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

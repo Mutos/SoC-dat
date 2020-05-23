@@ -11,8 +11,6 @@
   <y>-359.032000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 623521</asset>
-  <asset>Asteroids Cluster 720025</asset>
   <asset>Freeport 2</asset>
  </assets>
  <jumps>
@@ -47,4 +45,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

@@ -11,12 +11,6 @@
   <y>-3223.824000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 231211</asset>
-  <asset>Asteroids Cluster 235879</asset>
-  <asset>Asteroids Cluster 456781</asset>
-  <asset>Asteroids Cluster 564888</asset>
-  <asset>Asteroids Cluster 565421</asset>
-  <asset>Asteroids Cluster 899845</asset>
   <asset>Howling Comets</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
@@ -68,4 +62,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

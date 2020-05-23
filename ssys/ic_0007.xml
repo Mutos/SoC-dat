@@ -11,9 +11,6 @@
   <y>847.344000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 201534</asset>
-  <asset>Asteroids Cluster 201570</asset>
-  <asset>Asteroids Cluster 642078</asset>
   <asset>Eresh</asset>
   <asset>Iinaal</asset>
   <asset>Oshiin</asset>
@@ -55,4 +52,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

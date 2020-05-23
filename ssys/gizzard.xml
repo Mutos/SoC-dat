@@ -11,15 +11,6 @@
   <y>1974.000000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 146785</asset>
-  <asset>Asteroids Cluster 299462</asset>
-  <asset>Asteroids Cluster 338197</asset>
-  <asset>Asteroids Cluster 539532</asset>
-  <asset>Asteroids Cluster 707892</asset>
-  <asset>Asteroids Cluster 742655</asset>
-  <asset>Asteroids Cluster 752914</asset>
-  <asset>Asteroids Cluster 885788</asset>
-  <asset>Asteroids Cluster 905117</asset>
   <asset>Asteroids Field 142663</asset>
   <asset>Asteroids Field 178415</asset>
   <asset>Asteroids Field 258103</asset>
@@ -99,4 +90,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

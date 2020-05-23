@@ -11,9 +11,6 @@
   <y>-1936.005120</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 179886</asset>
-  <asset>Asteroids Cluster 182001</asset>
-  <asset>Asteroids Cluster 619871</asset>
   <asset>Devereau's Holds</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
   <asset>Wai</asset>
@@ -64,4 +61,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

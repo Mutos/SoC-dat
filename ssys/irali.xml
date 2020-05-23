@@ -11,16 +11,6 @@
   <y>-1300.560000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 149072</asset>
-  <asset>Asteroids Cluster 189670</asset>
-  <asset>Asteroids Cluster 291365</asset>
-  <asset>Asteroids Cluster 539636</asset>
-  <asset>Asteroids Cluster 623183</asset>
-  <asset>Asteroids Cluster 666039</asset>
-  <asset>Asteroids Cluster 672698</asset>
-  <asset>Asteroids Cluster 734662</asset>
-  <asset>Asteroids Cluster 829604</asset>
-  <asset>Asteroids Cluster 983601</asset>
   <asset>Gadhonex</asset>
   <asset>Irali</asset>
   <asset>Irali Core Guard</asset>
@@ -101,4 +91,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

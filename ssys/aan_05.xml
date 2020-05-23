@@ -11,16 +11,6 @@
   <y>-1100.112000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 156478</asset>
-  <asset>Asteroids Cluster 164789</asset>
-  <asset>Asteroids Cluster 185423</asset>
-  <asset>Asteroids Cluster 246872</asset>
-  <asset>Asteroids Cluster 546781</asset>
-  <asset>Asteroids Cluster 564687</asset>
-  <asset>Asteroids Cluster 697542</asset>
-  <asset>Asteroids Cluster 788451</asset>
-  <asset>Asteroids Cluster 854127</asset>
-  <asset>Asteroids Cluster 875316</asset>
   <asset>Eetin Alshaan</asset>
   <asset>Lalth ish Eeris</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
@@ -101,4 +91,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

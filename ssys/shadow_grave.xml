@@ -11,17 +11,6 @@
   <y>-2097.744000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 086411</asset>
-  <asset>Asteroids Cluster 087545</asset>
-  <asset>Asteroids Cluster 154454</asset>
-  <asset>Asteroids Cluster 287623</asset>
-  <asset>Asteroids Cluster 457888</asset>
-  <asset>Asteroids Cluster 466578</asset>
-  <asset>Asteroids Cluster 487654</asset>
-  <asset>Asteroids Cluster 642781</asset>
-  <asset>Asteroids Cluster 804508</asset>
-  <asset>Asteroids Cluster 873140</asset>
-  <asset>Asteroids Cluster 987130</asset>
   <asset>Freeport 3</asset>
   <asset>Shadow Grave</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
@@ -112,4 +101,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

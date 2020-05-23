@@ -11,11 +11,6 @@
   <y>-4087.824000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 235487</asset>
-  <asset>Asteroids Cluster 468754</asset>
-  <asset>Asteroids Cluster 468941</asset>
-  <asset>Asteroids Cluster 562184</asset>
-  <asset>Asteroids Cluster 894155</asset>
   <asset>Pink Dawn</asset>
   <asset>Setting Sun</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
@@ -66,4 +61,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

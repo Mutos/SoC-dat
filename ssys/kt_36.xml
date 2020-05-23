@@ -11,17 +11,6 @@
   <y>-160.704000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 202584</asset>
-  <asset>Asteroids Cluster 216531</asset>
-  <asset>Asteroids Cluster 288924</asset>
-  <asset>Asteroids Cluster 380650</asset>
-  <asset>Asteroids Cluster 383128</asset>
-  <asset>Asteroids Cluster 432756</asset>
-  <asset>Asteroids Cluster 564164</asset>
-  <asset>Asteroids Cluster 801354</asset>
-  <asset>Asteroids Cluster 834360</asset>
-  <asset>Asteroids Cluster 849426</asset>
-  <asset>Asteroids Cluster 939533</asset>
  </assets>
  <jumps>
   <jump target="Canterbury">
@@ -105,4 +94,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

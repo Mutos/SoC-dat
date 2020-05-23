@@ -11,10 +11,6 @@
   <y>-2463.504000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 226501</asset>
-  <asset>Asteroids Cluster 266641</asset>
-  <asset>Asteroids Cluster 602151</asset>
-  <asset>Asteroids Cluster 854012</asset>
   <asset>Ghilan's Pride</asset>
   <asset>Light of Dawn</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
@@ -59,4 +55,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

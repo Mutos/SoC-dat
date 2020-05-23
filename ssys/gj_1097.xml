@@ -11,11 +11,6 @@
   <y>-1485.106880</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 666750</asset>
-  <asset>Asteroids Cluster 689087</asset>
-  <asset>Asteroids Cluster 709804</asset>
-  <asset>Asteroids Cluster 795384</asset>
-  <asset>Asteroids Cluster 908397</asset>
  </assets>
  <jumps>
   <jump target="Carrouf (NN 3487)">
@@ -71,4 +66,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

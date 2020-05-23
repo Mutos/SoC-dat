@@ -11,13 +11,6 @@
   <y>77.544000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 562145</asset>
-  <asset>Asteroids Cluster 576142</asset>
-  <asset>Asteroids Cluster 576174</asset>
-  <asset>Asteroids Cluster 576294</asset>
-  <asset>Asteroids Cluster 652111</asset>
-  <asset>Asteroids Cluster 687223</asset>
-  <asset>Asteroids Cluster 688783</asset>
   <asset>K'Tal</asset>
   <asset>Mar'K'Rinn'Ra</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
@@ -80,4 +73,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

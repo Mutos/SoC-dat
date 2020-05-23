@@ -11,8 +11,6 @@
   <y>-2942.448000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 264210</asset>
-  <asset>Asteroids Cluster 621884</asset>
   <asset>Divers' Beach</asset>
   <asset>Savory Clouds</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
@@ -45,4 +43,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

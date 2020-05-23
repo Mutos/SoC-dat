@@ -11,15 +11,6 @@
   <y>-370.032000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 102689</asset>
-  <asset>Asteroids Cluster 107381</asset>
-  <asset>Asteroids Cluster 157804</asset>
-  <asset>Asteroids Cluster 158711</asset>
-  <asset>Asteroids Cluster 687195</asset>
-  <asset>Asteroids Cluster 687851</asset>
-  <asset>Asteroids Cluster 871591</asset>
-  <asset>Asteroids Cluster 987621</asset>
-  <asset>Asteroids Cluster 987693</asset>
   <asset>Han'Tenelin</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
@@ -93,4 +84,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

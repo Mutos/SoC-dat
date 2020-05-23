@@ -12,15 +12,6 @@
  </pos>
  <assets>
   <asset>Asteroid Cluster 272981</asset>
-  <asset>Asteroids Cluster 015780</asset>
-  <asset>Asteroids Cluster 044312</asset>
-  <asset>Asteroids Cluster 080642</asset>
-  <asset>Asteroids Cluster 091487</asset>
-  <asset>Asteroids Cluster 267502</asset>
-  <asset>Asteroids Cluster 450548</asset>
-  <asset>Asteroids Cluster 454812</asset>
-  <asset>Asteroids Cluster 750858</asset>
-  <asset>Asteroids Cluster 870324</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
   <asset>Yana</asset>
  </assets>
@@ -94,4 +85,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

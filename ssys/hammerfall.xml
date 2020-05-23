@@ -12,11 +12,6 @@
  </pos>
  <assets>
   <asset>Ahn Trading Post</asset>
-  <asset>Asteroids Cluster 275201</asset>
-  <asset>Asteroids Cluster 527894</asset>
-  <asset>Asteroids Cluster 564878</asset>
-  <asset>Asteroids Cluster 642870</asset>
-  <asset>Asteroids Cluster 689754</asset>
   <asset>Crusher</asset>
   <asset>Fahrenheit</asset>
   <asset>Hammerfall</asset>
@@ -69,4 +64,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

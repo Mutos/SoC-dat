@@ -11,20 +11,6 @@
   <y>-1243.536000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 114518</asset>
-  <asset>Asteroids Cluster 177223</asset>
-  <asset>Asteroids Cluster 346265</asset>
-  <asset>Asteroids Cluster 359317</asset>
-  <asset>Asteroids Cluster 401170</asset>
-  <asset>Asteroids Cluster 406668</asset>
-  <asset>Asteroids Cluster 434090</asset>
-  <asset>Asteroids Cluster 514475</asset>
-  <asset>Asteroids Cluster 541932</asset>
-  <asset>Asteroids Cluster 602421</asset>
-  <asset>Asteroids Cluster 809658</asset>
-  <asset>Asteroids Cluster 813991</asset>
-  <asset>Asteroids Cluster 825545</asset>
-  <asset>Asteroids Cluster 857468</asset>
  </assets>
  <jumps>
   <jump target="Alethai">
@@ -122,4 +108,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

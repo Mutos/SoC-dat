@@ -11,24 +11,6 @@
   <y>-1265.052800</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 145841</asset>
-  <asset>Asteroids Cluster 157901</asset>
-  <asset>Asteroids Cluster 187523</asset>
-  <asset>Asteroids Cluster 465118</asset>
-  <asset>Asteroids Cluster 475108</asset>
-  <asset>Asteroids Cluster 483644</asset>
-  <asset>Asteroids Cluster 517845</asset>
-  <asset>Asteroids Cluster 518600</asset>
-  <asset>Asteroids Cluster 540104</asset>
-  <asset>Asteroids Cluster 621628</asset>
-  <asset>Asteroids Cluster 645443</asset>
-  <asset>Asteroids Cluster 719851</asset>
-  <asset>Asteroids Cluster 722349</asset>
-  <asset>Asteroids Cluster 777288</asset>
-  <asset>Asteroids Cluster 833540</asset>
-  <asset>Asteroids Cluster 843193</asset>
-  <asset>Asteroids Cluster 866851</asset>
-  <asset>Asteroids Cluster 963476</asset>
   <asset>Thalin</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
@@ -160,4 +142,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

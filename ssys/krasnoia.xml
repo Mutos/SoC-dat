@@ -12,13 +12,6 @@
  </pos>
  <assets>
   <asset>Al Nour</asset>
-  <asset>Asteroids Cluster 097871</asset>
-  <asset>Asteroids Cluster 157641</asset>
-  <asset>Asteroids Cluster 168741</asset>
-  <asset>Asteroids Cluster 168797</asset>
-  <asset>Asteroids Cluster 871519</asset>
-  <asset>Asteroids Cluster 970810</asset>
-  <asset>Asteroids Cluster 986651</asset>
   <asset>Haasen</asset>
   <asset>Musashi Border Station</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
@@ -77,4 +70,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

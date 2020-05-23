@@ -11,22 +11,6 @@
   <y>-3324.256000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 055781</asset>
-  <asset>Asteroids Cluster 058641</asset>
-  <asset>Asteroids Cluster 087564</asset>
-  <asset>Asteroids Cluster 087640</asset>
-  <asset>Asteroids Cluster 089456</asset>
-  <asset>Asteroids Cluster 097554</asset>
-  <asset>Asteroids Cluster 256400</asset>
-  <asset>Asteroids Cluster 256497</asset>
-  <asset>Asteroids Cluster 456054</asset>
-  <asset>Asteroids Cluster 564287</asset>
-  <asset>Asteroids Cluster 587124</asset>
-  <asset>Asteroids Cluster 845667</asset>
-  <asset>Asteroids Cluster 854523</asset>
-  <asset>Asteroids Cluster 870234</asset>
-  <asset>Asteroids Cluster 872649</asset>
-  <asset>Asteroids Cluster 942720</asset>
   <asset>Garri ud Skarae</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
@@ -142,4 +126,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

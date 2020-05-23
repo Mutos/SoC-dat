@@ -11,9 +11,6 @@
   <y>326.464000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 456761</asset>
-  <asset>Asteroids Cluster 576242</asset>
-  <asset>Asteroids Cluster 687752</asset>
   <asset>K'Tell'Ktet</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
@@ -51,4 +48,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

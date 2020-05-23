@@ -11,10 +11,6 @@
   <y>-291.408000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 248618</asset>
-  <asset>Asteroids Cluster 444676</asset>
-  <asset>Asteroids Cluster 645976</asset>
-  <asset>Asteroids Cluster 703368</asset>
  </assets>
  <jumps>
   <jump target="AC-KC - 1 - 5">
@@ -56,4 +52,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

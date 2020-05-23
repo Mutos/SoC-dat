@@ -11,23 +11,6 @@
   <y>24.816000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 310578</asset>
-  <asset>Asteroids Cluster 332562</asset>
-  <asset>Asteroids Cluster 340591</asset>
-  <asset>Asteroids Cluster 352894</asset>
-  <asset>Asteroids Cluster 386541</asset>
-  <asset>Asteroids Cluster 421045</asset>
-  <asset>Asteroids Cluster 451241</asset>
-  <asset>Asteroids Cluster 612015</asset>
-  <asset>Asteroids Cluster 620147</asset>
-  <asset>Asteroids Cluster 623491</asset>
-  <asset>Asteroids Cluster 654895</asset>
-  <asset>Asteroids Cluster 656965</asset>
-  <asset>Asteroids Cluster 750214</asset>
-  <asset>Asteroids Cluster 864257</asset>
-  <asset>Asteroids Cluster 885410</asset>
-  <asset>Asteroids Cluster 892031</asset>
-  <asset>Asteroids Cluster 978547</asset>
   <asset>Neufreistadt</asset>
   <asset>Raumhansa</asset>
  </assets>
@@ -145,4 +128,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

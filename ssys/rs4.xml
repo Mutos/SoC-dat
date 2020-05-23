@@ -11,20 +11,6 @@
   <y>-84.672000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 353410</asset>
-  <asset>Asteroids Cluster 366781</asset>
-  <asset>Asteroids Cluster 406286</asset>
-  <asset>Asteroids Cluster 486273</asset>
-  <asset>Asteroids Cluster 542836</asset>
-  <asset>Asteroids Cluster 617592</asset>
-  <asset>Asteroids Cluster 633278</asset>
-  <asset>Asteroids Cluster 642587</asset>
-  <asset>Asteroids Cluster 715181</asset>
-  <asset>Asteroids Cluster 768206</asset>
-  <asset>Asteroids Cluster 787200</asset>
-  <asset>Asteroids Cluster 809824</asset>
-  <asset>Asteroids Cluster 869845</asset>
-  <asset>Asteroids Cluster 963011</asset>
   <asset>Byron</asset>
  </assets>
  <jumps>
@@ -123,4 +109,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

@@ -11,12 +11,6 @@
   <y>-200.238720</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 028945</asset>
-  <asset>Asteroids Cluster 301504</asset>
-  <asset>Asteroids Cluster 348064</asset>
-  <asset>Asteroids Cluster 358721</asset>
-  <asset>Asteroids Cluster 642830</asset>
-  <asset>Asteroids Cluster 643087</asset>
   <asset>Stars-Strider's Legacy</asset>
   <asset>The Warder</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
@@ -77,4 +71,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

@@ -11,8 +11,6 @@
   <y>536.304000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 235347</asset>
-  <asset>Asteroids Cluster 656641</asset>
   <asset>Astroids Cluster 187954</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
   <asset>Virtual Miner Local</asset>
@@ -45,4 +43,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

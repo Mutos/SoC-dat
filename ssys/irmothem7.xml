@@ -11,8 +11,6 @@
   <y>-265.902720</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 482015</asset>
-  <asset>Asteroids Cluster 541208</asset>
   <asset>Elirth</asset>
   <asset>Irmothem-7</asset>
   <asset>Lanith</asset>
@@ -42,4 +40,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

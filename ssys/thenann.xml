@@ -11,8 +11,6 @@
   <y>-2422.032000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 267841</asset>
-  <asset>Asteroids Cluster 821045</asset>
   <asset>Thenann</asset>
   <asset>Thenann Relay</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
@@ -45,4 +43,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

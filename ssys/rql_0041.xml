@@ -11,20 +11,6 @@
   <y>-2879.537280</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 158970</asset>
-  <asset>Asteroids Cluster 298921</asset>
-  <asset>Asteroids Cluster 303172</asset>
-  <asset>Asteroids Cluster 306378</asset>
-  <asset>Asteroids Cluster 474433</asset>
-  <asset>Asteroids Cluster 531526</asset>
-  <asset>Asteroids Cluster 535144</asset>
-  <asset>Asteroids Cluster 585337</asset>
-  <asset>Asteroids Cluster 643332</asset>
-  <asset>Asteroids Cluster 755768</asset>
-  <asset>Asteroids Cluster 770592</asset>
-  <asset>Asteroids Cluster 859251</asset>
-  <asset>Asteroids Cluster 968726</asset>
-  <asset>Asteroids Cluster 996884</asset>
   <asset>Savage Lands Border Station</asset>
  </assets>
  <jumps>
@@ -135,4 +121,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

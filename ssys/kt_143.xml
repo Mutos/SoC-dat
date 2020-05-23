@@ -11,8 +11,6 @@
   <y>-252.168000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 235260</asset>
-  <asset>Asteroids Cluster 764156</asset>
  </assets>
  <jumps>
   <jump target="Canterbury">
@@ -42,4 +40,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

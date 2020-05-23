@@ -11,16 +11,6 @@
   <y>-1114.512000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 161230</asset>
-  <asset>Asteroids Cluster 184081</asset>
-  <asset>Asteroids Cluster 354908</asset>
-  <asset>Asteroids Cluster 381894</asset>
-  <asset>Asteroids Cluster 449576</asset>
-  <asset>Asteroids Cluster 527542</asset>
-  <asset>Asteroids Cluster 601970</asset>
-  <asset>Asteroids Cluster 653981</asset>
-  <asset>Asteroids Cluster 754530</asset>
-  <asset>Asteroids Cluster 774494</asset>
   <asset>Telian</asset>
   <asset>Telian Zone</asset>
  </assets>
@@ -100,4 +90,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

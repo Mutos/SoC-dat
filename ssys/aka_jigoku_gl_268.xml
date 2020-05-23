@@ -11,12 +11,6 @@
   <y>-1628.659200</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 245687</asset>
-  <asset>Asteroids Cluster 245784</asset>
-  <asset>Asteroids Cluster 246558</asset>
-  <asset>Asteroids Cluster 284575</asset>
-  <asset>Asteroids Cluster 289745</asset>
-  <asset>Asteroids Cluster 456548</asset>
   <asset>Nemesis</asset>
   <asset>Tempest</asset>
   <asset>Tempest LRS</asset>
@@ -67,4 +61,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

@@ -12,9 +12,6 @@
  </pos>
  <assets>
   <asset>Alshiinal Border Station</asset>
-  <asset>Asteroids Cluster 001696</asset>
-  <asset>Asteroids Cluster 185358</asset>
-  <asset>Asteroids Cluster 670816</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
@@ -55,4 +52,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

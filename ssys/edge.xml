@@ -11,17 +11,6 @@
   <y>-2681.232000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 134767</asset>
-  <asset>Asteroids Cluster 311495</asset>
-  <asset>Asteroids Cluster 401076</asset>
-  <asset>Asteroids Cluster 402506</asset>
-  <asset>Asteroids Cluster 539742</asset>
-  <asset>Asteroids Cluster 541504</asset>
-  <asset>Asteroids Cluster 687418</asset>
-  <asset>Asteroids Cluster 734821</asset>
-  <asset>Asteroids Cluster 834809</asset>
-  <asset>Asteroids Cluster 872101</asset>
-  <asset>Asteroids Cluster 992192</asset>
   <asset>Edge</asset>
   <asset>Edge Border Station</asset>
   <asset>K'Talth</asset>
@@ -113,4 +102,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

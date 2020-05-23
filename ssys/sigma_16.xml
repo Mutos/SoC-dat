@@ -11,13 +11,6 @@
   <y>2627.184000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 057621</asset>
-  <asset>Asteroids Cluster 230795</asset>
-  <asset>Asteroids Cluster 304875</asset>
-  <asset>Asteroids Cluster 517201</asset>
-  <asset>Asteroids Cluster 601802</asset>
-  <asset>Asteroids Cluster 610784</asset>
-  <asset>Asteroids Cluster 697811</asset>
   <asset>Shiinal</asset>
   <asset>Skaasht Base</asset>
   <asset>Telshk</asset>
@@ -89,4 +82,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

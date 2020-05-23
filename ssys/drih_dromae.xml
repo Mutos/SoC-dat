@@ -11,12 +11,6 @@
   <y>-3004.368000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 176862</asset>
-  <asset>Asteroids Cluster 518677</asset>
-  <asset>Asteroids Cluster 591021</asset>
-  <asset>Asteroids Cluster 678521</asset>
-  <asset>Asteroids Cluster 798861</asset>
-  <asset>Asteroids Cluster 901023</asset>
   <asset>Drih Skarae</asset>
   <asset>Irol</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
@@ -77,4 +71,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

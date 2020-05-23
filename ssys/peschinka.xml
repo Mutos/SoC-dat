@@ -11,33 +11,6 @@
   <y>-749.944000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 112671</asset>
-  <asset>Asteroids Cluster 133743</asset>
-  <asset>Asteroids Cluster 208744</asset>
-  <asset>Asteroids Cluster 228797</asset>
-  <asset>Asteroids Cluster 308463</asset>
-  <asset>Asteroids Cluster 321341</asset>
-  <asset>Asteroids Cluster 331661</asset>
-  <asset>Asteroids Cluster 345769</asset>
-  <asset>Asteroids Cluster 408448</asset>
-  <asset>Asteroids Cluster 488378</asset>
-  <asset>Asteroids Cluster 515578</asset>
-  <asset>Asteroids Cluster 519466</asset>
-  <asset>Asteroids Cluster 527059</asset>
-  <asset>Asteroids Cluster 605060</asset>
-  <asset>Asteroids Cluster 651789</asset>
-  <asset>Asteroids Cluster 657710</asset>
-  <asset>Asteroids Cluster 658760</asset>
-  <asset>Asteroids Cluster 689746</asset>
-  <asset>Asteroids Cluster 735407</asset>
-  <asset>Asteroids Cluster 749027</asset>
-  <asset>Asteroids Cluster 765369</asset>
-  <asset>Asteroids Cluster 826498</asset>
-  <asset>Asteroids Cluster 861720</asset>
-  <asset>Asteroids Cluster 971278</asset>
-  <asset>Asteroids Cluster 984075</asset>
-  <asset>Asteroids Cluster 992631</asset>
-  <asset>Asteroids Cluster 994232</asset>
   <asset>Medved</asset>
  </assets>
  <jumps>
@@ -218,4 +191,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

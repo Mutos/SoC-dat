@@ -11,8 +11,6 @@
   <y>-2928.336000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 415614</asset>
-  <asset>Asteroids Cluster 478149</asset>
   <asset>Elthain</asset>
   <asset>Irilia-18</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
@@ -45,4 +43,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

@@ -11,20 +11,6 @@
   <y>513.840000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 177939</asset>
-  <asset>Asteroids Cluster 244518</asset>
-  <asset>Asteroids Cluster 302017</asset>
-  <asset>Asteroids Cluster 462977</asset>
-  <asset>Asteroids Cluster 496184</asset>
-  <asset>Asteroids Cluster 550589</asset>
-  <asset>Asteroids Cluster 556218</asset>
-  <asset>Asteroids Cluster 566315</asset>
-  <asset>Asteroids Cluster 570283</asset>
-  <asset>Asteroids Cluster 632667</asset>
-  <asset>Asteroids Cluster 815729</asset>
-  <asset>Asteroids Cluster 904893</asset>
-  <asset>Asteroids Cluster 909210</asset>
-  <asset>Asteroids Cluster 956227</asset>
   <asset>Freeport 6</asset>
  </assets>
  <jumps>
@@ -131,4 +117,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

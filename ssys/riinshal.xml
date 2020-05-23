@@ -11,8 +11,6 @@
   <y>-343.248000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 206045</asset>
-  <asset>Asteroids Cluster 310785</asset>
   <asset>Riinshal Border Station</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
@@ -40,4 +38,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

@@ -11,15 +11,6 @@
   <y>-660.672000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 138755</asset>
-  <asset>Asteroids Cluster 166975</asset>
-  <asset>Asteroids Cluster 204056</asset>
-  <asset>Asteroids Cluster 229327</asset>
-  <asset>Asteroids Cluster 558365</asset>
-  <asset>Asteroids Cluster 564128</asset>
-  <asset>Asteroids Cluster 639488</asset>
-  <asset>Asteroids Cluster 875524</asset>
-  <asset>Asteroids Cluster 914679</asset>
   <asset>Embruns</asset>
   <asset>Sinjiang Trading Station</asset>
   <asset>Vertigo</asset>
@@ -99,4 +90,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

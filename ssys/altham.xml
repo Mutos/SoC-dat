@@ -13,13 +13,6 @@
  <assets>
   <asset>Altham Etrel</asset>
   <asset>Altham Irla</asset>
-  <asset>Asteroids Cluster 410474</asset>
-  <asset>Asteroids Cluster 456568</asset>
-  <asset>Asteroids Cluster 564544</asset>
-  <asset>Asteroids Cluster 565548</asset>
-  <asset>Asteroids Cluster 569852</asset>
-  <asset>Asteroids Cluster 698520</asset>
-  <asset>Asteroids Cluster 895454</asset>
   <asset>Holin Altham</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
@@ -85,4 +78,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

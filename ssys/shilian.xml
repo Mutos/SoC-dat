@@ -11,9 +11,6 @@
   <y>1192.944000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 710056</asset>
-  <asset>Asteroids Cluster 860028</asset>
-  <asset>Asteroids Cluster105227</asset>
   <asset>Shilian</asset>
   <asset>Shiren</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
@@ -52,4 +49,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

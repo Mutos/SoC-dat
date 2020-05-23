@@ -11,10 +11,6 @@
   <y>-2121.360000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 232241</asset>
-  <asset>Asteroids Cluster 268549</asset>
-  <asset>Asteroids Cluster 566854</asset>
-  <asset>Asteroids Cluster 858842</asset>
   <asset>Matholn</asset>
   <asset>Matholn Relay</asset>
   <asset>Melaneth Cache</asset>
@@ -64,4 +60,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

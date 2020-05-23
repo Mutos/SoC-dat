@@ -11,15 +11,6 @@
   <y>129.720000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 200542</asset>
-  <asset>Asteroids Cluster 238421</asset>
-  <asset>Asteroids Cluster 335241</asset>
-  <asset>Asteroids Cluster 335604</asset>
-  <asset>Asteroids Cluster 364111</asset>
-  <asset>Asteroids Cluster 626452</asset>
-  <asset>Asteroids Cluster 628854</asset>
-  <asset>Asteroids Cluster 641205</asset>
-  <asset>Asteroids Cluster 648554</asset>
   <asset>K'Til'n 0004</asset>
   <asset>T'Tamen</asset>
   <asset>T'Timor</asset>
@@ -95,4 +86,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

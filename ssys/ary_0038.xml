@@ -11,10 +11,6 @@
   <y>1481.934720</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 359750</asset>
-  <asset>Asteroids Cluster 518942</asset>
-  <asset>Asteroids Cluster 970245</asset>
-  <asset>Asteroids Cluster750498</asset>
   <asset>Erilanth</asset>
   <asset>Jaltha nel Nalth</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
@@ -55,4 +51,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

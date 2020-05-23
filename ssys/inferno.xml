@@ -11,8 +11,6 @@
   <y>-1157.712000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 087124</asset>
-  <asset>Asteroids Cluster 087204</asset>
   <asset>Dlanhergh Toll imh Derr</asset>
   <asset>Hades</asset>
   <asset>Inferno</asset>
@@ -50,4 +48,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

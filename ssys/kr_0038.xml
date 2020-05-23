@@ -11,25 +11,6 @@
   <y>-1120.272000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 259620</asset>
-  <asset>Asteroids Cluster 270440</asset>
-  <asset>Asteroids Cluster 277961</asset>
-  <asset>Asteroids Cluster 451296</asset>
-  <asset>Asteroids Cluster 464939</asset>
-  <asset>Asteroids Cluster 490153</asset>
-  <asset>Asteroids Cluster 516354</asset>
-  <asset>Asteroids Cluster 523919</asset>
-  <asset>Asteroids Cluster 562800</asset>
-  <asset>Asteroids Cluster 581170</asset>
-  <asset>Asteroids Cluster 604250</asset>
-  <asset>Asteroids Cluster 649172</asset>
-  <asset>Asteroids Cluster 715849</asset>
-  <asset>Asteroids Cluster 765301</asset>
-  <asset>Asteroids Cluster 779803</asset>
-  <asset>Asteroids Cluster 949230</asset>
-  <asset>Asteroids Cluster 964405</asset>
-  <asset>Asteroids Cluster 991436</asset>
-  <asset>Asteroids Cluster 992885</asset>
  </assets>
  <jumps>
   <jump target="K'Tilk'Elh">
@@ -165,4 +146,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

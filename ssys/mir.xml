@@ -11,17 +11,6 @@
   <y>-893.413333</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 133650</asset>
-  <asset>Asteroids Cluster 138764</asset>
-  <asset>Asteroids Cluster 182422</asset>
-  <asset>Asteroids Cluster 531064</asset>
-  <asset>Asteroids Cluster 556713</asset>
-  <asset>Asteroids Cluster 691007</asset>
-  <asset>Asteroids Cluster 765100</asset>
-  <asset>Asteroids Cluster 784220</asset>
-  <asset>Asteroids Cluster 789102</asset>
-  <asset>Asteroids Cluster 826539</asset>
-  <asset>Asteroids Cluster 895119</asset>
   <asset>LiangXi Mechanics</asset>
   <asset>Mir</asset>
   <asset>Oryol</asset>
@@ -114,4 +103,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

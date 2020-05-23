@@ -11,9 +11,6 @@
   <y>-1032.789120</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 280136</asset>
-  <asset>Asteroids Cluster 286412</asset>
-  <asset>Asteroids Cluster 612078</asset>
   <asset>Niishin Border Station</asset>
   <asset>Nolaas</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
@@ -56,4 +53,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

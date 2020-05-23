@@ -11,14 +11,6 @@
   <y>-2888.592000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 286755</asset>
-  <asset>Asteroids Cluster 515382</asset>
-  <asset>Asteroids Cluster 635869</asset>
-  <asset>Asteroids Cluster 725317</asset>
-  <asset>Asteroids Cluster 747433</asset>
-  <asset>Asteroids Cluster 821909</asset>
-  <asset>Asteroids Cluster 932316</asset>
-  <asset>Asteroids Cluster 999041</asset>
   <asset>Giant</asset>
   <asset>K'tin Trade Center</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
@@ -91,4 +83,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

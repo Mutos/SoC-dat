@@ -11,19 +11,6 @@
   <y>-4215.696000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 235644</asset>
-  <asset>Asteroids Cluster 264120</asset>
-  <asset>Asteroids Cluster 264287</asset>
-  <asset>Asteroids Cluster 264518</asset>
-  <asset>Asteroids Cluster 266674</asset>
-  <asset>Asteroids Cluster 289475</asset>
-  <asset>Asteroids Cluster 458879</asset>
-  <asset>Asteroids Cluster 561222</asset>
-  <asset>Asteroids Cluster 561235</asset>
-  <asset>Asteroids Cluster 564145</asset>
-  <asset>Asteroids Cluster 568840</asset>
-  <asset>Asteroids Cluster 587842</asset>
-  <asset>Asteroids Cluster 654872</asset>
   <asset>Cresina</asset>
   <asset>Melina</asset>
   <asset>Shesinda</asset>
@@ -129,4 +116,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

@@ -11,12 +11,6 @@
   <y>-2834.816000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 215780</asset>
-  <asset>Asteroids Cluster 234651</asset>
-  <asset>Asteroids Cluster 248751</asset>
-  <asset>Asteroids Cluster 454010</asset>
-  <asset>Asteroids Cluster 654215</asset>
-  <asset>Asteroids Cluster 654287</asset>
   <asset>Explorers' Bench</asset>
   <asset>The Eye</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
@@ -73,4 +67,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

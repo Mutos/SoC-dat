@@ -11,9 +11,6 @@
   <y>-1521.648000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 029831</asset>
-  <asset>Asteroids Cluster 576872</asset>
-  <asset>Asteroids Cluster 619012</asset>
   <asset>Thim Humae</asset>
   <asset>Thim ud Aragwedyr</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
@@ -56,4 +53,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

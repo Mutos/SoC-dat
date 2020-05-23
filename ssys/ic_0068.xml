@@ -11,8 +11,6 @@
   <y>1389.936000</y>
  </pos>
  <assets>
-  <asset>Asteroids Cluster 172963</asset>
-  <asset>Asteroids Cluster 64968</asset>
   <asset>Eliinal</asset>
   <asset>Eliinal Outpost</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
@@ -45,4 +43,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

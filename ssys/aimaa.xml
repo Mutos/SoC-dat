@@ -13,9 +13,6 @@
  <assets>
   <asset>Aimaa</asset>
   <asset>Anil'haan</asset>
-  <asset>Asteroids Cluster 289430</asset>
-  <asset>Asteroids Cluster 602178</asset>
-  <asset>Asteroids Cluster 605412</asset>
   <asset>Eraan'tsh</asset>
   <asset>Eraanol</asset>
   <asset>Ets'aalin</asset>
@@ -61,4 +58,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>

@@ -13,11 +13,6 @@
  <assets>
   <asset>A'Ilnet</asset>
   <asset>Alin'T</asset>
-  <asset>Asteroids Cluster 619806</asset>
-  <asset>Asteroids Cluster 68741</asset>
-  <asset>Asteroids Cluster 762188</asset>
-  <asset>Asteroids Cluster 980109</asset>
-  <asset>Asteroids Cluster 981600</asset>
   <asset>El'Tinal</asset>
   <asset>T'Ilnet</asset>
   <asset>T'Telnar</asset>
@@ -70,4 +65,5 @@
    <density>0.5</density>
   </asteroid>
  </asteroids>
+ <asteroids/>
 </ssys>
