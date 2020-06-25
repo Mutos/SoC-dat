@@ -1,7 +1,7 @@
 -- This is a running demo.
 
-include("dat/scripts/proximity.lua")
-include("dat/events/tutorial/tutorial-common.lua")
+require("dat/scripts/proximity.lua")
+require("dat/events/tutorial/tutorial-common.lua")
 
 -- Global variables declaration
 omsg					=      0

@@ -1,6 +1,6 @@
 -- This is the tutorial: basic combat.
 
-include("dat/events/tutorial/tutorial-common.lua")
+require("dat/events/tutorial/tutorial-common.lua")
 
 -- localization stuff, translators would work here
 lang = naev.lang()

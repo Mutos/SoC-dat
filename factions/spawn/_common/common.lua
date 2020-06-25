@@ -16,7 +16,7 @@ include "debug/debug.lua"
 scom = {}
 
 -- Defines ships data as scom members
-include("dat/factions/spawn/_common/ships.lua")
+require("dat/factions/spawn/_common/ships.lua")
 --
 -- ==========================================================================
 

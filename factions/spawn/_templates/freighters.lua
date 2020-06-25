@@ -17,7 +17,7 @@
 include "debug/debug.lua"
 
 -- Common functions
-include("dat/factions/spawn/_common/common.lua")
+require("dat/factions/spawn/_common/common.lua")
 --
 -- ==========================================================================
 

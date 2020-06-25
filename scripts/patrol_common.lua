@@ -4,8 +4,8 @@
 
 ]]--
 
-include("proximity.lua")
-include("numstring.lua")
+require("proximity.lua")
+require("numstring.lua")
 
 -- Filter function
 function filter( func, tbl )

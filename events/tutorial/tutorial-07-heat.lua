@@ -1,7 +1,7 @@
 -- This is the tutorial: heat.
 
-include("dat/events/tutorial/tutorial-common.lua")
-include("dat/scripts/enum.lua")
+require("dat/events/tutorial/tutorial-common.lua")
+require("dat/scripts/enum.lua")
 
 -- localization stuff, translators would work here
 lang = naev.lang()

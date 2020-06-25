@@ -1,4 +1,4 @@
-include("dat/factions/spawn/_common/common.lua")
+require("dat/factions/spawn/_common/common.lua")
 
 
 -- @brief Spawns a single human patrol ship.

@@ -18,7 +18,7 @@ SOURCEFORGE:
 
 ]]--
 
-include("dat/events/fleets/convoy/common.lua")
+require("dat/events/fleets/convoy/common.lua")
 
 -- localization stuff, translators would work here
 lang = naev.lang()

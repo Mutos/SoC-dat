@@ -1,6 +1,6 @@
-include("pilot/generic.lua")
-include("dat/factions/equip/helper.lua")
-include("dat/factions/equip/outfits.lua")
+require("pilot/generic.lua")
+require("dat/factions/equip/helper.lua")
+require("dat/factions/equip/outfits.lua")
 
 
 --[[

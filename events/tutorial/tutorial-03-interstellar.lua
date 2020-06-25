@@ -1,6 +1,6 @@
 -- This is the tutorial: interstallar flight.
 
-include("dat/events/tutorial/tutorial-common.lua")
+require("dat/events/tutorial/tutorial-common.lua")
 
 -- Prepare messaging system
 popupTitles = {}

@@ -121,7 +121,7 @@ include "jumpdist_filters.lua"
 include "cargo_common.lua"
 include "patrol_common.lua"
 include "numstring.lua"
-include("proximity.lua")
+require("proximity.lua")
 
 -- Include helper functions
 include ("dat/events/_commons/_commons.lua")

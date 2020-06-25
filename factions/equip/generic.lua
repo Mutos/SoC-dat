@@ -14,8 +14,8 @@ shipEquipFunctions = {}
 
 -- Include all ship-specific scripts
 -- Each one adds the ship's script to the table under the ship's name index
-include("dat/factions/equip/ships/angrybee.lua")
-include("dat/factions/equip/ships/nelktan.lua")
+require("dat/factions/equip/ships/angrybee.lua")
+require("dat/factions/equip/ships/nelktan.lua")
 --
 -- ================================================================================================================================
 

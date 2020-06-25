@@ -1,6 +1,6 @@
 -- This is the tutorial: exploration and discovery
 
-include("dat/events/tutorial/tutorial-common.lua")
+require("dat/events/tutorial/tutorial-common.lua")
 
 -- localization stuff, translators would work here
 lang = naev.lang()

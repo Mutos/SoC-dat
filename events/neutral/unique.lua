@@ -21,10 +21,10 @@ function create ()
 
 	-- Create unique
 	if unique_class == "Pirate" then
-		include("pilot/pirate.lua")
+		require("pilot/pirate.lua")
 		pirate_create()
 	elseif unique_class == "Core League" then
-		include("pilot/coreleague.lua")
+		require("pilot/coreleague.lua")
 		coreleague_create()
 	end
 
