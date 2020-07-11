@@ -10,7 +10,7 @@
 --     function(s)
 --         for i, v in ipairs(s:planets()) do
 --             if v:faction() == faction.get("Sirius") and v:class() == "M" then
---                 planets[#planets + 1] = {v, s}
+--                 return true
 --             end
 --         end 
 --         return false
@@ -24,62 +24,53 @@
 -- @endcode
 --
 --    @param sys System to calculate distance from or nil to use current system
---    @param min Minimum distance to check for.
+--    @param min Min distance to check for.
 --    @param max Maximum distance to check for.
 --    @param filter Optional filter function to use for more details.
 --    @param data Data to pass to filter
+--    @param hidden Whether or not to consider hidden jumps (off by default)
 --    @return The table of systems n jumps away from sys
 --]]
-function getsysatdistance( sys, min, max, filter, data )
-	-- Get default parameters
-	if sys == nil then
-		sys = system.cur()
-	end
-	if max == nil or max < min then
-		max = min
-	end
-	-- Begin iteration
-	return _getsysatdistance( sys, min, max, sys, max, {}, filter, data )
-end
+function getsysatdistance( sys, min, max, filter, data, hidden )
+   -- Get default parameters
+   if sys == nil then
+      sys = system.cur()
+   end
+   if max == nil then
+      max = min
+   end
 
+   open  = { sys }
+   close = { [sys:name()]=sys }
+   dist  = { [sys:name()]=0 }
 
--- The first call to this function should always have n >= max
-function _getsysatdistance( target, min, max, sys, n, t, filter, data )
-	-- print ( string.format( "\t\tRunning _getsysatdistance (target=\"%s\", min=%i, max=%i, sys=\"%s\", n=%i, t[%i], data)", target:name(), min, max, sys:name(), n, #t ) )
-	if n == 0 then -- This is a leaf call - perform checks and add if appropriate
-		local d = target:jumpDist(sys)
+   -- Run max times
+   for i=1,max do
+      nopen = {}
+      -- Get all the adjacent system of the current set
+      for _,s in ipairs(open) do
+         adjsys = s:adjacentSystems( hidden ) -- Get them all
+         for _,a in ipairs(adjsys) do
+            -- Must not have been explored previously
+            if close[ a:name() ] == nil then
+               nopen[ #nopen+1 ] = a
+               close[ a:name() ] = a
+               dist[  a:name() ] = i
+            end
+         end
+      end
+      open = nopen -- New table becomes the old
+   end
 
-		-- Check bounds
-		if d < min or d > max then
-			-- print ( string.format( "\t\t\tSystem out of bounds : %i for [%i, %i]", d, min, max ) )
-			return t
-		end
-
-		-- Don't add a system already in our array
-		for _,i in ipairs(t) do
-			if i == sys then
-				-- print ( string.format( "\t\t\tSystem already in return table" ) )
-				return t
-			end
-		end
-
-		-- Case filter function is available
-		if filter ~= nil and not filter(sys, data) then
-			-- print ( string.format( "\t\t\tSystem does not pass filter" ) )
-			return t
-		end
-
-		-- All test are OK, add to the tab
-		-- print ( string.format( "\t\t\tSystem OK : adding to return table : \"%s\"", sys:name() ) )
-		t[#t+1] = sys
-	else -- This is a branch call - recursively call over all adjacent systems
-		for _,i in pairs( sys:adjacentSystems() ) do
-			t = _getsysatdistance(target, min, max, i, n-1, t, filter, data)
-		end
-	end
-
-	-- Finally return the table
-	return t
+   -- Now we filter the solutions
+   finalset = {}
+   for i,s in pairs(close) do
+      if dist[i] >= min and dist[i] <= max and
+            (filter == nil or filter(s,data)) then
+         finalset[ #finalset+1 ] = s
+      end
+   end
+   return finalset
 end
 
 
