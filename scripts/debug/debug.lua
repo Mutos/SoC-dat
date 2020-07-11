@@ -64,7 +64,7 @@ function dbg.stdOutput(strPrefixParam, numIndentParam, strMessageParam, boolDebu
 		local tabDateTime = os.date("*t")
 		local strDate = string.format( "%02i", tabDateTime.day ) .. "/" .. string.format( "%02i", tabDateTime.month ) .. "/" .. string.format( "%04i", tabDateTime.year )
 		local strTime = string.format( "%02i", tabDateTime.hour ) .. "." .. string.format( "%02i", tabDateTime.min ) .. "." .. string.format( "%02i", tabDateTime.sec )
-		print ( string.format( "%s(%s:%s) (%s) : %s : %s%s", strLF, strDate, strTime, time.str(), strPrefix, strIndent, strMessage ) )
+		print ( string.format( "%s(%s:%s) (%s) : %s : %s%s", strLF, strDate, strTime, "time.str()", strPrefix, strIndent, strMessage ) )
 	end
 end
 -- 
