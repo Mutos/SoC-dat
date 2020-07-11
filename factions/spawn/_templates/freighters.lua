@@ -30,6 +30,12 @@ function create ( max )
 	local strPrefix = string.format( "freighters.lua:create()" )
 	local boolDebug = false
 
+	if strFaction==nil then
+		strFaction = "Independent"
+	end
+	if strAI==nil then
+		strAI = "independent"
+	end
 	dbg.stdOutput( strPrefix, -1, "entering", boolDebug )
 	dbg.stdOutput( strPrefix, 1, string.format( "strFaction = \"%s\"", strFaction ), boolDebug )
 	dbg.stdOutput( strPrefix, 1, string.format( "strAI      = \"%s\"", strAI      ), boolDebug )
@@ -70,6 +76,9 @@ function spawn ( presence, max )
 
 	local pilots
 
+	if strFaction==nil then
+		strFaction = "Independent"
+	end
 	dbg.stdOutput( strPrefix, 1, string.format("spawn(%i, %i) for \"%s\"", presence, max, strFaction), boolDebug )
 
 	-- Over limit
