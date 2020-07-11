@@ -1,5 +1,5 @@
-include("dat/ai/tpl/generic.lua")
-include("dat/ai/personality/trader.lua")
+require("dat/ai/tpl/generic.lua")
+require("dat/ai/personality/trader.lua")
 
 
 -- Sends a distress signal which causes faction loss
@@ -48,7 +48,7 @@ function create ()
    -- Some stuff has more chance then others
    num = rnd.int(12)
    if num < 5 then
-      cargo = "Generic Food"
+      cargo = "Food"
    elseif num < 8 then
       cargo = "Ore"
    elseif num < 10 then
