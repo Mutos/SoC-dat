@@ -1,7 +1,7 @@
 -- This is the tutorial: disabling.
 
-include("dat/events/tutorial/tutorial-common.lua")
-include("dat/scripts/fleethelper.lua")
+require("events/tutorial/tutorial-common.lua")
+require("scripts/fleethelper.lua")
 
 -- localization stuff, translators would work here
 lang = naev.lang()

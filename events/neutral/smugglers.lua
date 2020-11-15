@@ -120,8 +120,8 @@ include ("dat/events/fleets/common.lua")
 include ("dat/events/_commons/_commons.lua")
 
 -- Include selection for ship type to display
-include "select/selectShipType.lua"
-include "select/selectShipName.lua"
+require "select/selectShipType.lua"
+require "select/selectShipName.lua"
 
 --
 -- =======================================================================================

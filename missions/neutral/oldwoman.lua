@@ -6,8 +6,8 @@
 --
 --]]
 
-include "jumpdist.lua"
-include "cargo_common.lua"
+require "jumpdist.lua"
+require "cargo_common.lua"
 
 -- Localization, choosing a language if naev is translated for non-english-speaking locales.
 lang = naev.lang()

@@ -1,5 +1,5 @@
 -- Common functions
-include("dat/factions/spawn/_common/common.lua")
+require("factions/spawn/_common/common.lua")
 
 -- Set faction for this script
 local strFaction = "Irilia Clan"

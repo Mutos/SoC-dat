@@ -10,8 +10,8 @@
 -- 
 -- =======================================================================================
 --
-include "select/selectFromKeywords.lua"
-include "select/selectSpecies.lua"
+require "select/selectFromKeywords.lua"
+require "select/selectSpecies.lua"
 --
 -- =======================================================================================
 

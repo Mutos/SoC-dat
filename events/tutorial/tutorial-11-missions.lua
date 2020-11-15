@@ -1,6 +1,6 @@
 -- This is tutorial: missions and events.
 
-include("dat/events/tutorial/tutorial-common.lua")
+require("events/tutorial/tutorial-common.lua")
 
 -- localization stuff, translators would work here
 lang = naev.lang()

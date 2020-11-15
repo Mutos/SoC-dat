@@ -1,5 +1,5 @@
 -- Generic equipping routines, helper functions and outfit definitions.
-include("dat/factions/equip/generic.lua")
+require("factions/equip/generic.lua")
 
 -- Quick hack for absence of equip_classOutfits_weapons in generic.lua
 equip_classOutfits_weapons = {}

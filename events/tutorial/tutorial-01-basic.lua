@@ -1,7 +1,7 @@
 -- This is the first tutorial: basic operation.
 
-include("dat/scripts/proximity.lua")
-include("dat/events/tutorial/tutorial-common.lua")
+require("scripts/proximity.lua")
+require("events/tutorial/tutorial-common.lua")
 
 -- localization stuff, translators would work here
 lang = naev.lang()

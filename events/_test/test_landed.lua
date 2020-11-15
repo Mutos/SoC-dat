@@ -12,7 +12,7 @@
 --
 
 -- Debug facility
-include "debug/debug.lua"
+require "debug/debug.lua"
 
 -- Event prefix for variables
 evtPrefix = "evt_Test_Landed_"
@@ -57,9 +57,9 @@ end
 --
 
 -- Include helper functions
-include "select/selectShipType.lua"
-include "select/selectShipName.lua"
-include "select/selectSpecies.lua"
+require "select/selectShipType.lua"
+require "select/selectShipName.lua"
+require "select/selectSpecies.lua"
 
 -- Include helper functions
 include ("dat/events/_commons/_commons.lua")

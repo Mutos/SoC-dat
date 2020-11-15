@@ -1,6 +1,6 @@
 -- Toolsets include
-include "numstring.lua"
-include "debug/debug.lua"
+require "numstring.lua"
+require "debug/debug.lua"
 
 function create()
 	-- DEBUG

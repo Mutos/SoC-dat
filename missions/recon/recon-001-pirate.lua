@@ -116,11 +116,11 @@ end
 --
 
 -- Include helper functions
-include "jumpdist.lua"
-include "jumpdist_filters.lua"
-include "cargo_common.lua"
-include "patrol_common.lua"
-include "numstring.lua"
+require "jumpdist.lua"
+require "jumpdist_filters.lua"
+require "cargo_common.lua"
+require "patrol_common.lua"
+require "numstring.lua"
 include("proximity.lua")
 
 -- Include helper functions

@@ -1,4 +1,4 @@
-include("dat/factions/spawn/_common/common.lua")
+require("factions/spawn/_common/common.lua")
 
 
 -- @brief Spawns a small group of miners

@@ -10,13 +10,13 @@
 -- ==========================================================================
 --
 -- Debug facility
-include "debug/debug.lua"
+require "debug/debug.lua"
 
 -- Define variable to contain functions
 scom = {}
 
 -- Defines ships data as scom members
-include("dat/factions/spawn/_common/ships.lua")
+require("factions/spawn/_common/ships.lua")
 --
 -- ==========================================================================
 
@@ -153,6 +153,9 @@ function scom.spawn( pilots, faction, ai )
 	local boolDebug = true
 
 	dbg.stdOutput( strPrefix, -1, "entering", boolDebug )
+	print("===> After dbg.stdOutput returns")
+	dbg.stdOutput( strPrefix, 0, string.format( "Faction == %s", faction ), boolDebug )
+	dbg.stdOutput( strPrefix, 0, string.format( "AI      == %s", ai ), boolDebug )
 
 	local sFaction = faction
 	local sAI = ai
@@ -163,7 +166,10 @@ function scom.spawn( pilots, faction, ai )
 		dbg.stdOutput( strPrefix, 1, "pilots == nil : nothing to spawn", boolDebug )
 		dbg.stdOutput( strPrefix, 0, "exiting", boolDebug )
 		return spawned
+	else
+		dbg.stdOutput( strPrefix, 0, string.format( "# of pilots : %i", #pilots ), boolDebug )
 	end
+
 	if #pilots == 0 then
 		dbg.stdOutput( strPrefix, 1, "#pilots == 0 : nothing to spawn", boolDebug )
 		dbg.stdOutput( strPrefix, 0, "exiting", boolDebug )

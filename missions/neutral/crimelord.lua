@@ -5,7 +5,7 @@
 			  DESCRIPTION: Pirates chase you to Ogat.
 ]]--
 
-include "fleethelper.lua"
+require "fleethelper.lua"
 
 lang = naev.lang()
 if lang == "es" then

@@ -127,8 +127,8 @@ include ("dat/events/fleets/common.lua")
 
 -- Include helper functions
 include ("dat/events/_commons/_commons.lua")
-include "select/selectShipType.lua"
-include "select/selectShipName.lua"
+require "select/selectShipType.lua"
+require "select/selectShipName.lua"
 
 --
 -- =======================================================================================

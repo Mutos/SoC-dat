@@ -1,9 +1,9 @@
 -- Toolsets include
-include "numstring.lua"
-include "debug/debug.lua"
+require "numstring.lua"
+require "debug/debug.lua"
 
 -- Landing functions include
-include "landing/landing_params_passes.lua"		-- Parameters table used by the generic functions.
+require "landing/landing_params_passes.lua"		-- Parameters table used by the generic functions.
 
 function create()
 	-- DEBUG

@@ -1,9 +1,8 @@
 --[[
 -- Shipwreck Event
 -- 
--- Creates a wrecked ship that asks for help. If the player boards it, the event switches to a people transport mission
---   For now, the only one such mission is the Space Family.
--- See dat/missions/shipwreck/spacefamily.lua
+-- Creates a wrecked cargo that asks for help. If the player boards it, the event switches to a special people transport mission
+--     Created from neutral/shipwreck.lua
 -- 
 -- 12/02/2010 - Added visibility/highlight options for use in bigsystems (Anatolis)
 --]]
@@ -20,9 +19,10 @@ else -- default english
 	 broadcastmsg = "SOS. This is %s. We are shipwrecked. Requesting immediate assistance."
 end
 
--- The shipwrech will be a random trader vessel.
-strShipName = selectShipName({"+civilian"})
-strShipType = selectShipType({"+cargo"})
+-- The shipwrech is the Antelope, an old, rust-eaten Eresslih
+-- Captained by Jedediah Shulmann, it was in Freeport 6 
+strShipName = "Eresslih"
+strShipType = "Antelope"
 
 function create ()
 	 -- Create the derelict.

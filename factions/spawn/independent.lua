@@ -1,5 +1,5 @@
 -- Common functions
-include("dat/factions/spawn/_templates/freighters.lua")
+require("factions/spawn/_templates/freighters.lua")
 
 -- Set input variables for the script
 strFaction = "Independent"

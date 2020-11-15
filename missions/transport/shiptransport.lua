@@ -8,10 +8,10 @@
 	NOTE: codes from cargo.lua and cargo_common.lua
 --]]
 
-include "cargo_common.lua"
-include "jumpdist.lua"
-include "numstring.lua"
-include "nextjump.lua"
+require "cargo_common.lua"
+require "jumpdist.lua"
+require "numstring.lua"
+require "nextjump.lua"
 
 lang = naev.lang()
 if lang == "es" then

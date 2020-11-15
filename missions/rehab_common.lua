@@ -15,10 +15,10 @@
 --
 
 -- Numerical operations on string
-include "numstring.lua"
+require "numstring.lua"
 
 -- Debug facility
-include "debug/debug.lua"
+require "debug/debug.lua"
 
 --
 -- =======================================================================================

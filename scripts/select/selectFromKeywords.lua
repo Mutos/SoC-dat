@@ -5,8 +5,8 @@
 		[+/-]<character string>[|<number>]
 
 	Usage :
-	  1/ Include "selectFromKeywords.lua" in a new file, for instance "selectShipType.lua" :
-			include "selectFromKeywords.lua"
+	  1/ require "selectFromKeywords.lua" in a new file, for instance "selectShipType.lua" :
+			require "selectFromKeywords.lua"
 
 	  2/ Define your dataVar like :
 			local shipTypes = {
@@ -20,7 +20,7 @@
 			end
 
 	  4/ Include the file where you defined your dataVar and function :
-			include "selectShipType.lua"
+			require "selectShipType.lua"
 
 	  5/ Call your function like :
 			-- Look for tramps that often carry contraband or are used by pirates, but are not outdated

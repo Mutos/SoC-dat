@@ -13,25 +13,25 @@ civ_name = "Civilian"
 msg_lore = {}
 
 -- Include tutorial information
-include "dat/events/tutorial/tutorial-common.lua"	-- Used for referencing the tutorials
+require "events/tutorial/tutorial-common.lua"	-- Used for referencing the tutorials
 
 -- Include common data
-include "dat/events/npc/common/descriptions.lua"	-- NPCs generic descriptions
-include "dat/events/npc/common/tips.lua"			-- Gameplay tips
-include "dat/events/npc/common/jumps.lua"			-- Jump points information
-include "dat/events/npc/common/events.lua"			-- Events hints and after-care
-include "dat/events/npc/common/missions.lua"		-- Missions hints and after-care
+require "events/npc/common/descriptions.lua"	-- NPCs generic descriptions
+require "events/npc/common/tips.lua"			-- Gameplay tips
+require "events/npc/common/jumps.lua"			-- Jump points information
+require "events/npc/common/events.lua"			-- Events hints and after-care
+require "events/npc/common/missions.lua"		-- Missions hints and after-care
 
 -- Include faction-specific data
-include "dat/events/npc/factions/general.lua"			-- General portraits and lore messages
-include "dat/events/npc/factions/independent.lua"		-- Portraits and lore messages related to the Independents
-include "dat/events/npc/factions/hoshinohekka.lua"		-- Portraits and lore messages related to the Hoshi no Hekka
-include "dat/events/npc/factions/aktamanniskor.lua"		-- Portraits and lore messages related to the Akta Manniskor
-include "dat/events/npc/factions/irilia.lua"			-- Portraits and lore messages related to the Irilia Clan
-include "dat/events/npc/factions/arythem.lua"			-- Portraits and lore messages related to the Arythem Clan
-include "dat/events/npc/factions/irmothem.lua"			-- Portraits and lore messages related to the Irmothem Clan
-include "dat/events/npc/factions/coreleague.lua"		-- Portraits and lore messages related to the Core League
-include "dat/events/npc/factions/danebanarchs.lua"		-- Portraits and lore messages related to the Daneb Anarchs
+require "events/npc/factions/general.lua"			-- General portraits and lore messages
+require "events/npc/factions/independent.lua"		-- Portraits and lore messages related to the Independents
+require "events/npc/factions/hoshinohekka.lua"		-- Portraits and lore messages related to the Hoshi no Hekka
+require "events/npc/factions/aktamanniskor.lua"		-- Portraits and lore messages related to the Akta Manniskor
+require "events/npc/factions/irilia.lua"			-- Portraits and lore messages related to the Irilia Clan
+require "events/npc/factions/arythem.lua"			-- Portraits and lore messages related to the Arythem Clan
+require "events/npc/factions/irmothem.lua"			-- Portraits and lore messages related to the Irmothem Clan
+require "events/npc/factions/coreleague.lua"		-- Portraits and lore messages related to the Core League
+require "events/npc/factions/danebanarchs.lua"		-- Portraits and lore messages related to the Daneb Anarchs
 
 function create()
 	-- Logic to decide what to spawn, if anything.

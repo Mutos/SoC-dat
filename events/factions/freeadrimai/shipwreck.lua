@@ -13,7 +13,7 @@
 -- ==========================================================================
 --
 -- Debug facility
-include "debug/debug.lua"
+require "debug/debug.lua"
 
 -- define variables
 numEventOccurences = nil

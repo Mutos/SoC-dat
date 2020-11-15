@@ -35,18 +35,37 @@ function dbg.stdOutput(strPrefixParam, numIndentParam, strMessageParam, boolDebu
 	local strMessage = ""
 	local boolDebug = true
 
-	-- Check parameters
+	-- Debug : try not to print anything
+	if true then
+		return
+	end
+
+	-- Check boolean parameter
+	if type(boolDebugParam)=="boolean" then
+		if boolDebugParam then
+			print ( string.format( "strPrefixParam : \"%s\", numIndentParam : %i, strMessageParam : \"%s\", boolDebugParam : %s", strPrefixParam, numIndentParam, strMessageParam, tostring(boolDebugParam) ) )
+		else
+			return
+		end
+	else
+		return
+	end
+
+	-- Check the other parameters
 	if type(strPrefixParam)=="string" then
 		strPrefix  = strPrefixParam
+	else
+		return
 	end
 	if type(numIndentParam)=="number" then
 		numIndent  = numIndentParam
+	else
+		return
 	end
 	if type(strMessageParam)=="string" then
 		strMessage = strMessageParam
-	end
-	if type(boolDebugParam)=="boolean" then
-		boolDebug = boolDebugParam
+	else
+		return
 	end
 
 	-- Built indentation and line feed strings
@@ -64,7 +83,14 @@ function dbg.stdOutput(strPrefixParam, numIndentParam, strMessageParam, boolDebu
 		local tabDateTime = os.date("*t")
 		local strDate = string.format( "%02i", tabDateTime.day ) .. "/" .. string.format( "%02i", tabDateTime.month ) .. "/" .. string.format( "%04i", tabDateTime.year )
 		local strTime = string.format( "%02i", tabDateTime.hour ) .. "." .. string.format( "%02i", tabDateTime.min ) .. "." .. string.format( "%02i", tabDateTime.sec )
-		print ( string.format( "%s(%s:%s) (%s) : %s : %s%s", strLF, strDate, strTime, time.str(), strPrefix, strIndent, strMessage ) )
+		local strInGameTime = time.str()
+		print ( strInGameTime )
+		local strPrintedString = string.format( "%s(%s:%s) (%s) : %s : %s%s", strLF, strDate, strTime, strInGameTime, strPrefix, strIndent, strMessage )
+		print("===> dbg.stdOutput : before print(strPrintedString) statement")
+		print ( string.format( "strPrintedString : \"%s\"", strPrintedString ) )
+		print("===> dbg.stdOutput : before print statement")
+		print ( strPrintedString )
+		print("===> dbg.stdOutput : after print statement")
 	end
 end
 -- 

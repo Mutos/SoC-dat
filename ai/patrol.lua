@@ -1,5 +1,5 @@
-include("dat/ai/tpl/generic.lua")
-include("dat/ai/personality/patrol.lua")
+require("ai/tpl/generic.lua")
+require("ai/personality/patrol.lua")
 
 -- Settings
 mem.armour_run = 40

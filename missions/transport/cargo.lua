@@ -3,9 +3,9 @@
 -- Most of these missions require BULK ships. Not for small ships!
 --]]
 
-include "jumpdist.lua"
-include "cargo_common.lua"
-include "numstring.lua"
+require "jumpdist.lua"
+require "cargo_common.lua"
+require "numstring.lua"
 
 lang = naev.lang()
 if lang == "es" then

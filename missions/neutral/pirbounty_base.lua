@@ -22,9 +22,9 @@
 
 --]]
 
-include "numstring.lua"
-include "jumpdist.lua"
-include "pilot/pirate.lua"
+require "numstring.lua"
+require "jumpdist.lua"
+require "pilot/pirate.lua"
 
 -- Localization
 lang = naev.lang()

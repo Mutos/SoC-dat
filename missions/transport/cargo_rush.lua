@@ -3,9 +3,9 @@
 -- These missions require fast ships, but higher tiers may also require increased cargo space.
 --]]
 
-include "jumpdist.lua"
-include "cargo_common.lua"
-include "numstring.lua"
+require "jumpdist.lua"
+require "cargo_common.lua"
+require "numstring.lua"
 
 lang = naev.lang()
 if lang == "es" then

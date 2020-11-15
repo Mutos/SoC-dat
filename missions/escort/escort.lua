@@ -11,7 +11,7 @@
 --
 
 -- Debug facility
-include "debug/debug.lua"
+require "debug/debug.lua"
 
 --
 -- =======================================================================================
@@ -178,11 +178,11 @@ end
 --
 
 -- Include helper functions
-include "jumpdist.lua"
-include "cargo_common.lua"
-include "numstring.lua"
-include "select/selectShipType.lua"
-include "select/selectShipName.lua"
+require "jumpdist.lua"
+require "cargo_common.lua"
+require "numstring.lua"
+require "select/selectShipType.lua"
+require "select/selectShipName.lua"
 
 -- Include helper functions
 include ("dat/events/_commons/_commons.lua")

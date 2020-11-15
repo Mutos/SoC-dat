@@ -1,6 +1,6 @@
 -- Based on the same bricks as the regular cargo mission
-include "cargo_common.lua"
-include "numstring.lua"
+require "cargo_common.lua"
+require "numstring.lua"
 
 -- A set of GLOBAL variables properly named to save the event parameters
 evtSave_System = nil

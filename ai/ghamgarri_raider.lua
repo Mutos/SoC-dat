@@ -1,4 +1,4 @@
-include("dat/ai/personality/raider.lua")
+require("ai/personality/raider.lua")
 
 --[[
 

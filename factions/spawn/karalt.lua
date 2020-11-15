@@ -1,4 +1,4 @@
-include("dat/factions/spawn/_common/common.lua")
+require("factions/spawn/_common/common.lua")
 
 local strFaction = "Ka'Ralt Secession"
 

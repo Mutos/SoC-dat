@@ -22,7 +22,7 @@
 
 --]]
 
-include "dat/missions/neutral/pirbounty_base.lua"
+require "missions/neutral/pirbounty_base.lua"
 
 -- Localization
 lang = naev.lang()

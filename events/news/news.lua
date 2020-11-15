@@ -11,13 +11,13 @@ greet_table={}
 articles={}
 
 -- Include generic and faction-specific newsfeeds
-include("dat/events/news/generic.lua")
-include("dat/events/news/factions/alliance.lua")
-include("dat/events/news/factions/baartish.lua")
-include("dat/events/news/factions/coreleague.lua")
-include("dat/events/news/factions/hoshinohekka.lua")
-include("dat/events/news/factions/independent.lua")
-include("dat/events/news/factions/pirate.lua")
+require("events/news/generic.lua")
+require("events/news/factions/alliance.lua")
+require("events/news/factions/baartish.lua")
+require("events/news/factions/coreleague.lua")
+require("events/news/factions/hoshinohekka.lua")
+require("events/news/factions/independent.lua")
+require("events/news/factions/pirate.lua")
 
 	-- create generic news
 function create()

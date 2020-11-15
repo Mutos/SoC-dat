@@ -29,7 +29,7 @@ else -- default english
 
 end 
 
-include("dat/events/fleets/factionsspawnsettings.lua")
+require("events/fleets/factionsspawnsettings.lua")
 
 -- Module-global variables
 minFleetDelay = {}

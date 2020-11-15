@@ -8,7 +8,7 @@
 
 ]]--
 
-include "numstring.lua"
+require "numstring.lua"
 
 -- localization stuff, translators would work here
 lang = naev.lang()
