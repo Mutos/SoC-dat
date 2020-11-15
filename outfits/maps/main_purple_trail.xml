@@ -21,18 +21,12 @@
    <jump>PT 0044</jump>
    <jump>PT 0049</jump>
    <jump>PT 0050</jump>
-   <asset>Asteroids Cluster 403739</asset>
-   <asset>Asteroids Cluster 708184</asset>
-   <asset>Asteroids Cluster 947761</asset>
    <asset>Nya Jorden</asset>
   </sys>
   <sys name="PT 0024">
    <jump>PT 0022</jump>
    <jump>PT 0023</jump>
    <jump>PT 0031</jump>
-   <asset>Asteroids Cluster 476219</asset>
-   <asset>Asteroids Cluster 587210</asset>
-   <asset>Asteroids Cluster 820176</asset>
    <asset>Furnace</asset>
    <asset>Hell's Kitchen Outpost</asset>
   </sys>
@@ -255,20 +249,11 @@
   <sys name="Brinn">
    <jump>PT 0063</jump>
    <jump>PT 0064</jump>
-   <asset>Asteroids Cluster 156457</asset>
-   <asset>Asteroids Cluster 410955</asset>
-   <asset>Asteroids Cluster 573745</asset>
-   <asset>Asteroids Cluster 645525</asset>
-   <asset>Asteroids Cluster 892542</asset>
    <asset>Brinn Border Station</asset>
   </sys>
   <sys name="Gallant">
    <jump>PT 0052</jump>
    <jump>PT 0053</jump>
-   <asset>Asteroids Cluster 633812</asset>
-   <asset>Asteroids Cluster 641538</asset>
-   <asset>Asteroids Cluster 715789</asset>
-   <asset>Asteroids Cluster 863080</asset>
    <asset>Gallant's Moon</asset>
    <asset>Paradiso</asset>
   </sys>
@@ -279,11 +264,6 @@
   </sys>
   <sys name="Hammerfall">
    <asset>Ahn Trading Post</asset>
-   <asset>Asteroids Cluster 275201</asset>
-   <asset>Asteroids Cluster 527894</asset>
-   <asset>Asteroids Cluster 564878</asset>
-   <asset>Asteroids Cluster 642870</asset>
-   <asset>Asteroids Cluster 689754</asset>
    <asset>Crusher</asset>
    <asset>Fahrenheit</asset>
    <asset>Hammerfall</asset>

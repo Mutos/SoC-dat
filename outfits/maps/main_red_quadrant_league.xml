@@ -124,16 +124,11 @@
   </sys>
   <sys name="The Line">
    <jump>Gentle Light</jump>
-   <asset>Asteroids Cluster 641252</asset>
    <asset>Line Border Station</asset>
   </sys>
   <sys name="Gentle Light">
    <jump>RQL 0032</jump>
    <jump>The Line</jump>
-   <asset>Asteroids Cluster 262541</asset>
-   <asset>Asteroids Cluster 655541</asset>
-   <asset>Asteroids Cluster 845126</asset>
-   <asset>Asteroids Cluster 956654</asset>
    <asset>Beautiful Sands</asset>
    <asset>Burning Clouds</asset>
    <asset>Gentle Light</asset>
@@ -154,20 +149,12 @@
   <sys name="Savory Clouds">
    <jump>RQL 0023</jump>
    <jump>RQL 0025</jump>
-   <asset>Asteroids Cluster 264210</asset>
-   <asset>Asteroids Cluster 621884</asset>
    <asset>Divers' Beach</asset>
    <asset>Savory Clouds</asset>
   </sys>
   <sys name="Howling Comets">
    <jump>RQL 0034</jump>
    <jump>RQL 0057</jump>
-   <asset>Asteroids Cluster 231211</asset>
-   <asset>Asteroids Cluster 235879</asset>
-   <asset>Asteroids Cluster 456781</asset>
-   <asset>Asteroids Cluster 564888</asset>
-   <asset>Asteroids Cluster 565421</asset>
-   <asset>Asteroids Cluster 899845</asset>
    <asset>Howling Comets</asset>
   </sys>
   <sys name="Svenia">

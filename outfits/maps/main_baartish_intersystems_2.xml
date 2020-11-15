@@ -17,14 +17,6 @@
   <sys name="Talshimaal">
    <jump>BI 0054</jump>
    <jump>BI-ShC - 1 - 1</jump>
-   <asset>Asteroids Cluster 304067</asset>
-   <asset>Asteroids Cluster 304527</asset>
-   <asset>Asteroids Cluster 630245</asset>
-   <asset>Asteroids Cluster 632421</asset>
-   <asset>Asteroids Cluster 632871</asset>
-   <asset>Asteroids Cluster 679820</asset>
-   <asset>Asteroids Cluster 685656</asset>
-   <asset>Asteroids Cluster 952078</asset>
    <asset>Talshimaal Border Station</asset>
   </sys>
   <sys name="Aimaa">
@@ -33,9 +25,6 @@
    <jump>BI 0055</jump>
    <asset>Aimaa</asset>
    <asset>Anil'haan</asset>
-   <asset>Asteroids Cluster 289430</asset>
-   <asset>Asteroids Cluster 602178</asset>
-   <asset>Asteroids Cluster 605412</asset>
    <asset>Eraan'tsh</asset>
    <asset>Eraanol</asset>
    <asset>Ets'aalin</asset>
@@ -284,8 +273,6 @@
    <jump>BI 0056</jump>
    <jump>Bi 0085</jump>
    <asset>Aarinel</asset>
-   <asset>Asteroids Cluster 459754</asset>
-   <asset>Asteroids Cluster 645875</asset>
    <asset>Sshiinan Border Station</asset>
   </sys>
   <sys name="Ary-IC-BI-ShC - 1 - 1">

@@ -38,8 +38,6 @@
   <sys name="Irilia-18">
    <jump>Iri 0225</jump>
    <jump>Iri 0230</jump>
-   <asset>Asteroids Cluster 415614</asset>
-   <asset>Asteroids Cluster 478149</asset>
    <asset>Elthain</asset>
    <asset>Irilia-18</asset>
   </sys>
@@ -58,12 +56,6 @@
   <sys name="Drih Dromae">
    <jump>Iri 0214</jump>
    <jump>Iri 0224</jump>
-   <asset>Asteroids Cluster 176862</asset>
-   <asset>Asteroids Cluster 518677</asset>
-   <asset>Asteroids Cluster 591021</asset>
-   <asset>Asteroids Cluster 678521</asset>
-   <asset>Asteroids Cluster 798861</asset>
-   <asset>Asteroids Cluster 901023</asset>
    <asset>Drih Skarae</asset>
    <asset>Irol</asset>
   </sys>

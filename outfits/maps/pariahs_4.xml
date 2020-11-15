@@ -34,14 +34,6 @@
   </sys>
   <sys name="Eshii-K'tin">
    <jump>Ind 0004</jump>
-   <asset>Asteroids Cluster 286755</asset>
-   <asset>Asteroids Cluster 515382</asset>
-   <asset>Asteroids Cluster 635869</asset>
-   <asset>Asteroids Cluster 725317</asset>
-   <asset>Asteroids Cluster 747433</asset>
-   <asset>Asteroids Cluster 821909</asset>
-   <asset>Asteroids Cluster 932316</asset>
-   <asset>Asteroids Cluster 999041</asset>
    <asset>Giant</asset>
    <asset>K'tin Trade Center</asset>
   </sys>
@@ -52,12 +44,6 @@
   <sys name="Ind 0007"/>
   <sys name="TPL 0019">
    <jump>TPL 0024</jump>
-   <asset>Asteroids Cluster 138891</asset>
-   <asset>Asteroids Cluster 414877</asset>
-   <asset>Asteroids Cluster 466825</asset>
-   <asset>Asteroids Cluster 587998</asset>
-   <asset>Asteroids Cluster 699809</asset>
-   <asset>Asteroids Cluster 769109</asset>
   </sys>
   <sys name="TPL 0024">
    <jump>TPL 0019</jump>

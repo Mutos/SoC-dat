@@ -8,23 +8,9 @@
  </general>
  <specific type="map">
   <sys name="Shadow Grave">
-   <asset>Asteroids Cluster 086411</asset>
-   <asset>Asteroids Cluster 087545</asset>
-   <asset>Asteroids Cluster 287623</asset>
-   <asset>Asteroids Cluster 642781</asset>
-   <asset>Asteroids Cluster 804508</asset>
-   <asset>Asteroids Cluster 873140</asset>
-   <asset>Asteroids Cluster 987130</asset>
    <asset>Shadow Grave</asset>
   </sys>
   <sys name="Shadow Grave">
-   <asset>Asteroids Cluster 086411</asset>
-   <asset>Asteroids Cluster 087545</asset>
-   <asset>Asteroids Cluster 287623</asset>
-   <asset>Asteroids Cluster 642781</asset>
-   <asset>Asteroids Cluster 804508</asset>
-   <asset>Asteroids Cluster 873140</asset>
-   <asset>Asteroids Cluster 987130</asset>
    <asset>Shadow Grave</asset>
   </sys>
   <sys name="T'Tilkan">

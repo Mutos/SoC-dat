@@ -10,17 +10,11 @@
   <sys name="Iralii">
    <jump>IC 0003</jump>
    <jump>IC 0034</jump>
-   <asset>Asteroids Cluster 710241</asset>
-   <asset>Asteroids Cluster 720132</asset>
-   <asset>Asteroids Cluster 916201</asset>
    <asset>Iralii Border Station</asset>
   </sys>
   <sys name="Shilian">
    <jump>IC 0032</jump>
    <jump>IC 0034</jump>
-   <asset>Asteroids Cluster 710056</asset>
-   <asset>Asteroids Cluster 860028</asset>
-   <asset>Asteroids Cluster105227</asset>
    <asset>Shilian</asset>
    <asset>Shiren</asset>
   </sys>
@@ -46,8 +40,6 @@
   </sys>
   <sys name="IC 0068">
    <jump>IC 0066</jump>
-   <asset>Asteroids Cluster 172963</asset>
-   <asset>Asteroids Cluster 64968</asset>
    <asset>Eliinal</asset>
    <asset>Eliinal Outpost</asset>
   </sys>
@@ -262,20 +254,12 @@
    <jump>IC 0076</jump>
    <jump>IC 0078</jump>
    <asset>Aan-Neel Border Station</asset>
-   <asset>Asteroids Cluster 106492</asset>
   </sys>
   <sys name="IC-ShC - 1 -1">
    <jump>IC 0001</jump>
    <jump>IC 0002</jump>
    <asset>Aans Border Station</asset>
    <asset>Anniin es Losth</asset>
-   <asset>Asteroids Cluster 256408</asset>
-   <asset>Asteroids Cluster 450124</asset>
-   <asset>Asteroids Cluster 587264</asset>
-   <asset>Asteroids Cluster 642180</asset>
-   <asset>Asteroids Cluster 642879</asset>
-   <asset>Asteroids Cluster 832706</asset>
-   <asset>Asteroids Cluster 972050</asset>
    <asset>Eshell</asset>
   </sys>
   <sys name="IC 0001">
@@ -288,9 +272,6 @@
   </sys>
   <sys name="IC 0007">
    <jump>IC 0006</jump>
-   <asset>Asteroids Cluster 201534</asset>
-   <asset>Asteroids Cluster 201570</asset>
-   <asset>Asteroids Cluster 642078</asset>
    <asset>Eresh</asset>
    <asset>Iinaal</asset>
    <asset>Oshiin</asset>
