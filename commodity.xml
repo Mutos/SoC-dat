@@ -2,7 +2,7 @@
 <Commodities>
  <commodity>
   <name>Food</name>
-  <description>Evolving from the military rations of the ancient past, modern packaged meals are rich in nutrients and able to last many cycles in their vacuum-sealed packaging.</description>
+  <description>Evolving from the military rations of the ancient past, modern packaged meals are rich in nutrients and able to last many cycles in their vacuum-sealed packaging. Note than generic food is engineered to be biocompatible with all sentient species and their common ecosystems.</description>
   <price>210</price>
   <gfx_store>standard_mealpacks</gfx_store>
   <standard/>
@@ -21,8 +21,44 @@
   <faction_modifier type="Frontier">1.2</faction_modifier>
  </commodity>
  <commodity>
+  <name>K'Rinn Food</name>
+  <description>Food, generally vegetable, produced on k'rinn-biocompatible ecosystems. Warning : limited risk of not being edible for other species.</description>
+  <price>210</price>
+  <gfx_store>luxury_mealpacks</gfx_store>
+ </commodity>
+ <commodity>
+  <name>Rith Food</name>
+  <description>Food, generally animal meat, produced on rith-biocompatible ecosystems. Warning : high risk of not being edible for other species.</description>
+  <price>210</price>
+  <gfx_store>luxury_mealpacks</gfx_store>
+ </commodity>
+ <commodity>
+  <name>Human Food</name>
+  <description>Food produced on human-biocompatible ecosystems. Warning : limited risk of not being edible for other species.</description>
+  <price>210</price>
+  <gfx_store>luxury_mealpacks</gfx_store>
+ </commodity>
+ <commodity>
+  <name>Sshaad Food</name>
+  <description>Food, generally animal meat, produced on sshaad-biocompatible ecosystems. Warning : limited risk of not being edible for other species.</description>
+  <price>210</price>
+  <gfx_store>luxury_mealpacks</gfx_store>
+ </commodity>
+ <commodity>
+  <name>Shapeshifter Food</name>
+  <description>Food produced on shapeshifter-biocompatible ecosystems. Warning : medium risk of not being edible for other species.</description>
+  <price>210</price>
+  <gfx_store>luxury_mealpacks</gfx_store>
+ </commodity>
+ <commodity>
+  <name>Pupeteer Food</name>
+  <description>Food for pupeteer symbiotes, generaly grains, produced from pupeteer-biocompatible ecosystems. Warning : high risk of not being edible for other species.</description>
+  <price>210</price>
+  <gfx_store>grains</gfx_store>
+ </commodity>
+ <commodity>
   <name>Water</name>
-  <description>An unusual chemical that we humans take for granted, water is necessary for sustaining human life and useful in many industries due to its unique properties. While common, it is not evenly dispersed throughout the galaxy, leading to heavy concentrations in some areas and a complete absence of water in other areas.</description>
+  <description>An unusual chemical that we sentients take for granted, water is necessary for sustaining all known ecosystemms and useful in many industries due to its unique properties. While common, it is not evenly dispersed throughout the galaxy, leading to heavy concentrations in some areas and a complete absence of water in other areas.</description>
   <price>250</price>
   <gfx_store>heavy_water</gfx_store>
   <gfx_space>water</gfx_space>
@@ -167,6 +203,12 @@
   <faction_modifier type="Sirius">1.3</faction_modifier>
   <faction_modifier type="Thurion">0.8</faction_modifier>
   <faction_modifier type="Za'lek">0.5</faction_modifier>
+ </commodity>
+ <commodity>
+  <name>Ziffelan Minidragons</name>
+  <description>It was already illegal to get minidragons out of Ziffel IV, even before the quarantine, hence their exorbitant price. Plus, the huge requirements of cryosleep make that a one-ton container can only hold a dozen bird-sized creatures.</description>
+  <gfx_store>minidragon</gfx_store>
+  <price>1000</price>
  </commodity>
  <commodity>
   <name>Ancient Artifact</name>
