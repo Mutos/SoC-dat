@@ -1,4 +1,14 @@
 --[[
+<?xml version='1.0' encoding='utf8'?>
+<event name="Naev Needs You!">
+  <trigger>land</trigger>
+  <chance>8</chance>
+  <flags>
+   <unique />
+  </flags>
+ </event>
+ --]]
+--[[
 
 EVENT TITLE: Naev Needs You!
 DESCRIPTION: 
@@ -49,7 +59,7 @@ function create()
       end
 
       -- Create an eerie atmosphere by cutting off the background music and substituting something spooky
-      --disabled until difficulties with the music api are sorted out
+      --disabled until difficulties with the music API are sorted out
       if music.isPlaying() then
          background_music, music_played = music.current()
          music.stop()
@@ -82,7 +92,7 @@ function create()
 end
 
 --[[
--- A gracenote.  Not sure the player will make the connection of the message with the event.
+-- A grace note.  Not sure the player will make the connection of the message with the event.
 function enter_system()
 
       player.msg( "Well, that was weird")

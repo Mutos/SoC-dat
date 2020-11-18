@@ -5,7 +5,7 @@
 -- 
 -- Example usage: hook.timer(2000, "chatter", {pilot = p, text = "Hello, space!"})
 function chatter(chat)
-	 if chat.pilot:exists() then
-		  chat.pilot:comm(chat.text)
-	 end
+    if chat.pilot:exists() then
+        chat.pilot:comm(chat.text)
+    end
 end

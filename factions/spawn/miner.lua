@@ -1,4 +1,4 @@
-include("dat/factions/spawn/_common/common.lua")
+require("factions/spawn/common.lua")
 
 
 -- @brief Spawns a small group of miners
@@ -7,11 +7,11 @@ function spawn_patrol ()
     local r = rnd.rnd()
 
     if r < 0.5 then
-        scom.addPilot( pilots, "Miner Mosquito", 20 )
+        scom.addPilot( pilots, "Miner Llama", 20 )
     elseif r < 0.8 then
-        scom.addPilot( pilots, "Miner Caravelle", 40 )
+        scom.addPilot( pilots, "Miner Koala", 40 )
     else
-        scom.addPilot( pilots, "Miner Eresslih", 45 )
+        scom.addPilot( pilots, "Miner Mule", 45 )
     end
 
     return pilots

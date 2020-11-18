@@ -1,28 +1,27 @@
 -- Generic equipping routines, helper functions and outfit definitions.
-include("dat/factions/equip/generic.lua")
+require("factions/equip/generic.lua")
 
--- Quick hack for absence of equip_classOutfits_weapons in generic.lua
-equip_classOutfits_weapons = {}
 
 equip_classOutfits_weapons["Yacht"] = {
    {
-      "Small Ion Flak Turret", "Small Flak Turret"
+      "Laser Cannon MK1", "Gauss Gun"
    }
 }
 
 equip_classOutfits_weapons["Courier"] = {
    {
-      "Small Ion Flak Turret", "Small Flak Turret"
+      "Turreted Gauss Gun", "Laser PD MK2"
    }
 }
 
 equip_classOutfits_weapons["Freighter"] = {
    {
       num = 1;
-      "Small Ion Flak Turret", "Small Flak Turret"
+      "Laser Turret MK2", "Plasma Turret MK2",
+      "Enygma Systems Turreted Fury Launcher"
    },
    {
-      "Small Ion Flak Turret", "Small Flak Turret"
+      "Laser Turret MK2", "Plasma Turret MK2"
    }
 }
 

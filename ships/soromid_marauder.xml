@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ship name="Soromid Marauder">
+ <base_type>Marauder</base_type>
+ <GFX>marauder</GFX>
+ <rarity>2</rarity>
+ <GUI>brushed</GUI>
+ <sound>engine</sound>
+ <class>Bomber</class>
+ <price>600000</price>
+ <time_mod>1</time_mod>
+ <fabricator>Soromid</fabricator>
+ <license>Light Combat Vessel License</license>
+ <description>The Marauder was developed from the same base as the Brigand, but the two ships are quite different. The Marauder was developed to fill a bomber role, which calls for increased durability and ammunition chambers. This makes it quite a bit slower than its distant cousin.</description>
+ <health>
+  <absorb>4</absorb>
+  <armour>80</armour>
+  <armour_regen>3</armour_regen>
+ </health>
+ <characteristics>
+  <crew>6</crew>
+  <mass>70</mass>
+  <fuel_consumption>100</fuel_consumption>
+  <cargo>10</cargo>
+ </characteristics>
+ <slots>
+  <weapon size="medium" prop="bio_weapon" x="8" y="0" h="0" />
+  <weapon size="medium" prop="bio_weapon" x="8" y="0" h="0" />
+  <weapon size="small" prop="bio_weapon" x="-2" y="9" h="-1" />
+  <weapon size="small" prop="bio_weapon" x="-2" y="-9" h="-1" />
+  <utility size="small" prop="bio_systems" exclusive="1" required="1">Light Bioship Brain Stage 1</utility>
+  <utility size="small" prop="accessory" exclusive="1" />
+  <utility size="small" />
+  <utility size="small" />
+  <structure size="small" prop="bio_engines" exclusive="1" required="1">Light Bioship Strong Fin Stage 1</structure>
+  <structure size="small" prop="bio_hull" exclusive="1" required="1">Light Bioship Shell Stage 1</structure>
+  <structure size="small" />
+ </slots>
+ <stats>
+  <speed_mod>-10</speed_mod>
+  <turn_mod>-10</turn_mod>
+  <thrust_mod>-10</thrust_mod>
+  <armour_mod>5</armour_mod>
+  <launch_rate>10</launch_rate>
+  <launch_range>15</launch_range>
+  <ammo_capacity>50</ammo_capacity>
+ </stats>
+</ship>

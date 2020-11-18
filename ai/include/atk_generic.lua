@@ -13,7 +13,7 @@ end
 
 
 --[[
--- Mainly manages targetting nearest enemy.
+-- Mainly manages targeting nearest enemy.
 --]]
 function atk_generic_think ()
    local enemy  = ai.getenemy()
@@ -72,7 +72,7 @@ function atk_generic ()
    local target = _atk_com_think()
    if target == nil then return end
 
-   -- Targetting stuff
+   -- Targeting stuff
    ai.hostile(target) -- Mark as hostile
    ai.settarget(target)
 
@@ -115,6 +115,11 @@ function _atk_g_ranged( target, dist )
       -- Check if in range to shoot missiles
       if dist < ai.getweaprange( 4 ) and dir < 30 then
          ai.weapset( 4 )
+      else
+         -- Test if we should zz
+         if ai.pilot():stats().mass < 400 and _atk_decide_zz() then
+            ai.pushsubtask("_atk_zigzag")
+         end
       end
 
       -- Approach for melee
@@ -172,10 +177,10 @@ function _atk_g_ranged( target, dist )
       else -- In range
          local dir  = ai.face(target)
          if dir < 30 then
-            mem.totmass = p:stats().mass
+            ai.set_shoot_indicator(false)
             ai.weapset( 4 )
-            -- If he managed to shoot, the mass decreased
-            if p:stats().mass < mem.totmass - 0.01 and not ai.timeup(1) then
+            -- If he managed to shoot, reinitialize the timer
+            if ai.shoot_indicator() and not ai.timeup(1) then
                ai.settimer(1, 13000)
             end
          end

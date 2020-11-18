@@ -5,18 +5,13 @@
   <y>1484.788722</y>
  </pos>
  <GFX>
-  <space>Asteroid-Base-008b-Derelict-Mining-Station.png</space>
+  <space>002.png</space>
   <exterior>station03.png</exterior>
  </GFX>
  <general>
   <class>A</class>
   <population>0</population>
   <hide>0.250000</hide>
-  <services>
-   <land/>
-  </services>
-  <commodities/>
-  <description>This station once was a promising oupost, but lack of funding when no system nearby proved ore-rich caused its demise. Now, its vast halls are empty and exposed to the eternal void of deep space.
-  </description>
+  <services/>
  </general>
 </asset>

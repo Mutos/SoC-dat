@@ -5,22 +5,22 @@
 
    The global layout is:
     - atk_util.lua : Attack generic utilities.
-    - atk_target.lua : Targetting utilities.
+    - atk_target.lua : Targeting utilities.
 --]]
 
 -- Utilities
-require("dat/ai/include/atk_util.lua")
-require("dat/ai/include/atk_target.lua")
+require("ai/include/atk_util.lua")
+require("ai/include/atk_target.lua")
 
 -- Attack profiles
-require("dat/ai/include/atk_generic.lua")
-require("dat/ai/include/atk_fighter.lua")
-require("dat/ai/include/atk_bomber.lua")
-require("dat/ai/include/atk_corvette.lua")
-require("dat/ai/include/atk_capital.lua")
---require("dat/ai/include/atk_cruiser.lua")
---require("dat/ai/include/atk_carrier.lua")
-require("dat/ai/include/atk_drone.lua")
+require("ai/include/atk_generic.lua")
+require("ai/include/atk_fighter.lua")
+require("ai/include/atk_bomber.lua")
+require("ai/include/atk_corvette.lua")
+require("ai/include/atk_capital.lua")
+--require("ai/include/atk_cruiser.lua")
+--require("ai/include/atk_carrier.lua")
+require("ai/include/atk_drone.lua")
 
 -- Set attack variables
 mem.atk_changetarget  = 2 -- Distance at which target changes

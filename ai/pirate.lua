@@ -1,5 +1,5 @@
-require("dat/ai/tpl/generic.lua")
-require("dat/ai/personality/patrol.lua")
+require("ai/tpl/generic.lua")
+require("ai/personality/patrol.lua")
 
 --[[
 
@@ -40,7 +40,7 @@ function create ()
             _("\"Your money or your life. %d credits and make the choice quickly.\""),
             _("\"Money talks bub. %d up front or get off my channel.\""),
             _("\"Shut up and give me your money! %d credits now.\""),
-            _("\"You're either really stupid to be chatting or really rich. %d or shut up.\""),
+            _("\"You're either really desperate or really rich. %d or shut up.\""),
             _("\"If you're willing to negotiate I'll gladly take %d credits to not kill you.\""),
             _("\"You give me %d credits and I'll act like I never saw you.\""),
             _("\"So this is the part where you pay up or get shot up. Your choice. What'll be, %d or...\""),
@@ -117,6 +117,7 @@ function taunt ( target, offense )
             _("Seems you're being shot at."),
             _("I'm trying to kill you. Is it working?"),
             _("I'm sorry, I just don't like you."),
+            _("Sorry, but I'm a private tracker."),
       }
    else
       taunts = {
@@ -143,6 +144,7 @@ function taunt ( target, offense )
             _("Tell you what, if you can keep dodging for 20 hectoseconds I'll let you live."),
             _("Stop dodging!"),
             _("Okay, that's enough of that!"),
+            _("I'm gonna torrent you to bits!"),
       }
    end
 

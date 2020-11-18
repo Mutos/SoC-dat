@@ -1,52 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <asset name="Arcadia">
  <pos>
-  <x>2186.163298</x>
-  <y>-3246.121261</y>
+  <x>4505.013108</x>
+  <y>-5546.527767</y>
  </pos>
  <GFX>
-  <space>M07.png</space>
-  <exterior>aquatic.png</exterior>
+  <space>C01.png</space>
+  <exterior>forest.png</exterior>
  </GFX>
  <presence>
-  <faction>Purple Trail</faction>
-  <value>350.000000</value>
+  <faction>Za'lek</faction>
+  <value>220.000000</value>
   <range>3</range>
  </presence>
  <general>
-  <class>A</class>
-  <population>62281000</population>
-  <hide>1.000000</hide>
+  <class>D</class>
+  <population>770000</population>
+  <hide>0.250000</hide>
   <services>
    <land/>
    <refuel/>
    <bar/>
    <missions/>
    <commodity/>
-   <outfits/>
-   <shipyard/>
   </services>
-  <commodities>
-   <commodity>Generic Food</commodity>
-   <commodity>K'Rinn Food</commodity>
-   <commodity>Rith Food</commodity>
-   <commodity>Human Food</commodity>
-   <commodity>Sshaad Food</commodity>
-   <commodity>Shapeshifter Food</commodity>
-   <commodity>Pupeteer Food</commodity>
-   <commodity>Ore</commodity>
-   <commodity>Industrial Goods</commodity>
-   <commodity>Medicine</commodity>
-   <commodity>Luxury Goods</commodity>
-   <commodity>Ziffelan Minidragons</commodity>
-  </commodities>
-  <description>Arcadia is the first planet colonized from Cartel. A water world with lots of islands, it shows far better living conditions than Cartel and actually, the most wealthy Cartelists are progressively relocating on the newly colonized world as more and more islands are offered for sale to private concerns.
-  </description>
-  <bar>None</bar>
+  <commodities/>
+  <description>Rather ironically, yet aptly named, Arcadia is a world bombarded by acidic rains and other, equally nasty weather patterns. As such, it was the core world of a successful experiment to see if such an environment can still support a massive crop growing campaign given the proper insulation technology and procedures. The project was in fact so successful that Arcadia became a hub for food distribution throughout localized Za'lek space.</description>
+  <bar>Many freight captains, farmers and scientists mingle peacefully here, discussing new and better ways to improve farming technology and get more and better food for less cost.</bar>
  </general>
- <tech>
-  <item>Low-tech Generic</item>
-  <item>Regular Generic</item>
-  <item>Star Maps - Human Sphere</item>
- </tech>
 </asset>

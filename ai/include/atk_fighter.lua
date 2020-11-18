@@ -51,7 +51,7 @@ function atk_fighter ()
    local target = _atk_com_think()
    if target == nil then return end
 
-   -- Targetting stuff
+   -- Targeting stuff
    ai.hostile(target) -- Mark as hostile
    ai.settarget(target)
 
@@ -83,6 +83,11 @@ function _atk_f_flyby( target, dist )
    local range = ai.getweaprange(3)
    local dir = 0
    ai.weapset( 3 ) -- Forward/turrets
+
+   -- First test if we should zz
+   if _atk_decide_zz() then
+      ai.pushsubtask("_atk_zigzag")
+   end
 
    -- Far away, must approach
    if dist > (3 * range) then
@@ -116,7 +121,7 @@ function _atk_f_flyby( target, dist )
    else
 
       dir = ai.aim(target)
-      --not accellerating here is the only difference between the aggression levels. This can probably be an aggression AI parameter
+      --not accelerating here is the only difference between the aggression levels. This can probably be an aggression AI parameter
       if mem.aggressive == true then
          ai.accel()
       end
@@ -140,6 +145,11 @@ function _atk_f_space_sup( target, dist )
    local range = ai.getweaprange(3)
    local dir   = 0
    ai.weapset( 3 ) -- Forward/turrets
+
+   -- First test if we should zz
+   if _atk_decide_zz() then
+      ai.pushsubtask("_atk_zigzag")
+   end
 
    --if we're far away from the target, then turn and approach 
    if dist > (range) then

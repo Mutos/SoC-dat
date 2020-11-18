@@ -2,7 +2,7 @@
    The new "brushed" UI.
 --]]
 
-playerform = require "dat/scripts/playerform.lua"
+playerform = require "scripts/playerform.lua"
 
 function create()
 
@@ -40,7 +40,7 @@ function create()
    col_lgray = colour.new( 160/255, 160/255, 160/255 )
 
    --Images
-   local base = "dat/gfx/gui/brushed/"
+   local base = "gfx/gui/brushed/"
    main = tex.open( base .. "main.png" )
    ext_right = tex.open( base .. "extRight.png" )
    end_right = tex.open( base .. "endRight.png" )
@@ -349,7 +349,7 @@ function update_nav()
       end
 
       ta_pnt_faction_gfx = nil
-      if ta_pntfact then
+      if ta_pntfact and ta_pntfact:known() then
          ta_pnt_faction_gfx = ta_pntfact:logoTiny()
       end
 
@@ -379,7 +379,7 @@ function update_nav()
          navstring = _("Unknown")
       end
       if autonav_hyp then
-         navstring = (navstring .. " (%s)"):format( autonav_hyp:jumpDist() )
+         navstring = (navstring .. " (%s)"):format( system.cur():jumpDist(autonav_hyp, true, true) )
       end
    else
       navstring = _("none")
@@ -477,7 +477,7 @@ function renderBar( name, value, light, locked, prefix, mod_x, mod_y, heat, stre
       if name == "fuel" then
          show_light = player.jumps() <= 0
          if autonav_hyp ~= nil then
-            show_light = show_light or player.jumps() < autonav_hyp:jumpDist()
+            show_light = show_light or player.jumps() < system.cur():jumpDist(autonav_hyp, true, true)
          end
       else
          show_light = value < 20
@@ -575,7 +575,7 @@ function renderWeapBar( weapon, x, y )
             end
 
             if weapon.lockon ~= nil then
-               gfx.renderTexRaw( icon_lockon2, x + offsets[1] + bar_w/2 - circle_w/2, y + offsets[2] + offsets[6] - circle_h/2, circle_w, circle_h * weapon.lockon, 1, 1, 0, 0, 1, weapon.lockon) --Lockon indicator
+               gfx.renderTexRaw( icon_lockon2, x + offsets[1] + bar_w/2 - circle_w/2, y + offsets[2] + offsets[6] - circle_h/2, circle_w, circle_h * weapon.lockon, 1, 1, 0, 0, 1, weapon.lockon) --Lock-on indicator
             end
             gfx.renderTexRaw( icon_refire, x + offsets[1] + bar_w/2 - circle_w/2, y + offsets[2] + offsets[7] - circle_h/2, circle_w, circle_h * weapon.cooldown, 1, 1, 0, 0, 1, weapon.cooldown) --Cooldown indicator
             --Icon
@@ -696,12 +696,12 @@ function render( dt )
    lockons = pp:lockon()
 
    -- Top Bar
-   gfx.renderTexRaw( top_bar, margin, tbar_y, screen_w - 2*margin, tbar_h, 1, 1, 0, 0, 1, 1 )
+   gfx.renderTexRaw( top_bar, margin + tbar_left_w, tbar_y, screen_w - 2*margin - tbar_left_w - tbar_right_w, tbar_h, 1, 1, 0, 0, 1, 1 )
    gfx.renderTex( top_bar_left, margin, tbar_y )
    gfx.renderTex( top_bar_right, screen_w - margin - tbar_right_w, tbar_y )
 
    -- Bottom Bar
-   gfx.renderTexRaw( bottom_bar, margin, margin, screen_w - 2*margin, bbar_h, 1, 1, 0, 0, 1, 1 )
+   gfx.renderTexRaw( bottom_bar, margin + bbar_left_w, margin, screen_w - 2*margin - bbar_left_w - bbar_right_w, bbar_h, 1, 1, 0, 0, 1, 1 )
    gfx.renderTex( bottom_bar_left, margin, margin )
    gfx.renderTex( bottom_bar_right, screen_w - margin - bbar_right_w, margin )
 
@@ -765,7 +765,7 @@ function render( dt )
    gui.radarRender( radar_x + mod_x, radar_y + mod_y )
 
    if lockons > 0 then
-      gfx.renderTex( icon_lockon, 378 + mod_x, 50 + mod_y )
+      gfx.renderTex( icon_lockon, 379 + mod_x, 30 + mod_y )
    end
    if autonav then
       --gfx.renderTex( icon_autonav, 246 + mod_x, 52 + mod_y )
@@ -783,7 +783,7 @@ function render( dt )
    end
 
    --Weapon set indicator
-   gfx.print( false, wset_id, 383 + mod_x, 52 + mod_y, col_text, 12, true )
+   gfx.print( false, wset_id, 383 + mod_x, 72 + mod_y, col_text, 12, true )
 
    --Speed Lights
    local nlights = 11
@@ -799,7 +799,7 @@ function render( dt )
    end
    if value < nlights then
       for i=value+1, nlights do
-      gfx.renderTex( speed_light_off, pl_speed_x + mod_x, pl_speed_y + (i-1)*6 + mod_y )
+         gfx.renderTex( speed_light_off, pl_speed_x + mod_x, pl_speed_y + (i-1)*6 + mod_y )
       end
    end
 
@@ -849,7 +849,7 @@ function render( dt )
                gfx.renderTex( speed_light, x_speed - 5 + mod_x, y_speed - 3 + (i-1)*6 + mod_y )
             else
                local imod = i % nlights
-               gfx.renderTex( speed_light_double, pl_speed_x - 5 + mod_x, pl_speed_y - 3 + (imod-1)*6 + mod_y )
+               gfx.renderTex( speed_light_double, x_speed - 5 + mod_x, y_speed - 3 + (imod-1)*6 + mod_y )
             end
          end
          if value < nlights then
@@ -875,7 +875,7 @@ function render( dt )
       if not autonav_hyp:known() then
          name = "Unknown"
       end
-      renderField( name .. " (" .. tostring(autonav_hyp:jumpDist()) .. ")", fields_x + fields_w + 12, fields_y, fields_w, col_text, icon_nav_target )
+      renderField( name .. " (" .. tostring(system.cur():jumpDist(autonav_hyp, true, true)) .. ")", fields_x + fields_w + 12, fields_y, fields_w, col_text, icon_nav_target )
    else
       renderField( _("None"), fields_x + fields_w + 12, fields_y, fields_w, col_unkn, icon_nav_target )
    end
@@ -908,7 +908,7 @@ function render( dt )
       -- Extend the pane depending on the services available.
       services_h = 44
       if pntflags.land then
-         services_h = services_h + (14 * planet.nservices)
+         services_h = services_h + (18 * planet.nservices)
       end
 
       -- Render background images.
@@ -940,18 +940,17 @@ function render( dt )
       ta_pnt_dir = math.atan2(y2 - y1, x2 - x1) + math.pi
 
       gfx.print( true, planet.class, ta_pnt_pane_x + 130, ta_pnt_pane_y - 34, col_text )
-      gfx.print( true, _("SERVICES:"), ta_pnt_pane_x + 14, ta_pnt_pane_y - 46, col_text )
+      gfx.print( true, _("SERVICES:"), ta_pnt_pane_x + 14, ta_pnt_pane_y - 54, col_text )
 
       -- Space out the text.
-      services_h = 60
       if pntflags.land then
-         local services_h = 60
+         local services_h = 70
          for k,v in ipairs(planet.services) do
             gfx.print(true, v, ta_pnt_pane_x + 60, ta_pnt_pane_y - services_h, col_text )
-            services_h = services_h + 14
+            services_h = services_h + 16
          end
       else
-         gfx.print( true, _("none"), ta_pnt_pane_x + 110, ta_pnt_pane_y - 46, col_text )
+         gfx.print( true, _("none"), ta_pnt_pane_x + 110, ta_pnt_pane_y - 54, col_text )
       end
 
       gfx.print( false, largeNumber( ta_pnt_dist, 1 ), ta_pnt_pane_x + 110, ta_pnt_pane_y - 15, col_text, 63, false )

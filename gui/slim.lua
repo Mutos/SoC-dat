@@ -2,7 +2,7 @@
    The new "slim" GUI
 --]]
 
-playerform = require "dat/scripts/playerform.lua"
+playerform = require "scripts/playerform.lua"
 
 function create()
 
@@ -48,7 +48,7 @@ function create()
    col_slot_bg = colour.new( 12/255, 14/255, 20/255 )
 
    --Load Images
-   local base = "dat/gfx/gui/slim/"
+   local base = "gfx/gui/slim/"
    player_pane_t = tex.open( base .. "frame_player_top.png" )
    player_pane_m = tex.open( base .. "frame_player_middle.png" )
    player_pane_b = tex.open( base .. "frame_player_bottom.png" )
@@ -185,7 +185,7 @@ function create()
    y_ammo = pl_pane_y - 27
 
    -- Missile lock warning
-   missile_lock_text = _("Warning - Missile Lockon Detected")
+   missile_lock_text = _("Warning - Missile Lock-on Detected")
    missile_lock_length = gfx.printDim( false, missile_lock_text )
 
    -- Active cooldown display
@@ -327,7 +327,9 @@ function update_target()
          ptarget_gfx_draw_h = math.min( 62, 62 / ptarget_gfx_aspect )
       end
 
-      ptarget_faction_gfx = ptargetfact:logoTiny()
+      if ptargetfact ~= nil and ptargetfact:known() then
+         ptarget_faction_gfx = ptargetfact:logoTiny()
+      end
    end
 end
 
@@ -351,7 +353,7 @@ function update_nav()
       end
 
       ta_pnt_faction_gfx = nil
-      if ta_pntfact then
+      if ta_pntfact and ta_pntfact:known() then
          ta_pnt_faction_gfx = ta_pntfact:logoTiny()
       end
 
