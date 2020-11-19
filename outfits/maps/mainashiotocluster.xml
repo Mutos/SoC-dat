@@ -19,18 +19,6 @@
    <jump>T'Kal</jump>
    <asset>Persephone's Bane</asset>
   </sys>
-  <sys name="Ashioto">
-   <jump>AC 0003</jump>
-   <jump>AC 0004</jump>
-   <jump>AC 0008</jump>
-   <jump>AC 0009</jump>
-   <jump>AC 0010</jump>
-   <asset>Purgatoire</asset>
-   <asset>Purgatoire EWS Buoy #1</asset>
-   <asset>Purgatoire EWS Buoy #2</asset>
-   <asset>Purgatoire EWS Buoy #3</asset>
-   <asset>Research Monitoring Base</asset>
-  </sys>
   <sys name="Ohashi">
    <jump>AC 0005</jump>
    <asset>Ohashi Border Station</asset>
@@ -55,12 +43,12 @@
   </sys>
   <sys name="AC 0008">
    <jump>AC-KC - 1 - 1</jump>
-   <jump>Ashioto</jump>
+   <jump>Ashioto - Purgatoire</jump>
   </sys>
   <sys name="AC 0004">
    <jump>AC 0002</jump>
    <jump>AC 0007</jump>
-   <jump>Ashioto</jump>
+   <jump>Ashioto - Purgatoire</jump>
   </sys>
   <sys name="AC 0002">
    <jump>AC 0003</jump>
@@ -89,7 +77,7 @@
   <sys name="AC 0010">
    <jump>AC 0011</jump>
    <jump>AC 0012</jump>
-   <jump>Ashioto</jump>
+   <jump>Ashioto - Purgatoire</jump>
   </sys>
   <sys name="AC 0012">
    <jump>AC 0010</jump>
@@ -107,7 +95,7 @@
   </sys>
   <sys name="AC 0009">
    <jump>AC 0015</jump>
-   <jump>Ashioto</jump>
+   <jump>Ashioto - Purgatoire</jump>
   </sys>
   <sys name="AC 0015">
    <jump>AC 0009</jump>
@@ -136,7 +124,19 @@
   </sys>
   <sys name="AC 0003">
    <jump>AC 0002</jump>
-   <jump>Ashioto</jump>
+   <jump>Ashioto - Purgatoire</jump>
+  </sys>
+  <sys name="Ashioto - Purgatoire">
+   <jump>AC 0003</jump>
+   <jump>AC 0004</jump>
+   <jump>AC 0008</jump>
+   <jump>AC 0009</jump>
+   <jump>AC 0010</jump>
+   <asset>Purgatoire</asset>
+   <asset>Purgatoire EWS Buoy #1</asset>
+   <asset>Purgatoire EWS Buoy #2</asset>
+   <asset>Purgatoire EWS Buoy #3</asset>
+   <asset>Research Monitoring Base</asset>
   </sys>
  </specific>
 </outfit>

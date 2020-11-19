@@ -77,17 +77,9 @@
    <jump>CL-KC - 1 - 1</jump>
    <jump>KT 93</jump>
   </sys>
-  <sys name="RkL 2831">
-   <jump>Anel'f T'en</jump>
-   <jump>Nouvelle-Hong-Kong</jump>
-   <jump>PA-KC - 1 - 2</jump>
-   <asset>Embruns</asset>
-   <asset>Sinjiang Trading Station</asset>
-   <asset>Vertigo</asset>
-  </sys>
   <sys name="PA-KC - 1 - 2">
    <jump>PA-KC - 1 - 1</jump>
-   <jump>RkL 2831</jump>
+   <jump>RkL 2831 - Sinjiang</jump>
   </sys>
   <sys name="KT 35">
    <jump>Anel'f T'en</jump>
@@ -377,7 +369,7 @@
    <asset>Neel'Rilk Internal Surveyor</asset>
   </sys>
   <sys name="Nouvelle-Hong-Kong">
-   <jump>RkL 2831</jump>
+   <jump>RkL 2831 - Sinjiang</jump>
    <asset>Nouvelle-Hong-Kong</asset>
   </sys>
   <sys name="Inferno">
@@ -452,7 +444,7 @@
   <sys name="Anel'f T'en">
    <jump>KT 35</jump>
    <jump>KT 93</jump>
-   <jump>RkL 2831</jump>
+   <jump>RkL 2831 - Sinjiang</jump>
    <asset>Anel'f Border Station</asset>
   </sys>
   <sys name="Iri 0119 (KT 38)">
@@ -464,6 +456,14 @@
    <jump>Iri 0119 (KT 38)</jump>
    <jump>Iri 0120 (KT 76)</jump>
    <asset>Sikt</asset>
+  </sys>
+  <sys name="RkL 2831 - Sinjiang">
+   <jump>Anel'f T'en</jump>
+   <jump>Nouvelle-Hong-Kong</jump>
+   <jump>PA-KC - 1 - 2</jump>
+   <asset>Embruns</asset>
+   <asset>Sinjiang Trading Station</asset>
+   <asset>Vertigo</asset>
   </sys>
  </specific>
 </outfit>
