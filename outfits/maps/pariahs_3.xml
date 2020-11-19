@@ -122,17 +122,6 @@
   <sys name="Shadow Grave">
    <jump>Al-Wahid's Bluff</jump>
    <jump>Teufelfeuer</jump>
-   <asset>Asteroids Cluster 086411</asset>
-   <asset>Asteroids Cluster 087545</asset>
-   <asset>Asteroids Cluster 154454</asset>
-   <asset>Asteroids Cluster 287623</asset>
-   <asset>Asteroids Cluster 457888</asset>
-   <asset>Asteroids Cluster 466578</asset>
-   <asset>Asteroids Cluster 487654</asset>
-   <asset>Asteroids Cluster 642781</asset>
-   <asset>Asteroids Cluster 804508</asset>
-   <asset>Asteroids Cluster 873140</asset>
-   <asset>Asteroids Cluster 987130</asset>
    <asset>Freeport 3</asset>
    <asset>Shadow Grave</asset>
   </sys>
@@ -186,9 +175,6 @@
    <jump>CS 0002</jump>
    <jump>CS 0017</jump>
    <asset>Alshiinal Border Station</asset>
-   <asset>Asteroids Cluster 001696</asset>
-   <asset>Asteroids Cluster 185358</asset>
-   <asset>Asteroids Cluster 670816</asset>
   </sys>
   <sys name="CS 0002">
    <jump>Alshiinal</jump>
@@ -294,8 +280,6 @@
    <jump>Al-Wahid's Bluff</jump>
    <jump>CS-SC - 1 - 1</jump>
    <jump>Shadow Grave</jump>
-   <asset>Asteroids Cluster 168795</asset>
-   <asset>Asteroids Cluster 698721</asset>
    <asset>FeuerRing</asset>
    <asset>FeuerRing Memorial</asset>
   </sys>
@@ -303,8 +287,6 @@
    <jump>Elathon</jump>
    <jump>Shadow Grave</jump>
    <jump>Teufelfeuer</jump>
-   <asset>Asteroids Cluster 225487</asset>
-   <asset>Asteroids Cluster 645457</asset>
    <asset>Freeport 5</asset>
    <asset>Nour</asset>
    <asset>Salam</asset>
@@ -312,8 +294,6 @@
   <sys name="Elathon">
    <jump>Al-Wahid's Bluff</jump>
    <jump>KC-SC - 1 - 2</jump>
-   <asset>Asteroids Cluster 225641</asset>
-   <asset>Asteroids Cluster 652124</asset>
    <asset>Elathon</asset>
   </sys>
  </specific>

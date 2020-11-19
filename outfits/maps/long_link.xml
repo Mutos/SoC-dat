@@ -10,10 +10,6 @@
   <sys name="Jaltha">
    <jump>Ary 0069</jump>
    <jump>Thim Baartish</jump>
-   <asset>Asteroids Cluster 616489</asset>
-   <asset>Asteroids Cluster 640774</asset>
-   <asset>Asteroids Cluster 687108</asset>
-   <asset>Asteroids Cluster 853042</asset>
    <asset>Eral ud Nal</asset>
    <asset>Jaltha</asset>
   </sys>
@@ -143,9 +139,6 @@
   </sys>
   <sys name="Iralii">
    <jump>Ary-IC-BI-ShC - 1 - 1</jump>
-   <asset>Asteroids Cluster 710241</asset>
-   <asset>Asteroids Cluster 720132</asset>
-   <asset>Asteroids Cluster 916201</asset>
    <asset>Iralii Border Station</asset>
   </sys>
   <sys name="Ary-ShC - 1 - 2">

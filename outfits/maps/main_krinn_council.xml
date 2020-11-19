@@ -41,13 +41,6 @@
    <jump>KT 58</jump>
    <jump>KT 86</jump>
    <jump>KT 98</jump>
-   <asset>Asteroids Cluster 562145</asset>
-   <asset>Asteroids Cluster 576142</asset>
-   <asset>Asteroids Cluster 576174</asset>
-   <asset>Asteroids Cluster 576294</asset>
-   <asset>Asteroids Cluster 652111</asset>
-   <asset>Asteroids Cluster 687223</asset>
-   <asset>Asteroids Cluster 688783</asset>
    <asset>K'Tal</asset>
    <asset>Mar'K'Rinn'Ra</asset>
   </sys>
@@ -68,11 +61,6 @@
    <jump>KT 49</jump>
    <asset>A'Ilnet</asset>
    <asset>Alin'T</asset>
-   <asset>Asteroids Cluster 619806</asset>
-   <asset>Asteroids Cluster 68741</asset>
-   <asset>Asteroids Cluster 762188</asset>
-   <asset>Asteroids Cluster 980109</asset>
-   <asset>Asteroids Cluster 981600</asset>
    <asset>El'Tinal</asset>
    <asset>T'Ilnet</asset>
    <asset>T'Telnar</asset>
@@ -81,34 +69,6 @@
   <sys name="KT 93">
    <jump>Anel'f T'en</jump>
    <jump>CL-KC - 1 - 2</jump>
-   <asset>Asteroids Cluster 142565</asset>
-   <asset>Asteroids Cluster 162729</asset>
-   <asset>Asteroids Cluster 231498</asset>
-   <asset>Asteroids Cluster 236808</asset>
-   <asset>Asteroids Cluster 253668</asset>
-   <asset>Asteroids Cluster 289431</asset>
-   <asset>Asteroids Cluster 289583</asset>
-   <asset>Asteroids Cluster 290264</asset>
-   <asset>Asteroids Cluster 292128</asset>
-   <asset>Asteroids Cluster 296052</asset>
-   <asset>Asteroids Cluster 339953</asset>
-   <asset>Asteroids Cluster 350220</asset>
-   <asset>Asteroids Cluster 352422</asset>
-   <asset>Asteroids Cluster 514554</asset>
-   <asset>Asteroids Cluster 519491</asset>
-   <asset>Asteroids Cluster 554194</asset>
-   <asset>Asteroids Cluster 563901</asset>
-   <asset>Asteroids Cluster 577401</asset>
-   <asset>Asteroids Cluster 593159</asset>
-   <asset>Asteroids Cluster 609060</asset>
-   <asset>Asteroids Cluster 632820</asset>
-   <asset>Asteroids Cluster 650420</asset>
-   <asset>Asteroids Cluster 697414</asset>
-   <asset>Asteroids Cluster 728831</asset>
-   <asset>Asteroids Cluster 796096</asset>
-   <asset>Asteroids Cluster 872371</asset>
-   <asset>Asteroids Cluster 915814</asset>
-   <asset>Asteroids Cluster 960687</asset>
    <asset>Azul</asset>
    <asset>FeuerTurm</asset>
    <asset>Stromboli</asset>
@@ -121,15 +81,6 @@
    <jump>Anel'f T'en</jump>
    <jump>Nouvelle-Hong-Kong</jump>
    <jump>PA-KC - 1 - 2</jump>
-   <asset>Asteroids Cluster 138755</asset>
-   <asset>Asteroids Cluster 166975</asset>
-   <asset>Asteroids Cluster 204056</asset>
-   <asset>Asteroids Cluster 229327</asset>
-   <asset>Asteroids Cluster 558365</asset>
-   <asset>Asteroids Cluster 564128</asset>
-   <asset>Asteroids Cluster 639488</asset>
-   <asset>Asteroids Cluster 875524</asset>
-   <asset>Asteroids Cluster 914679</asset>
    <asset>Embruns</asset>
    <asset>Sinjiang Trading Station</asset>
    <asset>Vertigo</asset>
@@ -145,9 +96,6 @@
   <sys name="KT 47">
    <jump>KT 59 (K'Tinaalt)</jump>
    <jump>Uktalm (KT 121)</jump>
-   <asset>Asteroids Cluster 454197</asset>
-   <asset>Asteroids Cluster 573150</asset>
-   <asset>Asteroids Cluster 853954</asset>
   </sys>
   <sys name="KT 59 (K'Tinaalt)">
    <jump>KT 258</jump>
@@ -157,10 +105,6 @@
   <sys name="KT 258">
    <jump>Ek'In</jump>
    <jump>KT 59 (K'Tinaalt)</jump>
-   <asset>Asteroids Cluster 348612</asset>
-   <asset>Asteroids Cluster 348765</asset>
-   <asset>Asteroids Cluster 602894</asset>
-   <asset>Asteroids Cluster 679521</asset>
    <asset>K'Til'n 0001</asset>
    <asset>T'Talin</asset>
   </sys>
@@ -283,10 +227,6 @@
   <sys name="RkL 1753">
    <jump>AC-KC - 1 - 5</jump>
    <jump>KT 24</jump>
-   <asset>Asteroids Cluster 248618</asset>
-   <asset>Asteroids Cluster 444676</asset>
-   <asset>Asteroids Cluster 645976</asset>
-   <asset>Asteroids Cluster 703368</asset>
   </sys>
   <sys name="AC-KC - 1 - 5">
    <jump>RkL 1753</jump>
@@ -295,15 +235,6 @@
    <jump>Ek'In</jump>
    <jump>KT 23</jump>
    <jump>RkL 1825</jump>
-   <asset>Asteroids Cluster 200542</asset>
-   <asset>Asteroids Cluster 238421</asset>
-   <asset>Asteroids Cluster 335241</asset>
-   <asset>Asteroids Cluster 335604</asset>
-   <asset>Asteroids Cluster 364111</asset>
-   <asset>Asteroids Cluster 626452</asset>
-   <asset>Asteroids Cluster 628854</asset>
-   <asset>Asteroids Cluster 641205</asset>
-   <asset>Asteroids Cluster 648554</asset>
    <asset>K'Til'n 0004</asset>
    <asset>T'Tamen</asset>
    <asset>T'Timor</asset>
@@ -345,9 +276,6 @@
   <sys name="KT 56">
    <jump>KT 53</jump>
    <jump>RkL 2163</jump>
-   <asset>Asteroids Cluster 264500</asset>
-   <asset>Asteroids Cluster 656322</asset>
-   <asset>Asteroids Cluster 884504</asset>
    <asset>L'Linal't 0002</asset>
   </sys>
   <sys name="KT 53">
@@ -382,10 +310,6 @@
   <sys name="KT 258">
    <jump>Ek'In</jump>
    <jump>KT 59 (K'Tinaalt)</jump>
-   <asset>Asteroids Cluster 348612</asset>
-   <asset>Asteroids Cluster 348765</asset>
-   <asset>Asteroids Cluster 602894</asset>
-   <asset>Asteroids Cluster 679521</asset>
    <asset>K'Til'n 0001</asset>
    <asset>T'Talin</asset>
   </sys>
@@ -432,9 +356,6 @@
   <sys name="K'Tel'Kin">
    <jump>KT 105</jump>
    <jump>RkL 1863</jump>
-   <asset>Asteroids Cluster 456761</asset>
-   <asset>Asteroids Cluster 576242</asset>
-   <asset>Asteroids Cluster 687752</asset>
    <asset>K'Tell'Ktet</asset>
   </sys>
   <sys name="KT 82">
@@ -461,8 +382,6 @@
   </sys>
   <sys name="Inferno">
    <jump>PA-KC - 1 - 1</jump>
-   <asset>Asteroids Cluster 087124</asset>
-   <asset>Asteroids Cluster 087204</asset>
    <asset>Dlanhergh Toll imh Derr</asset>
    <asset>Hades</asset>
    <asset>Inferno</asset>
@@ -490,11 +409,6 @@
   <sys name="KT 241">
    <jump>KT 242</jump>
    <jump>KT 253</jump>
-   <asset>Asteroids Cluster 113903</asset>
-   <asset>Asteroids Cluster 376963</asset>
-   <asset>Asteroids Cluster 550572</asset>
-   <asset>Asteroids Cluster 707718</asset>
-   <asset>Asteroids Cluster 954874</asset>
   </sys>
   <sys name="KC-HnH - 1 - 2">
    <jump>KC-HnH - 1 - 1</jump>
@@ -513,34 +427,15 @@
   </sys>
   <sys name="KT 253">
    <jump>KT 241</jump>
-   <asset>Asteroids Cluster 162380</asset>
-   <asset>Asteroids Cluster 665046</asset>
-   <asset>Asteroids Cluster 733439</asset>
-   <asset>Asteroids Cluster 936231</asset>
   </sys>
   <sys name="KT 242">
    <jump>KT 241</jump>
-   <asset>Asteroids Cluster 167134</asset>
-   <asset>Asteroids Cluster 451342</asset>
-   <asset>Asteroids Cluster 517612</asset>
-   <asset>Asteroids Cluster 574471</asset>
-   <asset>Asteroids Cluster 576148</asset>
-   <asset>Asteroids Cluster 619111</asset>
-   <asset>Asteroids Cluster 809661</asset>
-   <asset>Asteroids Cluster 985688</asset>
    <asset>T'Kilnath Base</asset>
   </sys>
   <sys name="Ka'Ralt Crossing">
    <jump>Iri 0119 (KT 38)</jump>
    <jump>Iri-KR-KC - 1 - 1</jump>
    <jump>Iri-KR-KC - 1 - 4</jump>
-   <asset>Asteroids Cluster 155758</asset>
-   <asset>Asteroids Cluster 233948</asset>
-   <asset>Asteroids Cluster 472426</asset>
-   <asset>Asteroids Cluster 683282</asset>
-   <asset>Asteroids Cluster 731338</asset>
-   <asset>Asteroids Cluster 755208</asset>
-   <asset>Asteroids Cluster 967714</asset>
    <asset>K'Tint</asset>
    <asset>K'Tint Nilal</asset>
   </sys>
@@ -548,15 +443,6 @@
    <jump>BI-KC - 1 - 1</jump>
    <jump>KC-HnH - 1 - 2</jump>
    <jump>RkL 1753</jump>
-   <asset>Asteroids Cluster 102689</asset>
-   <asset>Asteroids Cluster 107381</asset>
-   <asset>Asteroids Cluster 157804</asset>
-   <asset>Asteroids Cluster 158711</asset>
-   <asset>Asteroids Cluster 687195</asset>
-   <asset>Asteroids Cluster 687851</asset>
-   <asset>Asteroids Cluster 871591</asset>
-   <asset>Asteroids Cluster 987621</asset>
-   <asset>Asteroids Cluster 987693</asset>
    <asset>Han'Tenelin</asset>
   </sys>
   <sys name="KT 35">
@@ -568,9 +454,6 @@
    <jump>KT 93</jump>
    <jump>RkL 2831</jump>
    <asset>Anel'f Border Station</asset>
-   <asset>Asteroids Cluster 0529172</asset>
-   <asset>Asteroids Cluster 168709</asset>
-   <asset>Asteroids Cluster 687181</asset>
   </sys>
   <sys name="Iri 0119 (KT 38)">
    <jump>Ek'Dal</jump>

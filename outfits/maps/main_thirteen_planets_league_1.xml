@@ -169,35 +169,12 @@
    <jump>Ocean</jump>
    <jump>TPL 0019</jump>
    <jump>TPL 0028</jump>
-   <asset>Asteroids Cluster 117328</asset>
-   <asset>Asteroids Cluster 168690</asset>
-   <asset>Asteroids Cluster 326466</asset>
-   <asset>Asteroids Cluster 389237</asset>
-   <asset>Asteroids Cluster 405522</asset>
-   <asset>Asteroids Cluster 411352</asset>
-   <asset>Asteroids Cluster 634714</asset>
-   <asset>Asteroids Cluster 696068</asset>
-   <asset>Asteroids Cluster 713752</asset>
-   <asset>Asteroids Cluster 763477</asset>
-   <asset>Asteroids Cluster 859074</asset>
-   <asset>Asteroids Cluster 891845</asset>
-   <asset>Asteroids Cluster 909288</asset>
-   <asset>Asteroids Cluster 931973</asset>
-   <asset>Asteroids Cluster 936318</asset>
-   <asset>Asteroids Cluster 952123</asset>
-   <asset>Asteroids Cluster 966007</asset>
    <asset>Eclaireur-4</asset>
    <asset>Rock Bottom</asset>
   </sys>
   <sys name="TPL 0019">
    <jump>TPL 0024</jump>
    <jump>TPL 0208</jump>
-   <asset>Asteroids Cluster 138891</asset>
-   <asset>Asteroids Cluster 414877</asset>
-   <asset>Asteroids Cluster 466825</asset>
-   <asset>Asteroids Cluster 587998</asset>
-   <asset>Asteroids Cluster 699809</asset>
-   <asset>Asteroids Cluster 769109</asset>
   </sys>
   <sys name="TPL 0066">
    <jump>Flow of Life</jump>
@@ -408,10 +385,6 @@
   </sys>
   <sys name="The Cradle">
    <jump>The Doorstep</jump>
-   <asset>Asteroids Cluster 231875</asset>
-   <asset>Asteroids Cluster 287455</asset>
-   <asset>Asteroids Cluster 567841</asset>
-   <asset>Asteroids Cluster 898754</asset>
    <asset>Cradle's Warder</asset>
    <asset>Fierce</asset>
    <asset>Pupeteers' Earth</asset>
@@ -424,8 +397,6 @@
    <jump>TPL 0092</jump>
    <jump>TPL 0093</jump>
    <jump>TPL 0098</jump>
-   <asset>Asteroids Cluster 459217</asset>
-   <asset>Asteroids Cluster 656875</asset>
    <asset>Void's Expanse</asset>
   </sys>
   <sys name="The Doorstep">
@@ -433,19 +404,6 @@
    <jump>TPL 0087</jump>
    <jump>TPL 0088</jump>
    <jump>The Cradle</jump>
-   <asset>Asteroids Cluster 235644</asset>
-   <asset>Asteroids Cluster 264120</asset>
-   <asset>Asteroids Cluster 264287</asset>
-   <asset>Asteroids Cluster 264518</asset>
-   <asset>Asteroids Cluster 266674</asset>
-   <asset>Asteroids Cluster 289475</asset>
-   <asset>Asteroids Cluster 458879</asset>
-   <asset>Asteroids Cluster 561222</asset>
-   <asset>Asteroids Cluster 561235</asset>
-   <asset>Asteroids Cluster 564145</asset>
-   <asset>Asteroids Cluster 568840</asset>
-   <asset>Asteroids Cluster 587842</asset>
-   <asset>Asteroids Cluster 654872</asset>
    <asset>Cresina</asset>
    <asset>Melina</asset>
    <asset>Shesinda</asset>
@@ -455,10 +413,6 @@
   <sys name="The Crossroads">
    <jump>TPL 0074</jump>
    <jump>TPL 0081</jump>
-   <asset>Asteroids Cluster 265641</asset>
-   <asset>Asteroids Cluster 323540</asset>
-   <asset>Asteroids Cluster 562158</asset>
-   <asset>Asteroids Cluster 687565</asset>
    <asset>Crossroads Relay</asset>
   </sys>
  </specific>

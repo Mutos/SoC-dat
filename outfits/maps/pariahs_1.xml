@@ -51,34 +51,12 @@
   <sys name="Shadow Grave">
    <jump>Al-Wahid's Bluff</jump>
    <jump>HnH-SC - 1 - 1</jump>
-   <asset>Asteroids Cluster 086411</asset>
-   <asset>Asteroids Cluster 087545</asset>
-   <asset>Asteroids Cluster 154454</asset>
-   <asset>Asteroids Cluster 287623</asset>
-   <asset>Asteroids Cluster 457888</asset>
-   <asset>Asteroids Cluster 466578</asset>
-   <asset>Asteroids Cluster 487654</asset>
-   <asset>Asteroids Cluster 642781</asset>
-   <asset>Asteroids Cluster 804508</asset>
-   <asset>Asteroids Cluster 873140</asset>
-   <asset>Asteroids Cluster 987130</asset>
    <asset>Freeport 3</asset>
    <asset>Shadow Grave</asset>
   </sys>
   <sys name="Shadow Grave">
    <jump>Al-Wahid's Bluff</jump>
    <jump>HnH-SC - 1 - 1</jump>
-   <asset>Asteroids Cluster 086411</asset>
-   <asset>Asteroids Cluster 087545</asset>
-   <asset>Asteroids Cluster 154454</asset>
-   <asset>Asteroids Cluster 287623</asset>
-   <asset>Asteroids Cluster 457888</asset>
-   <asset>Asteroids Cluster 466578</asset>
-   <asset>Asteroids Cluster 487654</asset>
-   <asset>Asteroids Cluster 642781</asset>
-   <asset>Asteroids Cluster 804508</asset>
-   <asset>Asteroids Cluster 873140</asset>
-   <asset>Asteroids Cluster 987130</asset>
    <asset>Freeport 3</asset>
    <asset>Shadow Grave</asset>
   </sys>
@@ -143,9 +121,6 @@
   <sys name="PT 0024">
    <jump>PT 0022</jump>
    <jump>PT 0031</jump>
-   <asset>Asteroids Cluster 476219</asset>
-   <asset>Asteroids Cluster 587210</asset>
-   <asset>Asteroids Cluster 820176</asset>
    <asset>Furnace</asset>
    <asset>Hell's Kitchen Outpost</asset>
   </sys>
@@ -204,12 +179,6 @@
   <sys name="HnH-Gam - 1 - 2">
    <jump>Gl 250 A</jump>
    <jump>HnH-Gam - 1 - 1</jump>
-   <asset>Asteroids Cluster 422363</asset>
-   <asset>Asteroids Cluster 468500</asset>
-   <asset>Asteroids Cluster 600531</asset>
-   <asset>Asteroids Cluster 722501</asset>
-   <asset>Asteroids Cluster 735168</asset>
-   <asset>Asteroids Cluster 934794</asset>
   </sys>
   <sys name="HnH-SC - 1 - 1">
    <jump>Gl 250 A</jump>
@@ -238,20 +207,6 @@
   <sys name="RQL 0041">
    <jump>CS-TPL-TQL - 1 - 2</jump>
    <jump>RQL 0044</jump>
-   <asset>Asteroids Cluster 158970</asset>
-   <asset>Asteroids Cluster 298921</asset>
-   <asset>Asteroids Cluster 303172</asset>
-   <asset>Asteroids Cluster 306378</asset>
-   <asset>Asteroids Cluster 474433</asset>
-   <asset>Asteroids Cluster 531526</asset>
-   <asset>Asteroids Cluster 535144</asset>
-   <asset>Asteroids Cluster 585337</asset>
-   <asset>Asteroids Cluster 643332</asset>
-   <asset>Asteroids Cluster 755768</asset>
-   <asset>Asteroids Cluster 770592</asset>
-   <asset>Asteroids Cluster 859251</asset>
-   <asset>Asteroids Cluster 968726</asset>
-   <asset>Asteroids Cluster 996884</asset>
    <asset>Savage Lands Border Station</asset>
   </sys>
   <sys name="CS-TPL-TQL - 1 - 2">
@@ -266,14 +221,6 @@
   <sys name="Eshii-K'tin">
    <jump>Ind 0004</jump>
    <jump>KC-CS - 1 - 3</jump>
-   <asset>Asteroids Cluster 286755</asset>
-   <asset>Asteroids Cluster 515382</asset>
-   <asset>Asteroids Cluster 635869</asset>
-   <asset>Asteroids Cluster 725317</asset>
-   <asset>Asteroids Cluster 747433</asset>
-   <asset>Asteroids Cluster 821909</asset>
-   <asset>Asteroids Cluster 932316</asset>
-   <asset>Asteroids Cluster 999041</asset>
    <asset>Giant</asset>
    <asset>K'tin Trade Center</asset>
   </sys>
@@ -292,27 +239,11 @@
   <sys name="Brinn">
    <jump>Gamma 11</jump>
    <jump>PT 0063</jump>
-   <asset>Asteroids Cluster 156457</asset>
-   <asset>Asteroids Cluster 410955</asset>
-   <asset>Asteroids Cluster 573745</asset>
-   <asset>Asteroids Cluster 645525</asset>
-   <asset>Asteroids Cluster 892542</asset>
    <asset>Brinn Border Station</asset>
   </sys>
   <sys name="Edge">
    <jump>RQL 0044</jump>
    <jump>SC 0009</jump>
-   <asset>Asteroids Cluster 134767</asset>
-   <asset>Asteroids Cluster 311495</asset>
-   <asset>Asteroids Cluster 401076</asset>
-   <asset>Asteroids Cluster 402506</asset>
-   <asset>Asteroids Cluster 539742</asset>
-   <asset>Asteroids Cluster 541504</asset>
-   <asset>Asteroids Cluster 687418</asset>
-   <asset>Asteroids Cluster 734821</asset>
-   <asset>Asteroids Cluster 834809</asset>
-   <asset>Asteroids Cluster 872101</asset>
-   <asset>Asteroids Cluster 992192</asset>
    <asset>Edge</asset>
    <asset>Edge Border Station</asset>
    <asset>K'Talth</asset>
@@ -320,15 +251,11 @@
   <sys name="Shadow">
    <jump>Al-Wahid's Bluff</jump>
    <jump>SC 0003</jump>
-   <asset>Asteroids Cluster 256554</asset>
-   <asset>Asteroids Cluster 548788</asset>
    <asset>Shadow Base</asset>
   </sys>
   <sys name="Al-Wahid's Bluff">
    <jump>Shadow</jump>
    <jump>Shadow Grave</jump>
-   <asset>Asteroids Cluster 225487</asset>
-   <asset>Asteroids Cluster 645457</asset>
    <asset>Freeport 5</asset>
    <asset>Nour</asset>
    <asset>Salam</asset>
@@ -341,9 +268,6 @@
   <sys name="Nolaas">
    <jump>BI-PT - 1 - 1</jump>
    <jump>Bi 0019</jump>
-   <asset>Asteroids Cluster 280136</asset>
-   <asset>Asteroids Cluster 286412</asset>
-   <asset>Asteroids Cluster 612078</asset>
    <asset>Niishin Border Station</asset>
    <asset>Nolaas</asset>
   </sys>

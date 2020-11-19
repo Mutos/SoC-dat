@@ -23,8 +23,6 @@
   <sys name="Riinshal">
    <jump>CL-ShC - 1 - 1</jump>
    <jump>ShC 0006</jump>
-   <asset>Asteroids Cluster 206045</asset>
-   <asset>Asteroids Cluster 310785</asset>
    <asset>Riinshal Border Station</asset>
   </sys>
   <sys name="ShC 0002">
@@ -68,12 +66,6 @@
   <sys name="Ershell">
    <jump>ShC 0024</jump>
    <jump>ShC 0026</jump>
-   <asset>Asteroids Cluster 136421</asset>
-   <asset>Asteroids Cluster 187542</asset>
-   <asset>Asteroids Cluster 212542</asset>
-   <asset>Asteroids Cluster 264595</asset>
-   <asset>Asteroids Cluster 345621</asset>
-   <asset>Asteroids Cluster 875412</asset>
    <asset>Ershell Border Station</asset>
   </sys>
   <sys name="Irniish">
@@ -137,9 +129,6 @@
   <sys name="ShC 0035">
    <jump>Irniish</jump>
    <jump>ShC 0037</jump>
-   <asset>Asteroids Cluster 232225</asset>
-   <asset>Asteroids Cluster 264128</asset>
-   <asset>Asteroids Cluster 562128</asset>
   </sys>
   <sys name="Enshiin">
    <jump>Ary-ShC - 1 - 2</jump>

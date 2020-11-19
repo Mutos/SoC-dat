@@ -18,11 +18,6 @@
   <sys name="T'Ker'T">
    <jump>Ary 0001</jump>
    <jump>Ary 0003</jump>
-   <asset>Asteroids Cluster 126231</asset>
-   <asset>Asteroids Cluster 284512</asset>
-   <asset>Asteroids Cluster 295461</asset>
-   <asset>Asteroids Cluster 6455874</asset>
-   <asset>Asteroids Cluster 874578</asset>
    <asset>Erlithal</asset>
    <asset>K'Nin'k</asset>
    <asset>K'Tern</asset>
@@ -44,8 +39,6 @@
    <asset>Arythem-5 EWS Buoy #1</asset>
    <asset>Arythem-5 EWS Buoy #2</asset>
    <asset>Arythem-5 EWS Buoy #3</asset>
-   <asset>Asteroids Cluster 576145</asset>
-   <asset>Asteroids Cluster 765762</asset>
    <asset>Karnil Quarantine Station</asset>
    <asset>Themia</asset>
   </sys>
@@ -61,20 +54,12 @@
   <sys name="Ary 0038">
    <jump>Ary 0070</jump>
    <jump>Jaltha</jump>
-   <asset>Asteroids Cluster 359750</asset>
-   <asset>Asteroids Cluster 518942</asset>
-   <asset>Asteroids Cluster 970245</asset>
-   <asset>Asteroids Cluster750498</asset>
    <asset>Erilanth</asset>
    <asset>Jaltha nel Nalth</asset>
   </sys>
   <sys name="Jaltha">
    <jump>Ary 0038</jump>
    <jump>Ary 0134</jump>
-   <asset>Asteroids Cluster 616489</asset>
-   <asset>Asteroids Cluster 640774</asset>
-   <asset>Asteroids Cluster 687108</asset>
-   <asset>Asteroids Cluster 853042</asset>
    <asset>Eral ud Nal</asset>
    <asset>Jaltha</asset>
   </sys>
@@ -302,12 +287,6 @@
    <jump>Ary 0129</jump>
    <jump>TPL-Ary - 1 - 3</jump>
    <asset>Stars-Strider's Legacy</asset>
-   <asset>Asteroids Cluster 301504</asset>
-   <asset>Asteroids Cluster 028945</asset>
-   <asset>Asteroids Cluster 643087</asset>
-   <asset>Asteroids Cluster 358721</asset>
-   <asset>Asteroids Cluster 348064</asset>
-   <asset>Asteroids Cluster 642830</asset>
   </sys>
   <sys name="TPL-Ary - 1 - 3">
    <jump>Star Strider's Legacy</jump>

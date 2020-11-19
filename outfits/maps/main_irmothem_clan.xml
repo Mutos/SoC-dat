@@ -42,8 +42,6 @@
   <sys name="Irmothem-7">
    <jump>Irm 0145</jump>
    <jump>Irm 0149</jump>
-   <asset>Asteroids Cluster 482015</asset>
-   <asset>Asteroids Cluster 541208</asset>
    <asset>Elirth</asset>
    <asset>Irmothem-7</asset>
    <asset>Lanith</asset>
@@ -449,8 +447,6 @@
    <jump>Irm 0058</jump>
    <jump>Irm 0106</jump>
    <asset>Ainal</asset>
-   <asset>Asteroids Cluster 099162</asset>
-   <asset>Asteroids Cluster 658721</asset>
    <asset>Salinath</asset>
    <asset>Thinal</asset>
   </sys>
@@ -468,13 +464,6 @@
    <jump>Irm 0101</jump>
    <jump>Irm 0102</jump>
    <jump>Irm 0137</jump>
-   <asset>Asteroids Cluster 041274</asset>
-   <asset>Asteroids Cluster 065814</asset>
-   <asset>Asteroids Cluster 234781</asset>
-   <asset>Asteroids Cluster 287975</asset>
-   <asset>Asteroids Cluster 348750</asset>
-   <asset>Asteroids Cluster 648791</asset>
-   <asset>Asteroids Cluster 879457</asset>
    <asset>Eralath Border Station</asset>
    <asset>Eralth</asset>
    <asset>Lothinal</asset>

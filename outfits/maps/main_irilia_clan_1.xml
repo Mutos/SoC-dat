@@ -79,11 +79,6 @@
    <jump>Iri 0011</jump>
    <jump>Iri 0013</jump>
    <jump>Iri 0034</jump>
-   <asset>Asteroids Cluster 651781</asset>
-   <asset>Asteroids Cluster 687191</asset>
-   <asset>Asteroids Cluster 769815</asset>
-   <asset>Asteroids Cluster 871951</asset>
-   <asset>Asteroids Cluster 917263</asset>
    <asset>Irilia-4</asset>
    <asset>Skamh</asset>
   </sys>
@@ -397,9 +392,6 @@
   <sys name="Thim Humae">
    <jump>Althaim</jump>
    <jump>Iri 0020</jump>
-   <asset>Asteroids Cluster 029831</asset>
-   <asset>Asteroids Cluster 576872</asset>
-   <asset>Asteroids Cluster 619012</asset>
    <asset>Thim Humae</asset>
    <asset>Thim ud Aragwedyr</asset>
   </sys>
@@ -412,9 +404,6 @@
    <jump>Iri 0001</jump>
    <jump>PA-Iri - 1 - 3</jump>
    <jump>Thim Humae</jump>
-   <asset>Asteroids Cluster 262055</asset>
-   <asset>Asteroids Cluster 586412</asset>
-   <asset>Asteroids Cluster 852015</asset>
    <asset>Freeport 1</asset>
   </sys>
   <sys name="Irilia-14">
@@ -432,8 +421,6 @@
   <sys name="Halisht">
    <jump>Iri 0102</jump>
    <jump>Irilia-1</jump>
-   <asset>Asteroids Cluster 262240</asset>
-   <asset>Asteroids Cluster 564824</asset>
    <asset>Halisht</asset>
    <asset>Halisht Relay</asset>
   </sys>
@@ -446,9 +433,6 @@
   <sys name="Daleth">
    <jump>Iri 00174</jump>
    <jump>Iri 00177</jump>
-   <asset>Asteroids Cluster 233540</asset>
-   <asset>Asteroids Cluster 260021</asset>
-   <asset>Asteroids Cluster 899541</asset>
    <asset>Daleth Eral</asset>
    <asset>Ereth</asset>
    <asset>Ghanilan</asset>
@@ -458,11 +442,6 @@
    <jump>Iri 0018</jump>
    <jump>Iri 0021</jump>
    <jump>Iri 0022</jump>
-   <asset>Asteroids Cluster 236412</asset>
-   <asset>Asteroids Cluster 262544</asset>
-   <asset>Asteroids Cluster 289888</asset>
-   <asset>Asteroids Cluster 564441</asset>
-   <asset>Asteroids Cluster 652989</asset>
    <asset>Dosal</asset>
    <asset>Dosal Relay</asset>
   </sys>
@@ -476,20 +455,11 @@
    <jump>Iri 0053</jump>
    <asset>Altham Etrel</asset>
    <asset>Altham Irla</asset>
-   <asset>Asteroids Cluster 410474</asset>
-   <asset>Asteroids Cluster 456568</asset>
-   <asset>Asteroids Cluster 564544</asset>
-   <asset>Asteroids Cluster 565548</asset>
-   <asset>Asteroids Cluster 569852</asset>
-   <asset>Asteroids Cluster 698520</asset>
-   <asset>Asteroids Cluster 895454</asset>
    <asset>Holin Altham</asset>
   </sys>
   <sys name="Thenann">
    <jump>Iri 0049</jump>
    <jump>Iri 0050</jump>
-   <asset>Asteroids Cluster 267841</asset>
-   <asset>Asteroids Cluster 821045</asset>
    <asset>Thenann</asset>
    <asset>Thenann Relay</asset>
   </sys>
@@ -498,10 +468,6 @@
    <jump>Iri 0101</jump>
    <jump>Iri 0130</jump>
    <jump>Irilia-5</jump>
-   <asset>Asteroids Cluster 232241</asset>
-   <asset>Asteroids Cluster 268549</asset>
-   <asset>Asteroids Cluster 566854</asset>
-   <asset>Asteroids Cluster 858842</asset>
    <asset>Matholn</asset>
    <asset>Matholn Relay</asset>
    <asset>Melaneth Cache</asset>
