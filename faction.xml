@@ -10,6 +10,22 @@
   <enemies />
  </faction>
  <faction>
+  <name>Asteroids</name>
+  <static />
+  <invisible />
+  <player>0</player>
+  <allies />
+  <enemies />
+ </faction>
+ <faction>
+  <name>Truce</name>
+  <static />
+  <invisible />
+  <player>0</player>
+  <allies />
+  <enemies />
+ </faction>
+ <faction>
   <name>Independent</name>
   <static />
   <invisible />
