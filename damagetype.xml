@@ -13,6 +13,11 @@
    For example, a ship with a nebu_absorb_shield stat of 40 will take 40%
    less shield damage when in volatile nebulae.
  -->
+ <dtype name="laser">
+  <shield>1.2</shield>
+  <armour>0.8</armour>
+  <knockback>0</knockback>
+ </dtype>
  <dtype name="nebula">
   <shield stat="nebu_absorb_shield">0.15</shield>
   <armour stat="nebu_absorb_armour">1</armour>
