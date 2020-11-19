@@ -3,7 +3,7 @@
  <virtual/>
  <presence>
   <faction>Pirate</faction>
-  <value>150.000000</value>
-  <range>2</range>
+  <value>400.000000</value>
+  <range>5</range>
  </presence>
 </asset>

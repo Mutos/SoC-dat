@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Commodities>
  <commodity>
-  <name>Food</name>
+  <name>Generic Food</name>
   <description>Evolving from the military rations of the ancient past, modern packaged meals are rich in nutrients and able to last many cycles in their vacuum-sealed packaging. Note than generic food is engineered to be biocompatible with all sentient species and their common ecosystems.</description>
   <price>210</price>
   <gfx_store>standard_mealpacks</gfx_store>
