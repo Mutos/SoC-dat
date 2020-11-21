@@ -62,7 +62,6 @@ function land( pnt )
 	end
 
 	if pnt:class() == "Z" then
-		-- print ("\tEnd of Landing function : land_asteroids")
 		-- DEBUG
 		dbg.stdOutput( strPrefix, 0, "exiting with asteroid call", boolDebug )
 
@@ -74,6 +73,16 @@ function land( pnt )
 	return land_faction(pnt)
 end
 
+
+-- Low-class landing function. Low class planets let you land and bribe at much lower standings.
+function land_lowclass( pnt )
+   return land_civilian(pnt, -20, -80)
+end
+
+-- High class landing function. High class planets can't be bribed.
+function land_hiclass( pnt )
+   return land_civilian(pnt, 0, 0)
+end
 
 -- Called by land() for assets with Landing Pass set on landing_params.lua.
 function land_pass( pnt )

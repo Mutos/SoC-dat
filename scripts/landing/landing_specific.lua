@@ -33,28 +33,31 @@ end
 
 -- Called by land() for Pirate clanworld.
 function land_pir_clanworld( pnt )
-	local fct = pnt:faction()
-	local standing = fct:playerStanding()
-	local can_land = standing > 20
+   local fct = pnt:faction()
+   local standing = fct:playerStanding()
+   local can_land = standing > 20 or pnt:getLandOverride()
 
-	local land_msg
-	if can_land then
-		land_msg = "Permission to land granted. Welcome, brother."
-	elseif standing >= 0 then
-		land_msg = "Small time pirates have no business on our clanworld!"
-	else
-		land_msg = "Get out of here!"
-	end
+   local land_msg
+   if can_land then
+      land_msg = _("Permission to land granted. Welcome, mate.")
+   elseif standing >= 0 then
+      land_msg = _("Small time pirates have no business on our clanworld!")
+   else
+      land_msg = _("Get out of here!")
+   end
 
-	-- Calculate bribe price. Custom for pirates.
-	local can_bribe, bribe_price, bribe_msg, bribe_ack_msg
-	if not can_land and standing >= -50 then
-		bribe_price = (20 - standing) * 500 + 1000 -- 36K max, at -50 rep. Pirates are supposed to be cheaper than regular factions.
-		local str	= numstring( bribe_price )
-		bribe_msg	= string.format(
-				"\"Well, I think you're scum, but I'm willing to look the other way for %s credits. Deal?\"",
-				str )
-		bribe_ack_msg = "Heh heh, thanks. Now get off the comm, I'm busy!"
-	end
-	return can_land, land_msg, bribe_price, bribe_msg, bribe_ack_msg
+   -- Calculate bribe price. Custom for pirates.
+   local bribe_price, bribe_msg, bribe_ack_msg
+   if not can_land and standing >= -50 then
+      bribe_price = (20 - standing) * 500 + 1000 -- 36K max, at -50 rep. Pirates are supposed to be cheaper than regular factions.
+      local str   = numstring( bribe_price )
+      bribe_msg   = string.format(
+            gettext.ngettext(
+               "\"Well, I think you're scum, but I'm willing to look the other way for %s credit. Deal?\"",
+               "\"Well, I think you're scum, but I'm willing to look the other way for %s credits. Deal?\"",
+               bribe_price),
+            str )
+      bribe_ack_msg = _("Heh heh, thanks. Now get off the comm, I'm busy!")
+   end
+   return can_land, land_msg, bribe_price, bribe_msg, bribe_ack_msg
 end
