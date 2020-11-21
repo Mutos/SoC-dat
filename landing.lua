@@ -28,7 +28,16 @@
 
 --]]
 
+-- Toolsets include
 require "scripts/numstring.lua"
+require "scripts/debug/debug.lua"
+
+-- Landing functions include
+require "scripts/landing/landing_hooks.lua"				-- Any function actually called by an asset's XML <land> tag goes there
+require "scripts/landing/landing_generic.lua"			-- Generic functions called by landing_hooks functions
+require "scripts/landing/landing_specific.lua"			-- Functions called by landing_hooks functions for a given planet, faction, species or other criteria
+require "scripts/landing/landing_params_factions.lua"	-- Parameters table used by the faction-based functions.
+require "scripts/landing/landing_params_passes.lua"		-- Parameters table used by the passes-based functions.
 
 -- Default function. Any asset that has no landing script explicitly defined will use this.
 function land( pnt )
