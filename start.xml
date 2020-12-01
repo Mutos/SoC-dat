@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Start>
- <name>Sea of Darkness</name>
+ <name>Hoshikaze 2250 - Stars of Call - NAEV Total Conversion</name>
  <player>
-  <ship name="El Ego de Deiz">Llama</ship>
-  <credits>30000</credits>
+  <ship name="El Ego de Deiz">Eclair d'Etoiles</ship>
+  <credits>5000</credits>
   <system>
-   <name>Hakoi</name>
-   <x>-8000</x>
-   <y>-17000</y>
+   <name>Ek'In</name>
+   <x>-5600</x>
+   <y>990</y>
   </system>
   <event>start_event</event>
  </player>
  <date>
-  <scu>603</scu>
+  <scu>2250</scu>
   <stp>3726</stp>
   <stu>2871</stu>
  </date>
