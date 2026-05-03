@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Seven Boots League">
+ <general>
+  <mass>0</mass>
+  <price>1000</price>
+ <description>Road taken by Lyann Ness and Sam to exfiltrate victims from the Hopper Connection.</description>
+  <gfx_store>map</gfx_store>
+ </general>
+ <specific type="map">
+  <sys name="Rencard (Gl 229)">
+   <jump>Kapteyns</jump>
+   <jump>New Earth (Eta Cassiopeia)</jump>
+   <asset>Rencard Station</asset>
+  </sys>
+  <sys name="Kapteyns">
+   <jump>Gl 3622</jump>
+   <jump>Rencard (Gl 229)</jump>
+  </sys>
+  <sys name="Gl 3622">
+   <jump>39 Leonis</jump>
+   <jump>Heaven (Delta Pavonis)</jump>
+   <jump>Kapteyns</jump>
+  </sys>
+  <sys name="39 Leonis">
+   <jump>Gl 3622</jump>
+   <asset>Asteroids Bunch</asset>
+   <asset>No Life Station</asset>
+   <asset>Ventose</asset>
+  </sys>
+  <sys name="Heaven (Delta Pavonis)">
+   <jump>Gl 3622</jump>
+   <jump>New Earth (Eta Cassiopeia)</jump>
+   <asset>Heaven</asset>
+  </sys>
+  <sys name="New Earth (Eta Cassiopeia)">
+   <jump>Fork (Gl 302)</jump>
+   <jump>Heaven (Delta Pavonis)</jump>
+   <jump>Rencard (Gl 229)</jump>
+   <jump>Tau3 (Gl 121)</jump>
+   <asset>New Earth</asset>
+  </sys>
+  <sys name="Fork (Gl 302)">
+   <jump>New Earth (Eta Cassiopeia)</jump>
+  </sys>
+  <sys name="Tau3 (Gl 121)">
+   <jump>New Earth (Eta Cassiopeia)</jump>
+   <jump>Teegarden</jump>
+  </sys>
+  <sys name="Teegarden">
+   <jump>Hermes</jump>
+   <jump>Tau3 (Gl 121)</jump>
+   <asset>Garden Center</asset>
+   <asset>Tee b</asset>
+   <asset>Tee c</asset>
+   <asset>Tee d</asset>
+  </sys>
+  <sys name="Hermes">
+   <jump>Eldorado</jump>
+   <jump>Teegarden</jump>
+   <asset>Hephaistos</asset>
+   <asset>Hermes Border Station</asset>
+   <asset>Zeus</asset>
+  </sys>
+  <sys name="Eldorado">
+   <jump>GL 283 A</jump>
+   <jump>Hermes</jump>
+   <asset>Banshee War Museum</asset>
+  </sys>
+  <sys name="GL 283 A">
+   <jump>Aka Jigoku (Gl 268)</jump>
+   <jump>Eldorado</jump>
+  </sys>
+  <sys name="Aka Jigoku (Gl 268)">
+   <jump>Algol</jump>
+   <jump>GL 283 A</jump>
+   <asset>Nemesis</asset>
+   <asset>Tempest</asset>
+   <asset>Tempest LRS</asset>
+   <asset>Typhoon</asset>
+  </sys>
+  <sys name="Algol">
+   <jump>Aka Jigoku (Gl 268)</jump>
+   <jump>Gl 250 A</jump>
+   <asset>Parma Centrale</asset>
+  </sys>
+  <sys name="Gl 250 A">
+   <jump>Algol</jump>
+   <jump>HnH-SC - 1 - 1</jump>
+   <asset>Cerberus Fortress</asset>
+  </sys>
+  <sys name="HnH-SC - 1 - 1">
+   <jump>Gl 250 A</jump>
+   <jump>Shadow Grave</jump>
+  </sys>
+  <sys name="Shadow Grave">
+   <jump>Devereau's Holds</jump>
+   <jump>HnH-SC - 1 - 1</jump>
+   <asset>Freeport 3</asset>
+   <asset>Shadow Grave</asset>
+  </sys>
+  <sys name="Devereau's Holds">
+   <jump>Shadow Grave</jump>
+   <asset>Devereau's Holds</asset>
+   <asset>Wai</asset>
+  </sys>
+ </specific>
+</outfit>
