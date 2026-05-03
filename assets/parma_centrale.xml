@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Parma Centrale">
+ <pos>
+  <x>-9871.931981</x>
+  <y>-1597.399997</y>
+ </pos>
+ <GFX>
+  <space>Station-HQ-001-Grey.png</space>
+  <exterior>aquatic.png</exterior>
+ </GFX>
+ <presence>
+  <faction>HnH</faction>
+  <value>100.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>500</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

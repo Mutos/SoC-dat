@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Zaff'Rin">
+ <pos>
+  <x>-1956.691740</x>
+  <y>-2187.797064</y>
+ </pos>
+ <GFX>
+  <space>M06.png</space>
+  <exterior>desertic.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

@@ -12,19 +12,19 @@
  </pos>
  <assets/>
  <jumps>
+  <jump target="Gl 3001">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="Gl 534.1">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="NN 3001">
+  <jump target="McLeod (Gl 9615)">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Sol">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="Wo 9615">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Hope-3.1">
+ <pos>
+  <x>6703.327927</x>
+  <y>-3714.625191</y>
+ </pos>
+ <GFX>
+  <space>D00.png</space>
+  <exterior>forest2.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>1.000000</hide>
+  <services/>
+ </general>
+</asset>

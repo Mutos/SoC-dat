@@ -12,11 +12,11 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="Colony 14">
+  <jump target="IS 0016">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="IS 0016">
+  <jump target="Marshlands (World 14)">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

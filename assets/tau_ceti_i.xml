@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <asset name="Tau Ceti I">
  <pos>
-  <x>1391.194826</x>
-  <y>-3378.616006</y>
+  <x>481.564272</x>
+  <y>-627.538234</y>
  </pos>
  <GFX>
-  <space>A03.png</space>
+  <space>moon-D02.png</space>
   <exterior>forest2.png</exterior>
  </GFX>
  <general>

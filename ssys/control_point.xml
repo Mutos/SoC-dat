@@ -10,13 +10,21 @@
   <x>-2804.886720</x>
   <y>-1980.677120</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Blossom</asset>
+  <asset>Bubbles</asset>
+  <asset>Buttercup</asset>
+  <asset>Control Point</asset>
+  <asset>Control Point 1</asset>
+  <asset>Control Point 2</asset>
+  <asset>Control Point 3</asset>
+ </assets>
  <jumps>
-  <jump target="Devereau's Holds">
+  <jump target="'Ha'Rtiish">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Ha'Rtiish">
+  <jump target="Devereau's Holds">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

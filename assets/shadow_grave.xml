@@ -22,15 +22,7 @@
    <refuel/>
    <bar/>
   </services>
-  <commodities>
-   <commodity>Generic Food</commodity>
-   <commodity>K'Rinn Food</commodity>
-   <commodity>Rith Food</commodity>
-   <commodity>Human Food</commodity>
-   <commodity>Sshaad Food</commodity>
-   <commodity>Shapeshifter Food</commodity>
-   <commodity>Pupeteer Food</commodity>
-  </commodities>
+  <commodities/>
   <description>These are the remnants of the smuggling station where the Shadow Company was decimated while trying to discover the HnH-Alliance route for Cartel Sol.
 
 After the FeuerRing disaster, Cartel Sol intelligence ruled there had to be a reason for the stand-in of the 3rd Planetarist Fringe Fleet. So they sent a small infiltration force, made of two transports and one corvette, to discover the jump route to Sanctuary they suspected.

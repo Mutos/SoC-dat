@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Control Point 3">
+ <pos>
+  <x>-8443.047823</x>
+  <y>-2465.123452</y>
+ </pos>
+ <GFX>
+  <space>Station-009-Outpost.png</space>
+  <exterior>mining3.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Candidate Systems</faction>
+  <value>250.000000</value>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>500</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</asset>

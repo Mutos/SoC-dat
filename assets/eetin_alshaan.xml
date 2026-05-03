@@ -23,13 +23,7 @@
    <bar/>
    <missions/>
   </services>
-  <commodities>
-   <commodity>Generic Food</commodity>
-   <commodity>Sshaad Food</commodity>
-   <commodity>Ore</commodity>
-   <commodity>Industrial Goods</commodity>
-   <commodity>Medicine</commodity>
-  </commodities>
+  <commodities/>
   <description>A supply depot on a small asteroid, with a few underground holds and tanks, and a crude facility : a bar, some rooms to rent and a lobby with a few dust-covered mission terminals.
 
 It has been established by miners seing the profit to get from the Aan Jump Route and is thriving in its own smallish way. The gorgeous view on the nearby gas giant so far failed to attract tourists, due to the hardship of simply getting there.

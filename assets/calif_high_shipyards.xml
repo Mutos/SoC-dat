@@ -25,17 +25,7 @@
    <outfits/>
    <shipyard/>
   </services>
-  <commodities>
-   <commodity>Generic Food</commodity>
-   <commodity>K'Rinn Food</commodity>
-   <commodity>Rith Food</commodity>
-   <commodity>Human Food</commodity>
-   <commodity>Sshaad Food</commodity>
-   <commodity>Shapeshifter Food</commodity>
-   <commodity>Pupeteer Food</commodity>
-   <commodity>Ore</commodity>
-   <commodity>Industrial Goods</commodity>
-  </commodities>
+  <commodities/>
   <description>Calif High is the main shipyards in Earth orbit. It is named for the California region of the American continent.
 
 It was initially the headquarters of the Kreuzer-Malcolm Corporation, back in the first days of the Orbital era. When KMC became the first company to manufacture ionic spaceships for the Earth-Mars Colonization Noria, a shipyard extension was built. Little by little, it became larger, until it totally enclosed the HQ building.

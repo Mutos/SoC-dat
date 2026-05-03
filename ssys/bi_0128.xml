@@ -12,10 +12,6 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="BI 0125">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="BI 0129">
    <autopos/>
    <hide>1.250000</hide>

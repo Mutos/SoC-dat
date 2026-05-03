@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Sen'Frrish">
+ <pos>
+  <x>-5328.261628</x>
+  <y>-1117.009064</y>
+ </pos>
+ <GFX>
+  <space>M10.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

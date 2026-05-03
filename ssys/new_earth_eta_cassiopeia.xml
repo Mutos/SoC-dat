@@ -15,19 +15,19 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="Gl 121">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="Gl 229">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="Gl 302">
+  <jump target="Fork (Gl 302)">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Heaven (Delta Pavonis)">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Rencard (Gl 229)">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Tau3 (Gl 121)">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

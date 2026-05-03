@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Pupeteers' Second Earth">
+ <pos>
+  <x>3112.018637</x>
+  <y>-1270.037879</y>
+ </pos>
+ <GFX>
+  <space>moon-M03.png</space>
+  <exterior>Outpost-KTiln.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Thirteen Planets League</faction>
+  <value>400.000000</value>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>2500000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</asset>

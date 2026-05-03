@@ -12,11 +12,11 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="Colony 15">
+  <jump target="TPL 0189">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="TPL 0189">
+  <jump target="Waterrock (World-15)">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

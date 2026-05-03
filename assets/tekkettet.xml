@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <asset name="Tek'Kettet">
  <pos>
-  <x>-4137.669726</x>
-  <y>-2696.559201</y>
+  <x>-3855.207664</x>
+  <y>-1297.088075</y>
  </pos>
  <GFX>
-  <space>moon-G01.png</space>
+  <space>Planet-003-cold.png</space>
   <exterior>snow.png</exterior>
  </GFX>
  <presence>

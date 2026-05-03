@@ -13,18 +13,19 @@
  <assets>
   <asset>Eral ud Nal</asset>
   <asset>Jaltha</asset>
+  <asset>Jaltha nel Nalth</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="Ary 0038">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Ary 0069">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Ary 0134">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Erilanth">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

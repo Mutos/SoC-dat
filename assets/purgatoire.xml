@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <asset name="Purgatoire">
  <pos>
-  <x>1643.454717</x>
-  <y>-1769.377917</y>
+  <x>1686.452887</x>
+  <y>-1765.078100</y>
  </pos>
  <GFX>
   <space>O02.png</space>
@@ -21,16 +21,7 @@
    <land/>
    <refuel/>
   </services>
-  <commodities>
-   <commodity>Generic Food</commodity>
-   <commodity>Human Food</commodity>
-   <commodity>K'Rinn Food</commodity>
-   <commodity>Rith Food</commodity>
-   <commodity>Ore</commodity>
-   <commodity>Industrial Goods</commodity>
-   <commodity>Medicine</commodity>
-   <commodity>Ziffelan Minidragons</commodity>
-  </commodities>
+  <commodities/>
   <description>This planet was the cradleworld of the sentient species currently called Purgatorians. They destroyed themselves some 8000 years before the first of the current major spacegoing species set up to space.
 
 When the Ashioto ("Footsteps") system was first explored by Humans, several Policorpos engaged in a very dirty war to get a hand on the powerful technological remnants lying on the planet. They used tactical atomics, heavy cyborgization, highly illegal hypnotics and endoctrination, and even dared to use recovered purgatorian technologies they did not fully understand, ending up with a number of local cataclysms. The name "Purgatoire" itself was coined by the suffering troops on all sides of that merciless war.

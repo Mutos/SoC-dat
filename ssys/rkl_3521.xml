@@ -17,10 +17,6 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="KT 242">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="KT 258">
    <autopos/>
    <hide>1.250000</hide>
@@ -30,6 +26,10 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="RkL 1753">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="T'Kilnath - KT 242">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

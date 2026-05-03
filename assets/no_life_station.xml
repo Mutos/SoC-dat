@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="No Life Station">
+ <pos>
+  <x>3997.197678</x>
+  <y>-1815.563423</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-007a-Mining-Facility.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Free Traders</faction>
+  <value>0.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>5</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <blackmarket/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+ </general>
+</asset>
