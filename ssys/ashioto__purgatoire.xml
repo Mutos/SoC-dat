@@ -11,18 +11,17 @@
   <y>333.496000</y>
  </pos>
  <assets>
+  <asset>Ashura</asset>
+  <asset>Okami</asset>
   <asset>Purgatoire</asset>
   <asset>Purgatoire EWS Buoy #1</asset>
   <asset>Purgatoire EWS Buoy #2</asset>
   <asset>Purgatoire EWS Buoy #3</asset>
   <asset>Research Monitoring Base</asset>
+  <asset>Toki no Namida</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="AC 0003">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="AC 0004">
    <autopos/>
    <hide>1.250000</hide>
@@ -36,6 +35,10 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="AC 0010">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Ran (Epsilon Eridani)">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

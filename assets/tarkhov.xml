@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Tarkhov">
+ <pos>
+  <x>5590.899989</x>
+  <y>-6899.880542</y>
+ </pos>
+ <GFX>
+  <space>Station-SR001.png</space>
+  <exterior>desertic3.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Core League</faction>
+  <value>0.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</asset>

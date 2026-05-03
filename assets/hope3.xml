@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Hope-3">
+ <pos>
+  <x>5754.611480</x>
+  <y>-3918.342677</y>
+ </pos>
+ <GFX>
+  <space>J05.png</space>
+  <exterior>methane.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Core League</faction>
+  <value>350.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>10000</population>
+  <hide>0.100000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+  </services>
+  <commodities/>
+  <description>Tau Ceti III is a gas giant with a number of floating extraction plants that provide fuel to spaceships. It has been exploited ever since the Hope ships colonized the planet, in the times even before Cartel Sol and the Corporate Wars.
+  </description>
+  <bar>Gas miners are a rough lot and it shows !</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+  <item>Regular Generic</item>
+  <item>Star Maps - Commonwealth</item>
+  <item>Star Maps - Human Sphere</item>
+ </tech>
+</asset>

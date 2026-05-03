@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Purple Grill">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-3355.928000</x>
+  <y>-1221.192000</y>
+ </pos>
+ <assets>
+  <asset>Asteroid Field</asset>
+  <asset>Furnace</asset>
+  <asset>Purple Grill Outpost</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+ </assets>
+ <jumps>
+  <jump target="PT 0022">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="PT 0023">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="PT 0031">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+ <asteroids>
+  <asteroid>
+   <radius>1000.000000</radius>
+   <pos x="6856.481245" y="-2460.843724"/>
+   <density>0.500000</density>
+  </asteroid>
+  <asteroid>
+   <radius>1000.000000</radius>
+   <pos x="7917.497198" y="-2692.662335"/>
+   <density>0.500000</density>
+  </asteroid>
+  <asteroid>
+   <radius>1000.000000</radius>
+   <pos x="7177.460861" y="-2942.313148"/>
+   <density>0.500000</density>
+  </asteroid>
+ </asteroids>
+</ssys>

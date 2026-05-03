@@ -22,16 +22,7 @@
    <refuel/>
    <bar/>
   </services>
-  <commodities>
-   <commodity>Generic Food</commodity>
-   <commodity>Human Food</commodity>
-   <commodity>K'Rinn Food</commodity>
-   <commodity>Rith Food</commodity>
-   <commodity>Ore</commodity>
-   <commodity>Industrial Goods</commodity>
-   <commodity>Medicine</commodity>
-   <commodity>Ziffelan Minidragons</commodity>
-  </commodities>
+  <commodities/>
   <description>This recently discovered station has been identified as the probable location where the Persephone European Deep Space Explorer did land one century ago.
 
 On the station, the Persephone crew found there nanobiotech facilities, that enabled them to survive and refurbish their ship, but transformed them in horrible ways. They then tried to fly home and in the process attacked Tempest, in the Hoshi no Hekka, to loot the material they needed. The ship and its whole crew were destroyed, except one survivor. This event has been shrouded in secrecy by the Hoshi no Hekka, but has been revealed over time and is now known as "the Tempest Incident".

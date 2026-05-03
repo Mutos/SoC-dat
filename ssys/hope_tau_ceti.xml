@@ -11,10 +11,17 @@
   <y>-637.400000</y>
  </pos>
  <assets>
+  <asset>Ares</asset>
+  <asset>Ares High</asset>
   <asset>Hope</asset>
+  <asset>Hope-3</asset>
+  <asset>Hope-3.1</asset>
+  <asset>Hope-5</asset>
+  <asset>Tarkhov</asset>
   <asset>Tau Ceti I</asset>
+  <asset>Tau Ceti II</asset>
   <asset>Tau Ceti III</asset>
-  <asset>Tau Ceti III.1</asset>
+  <asset>Tau Ceti IV</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
@@ -22,11 +29,11 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="NN 3753">
+  <jump target="Gl 3753">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="NN 3860">
+  <jump target="HN Bootis">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

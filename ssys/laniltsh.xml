@@ -19,10 +19,6 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="BI 0100">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="BI 0108">
    <autopos/>
    <hide>1.250000</hide>

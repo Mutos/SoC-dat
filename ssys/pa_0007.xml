@@ -16,15 +16,15 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Gl 721 (Alpha Lyrae)">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="PA 0006">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Sora no Shikyuu">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Véga (Alpha Lyrae)">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

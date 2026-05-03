@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Wolf-5">
+ <pos>
+  <x>8093.493317</x>
+  <y>-4153.239992</y>
+ </pos>
+ <GFX>
+  <space>J05.png</space>
+  <exterior>station05.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

@@ -7,72 +7,18 @@
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>-300.752960</x>
-  <y>-1379.816000</y>
+  <x>-72.923200</x>
+  <y>-1398.276800</y>
  </pos>
  <assets/>
  <jumps>
-  <jump target="PA 0012">
+  <jump target="Althaim">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="PA 0031">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="PA-Iri - 1 - 1">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="Sora no Shikyuu">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="Thalin">
+  <jump target="Wayne's World">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
  </jumps>
- <asteroids>
-  <asteroid>
-   <radius>1000.000000</radius>
-   <pos x="6729.787024" y="-1257.212960"/>
-   <density>0.500000</density>
-  </asteroid>
-  <asteroid>
-   <radius>1000.000000</radius>
-   <pos x="-9006.979050" y="3508.435596"/>
-   <density>0.500000</density>
-  </asteroid>
-  <asteroid>
-   <radius>1000.000000</radius>
-   <pos x="-8719.141649" y="5169.363879"/>
-   <density>0.500000</density>
-  </asteroid>
-  <asteroid>
-   <radius>1000.000000</radius>
-   <pos x="3527.591660" y="4570.338880"/>
-   <density>0.500000</density>
-  </asteroid>
-  <asteroid>
-   <radius>1000.000000</radius>
-   <pos x="-7940.254565" y="-4763.306893"/>
-   <density>0.500000</density>
-  </asteroid>
-  <asteroid>
-   <radius>1000.000000</radius>
-   <pos x="2388.088344" y="1278.782791"/>
-   <density>0.500000</density>
-  </asteroid>
-  <asteroid>
-   <radius>1000.000000</radius>
-   <pos x="3301.293327" y="-3035.059994"/>
-   <density>0.500000</density>
-  </asteroid>
-  <asteroid>
-   <radius>1000.000000</radius>
-   <pos x="2372.681322" y="-4067.453696"/>
-   <density>0.500000</density>
-  </asteroid>
- </asteroids>
 </ssys>

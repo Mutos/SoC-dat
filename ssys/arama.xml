@@ -10,7 +10,21 @@
   <x>-2748.648000</x>
   <y>-2168.712000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Blue Water</asset>
+  <asset>Bone Pearl</asset>
+  <asset>Garden's Wall</asset>
+  <asset>Hyena Pup</asset>
+  <asset>Jade</asset>
+  <asset>Jasp</asset>
+  <asset>Mim'Sa</asset>
+  <asset>Moonless</asset>
+  <asset>Onyx</asset>
+  <asset>Rhombus-1</asset>
+  <asset>Rhombus-2</asset>
+  <asset>The Watcher</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+ </assets>
  <jumps>
   <jump target="Ab Yoht">
    <autopos/>

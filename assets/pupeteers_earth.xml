@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <asset name="Pupeteers' Earth">
  <pos>
-  <x>2783.633494</x>
-  <y>-2738.950311</y>
+  <x>2924.864525</x>
+  <y>-2559.201726</y>
  </pos>
  <GFX>
-  <space>M08.png</space>
+  <space>moon-M00.png</space>
   <exterior>oceanic.png</exterior>
  </GFX>
  <presence>

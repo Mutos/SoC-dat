@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Moonless">
+ <pos>
+  <x>-2278.955275</x>
+  <y>-1872.381094</y>
+ </pos>
+ <GFX>
+  <space>M02.png</space>
+  <exterior>forest.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Candidate Systems</faction>
+  <value>400.000000</value>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>100000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+ <tech>
+  <item>Low-tech Generic</item>
+ </tech>
+</asset>

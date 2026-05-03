@@ -21,6 +21,10 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
+  <jump target="Teegarden">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="Tripoint">
    <autopos/>
    <hide>1.250000</hide>

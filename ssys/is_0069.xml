@@ -16,11 +16,11 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="IS 0068">
+  <jump target="FastFlyers">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="IS 0071">
+  <jump target="IS 0068">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
