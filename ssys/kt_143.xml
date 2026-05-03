@@ -10,8 +10,7 @@
   <x>237.328000</x>
   <y>-252.168000</y>
  </pos>
- <assets>
- </assets>
+ <assets/>
  <jumps>
   <jump target="Canterbury">
    <autopos/>
@@ -27,18 +26,15 @@
   </jump>
  </jumps>
  <asteroids>
-  <asteroid name="Asteroids Cluster 235260">
-   <type>default</type>
-   <radius>1000</radius>
-   <pos x="463.17737" y="-9987.352531"/>
-   <density>0.5</density>
+  <asteroid>
+   <radius>1000.000000</radius>
+   <pos x="463.177370" y="-9987.352531"/>
+   <density>0.500000</density>
   </asteroid>
-  <asteroid name="Asteroids Cluster 764156">
-   <type>default</type>
-   <radius>1000</radius>
+  <asteroid>
+   <radius>1000.000000</radius>
    <pos x="5335.315989" y="-1948.827996"/>
-   <density>0.5</density>
+   <density>0.500000</density>
   </asteroid>
  </asteroids>
- <asteroids/>
 </ssys>

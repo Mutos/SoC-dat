@@ -10,8 +10,7 @@
   <x>-148.520000</x>
   <y>57.648000</y>
  </pos>
- <assets>
- </assets>
+ <assets/>
  <jumps>
   <jump target="KT 241">
    <autopos/>
@@ -23,30 +22,25 @@
   </jump>
  </jumps>
  <asteroids>
-  <asteroid name="Asteroids Cluster 162380">
-   <type>default</type>
-   <radius>1000</radius>
+  <asteroid>
+   <radius>1000.000000</radius>
    <pos x="4947.502768" y="4082.244436"/>
-   <density>0.5</density>
+   <density>0.500000</density>
   </asteroid>
-  <asteroid name="Asteroids Cluster 665046">
-   <type>default</type>
-   <radius>1000</radius>
-   <pos x="4810.966123" y="4336.49881"/>
-   <density>0.5</density>
+  <asteroid>
+   <radius>1000.000000</radius>
+   <pos x="4810.966123" y="4336.498810"/>
+   <density>0.500000</density>
   </asteroid>
-  <asteroid name="Asteroids Cluster 733439">
-   <type>default</type>
-   <radius>1000</radius>
+  <asteroid>
+   <radius>1000.000000</radius>
    <pos x="-9552.451981" y="-1245.971998"/>
-   <density>0.5</density>
+   <density>0.500000</density>
   </asteroid>
-  <asteroid name="Asteroids Cluster 936231">
-   <type>default</type>
-   <radius>1000</radius>
+  <asteroid>
+   <radius>1000.000000</radius>
    <pos x="-2451.152789" y="2186.163298"/>
-   <density>0.5</density>
+   <density>0.500000</density>
   </asteroid>
  </asteroids>
- <asteroids/>
 </ssys>

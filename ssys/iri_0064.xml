@@ -24,12 +24,10 @@
   </jump>
  </jumps>
  <asteroids>
-  <asteroid name="Asteroids Cluster 795210">
-   <type>default</type>
-   <radius>1000</radius>
+  <asteroid>
+   <radius>1000.000000</radius>
    <pos x="1797.074996" y="-5834.947211"/>
-   <density>0.5</density>
+   <density>0.500000</density>
   </asteroid>
  </asteroids>
- <asteroids/>
 </ssys>

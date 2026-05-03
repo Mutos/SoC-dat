@@ -10,8 +10,7 @@
   <x>-2065.740480</x>
   <y>-1532.954880</y>
  </pos>
- <assets>
- </assets>
+ <assets/>
  <jumps>
   <jump target="Carrouf (NN 3487)">
    <autopos/>
@@ -23,24 +22,20 @@
   </jump>
  </jumps>
  <asteroids>
-  <asteroid name="Asteroids Cluster 652127">
-   <type>default</type>
-   <radius>1000</radius>
+  <asteroid>
+   <radius>1000.000000</radius>
    <pos x="4098.697106" y="6059.614913"/>
-   <density>0.5</density>
+   <density>0.500000</density>
   </asteroid>
-  <asteroid name="Asteroids Cluster 671507">
-   <type>default</type>
-   <radius>1000</radius>
+  <asteroid>
+   <radius>1000.000000</radius>
    <pos x="-12259.279644" y="-4843.102384"/>
-   <density>0.5</density>
+   <density>0.500000</density>
   </asteroid>
-  <asteroid name="Asteroids Cluster 782669">
-   <type>default</type>
-   <radius>1000</radius>
+  <asteroid>
+   <radius>1000.000000</radius>
    <pos x="-6857.357162" y="-1472.911263"/>
-   <density>0.5</density>
+   <density>0.500000</density>
   </asteroid>
  </asteroids>
- <asteroids/>
 </ssys>

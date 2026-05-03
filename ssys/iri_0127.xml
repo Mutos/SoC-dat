@@ -24,24 +24,20 @@
   </jump>
  </jumps>
  <asteroids>
-  <asteroid name="Asteroids Cluster 723289">
-   <type>default</type>
-   <radius>1000</radius>
-   <pos x="-3567.52666" y="-2023.373329"/>
-   <density>0.5</density>
+  <asteroid>
+   <radius>1000.000000</radius>
+   <pos x="-3567.526660" y="-2023.373329"/>
+   <density>0.500000</density>
   </asteroid>
-  <asteroid name="Asteroids Cluster 821346">
-   <type>default</type>
-   <radius>1000</radius>
+  <asteroid>
+   <radius>1000.000000</radius>
    <pos x="-2156.489996" y="-7561.026652"/>
-   <density>0.5</density>
+   <density>0.500000</density>
   </asteroid>
-  <asteroid name="Asteroids Cluster 890124">
-   <type>default</type>
-   <radius>1000</radius>
-   <pos x="-1757.139997" y="4872.06999"/>
-   <density>0.5</density>
+  <asteroid>
+   <radius>1000.000000</radius>
+   <pos x="-1757.139997" y="4872.069990"/>
+   <density>0.500000</density>
   </asteroid>
  </asteroids>
- <asteroids/>
 </ssys>
