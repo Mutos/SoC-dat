@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ud Nahus">
+ <pos>
+  <x>1642.853367</x>
+  <y>941.768888</y>
+ </pos>
+ <GFX>
+  <space>asteroid-D00.png</space>
+  <exterior>station05.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

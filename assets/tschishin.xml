@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Tsch'Ishin">
+ <pos>
+  <x>-2693.147371</x>
+  <y>-1833.435567</y>
+ </pos>
+ <GFX>
+  <space>moon-M06.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

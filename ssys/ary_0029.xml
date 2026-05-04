@@ -12,10 +12,6 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="Ary 0028">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Ary 0073">
    <autopos/>
    <hide>1.250000</hide>
@@ -25,6 +21,10 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="Ary 0124">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Thurnae">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Thorn">
+<asset name="Tshiaa'Shaan">
  <pos>
-  <x>-2218.611107</x>
-  <y>2311.053236</y>
+  <x>1318.019339</x>
+  <y>-1842.987921</y>
  </pos>
  <GFX>
-  <space>K03.png</space>
-  <exterior>station04.png</exterior>
+  <space>M02.png</space>
+  <exterior>station05.png</exterior>
  </GFX>
  <presence>
-  <faction>Arythem Clan</faction>
+  <faction>Daneb Anarchs</faction>
   <value>250.000000</value>
-  <range>4</range>
+  <range>0</range>
  </presence>
  <general>
   <class>A</class>
