@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Thorn">
+<asset name="Tshiaa'Han">
  <pos>
-  <x>-2218.611107</x>
-  <y>2311.053236</y>
+  <x>-1864.249611</x>
+  <y>-4837.804774</y>
  </pos>
  <GFX>
-  <space>K03.png</space>
-  <exterior>station04.png</exterior>
+  <space>M00.png</space>
+  <exterior>station05.png</exterior>
  </GFX>
  <presence>
-  <faction>Arythem Clan</faction>
+  <faction>Baartish Intersystems</faction>
   <value>250.000000</value>
-  <range>4</range>
+  <range>3</range>
  </presence>
  <general>
   <class>A</class>

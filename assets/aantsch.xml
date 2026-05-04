@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Thorn">
+<asset name="Aan'Tsch'">
  <pos>
-  <x>-2218.611107</x>
-  <y>2311.053236</y>
+  <x>6766.763876</x>
+  <y>-6877.694431</y>
  </pos>
  <GFX>
-  <space>K03.png</space>
-  <exterior>station04.png</exterior>
+  <space>moon-P00.png</space>
+  <exterior>desertic.png</exterior>
  </GFX>
  <presence>
-  <faction>Arythem Clan</faction>
+  <faction>Daneb Anarchs</faction>
   <value>250.000000</value>
-  <range>4</range>
+  <range>1</range>
  </presence>
  <general>
   <class>A</class>
-  <population>2500000</population>
+  <population>1000</population>
   <hide>0.250000</hide>
   <services>
    <land/>

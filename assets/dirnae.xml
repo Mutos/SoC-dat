@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Dirnae">
+ <pos>
+  <x>-1425.149496</x>
+  <y>-975.778033</y>
+ </pos>
+ <GFX>
+  <space>M07.png</space>
+  <exterior>mining6.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Irmothem Clan</faction>
+  <value>250.000000</value>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>89000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>Dirnae is currently under Skaraeformation by the Irmothem Clan, but have already some dome habitats.</description>
+  <bar>Prouds Arythem pionners devising about their future world.</bar>
+ </general>
+</asset>

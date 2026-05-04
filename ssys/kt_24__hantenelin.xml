@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="Wayne's World">
+<ssys name="KT 24 - Han'Tenelin">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -7,30 +7,23 @@
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>-300.752960</x>
-  <y>-1379.816000</y>
+  <x>-458.984000</x>
+  <y>-370.032000</y>
  </pos>
  <assets>
-  <asset>Wayne's World</asset>
+  <asset>Han'Tenelin</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="PA 0012">
+  <jump target="BI-KC - 1 - 1">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="PA 0031">
+  <jump target="KC-HnH - 1 - 2">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Rith no Doa">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="Sora no Shikyuu">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="Thalin">
+  <jump target="RkL 1753">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
@@ -38,42 +31,47 @@
  <asteroids>
   <asteroid>
    <radius>1000.000000</radius>
-   <pos x="6729.787024" y="-1257.212960"/>
+   <pos x="4397.933273" y="2243.703776"/>
    <density>0.500000</density>
   </asteroid>
   <asteroid>
    <radius>1000.000000</radius>
-   <pos x="-9006.979050" y="3508.435596"/>
+   <pos x="2512.113832" y="5815.667658"/>
    <density>0.500000</density>
   </asteroid>
   <asteroid>
    <radius>1000.000000</radius>
-   <pos x="-8719.141649" y="5169.363879"/>
+   <pos x="4245.694781" y="2779.691231"/>
    <density>0.500000</density>
   </asteroid>
   <asteroid>
    <radius>1000.000000</radius>
-   <pos x="3527.591660" y="4570.338880"/>
+   <pos x="3607.635174" y="2618.387165"/>
    <density>0.500000</density>
   </asteroid>
   <asteroid>
    <radius>1000.000000</radius>
-   <pos x="-7940.254565" y="-4763.306893"/>
+   <pos x="4187.487624" y="2350.865317"/>
    <density>0.500000</density>
   </asteroid>
   <asteroid>
    <radius>1000.000000</radius>
-   <pos x="2388.088344" y="1278.782791"/>
+   <pos x="2197.914329" y="5343.399972"/>
    <density>0.500000</density>
   </asteroid>
   <asteroid>
    <radius>1000.000000</radius>
-   <pos x="3301.293327" y="-3035.059994"/>
+   <pos x="2466.680238" y="5872.724994"/>
    <density>0.500000</density>
   </asteroid>
   <asteroid>
    <radius>1000.000000</radius>
-   <pos x="2372.681322" y="-4067.453696"/>
+   <pos x="3055.390537" y="5828.639831"/>
+   <density>0.500000</density>
+  </asteroid>
+  <asteroid>
+   <radius>1000.000000</radius>
+   <pos x="3018.584003" y="5650.762676"/>
    <density>0.500000</density>
   </asteroid>
  </asteroids>

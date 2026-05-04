@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ledim">
+ <pos>
+  <x>2965.644279</x>
+  <y>1750.970552</y>
+ </pos>
+ <GFX>
+  <space>moon-G01.png</space>
+  <exterior>desertic.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>
