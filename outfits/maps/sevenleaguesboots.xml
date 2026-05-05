@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<outfit name="Seven Boots League">
+<outfit name="Seven Leagues Boots">
  <general>
   <mass>0</mass>
   <price>1000</price>
- <description>Road taken by Lyann Ness and Sam to exfiltrate victims from the Hopper Connection.</description>
+  <description>Road taken by Lyann Ness and Sam to exfiltrate victims from the Hopper Connection.</description>
   <gfx_store>map</gfx_store>
  </general>
  <specific type="map">
