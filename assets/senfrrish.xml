@@ -8,10 +8,26 @@
   <space>M10.png</space>
   <exterior>station04.png</exterior>
  </GFX>
+ <presence>
+  <faction>Confederated Sshaad Stars</faction>
+  <value>400.000000</value>
+  <range>3</range>
+ </presence>
  <general>
   <class>A</class>
-  <population>0</population>
+  <population>2500000</population>
   <hide>0.250000</hide>
-  <services/>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
  </general>
 </asset>
