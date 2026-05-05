@@ -730,11 +730,11 @@
   <spawn>trader</spawn>
   <standing>trader</standing>
  </faction>
-   <faction>
-  <name>Confederates Sshaads Stars</name>
+ <faction>
+  <name>Confederated Sshaad Stars</name>
   <known/>
   <logo>default</logo>
-  <longname>Confederates Sshaads Stars</longname>
+  <longname>Confederated Sshaad Stars</longname>
   <player>0</player>
   <colour>silver</colour>
   <spawn>trader</spawn>
