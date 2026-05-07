@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="BreachPass Road">
+ <general>
+  <mass>0</mass>
+  <price>1000</price>
+  <description>Jump Road between the Alliance and Baartish.</description>
+  <gfx_store>map</gfx_store>
+ </general>
+ <specific type="map">
+  <sys name="Devereau's Holds">
+   <jump>Control Point</jump>
+   <asset>Devereau's Holds</asset>
+   <asset>Wai</asset>
+  </sys>
+  <sys name="Control Point">
+   <jump>Devereau's Holds</jump>
+   <jump>PA-BI - 1 - 2</jump>
+   <asset>Blossom</asset>
+   <asset>Bubbles</asset>
+   <asset>Buttercup</asset>
+   <asset>Control Point</asset>
+   <asset>Control Point 1</asset>
+   <asset>Control Point 2</asset>
+   <asset>Control Point 3</asset>
+  </sys>
+  <sys name="PA-BI - 1 - 2">
+   <jump>BI 0015</jump>
+   <jump>Control Point</jump>
+  </sys>
+  <sys name="BI 0015">
+   <jump>PA-BI - 1 - 2</jump>
+  </sys>
+ </specific>
+</outfit>
