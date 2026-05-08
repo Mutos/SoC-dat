@@ -14,17 +14,9 @@
    <asset>Ortir-15</asset>
    <asset>Raltir-15</asset>
   </sys>
-  <sys name="Son of the Eclipse">
-   <jump>Iri-TPL - 1 - 1</jump>
-   <asset>Freedom Portal</asset>
-   <asset>SkyRuler</asset>
-   <asset>Son of the Eclipse</asset>
-  </sys>
-  <sys name="Iri-TPL - 1 - 1">
-   <jump>Son of the Eclipse</jump>
-  </sys>
   <sys name="Iri 0242">
    <jump>Iri 0240</jump>
+   <jump>Skaeth</jump>
   </sys>
   <sys name="Iri 0240">
    <jump>Iri 0230</jump>
@@ -38,8 +30,6 @@
   <sys name="Irilia-18">
    <jump>Iri 0225</jump>
    <jump>Iri 0230</jump>
-   <asset>Asteroids Cluster 415614</asset>
-   <asset>Asteroids Cluster 478149</asset>
    <asset>Elthain</asset>
    <asset>Irilia-18</asset>
   </sys>
@@ -58,12 +48,6 @@
   <sys name="Drih Dromae">
    <jump>Iri 0214</jump>
    <jump>Iri 0224</jump>
-   <asset>Asteroids Cluster 176862</asset>
-   <asset>Asteroids Cluster 518677</asset>
-   <asset>Asteroids Cluster 591021</asset>
-   <asset>Asteroids Cluster 678521</asset>
-   <asset>Asteroids Cluster 798861</asset>
-   <asset>Asteroids Cluster 901023</asset>
    <asset>Drih Skarae</asset>
    <asset>Irol</asset>
   </sys>
@@ -75,6 +59,21 @@
   <sys name="Iri 0231">
    <jump>Iri 0224</jump>
    <jump>Iri 0230</jump>
+  </sys>
+  <sys name="Skaeth">
+   <jump>Iri 0242</jump>
+   <jump>Iri-TPL - 1 - 1</jump>
+   <asset>Skaeth Border Station</asset>
+  </sys>
+  <sys name="Iri-TPL - 1 - 1">
+   <jump>Skaeth</jump>
+   <jump>Son of the Eclipse</jump>
+  </sys>
+  <sys name="Son of the Eclipse">
+   <jump>Iri-TPL - 1 - 1</jump>
+   <asset>Freedom Portal</asset>
+   <asset>SkyRuler</asset>
+   <asset>Son of the Eclipse</asset>
   </sys>
  </specific>
 </outfit>
