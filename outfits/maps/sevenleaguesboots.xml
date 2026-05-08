@@ -3,7 +3,7 @@
  <general>
   <mass>0</mass>
   <price>1000</price>
-  <description>Road taken by Lyann Ness and Sam to exfiltrate victims from the Hopper Connection.</description>
+  <description>Road taken by Lyann Ness' and Sam to exfiltrate victims from the Hopper Connection.</description>
   <gfx_store>map</gfx_store>
  </general>
  <specific type="map">
@@ -67,10 +67,15 @@
    <asset>Banshee War Museum</asset>
   </sys>
   <sys name="GL 283 A">
-   <jump>Aka Jigoku (Gl 268)</jump>
+   <jump>Akai Jigoku (Gl 268)</jump>
    <jump>Eldorado</jump>
   </sys>
-  <sys name="Aka Jigoku (Gl 268)">
+  <sys name="Devereau's Holds">
+   <jump>Shadow Grave</jump>
+   <asset>Devereau's Holds</asset>
+   <asset>Wai</asset>
+  </sys>
+  <sys name="Akai Jigoku (Gl 268)">
    <jump>Algol</jump>
    <jump>GL 283 A</jump>
    <asset>Nemesis</asset>
@@ -79,7 +84,7 @@
    <asset>Typhoon</asset>
   </sys>
   <sys name="Algol">
-   <jump>Aka Jigoku (Gl 268)</jump>
+   <jump>Akai Jigoku (Gl 268)</jump>
    <jump>Gl 250 A</jump>
    <asset>Parma Centrale</asset>
   </sys>
@@ -97,11 +102,6 @@
    <jump>HnH-SC - 1 - 1</jump>
    <asset>Freeport 3</asset>
    <asset>Shadow Grave</asset>
-  </sys>
-  <sys name="Devereau's Holds">
-   <jump>Shadow Grave</jump>
-   <asset>Devereau's Holds</asset>
-   <asset>Wai</asset>
   </sys>
  </specific>
 </outfit>
