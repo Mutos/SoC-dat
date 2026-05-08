@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Asteroids Bunch">
+<asset name="39 Leo Bunch">
  <pos>
-  <x>-7469.324059</x>
-  <y>1793.377311</y>
+  <x>-6889.726758</x>
+  <y>3378.616006</y>
  </pos>
  <GFX>
   <space>asteroids-001.png</space>
-  <exterior>lava.png</exterior>
+  <exterior>station05.png</exterior>
  </GFX>
  <presence>
   <faction>Miner</faction>
-  <value>0.000000</value>
-  <range>0</range>
+  <value>100.000000</value>
+  <range>1</range>
  </presence>
  <general>
   <class>A</class>
-  <population>0</population>
+  <population>50</population>
   <hide>0.250000</hide>
   <services>
    <land/>
    <bar/>
-   <blackmarket/>
+   <missions/>
   </services>
   <commodities/>
   <description>(null)</description>
