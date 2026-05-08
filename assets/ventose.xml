@@ -12,10 +12,6 @@
   <class>A</class>
   <population>0</population>
   <hide>0.250000</hide>
-  <services>
-   <land/>
-   <missions/>
-  </services>
-  <description>(null)</description>
+  <services/>
  </general>
 </asset>
