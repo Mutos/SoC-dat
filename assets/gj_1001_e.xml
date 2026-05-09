@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="GJ 1001 e">
+ <pos>
+  <x>-5739.115537</x>
+  <y>-3325.348823</y>
+ </pos>
+ <GFX>
+  <space>H01.png</space>
+  <exterior>traderoom.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>
