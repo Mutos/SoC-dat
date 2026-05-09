@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Purgatorian's Den">
+ <pos>
+  <x>1138.312600</x>
+  <y>-1148.034716</y>
+ </pos>
+ <GFX>
+  <space>K04.png</space>
+  <exterior>forest2.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>
