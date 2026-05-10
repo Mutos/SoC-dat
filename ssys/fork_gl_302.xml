@@ -10,7 +10,11 @@
   <x>-1506.881280</x>
   <y>-640.297920</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Fork I</asset>
+  <asset>Fork II</asset>
+  <asset>Fork III</asset>
+ </assets>
  <jumps>
   <jump target="New Earth (Eta Cassiopeia)">
    <autopos/>
