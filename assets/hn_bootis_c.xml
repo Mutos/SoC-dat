@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="HN Bootis c">
+ <pos>
+  <x>6028.510913</x>
+  <y>-4372.326596</y>
+ </pos>
+ <GFX>
+  <space>J07.png</space>
+  <exterior>traderoom.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

@@ -10,7 +10,10 @@
   <x>-1419.928000</x>
   <y>-365.536000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Kapteyn b</asset>
+  <asset>Kapteyn c</asset>
+ </assets>
  <jumps>
   <jump target="Gl 3622">
    <autopos/>
