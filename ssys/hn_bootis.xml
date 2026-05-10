@@ -10,7 +10,10 @@
   <x>-1742.920000</x>
   <y>-579.064000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>HN Bootis b</asset>
+  <asset>HN Bootis c</asset>
+ </assets>
  <jumps>
   <jump target="Hope (Tau Ceti)">
    <autopos/>
