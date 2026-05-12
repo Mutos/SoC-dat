@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Rêve du Mineur">
+ <pos>
+  <x>-704.682929</x>
+  <y>-5993.399868</y>
+ </pos>
+ <GFX>
+  <space>moon-X00.png</space>
+  <exterior>forest.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>
