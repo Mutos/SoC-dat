@@ -12,15 +12,15 @@
  </pos>
  <assets/>
  <jumps>
+  <jump target="Aans">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="IC 0003">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="IC 0005">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="IC-ShC - 1 -1">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
