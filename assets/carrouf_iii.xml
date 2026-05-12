@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Carrouf III">
+ <pos>
+  <x>-1198.049998</x>
+  <y>-1597.399997</y>
+ </pos>
+ <GFX>
+  <space>K03.png</space>
+  <exterior>traderoom.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>
