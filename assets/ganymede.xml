@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Jupiter">
+<asset name="Ganymede">
  <pos>
-  <x>2761.297985</x>
-  <y>27280.396295</y>
+  <x>2691.372115</x>
+  <y>28650.102329</y>
  </pos>
  <GFX>
-  <space>J06.png</space>
+  <space>moon-P00.png</space>
   <exterior>station05.png</exterior>
  </GFX>
  <general>

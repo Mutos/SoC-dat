@@ -10,7 +10,16 @@
   <x>-2077.684480</x>
   <y>-1477.162880</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Carrouf</asset>
+  <asset>Carrouf I</asset>
+  <asset>Carrouf II</asset>
+  <asset>Carrouf III</asset>
+  <asset>Carrouf IV</asset>
+  <asset>Carrouf V</asset>
+  <asset>Carrouf VI</asset>
+  <asset>Carrouf VII</asset>
+ </assets>
  <jumps>
   <jump target="Dwarves' Tunnels (Gl 261)">
    <autopos/>

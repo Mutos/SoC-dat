@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Jupiter">
+<asset name="Callisto">
  <pos>
-  <x>2761.297985</x>
-  <y>27280.396295</y>
+  <x>1163.182768</x>
+  <y>27424.998480</y>
  </pos>
  <GFX>
-  <space>J06.png</space>
-  <exterior>station05.png</exterior>
+  <space>moon-D01.png</space>
+  <exterior>forest2.png</exterior>
  </GFX>
  <general>
   <class>A</class>

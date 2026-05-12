@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Jupiter">
+<asset name="Carrouf I">
  <pos>
-  <x>2761.297985</x>
-  <y>27280.396295</y>
+  <x>-641.959232</x>
+  <y>552.084940</y>
  </pos>
  <GFX>
-  <space>J06.png</space>
+  <space>A01.png</space>
   <exterior>station05.png</exterior>
  </GFX>
  <general>

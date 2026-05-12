@@ -13,18 +13,35 @@
  <assets>
   <asset>Asteroids Marker</asset>
   <asset>Calif High Shipyards</asset>
+  <asset>Callisto</asset>
+  <asset>Ceres</asset>
+  <asset>Deimos</asset>
   <asset>Earth</asset>
+  <asset>Europe</asset>
+  <asset>Ganymede</asset>
+  <asset>Io</asset>
   <asset>Jupiter</asset>
   <asset>Jupiter Station</asset>
   <asset>Mars</asset>
+  <asset>Mercury</asset>
+  <asset>Moon</asset>
+  <asset>Neptune</asset>
   <asset>New Taxaco</asset>
+  <asset>Oberon</asset>
+  <asset>Phobos</asset>
   <asset>Saturn</asset>
+  <asset>Titan</asset>
+  <asset>Titania</asset>
+  <asset>Triton</asset>
   <asset>Tuskegee Training Academy</asset>
+  <asset>Umbriel</asset>
+  <asset>Uranus</asset>
+  <asset>Venus</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
   <jump target="Alpha Corvi">
-   <autopos/>
+   <pos x="2787.760428" y="27792.995978"/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Barnard's Star">

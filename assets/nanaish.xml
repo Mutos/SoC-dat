@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Jupiter">
+<asset name="Nanai'Sh">
  <pos>
-  <x>2761.297985</x>
-  <y>27280.396295</y>
+  <x>2370.087484</x>
+  <y>-1418.826555</y>
  </pos>
  <GFX>
-  <space>J06.png</space>
-  <exterior>station05.png</exterior>
+  <space>J04.png</space>
+  <exterior>forest.png</exterior>
  </GFX>
  <general>
   <class>A</class>
   <population>0</population>
-  <hide>0.250000</hide>
+  <hide>0.100000</hide>
   <services/>
  </general>
 </asset>
