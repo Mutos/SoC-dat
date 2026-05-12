@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Jupiter">
+<asset name="Titania">
  <pos>
-  <x>2761.297985</x>
-  <y>27280.396295</y>
+  <x>30029.200221</x>
+  <y>-34379.392296</y>
  </pos>
  <GFX>
-  <space>J06.png</space>
-  <exterior>station05.png</exterior>
+  <space>moon-D00.png</space>
+  <exterior>station04.png</exterior>
  </GFX>
  <general>
   <class>A</class>

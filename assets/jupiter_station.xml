@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <asset name="Jupiter Station">
  <pos>
-  <x>25830.256130</x>
-  <y>24317.139217</y>
+  <x>3809.736307</x>
+  <y>27056.730199</y>
  </pos>
  <GFX>
   <space>station-commerce.png</space>
