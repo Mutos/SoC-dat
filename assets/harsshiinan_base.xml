@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Sshiinan Base">
+<asset name="Ha'Rsshiinan Base">
  <pos>
   <x>-7635.719892</x>
   <y>6175.134247</y>
@@ -25,6 +25,7 @@
    <commodity/>
    <outfits/>
    <shipyard/>
+   <blackmarket/>
   </services>
   <commodities>
    <commodity>Generic Food</commodity>
