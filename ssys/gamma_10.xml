@@ -10,7 +10,9 @@
   <x>-2737.064000</x>
   <y>-1870.800000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Xul</asset>
+ </assets>
  <jumps>
   <jump target="Gamma 11">
    <autopos/>
