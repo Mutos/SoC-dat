@@ -10,7 +10,11 @@
   <x>-2937.648000</x>
   <y>-2112.712000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Claire</asset>
+  <asset>Obscure</asset>
+  <asset>Sea Foam</asset>
+ </assets>
  <jumps>
   <jump target="'Ha'Rtiish">
    <autopos/>
