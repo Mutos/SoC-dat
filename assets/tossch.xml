@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Tossch">
+ <pos>
+  <x>79.870000</x>
+  <y>7427.909985</y>
+ </pos>
+ <GFX>
+  <space>P00.png</space>
+  <exterior>aquatic.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

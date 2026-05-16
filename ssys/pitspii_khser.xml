@@ -10,7 +10,11 @@
   <x>-3014.648000</x>
   <y>-2167.712000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Diidyi</asset>
+  <asset>Sschot</asset>
+  <asset>Tossch</asset>
+ </assets>
  <jumps>
   <jump target="Dhreb">
    <autopos/>

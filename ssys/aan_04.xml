@@ -16,15 +16,15 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Aan 05">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Aan 07">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Aan 08">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Eeris">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

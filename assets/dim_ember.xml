@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Dim Ember">
+ <pos>
+  <x>6033.548760</x>
+  <y>-5673.005550</y>
+ </pos>
+ <GFX>
+  <space>Y00.png</space>
+  <exterior>desertic.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>
