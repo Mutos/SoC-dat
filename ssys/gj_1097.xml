@@ -10,7 +10,9 @@
   <x>-2271.892480</x>
   <y>-1485.106880</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Layzner Mobile Station</asset>
+ </assets>
  <jumps>
   <jump target="Carrouf (NN 3487)">
    <autopos/>
