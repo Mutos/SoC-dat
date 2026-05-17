@@ -21,11 +21,11 @@
   <asset>Carrouf VII</asset>
  </assets>
  <jumps>
-  <jump target="Dwarves' Tunnels (Gl 261)">
+  <jump target="Anquan Tiankong">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="GJ 1093">
+  <jump target="Dwarves' Tunnels (Gl 261)">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Layzner Mobile Station">
+ <pos>
+  <x>-7587.649985</x>
+  <y>2316.229995</y>
+ </pos>
+ <GFX>
+  <space>station-fleetbase2.png</space>
+  <exterior>station05.png</exterior>
+ </GFX>
+ <presence>
+  <faction>HnH</faction>
+  <value>0.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <blackmarket/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</asset>
