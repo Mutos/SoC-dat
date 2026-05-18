@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Irnaali">
+ <pos>
+  <x>3028.670394</x>
+  <y>2530.281595</y>
+ </pos>
+ <GFX>
+  <space>M05.png</space>
+  <exterior>station05.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <value>400.000000</value>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>2000000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</asset>
