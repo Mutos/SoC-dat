@@ -22,10 +22,6 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="AC 0004">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="AC 0008">
    <autopos/>
    <hide>1.250000</hide>
@@ -39,6 +35,10 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="Ran (Epsilon Eridani)">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Titawin">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
