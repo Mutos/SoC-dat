@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="AC 0002">
+<ssys name="51 Pegasi">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -7,28 +7,22 @@
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>-932.384000</x>
-  <y>368.056000</y>
+  <x>-2335.696000</x>
+  <y>-229.536000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Dimidium</asset>
+ </assets>
  <jumps>
-  <jump target="AC 0001">
+  <jump target="CL 0020">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="AC 0004">
+  <jump target="CL 0023">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="AC 0005">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="AC 0018">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="Ran (Epsilon Eridani)">
+  <jump target="CL 0028">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

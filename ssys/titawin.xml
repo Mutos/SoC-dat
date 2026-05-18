@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="AC 0004">
+<ssys name="Titawin">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -10,17 +10,23 @@
   <x>-844.256000</x>
   <y>411.256000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Astrolabe</asset>
+  <asset>Majriti</asset>
+  <asset>Saffar</asset>
+  <asset>Samh</asset>
+  <asset>Titawin Ae</asset>
+ </assets>
  <jumps>
-  <jump target="AC 0002">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="AC 0007">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Ashioto - Purgatoire">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Edasich">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
