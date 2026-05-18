@@ -12,9 +12,16 @@
  </pos>
  <assets>
   <asset>Aareli Meeting Point</asset>
+  <asset>Aareli ud Mae</asset>
+  <asset>Mae ud Matae</asset>
+  <asset>Matae</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
+  <jump target="Ak'ri">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="Ary-IC-ShC - 1 - 2">
    <autopos/>
    <hide>1.250000</hide>
@@ -24,10 +31,6 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="Lanilt'sh">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="ShC 0062">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

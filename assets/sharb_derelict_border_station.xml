@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Shar'b Derelict Border Station">
+ <pos>
+  <x>4447.161591</x>
+  <y>4638.849591</y>
+ </pos>
+ <GFX>
+  <space>station-fleetbase.png</space>
+  <exterior>oceanic.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>
