@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="Freeport 2 (CL 0012)">
+<ssys name="Luhman 16">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -12,6 +12,7 @@
  </pos>
  <assets>
   <asset>Freeport 2</asset>
+  <asset>Luhman 16 B</asset>
  </assets>
  <jumps>
   <jump target="CL 0011">

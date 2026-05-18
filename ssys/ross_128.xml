@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="CL 0010">
+<ssys name="Ross 128">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -12,11 +12,11 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="CL 0009">
+  <jump target="Hope (Tau Ceti)">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Hope (Tau Ceti)">
+  <jump target="Trappist-1">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

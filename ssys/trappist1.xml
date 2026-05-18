@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="CL 0009">
+<ssys name="Trappist-1">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -20,7 +20,7 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="CL 0010">
+  <jump target="Ross 128">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
