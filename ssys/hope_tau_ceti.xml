@@ -25,15 +25,15 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="CL 0010">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Gl 3753">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="HN Bootis">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Ross 128">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
