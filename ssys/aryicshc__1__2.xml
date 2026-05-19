@@ -12,15 +12,15 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="Ary-IC-BI-ShC - 1 - 1">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Ary-ShC - 1 - 1">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Ary-ShC - 1 - 2">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Maetel">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
