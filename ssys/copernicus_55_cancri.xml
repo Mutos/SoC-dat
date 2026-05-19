@@ -10,7 +10,15 @@
   <x>-2180.216000</x>
   <y>-327.504000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Brahe</asset>
+  <asset>Bruno</asset>
+  <asset>Cunitz</asset>
+  <asset>Galilee</asset>
+  <asset>Harriot</asset>
+  <asset>Janssen</asset>
+  <asset>Lipperhey</asset>
+ </assets>
  <jumps>
   <jump target="CL 0013">
    <autopos/>
