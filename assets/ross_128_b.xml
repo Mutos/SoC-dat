@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ross 128 b">
+ <pos>
+  <x>1693.243997</x>
+  <y>-1661.295997</y>
+ </pos>
+ <GFX>
+  <space>G03.png</space>
+  <exterior>desertic.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

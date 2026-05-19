@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="Ary-IC-BI-ShC - 1 - 1">
+<ssys name="Maetel">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -11,7 +11,7 @@
   <y>1270.704000</y>
  </pos>
  <assets>
-  <asset>Aareli Meeting Point</asset>
+  <asset>Aareli Rendez-Vous</asset>
   <asset>Aareli ud Mae</asset>
   <asset>Mae ud Matae</asset>
   <asset>Matae</asset>

@@ -10,7 +10,21 @@
   <x>-2111.752000</x>
   <y>-585.400000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Chimay</asset>
+  <asset>Chouffe</asset>
+  <asset>Gueuze</asset>
+  <asset>Kriek</asset>
+  <asset>La Trappe</asset>
+  <asset>Lambic</asset>
+  <asset>Orval</asset>
+  <asset>Rochefort</asset>
+  <asset>Speculoos Station</asset>
+  <asset>Waterzooi</asset>
+  <asset>Westmalle</asset>
+  <asset>Westvleteren</asset>
+  <asset>Zundert</asset>
+ </assets>
  <jumps>
   <jump target="CL 0004">
    <autopos/>
