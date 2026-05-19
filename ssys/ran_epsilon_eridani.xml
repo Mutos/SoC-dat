@@ -17,15 +17,15 @@
   <asset>Xerxes</asset>
  </assets>
  <jumps>
-  <jump target="AC 0002">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Ashioto - Purgatoire">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Backdoor">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Edasich">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

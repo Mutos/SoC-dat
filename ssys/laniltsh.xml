@@ -24,6 +24,10 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
+  <jump target="Fr'On">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="Maetel">
    <autopos/>
    <hide>1.250000</hide>
