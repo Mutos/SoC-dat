@@ -20,10 +20,6 @@
   <asset>Lipperhey</asset>
  </assets>
  <jumps>
-  <jump target="CL 0013">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="CL 0015">
    <autopos/>
    <hide>1.250000</hide>
@@ -33,6 +29,10 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="CL 0030">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Sirius">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
