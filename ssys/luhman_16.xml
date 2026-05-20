@@ -15,11 +15,7 @@
   <asset>Luhman 16 B</asset>
  </assets>
  <jumps>
-  <jump target="CL 0011">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="CL 0013">
+  <jump target="Argelanders Star">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
@@ -28,6 +24,10 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="CL 0015">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Sirius">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
