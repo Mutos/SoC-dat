@@ -22,15 +22,15 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="AC 0008">
+  <jump target="Chalawan">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="AC 0009">
+  <jump target="Errai">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="AC 0010">
+  <jump target="Maru">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

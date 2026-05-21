@@ -15,7 +15,7 @@
   <asset>Loki</asset>
  </assets>
  <jumps>
-  <jump target="AC 0008">
+  <jump target="Maru">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

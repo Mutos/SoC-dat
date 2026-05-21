@@ -12,11 +12,11 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="Orkaria">
+  <jump target="Dawn's Haven">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="SC 0006">
+  <jump target="Orkaria">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

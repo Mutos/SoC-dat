@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Taphao Thong">
+ <pos>
+  <x>1821.802748</x>
+  <y>-1214.535166</y>
+ </pos>
+ <GFX>
+  <space>I02.png</space>
+  <exterior>station05.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

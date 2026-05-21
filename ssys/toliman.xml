@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="CL 0034">
+<ssys name="Toliman">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
-  <interference>100.000000</interference>
+  <interference>0.000000</interference>
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>-2376.776000</x>
-  <y>-139.632000</y>
+  <x>-2313.000000</x>
+  <y>-129.000000</y>
  </pos>
  <assets/>
  <jumps>
-  <jump target="CL 0026">
+  <jump target="Proxi">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="CL 0033">
+  <jump target="Rigil Kent">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
