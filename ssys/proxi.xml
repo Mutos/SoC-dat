@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="CL 0034">
+<ssys name="Proxi">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -10,13 +10,25 @@
   <x>-2376.776000</x>
   <y>-139.632000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Proxi b</asset>
+  <asset>Proxi c</asset>
+  <asset>Proxi d</asset>
+ </assets>
  <jumps>
   <jump target="CL 0026">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="CL 0033">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Rigil Kent">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Toliman">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
