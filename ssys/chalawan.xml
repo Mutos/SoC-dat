@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="AC 0010">
+<ssys name="Chalawan">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -10,7 +10,11 @@
   <x>-678.368000</x>
   <y>452.728000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Krai Thong</asset>
+  <asset>Taphao Kaew</asset>
+  <asset>Taphao Thong</asset>
+ </assets>
  <jumps>
   <jump target="AC 0011">
    <autopos/>
