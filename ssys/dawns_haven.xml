@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="SC 0006">
+<ssys name="Dawn's Haven">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -10,7 +10,12 @@
   <x>-1907.456000</x>
   <y>-2482.528000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Dawn Moon</asset>
+  <asset>Dusk Moon</asset>
+  <asset>Haven</asset>
+  <asset>New Link Station</asset>
+ </assets>
  <jumps>
   <jump target="PA-SC - 1 - 2">
    <autopos/>
