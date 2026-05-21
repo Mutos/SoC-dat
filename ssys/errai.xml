@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="AC 0009">
+<ssys name="Errai">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -10,7 +10,9 @@
   <x>-638.624000</x>
   <y>317.944000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Tadmor</asset>
+ </assets>
  <jumps>
   <jump target="AC 0015">
    <autopos/>
