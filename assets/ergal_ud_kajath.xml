@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ergal ud Kajath">
+ <pos>
+  <x>6239.843738</x>
+  <y>-1656.254819</y>
+ </pos>
+ <GFX>
+  <space>moon-P03.png</space>
+  <exterior>mining5.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>
