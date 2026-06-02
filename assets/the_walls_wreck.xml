@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Gl 902 b">
+<asset name="The Wall's Wreck">
  <pos>
-  <x>5157.685110</x>
-  <y>5497.611829</y>
+  <x>7454.533319</x>
+  <y>-3514.279993</y>
  </pos>
  <GFX>
-  <space>I06.png</space>
-  <exterior>desertic.png</exterior>
+  <space>Asteroid-Base-008b-Derelict-Mining-Station.png</space>
+  <exterior>lava.png</exterior>
  </GFX>
  <general>
   <class>A</class>

@@ -15,11 +15,11 @@
   <asset>Kapteyn c</asset>
  </assets>
  <jumps>
-  <jump target="Gl 3622">
+  <jump target="Gateway">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Gl 902">
+  <jump target="Gl 3622">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

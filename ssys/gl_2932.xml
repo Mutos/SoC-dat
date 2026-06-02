@@ -15,15 +15,19 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="CL-HnH - 2 - 2">
+  <jump target="Cl-HnH-1-2">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Delanney's Freezer (NN 3523)">
+  <jump target="Delanney's Freezer">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="NN 3500">
+  <jump target="GJ 3500">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Syrtis">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
