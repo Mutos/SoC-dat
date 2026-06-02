@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="BI 0015">
+<ssys name="Biim'Irsh">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -10,7 +10,10 @@
   <x>-3908.648000</x>
   <y>-1793.040000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Biim Border Station</asset>
+  <asset>Biimas</asset>
+ </assets>
  <jumps>
   <jump target="BI 0003">
    <autopos/>
@@ -20,7 +23,7 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="PA-BI - 1 - 2">
+  <jump target="Tsaahm Shuman">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
