@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="PA-BI - 1 - 2">
+<ssys name="Tsaahm Shuman">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -12,7 +12,7 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="BI 0015">
+  <jump target="Biim'Irsh">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
