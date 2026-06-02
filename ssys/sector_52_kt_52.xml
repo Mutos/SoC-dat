@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="KT 52">
+<ssys name="Sector 52 (KT 52)">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -10,7 +10,10 @@
   <x>-158.384000</x>
   <y>300.792000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Sector 52 Derelicts</asset>
+  <asset>Sector 52 Memorial</asset>
+ </assets>
  <jumps>
   <jump target="HnH-Ary - 1 - 2">
    <autopos/>
