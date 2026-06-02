@@ -49,15 +49,15 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
+  <jump target="Gateway">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="Gl 252">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Gl 380">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="Gl 902">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
