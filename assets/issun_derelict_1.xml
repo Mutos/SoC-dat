@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Issun Derelict 1">
+ <pos>
+  <x>-1597.399997</x>
+  <y>-2329.541662</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-008a-Derelict-Mining-Station.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>
