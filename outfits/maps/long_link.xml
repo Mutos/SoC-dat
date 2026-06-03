@@ -3,19 +3,16 @@
  <general>
   <mass>0</mass>
   <price>1000</price>
-  <description>The main route from the Arythem Space to the Sshaad Sphere, the Long Link now has several branches going to the Baartish, Instrumentality and Shoden states.</description>
+ <description>The main route from the Arythem Space to the Sshaad Sphere, the Long Link now has several branches going to the Baartish, Instrumentality and Shoden states.</description>
   <gfx_store>map</gfx_store>
  </general>
  <specific type="map">
   <sys name="Jaltha">
    <jump>Ary 0069</jump>
    <jump>Thim Baartish</jump>
-   <asset>Asteroids Cluster 616489</asset>
-   <asset>Asteroids Cluster 640774</asset>
-   <asset>Asteroids Cluster 687108</asset>
-   <asset>Asteroids Cluster 853042</asset>
    <asset>Eral ud Nal</asset>
    <asset>Jaltha</asset>
+   <asset>Jaltha nel Nalth</asset>
   </sys>
   <sys name="Ary 0071">
    <jump>Ary 0066</jump>
@@ -44,17 +41,21 @@
    <jump>Heart of the Long Link</jump>
    <jump>Tsaahm Arythem</jump>
   </sys>
-  <sys name="Biimis">
+  <sys name="Biimis nal Estiis">
    <jump>BI 0159</jump>
    <jump>BI 0217</jump>
    <asset>Biimis Border Station</asset>
+   <asset>Estiis Base</asset>
   </sys>
   <sys name="Aareli nal Ergal">
+   <jump>BI 0140</jump>
    <asset>Aareli</asset>
    <asset>Ashilles</asset>
    <asset>Ergal</asset>
+   <asset>Tshak'kala Station</asset>
   </sys>
   <sys name="BI 0145">
+   <jump>BI 0140</jump>
    <jump>BI 0146</jump>
   </sys>
   <sys name="BI 0146">
@@ -83,20 +84,10 @@
    <jump>BI 0135</jump>
   </sys>
   <sys name="BI 0133">
-   <jump>Athanor</jump>
    <jump>BI 0134</jump>
    <jump>BI 0157</jump>
   </sys>
-  <sys name="Athanor">
-   <jump>BI 0116</jump>
-   <jump>BI 0133</jump>
-   <jump>BI 0157</jump>
-   <asset>Alinal Surveyor Outpost</asset>
-   <asset>Alshain</asset>
-   <asset>Athanor</asset>
-  </sys>
   <sys name="BI 0157">
-   <jump>Athanor</jump>
    <jump>BI 0133</jump>
    <jump>BI 0158</jump>
   </sys>
@@ -106,22 +97,14 @@
   </sys>
   <sys name="BI 0159">
    <jump>BI 0158</jump>
-   <jump>Biimis</jump>
+   <jump>Biimis nal Estiis</jump>
   </sys>
   <sys name="Ary-IC-ShC - 1 - 2">
-   <jump>Ary-IC-BI-ShC - 1 - 1</jump>
    <jump>Ary-ShC - 1 - 1</jump>
    <jump>Ary-ShC - 1 - 2</jump>
-  </sys>
-  <sys name="Ary-IC-BI-ShC - 1 - 1">
-   <jump>Ary-IC-ShC - 1 - 2</jump>
-   <jump>Iralii</jump>
-   <jump>Lanilt'sh</jump>
-   <jump>ShC 0062</jump>
-   <asset>Aareli Meeting Point</asset>
+   <jump>Maetel</jump>
   </sys>
   <sys name="BI 0116">
-   <jump>Athanor</jump>
    <jump>Bi 0115</jump>
   </sys>
   <sys name="Bi 0115">
@@ -137,15 +120,13 @@
    <jump>Lanilt'sh</jump>
   </sys>
   <sys name="Lanilt'sh">
-   <jump>Ary-IC-BI-ShC - 1 - 1</jump>
    <jump>BI 0108</jump>
+   <jump>Maetel</jump>
+   <asset>Lanilt'sh</asset>
    <asset>Lanilt'sh Border Station</asset>
   </sys>
   <sys name="Iralii">
-   <jump>Ary-IC-BI-ShC - 1 - 1</jump>
-   <asset>Asteroids Cluster 710241</asset>
-   <asset>Asteroids Cluster 720132</asset>
-   <asset>Asteroids Cluster 916201</asset>
+   <jump>Maetel</jump>
    <asset>Iralii Border Station</asset>
   </sys>
   <sys name="Ary-ShC - 1 - 2">
@@ -157,21 +138,8 @@
    <jump>Enshiin</jump>
    <jump>ShC 0054</jump>
   </sys>
-  <sys name="ShC 0052">
-   <jump>ShC 0053</jump>
-   <jump>ShC 0062</jump>
-  </sys>
-  <sys name="ShC 0062">
-   <jump>Ary-IC-BI-ShC - 1 - 1</jump>
-   <jump>ShC 0052</jump>
-  </sys>
   <sys name="ShC 0054">
-   <jump>ShC 0053</jump>
    <jump>ShC 0056</jump>
-  </sys>
-  <sys name="ShC 0053">
-   <jump>ShC 0052</jump>
-   <jump>ShC 0054</jump>
   </sys>
   <sys name="Enshiin">
    <jump>Ary-ShC - 1 - 2</jump>
@@ -179,7 +147,7 @@
    <asset>Enshiin Border Station</asset>
   </sys>
   <sys name="BI 0217">
-   <jump>Biimis</jump>
+   <jump>Biimis nal Estiis</jump>
    <jump>Tsaahm Arythem</jump>
   </sys>
   <sys name="Tsaahm Arythem">
@@ -196,16 +164,6 @@
   <sys name="Gizzard">
    <jump>Heart of the Long Link</jump>
    <jump>Thim Baartish</jump>
-   <asset>Asteroids Field 142663</asset>
-   <asset>Asteroids Field 178415</asset>
-   <asset>Asteroids Field 258103</asset>
-   <asset>Asteroids Field 362810</asset>
-   <asset>Asteroids Field 468021</asset>
-   <asset>Asteroids Field 546871</asset>
-   <asset>Asteroids Field 658721</asset>
-   <asset>Asteroids Field 720185</asset>
-   <asset>Asteroids Field 826412</asset>
-   <asset>Asteroids Field 920145</asset>
    <asset>Gizzard Mining Prison</asset>
   </sys>
   <sys name="Thim Baartish">
@@ -215,13 +173,29 @@
   <sys name="Ergal it Nel">
    <jump>Ary 0071</jump>
    <jump>Ary-ShC - 1 - 1</jump>
-   <asset>Ergal Border Station</asset>
+   <asset>Ergajith Border Station</asset>
+   <asset>Ergal ud Kajath</asset>
+   <asset>Kajath</asset>
+   <asset>Rakh ud Ergal</asset>
   </sys>
   <sys name="Leenan">
    <jump>BI 0155</jump>
    <jump>BI 0156</jump>
    <asset>Ainal</asset>
    <asset>Leenan Outpost</asset>
+  </sys>
+  <sys name="BI 0140">
+   <jump>Aareli nal Ergal</jump>
+   <jump>BI 0145</jump>
+  </sys>
+  <sys name="Maetel">
+   <jump>Ary-IC-ShC - 1 - 2</jump>
+   <jump>Iralii</jump>
+   <jump>Lanilt'sh</jump>
+   <asset>Aareli Rendez-Vous</asset>
+   <asset>Aareli ud Mae</asset>
+   <asset>Mae ud Matae</asset>
+   <asset>Matae</asset>
   </sys>
  </specific>
 </outfit>

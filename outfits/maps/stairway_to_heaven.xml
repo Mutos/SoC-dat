@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Stairway to Heaven">
+ <general>
+  <mass>0</mass>
+  <price>1000</price>
+  <description/>
+  <gfx_store>map</gfx_store>
+ </general>
+ <specific type="map">
+  <sys name="Ashioto - Purgatoire">
+   <jump>Ran (Epsilon Eridani)</jump>
+   <asset>Ashura</asset>
+   <asset>Okami</asset>
+   <asset>Purgatoire</asset>
+   <asset>Purgatoire EWS Buoy #1</asset>
+   <asset>Purgatoire EWS Buoy #2</asset>
+   <asset>Purgatoire EWS Buoy #3</asset>
+   <asset>Research Monitoring Base</asset>
+   <asset>Toki no Namida</asset>
+  </sys>
+  <sys name="Ran (Epsilon Eridani)">
+   <jump>Ashioto - Purgatoire</jump>
+   <jump>Edasich</jump>
+   <asset>Darius</asset>
+   <asset>Darius-Alpha</asset>
+   <asset>Darius-Twin</asset>
+   <asset>Xerxes</asset>
+  </sys>
+  <sys name="Edasich">
+   <jump>AC 0005</jump>
+   <jump>Ran (Epsilon Eridani)</jump>
+   <asset>Eldritch</asset>
+   <asset>Hypatia</asset>
+  </sys>
+  <sys name="AC 0005">
+   <jump>Edasich</jump>
+   <jump>Ohashi</jump>
+  </sys>
+  <sys name="Ohashi">
+   <jump>AC 0005</jump>
+   <jump>CL-AC - 1 - 1</jump>
+   <asset>Ohashi Border Station</asset>
+   <asset>Ohashi External Surveyor</asset>
+   <asset>Ohashi Internal Surveyor</asset>
+  </sys>
+  <sys name="CL-AC - 1 - 1">
+   <jump>Ohashi</jump>
+   <jump>Van Maanen</jump>
+  </sys>
+  <sys name="Van Maanen">
+   <jump>CL-AC - 1 - 1</jump>
+   <jump>Gates of Thunder</jump>
+   <asset>Van Maanen Station</asset>
+  </sys>
+  <sys name="Gates of Thunder">
+   <jump>Altair</jump>
+   <jump>Van Maanen</jump>
+  </sys>
+  <sys name="Altair">
+   <jump>Gates of Thunder</jump>
+   <jump>StH3</jump>
+  </sys>
+  <sys name="StH3">
+   <jump>Altair</jump>
+   <jump>StH4</jump>
+  </sys>
+  <sys name="StH4">
+   <jump>StH3</jump>
+   <jump>StH5</jump>
+  </sys>
+  <sys name="StH5">
+   <jump>Gl 185</jump>
+   <jump>StH4</jump>
+  </sys>
+  <sys name="Gl 185">
+   <jump>StH5</jump>
+   <jump>Wo 9209</jump>
+  </sys>
+  <sys name="Wo 9209">
+   <jump>CL-PA - 2 - 1</jump>
+   <jump>Gl 185</jump>
+  </sys>
+  <sys name="CL-PA - 2 - 1">
+   <jump>Wo 9209</jump>
+  </sys>
+ </specific>
+</outfit>
