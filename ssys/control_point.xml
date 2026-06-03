@@ -28,6 +28,10 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
+  <jump target="Gamma 10">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="Tsaahm Shuman">
    <autopos/>
    <hide>1.250000</hide>
