@@ -26,11 +26,11 @@
   <asset>Zundert</asset>
  </assets>
  <jumps>
-  <jump target="CL 0004">
+  <jump target="Gliese 1">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="CL 0008">
+  <jump target="Lalande 21185">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
