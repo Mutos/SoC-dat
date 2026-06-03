@@ -12,15 +12,15 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="Gl 136 (Zeta 1 Reticuli)">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="PA 0007">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Spider's Web">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Zeta 1 Reticuli">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

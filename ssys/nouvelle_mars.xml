@@ -15,11 +15,11 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="Mir">
+  <jump target="FK Aquarii">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="PA 0069">
+  <jump target="Mir">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Rho Indi b">
+ <pos>
+  <x>3860.383326</x>
+  <y>-3381.163327</y>
+ </pos>
+ <GFX>
+  <space>I02.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

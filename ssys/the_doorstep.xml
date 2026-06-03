@@ -19,6 +19,10 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
+  <jump target="Shine">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="TPL 0083">
    <autopos/>
    <hide>1.250000</hide>
@@ -28,10 +32,6 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="TPL 0088">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="The Cradle">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

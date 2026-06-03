@@ -15,7 +15,7 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="Cl-HnH-1-2">
+  <jump target="CL-HnH-1-2">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

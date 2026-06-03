@@ -12,11 +12,11 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="KC-HnH - 1 - 2">
+  <jump target="GJ 3466">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="NN 3466">
+  <jump target="KC-HnH - 1 - 2">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

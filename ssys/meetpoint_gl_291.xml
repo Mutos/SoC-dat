@@ -12,11 +12,11 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="Carrouf (NN 3487)">
+  <jump target="Carrouf">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Delanney's Freezer (NN 3523)">
+  <jump target="Delanney's Freezer">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

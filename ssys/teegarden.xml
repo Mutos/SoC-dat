@@ -7,8 +7,8 @@
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>-1567.000000</x>
-  <y>-839.000000</y>
+  <x>-1573.000000</x>
+  <y>-886.000000</y>
  </pos>
  <assets>
   <asset>Garden Center</asset>
@@ -21,7 +21,7 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Tau3 (Gl 121)">
+  <jump target="Tau3">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

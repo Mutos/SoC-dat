@@ -17,7 +17,11 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="Carrouf (NN 3487)">
+  <jump target="Carrouf">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="GJ 3466">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
@@ -26,10 +30,6 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="Meetpoint (Gl 291)">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="NN 3466">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

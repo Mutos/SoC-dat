@@ -10,7 +10,9 @@
   <x>-1832.000000</x>
   <y>-913.000000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Syrtis IV</asset>
+ </assets>
  <jumps>
   <jump target="Gl 293.2">
    <autopos/>

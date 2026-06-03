@@ -15,7 +15,7 @@
   <asset>Telian Zone</asset>
  </assets>
  <jumps>
-  <jump target="PA 0008">
+  <jump target="Fomalhaut">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

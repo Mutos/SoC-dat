@@ -3,7 +3,7 @@
  <general>
   <mass>0</mass>
   <price>1000</price>
-  <description>Jump Road between the Alliance and Baartish.</description>
+  <description/>
   <gfx_store>map</gfx_store>
  </general>
  <specific type="map">
@@ -14,7 +14,7 @@
   </sys>
   <sys name="Control Point">
    <jump>Devereau's Holds</jump>
-   <jump>PA-BI - 1 - 2</jump>
+   <jump>Tsaahm Shuman</jump>
    <asset>Blossom</asset>
    <asset>Bubbles</asset>
    <asset>Buttercup</asset>
@@ -23,12 +23,14 @@
    <asset>Control Point 2</asset>
    <asset>Control Point 3</asset>
   </sys>
-  <sys name="PA-BI - 1 - 2">
-   <jump>BI 0015</jump>
+  <sys name="Tsaahm Shuman">
+   <jump>Biim'Irsh</jump>
    <jump>Control Point</jump>
   </sys>
-  <sys name="BI 0015">
-   <jump>PA-BI - 1 - 2</jump>
+  <sys name="Biim'Irsh">
+   <jump>Tsaahm Shuman</jump>
+   <asset>Biim Border Station</asset>
+   <asset>Biimas</asset>
   </sys>
  </specific>
 </outfit>

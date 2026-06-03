@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Pupeteers' Second Earth">
+<asset name="Coronis">
  <pos>
-  <x>3165.515240</x>
-  <y>-1077.450109</y>
+  <x>3143.683194</x>
+  <y>-3642.071993</y>
  </pos>
  <GFX>
-  <space>moon-M03.png</space>
-  <exterior>Outpost-KTiln.png</exterior>
+  <space>M10.png</space>
+  <exterior>aquatic.png</exterior>
  </GFX>
  <presence>
-  <faction>Thirteen Planets League</faction>
-  <value>400.000000</value>
-  <range>4</range>
+  <faction>Alliance</faction>
+  <value>250.000000</value>
+  <range>3</range>
  </presence>
  <general>
   <class>A</class>
-  <population>2500000</population>
+  <population>250000</population>
   <hide>0.250000</hide>
   <services>
    <land/>
