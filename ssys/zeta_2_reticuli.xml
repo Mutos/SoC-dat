@@ -12,6 +12,10 @@
  </pos>
  <assets/>
  <jumps>
+  <jump target="Hermes">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="Nouvelle Mars">
    <autopos/>
    <hide>1.250000</hide>
