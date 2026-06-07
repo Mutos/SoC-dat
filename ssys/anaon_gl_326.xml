@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="CL 0062 (Gl326)">
+<ssys name="Anaon (Gl 326)">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -10,7 +10,9 @@
   <x>-2973.800000</x>
   <y>-763.152000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Ys</asset>
+ </assets>
  <jumps>
   <jump target="CL 0016">
    <autopos/>
