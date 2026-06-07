@@ -11,6 +11,7 @@
   <y>-913.000000</y>
  </pos>
  <assets>
+  <asset>Jabir</asset>
   <asset>Syrtis IV</asset>
  </assets>
  <jumps>
@@ -19,7 +20,7 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="Gl 3753">
-   <autopos/>
+   <pos x="2398.868150" y="3875.623004"/>
    <hide>1.250000</hide>
   </jump>
  </jumps>
