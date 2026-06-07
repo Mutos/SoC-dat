@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Syrtis IV">
+<asset name="Jabir">
  <pos>
-  <x>2145.840662</x>
-  <y>2625.060661</y>
+  <x>6008.738414</x>
+  <y>-1774.888885</y>
  </pos>
  <GFX>
-  <space>M05.png</space>
-  <exterior>station05.png</exterior>
+  <space>D03.png</space>
+  <exterior>station03.png</exterior>
  </GFX>
  <general>
   <class>A</class>

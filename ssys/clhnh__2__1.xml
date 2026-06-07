@@ -12,15 +12,15 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="CL-HnH-1-2">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Gl 3753">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Little Sol">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="The Gap">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
