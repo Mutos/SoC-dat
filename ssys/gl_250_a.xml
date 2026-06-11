@@ -15,6 +15,10 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
+  <jump target="33 G Librae">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="Algol">
    <autopos/>
    <hide>1.250000</hide>
@@ -24,10 +28,6 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="GJ 1103">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="HnH-Ary - 1 - 1">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

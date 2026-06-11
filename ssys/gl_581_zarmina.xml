@@ -18,6 +18,10 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
+  <jump target="Gl 555">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="PA 0021">
    <autopos/>
    <hide>1.250000</hide>
