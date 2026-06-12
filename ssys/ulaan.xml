@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="PA 0087">
+<ssys name="Ulaan">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -10,9 +10,13 @@
   <x>131.416000</x>
   <y>-2202.576000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Etugen</asset>
+  <asset>Tenger</asset>
+  <asset>Ulaan Gazar</asset>
+ </assets>
  <jumps>
-  <jump target="PA 0077">
+  <jump target="Arcturus">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

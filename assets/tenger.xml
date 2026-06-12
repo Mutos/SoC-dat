@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Tenger">
+ <pos>
+  <x>1822.835536</x>
+  <y>-2303.386702</y>
+ </pos>
+ <GFX>
+  <space>moon-M06.png</space>
+  <exterior>desertic4.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>
