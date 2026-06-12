@@ -10,21 +10,25 @@
   <x>-1126.312000</x>
   <y>-1185.424000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Lithene</asset>
+  <asset>Nicophar</asset>
+  <asset>Nufar</asset>
+ </assets>
  <jumps>
+  <jump target="Alphecca">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Gl 86">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="Hermes">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Nouvelle Mars">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="PA 0003">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="PA 0105">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

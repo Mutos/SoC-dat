@@ -15,11 +15,11 @@
   <asset>Telian Zone</asset>
  </assets>
  <jumps>
-  <jump target="Fomalhaut">
+  <jump target="Alphecca">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="PA 0105">
+  <jump target="Fomalhaut">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
