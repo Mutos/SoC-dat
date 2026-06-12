@@ -16,15 +16,15 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="PA 0087">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="PA 0088">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="PA 0100">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Ulaan">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
