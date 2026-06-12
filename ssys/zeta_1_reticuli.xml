@@ -15,15 +15,15 @@
   <asset>Yana</asset>
  </assets>
  <jumps>
+  <jump target="Alphecca">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="PA 0006">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="PA 0007">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="PA 0105">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
