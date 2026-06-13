@@ -15,15 +15,11 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="PA 0005">
+  <jump target="Gl 48">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="PA 0058">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="PA 0059">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
@@ -32,6 +28,10 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="PA 0112">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Scholzs Star">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
