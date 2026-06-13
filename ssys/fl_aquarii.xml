@@ -10,7 +10,9 @@
   <x>-868.304000</x>
   <y>-964.520000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>AG-18</asset>
+ </assets>
  <jumps>
   <jump target="FK Aquarii">
    <autopos/>
