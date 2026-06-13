@@ -15,11 +15,11 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="PA 0007">
+  <jump target="Gl 514">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="PA 0010">
+  <jump target="PA 0007">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
