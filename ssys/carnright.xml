@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="PT 0008">
+<ssys name="Carnright">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -10,7 +10,10 @@
   <x>-2945.384000</x>
   <y>-1035.752000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Carnright High Spaceyard</asset>
+  <asset>Wotan</asset>
+ </assets>
  <jumps>
   <jump target="Cartel">
    <autopos/>
