@@ -10,7 +10,12 @@
   <x>-1728.680000</x>
   <y>-310.744000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Barnard b</asset>
+  <asset>Barnard c</asset>
+  <asset>Barnard d</asset>
+  <asset>Barnard e</asset>
+ </assets>
  <jumps>
   <jump target="Gl 3001">
    <autopos/>
