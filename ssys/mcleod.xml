@@ -11,6 +11,7 @@
   <y>-523.776000</y>
  </pos>
  <assets>
+  <asset>Ericson</asset>
   <asset>McLeod Border Station</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
@@ -19,7 +20,7 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="CL-PT - 1 - 1">
+  <jump target="Procyon">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
