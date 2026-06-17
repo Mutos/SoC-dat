@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="Ary 0056">
+<ssys name="Achernar (K'igin)">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
-  <interference>100.000000</interference>
+  <interference>0.000000</interference>
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>2930.776000</x>
-  <y>-384.720000</y>
+  <x>-1971.560000</x>
+  <y>-3111.504000</y>
  </pos>
  <assets/>
  <jumps>
-  <jump target="Ary 0006">
+  <jump target="Ind 0001">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Ary 0059">
+  <jump target="Ind 0004">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Ary 0061">
+  <jump target="Ind 0006">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Ary 0063">
+  <jump target="Ind 0020">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
