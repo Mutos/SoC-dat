@@ -15,15 +15,15 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
+  <jump target="Gleipnir">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="PT 0044">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="PT 0049">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="PT 0050">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
