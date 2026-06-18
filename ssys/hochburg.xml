@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="PT 0013">
+<ssys name="Hochburg">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -10,7 +10,9 @@
   <x>-3161.384000</x>
   <y>-1009.832000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Hochburg II</asset>
+ </assets>
  <jumps>
   <jump target="PT 0012">
    <autopos/>
