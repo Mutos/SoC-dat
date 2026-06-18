@@ -16,15 +16,15 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
+  <jump target="Gleipnir">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="Neu Hamburg">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Nolaas">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="PT 0050">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

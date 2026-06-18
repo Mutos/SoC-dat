@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="PT 0050">
+<ssys name="Gleipnir">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -10,7 +10,9 @@
   <x>-3707.336000</x>
   <y>-955.824000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Gleipnir Border Station</asset>
+ </assets>
  <jumps>
   <jump target="BI-PT - 1 - 1">
    <autopos/>

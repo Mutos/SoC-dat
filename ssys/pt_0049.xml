@@ -12,6 +12,10 @@
  </pos>
  <assets/>
  <jumps>
+  <jump target="Gleipnir">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="Nya Jorden">
    <autopos/>
    <hide>1.250000</hide>
@@ -21,10 +25,6 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="PT 0048">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="PT 0050">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
