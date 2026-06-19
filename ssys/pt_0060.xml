@@ -12,11 +12,11 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="PT 0044">
+  <jump target="Asdrubal's Stronghold">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="PT 0059">
+  <jump target="PT 0044">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
