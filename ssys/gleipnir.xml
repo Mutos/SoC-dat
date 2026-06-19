@@ -14,15 +14,15 @@
   <asset>Gleipnir Border Station</asset>
  </assets>
  <jumps>
-  <jump target="BI-PT - 1 - 1">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Nya Jorden">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="PT 0049">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Tsaahm E'gam">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

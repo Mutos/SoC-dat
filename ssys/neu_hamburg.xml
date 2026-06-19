@@ -15,11 +15,11 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="BI-PT - 1 - 1">
+  <jump target="PT 0041">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="PT 0041">
+  <jump target="Tsaahm E'gam">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

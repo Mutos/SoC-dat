@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="Nolaas">
+<ssys name="Eshii-Niishin">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -16,19 +16,19 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="BI 0178">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="BI 0180">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="BI-PT - 1 - 1">
+  <jump target="Bi 0019">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Bi 0019">
+  <jump target="Toba'al">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Tsaahm E'gam">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
