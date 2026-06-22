@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="Doors of Lalerin">
+<ssys name="Tsaahm es Lalerin">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -11,8 +11,8 @@
   <y>-2568.912000</y>
  </pos>
  <assets>
-  <asset>Doors of Lalerin</asset>
-  <asset>Lalerin Border Station</asset>
+  <asset>Doors of Lalerin Station</asset>
+  <asset>NehS Tsaahm</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>

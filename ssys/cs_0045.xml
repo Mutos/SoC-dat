@@ -20,11 +20,11 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Doors of Lalerin">
+  <jump target="Lalerin">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Lalerin">
+  <jump target="Tsaahm es Lalerin">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
