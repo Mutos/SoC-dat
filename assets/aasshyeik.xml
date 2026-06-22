@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="A'Asshyeik">
+ <pos>
+  <x>-2357.274301</x>
+  <y>-2465.123452</y>
+ </pos>
+ <GFX>
+  <space>K04.png</space>
+  <exterior>mining4.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>
