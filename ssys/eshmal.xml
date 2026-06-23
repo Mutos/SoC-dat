@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="Doors of Lalerin">
+<ssys name="Esh-Mal">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -7,25 +7,30 @@
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>-4029.608000</x>
-  <y>-2568.912000</y>
+  <x>-4800.296000</x>
+  <y>951.024000</y>
  </pos>
  <assets>
-  <asset>Doors of Lalerin</asset>
-  <asset>Lalerin Border Station</asset>
+  <asset>Aan-in-Mali</asset>
+  <asset>Irsh-Mal</asset>
+  <asset>Mali</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="CS 0045">
+  <jump target="IC 0049">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="CS 0046">
+  <jump target="IC 0051">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="CS-IC - 1 - 3">
-   <pos x="-7942.771328" y="4609.986237"/>
+  <jump target="IC 0053">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="IC 0054">
+   <autopos/>
    <hide>1.250000</hide>
   </jump>
  </jumps>

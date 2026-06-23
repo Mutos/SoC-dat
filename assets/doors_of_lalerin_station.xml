@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Lalerin Border Station">
+<asset name="Doors of Lalerin Station">
  <pos>
-  <x>-7192.079842</x>
-  <y>4312.035027</y>
+  <x>-7025.170442</x>
+  <y>4350.552581</y>
  </pos>
  <GFX>
   <space>Station-001-Comm-Hub.png</space>

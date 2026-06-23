@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Hathil">
+<asset name="Oscar">
  <pos>
-  <x>-2715.579995</x>
-  <y>3098.955994</y>
+  <x>1245.971998</x>
+  <y>-2140.515996</y>
  </pos>
  <GFX>
-  <space>M10.png</space>
-  <exterior>traderoom.png</exterior>
+  <space>moon-M00.png</space>
+  <exterior>aquatic3.png</exterior>
  </GFX>
  <presence>
-  <faction>Arythem Clan</faction>
-  <value>300.000000</value>
-  <range>5</range>
+  <faction>Free Traders</faction>
+  <value>50.000000</value>
+  <range>1</range>
  </presence>
  <general>
   <class>A</class>
-  <population>285728000</population>
+  <population>10000</population>
   <hide>0.250000</hide>
   <services>
    <land/>
@@ -25,6 +25,7 @@
    <commodity/>
    <outfits/>
    <shipyard/>
+   <blackmarket/>
   </services>
   <commodities/>
   <description>(null)</description>

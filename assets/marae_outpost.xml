@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Hathil">
+<asset name="Marae Outpost">
  <pos>
-  <x>-2715.579995</x>
-  <y>3098.955994</y>
+  <x>-1575.213886</x>
+  <y>-1974.563885</y>
  </pos>
  <GFX>
-  <space>M10.png</space>
-  <exterior>traderoom.png</exterior>
+  <space>Station-SR001.png</space>
+  <exterior>station05.png</exterior>
  </GFX>
  <presence>
   <faction>Arythem Clan</faction>
-  <value>300.000000</value>
-  <range>5</range>
+  <value>0.000000</value>
+  <range>0</range>
  </presence>
  <general>
   <class>A</class>
-  <population>285728000</population>
+  <population>0</population>
   <hide>0.250000</hide>
   <services>
    <land/>
