@@ -35,15 +35,9 @@
    <commodity>Industrial Goods</commodity>
    <commodity>Medicine</commodity>
   </commodities>
-  <description>The first Arythem planetary colony is an endearing waterworld, well suitable for a Clan founded by Arythem ud Irol, the famous maritime explorer.
-
-It has been settled by crude sublight ships and prompted the Arythem-Irmothem "race for the stars" that took place just after the birth of the Irilia Clan.
-
-The three planets Hathil, Ud Nurn and ... are called "The three fingers".
-
-Up to now, it is one of the most populated world of the entire Rith Sphere and an industrial center essential to Arythem commerce.
+  <description>Hath is a border station between the Rith Core and the Arythem space.
   </description>
-  <bar>Many Rithai seafarers and a few spacers, along with some tourists of all species</bar>
+  <bar>Many Rithai and a few spacers, along with some tourists of all species</bar>
  </general>
  <tech>
   <item>Low-tech Generic</item>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="Matholn">
+<ssys name="Mathdrom">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -11,8 +11,8 @@
   <y>-2121.360000</y>
  </pos>
  <assets>
-  <asset>Matholn</asset>
-  <asset>Matholn Relay</asset>
+  <asset>Matholn'ejj</asset>
+  <asset>Matholnisht</asset>
   <asset>Melaneth Cache</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
