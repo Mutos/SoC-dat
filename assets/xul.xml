@@ -8,10 +8,27 @@
   <space>G01.png</space>
   <exterior>station05.png</exterior>
  </GFX>
+ <presence>
+  <faction>Pirate</faction>
+  <value>100.000000</value>
+  <range>1</range>
+ </presence>
  <general>
   <class>A</class>
-  <population>0</population>
+  <population>10000</population>
   <hide>0.250000</hide>
-  <services/>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+   <blackmarket/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
  </general>
 </asset>
