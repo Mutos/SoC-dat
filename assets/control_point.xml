@@ -9,13 +9,13 @@
   <exterior>asteroids-001.png</exterior>
  </GFX>
  <presence>
-  <faction>Core League</faction>
-  <value>300.000000</value>
+  <faction>Independent</faction>
+  <value>350.000000</value>
   <range>4</range>
  </presence>
  <general>
   <class>A</class>
-  <population>2500</population>
+  <population>20000</population>
   <hide>0.250000</hide>
   <services>
    <land/>
