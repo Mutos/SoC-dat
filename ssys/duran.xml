@@ -10,7 +10,9 @@
   <x>2894.488000</x>
   <y>-1241.808000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Duran-Duran</asset>
+ </assets>
  <jumps>
   <jump target="Drom">
    <autopos/>
