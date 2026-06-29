@@ -10,7 +10,11 @@
   <x>2773.528000</x>
   <y>-1319.568000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Arimeth</asset>
+  <asset>Firdal-1</asset>
+  <asset>Nethi ud Firdal</asset>
+ </assets>
  <jumps>
   <jump target="Alethai">
    <autopos/>
