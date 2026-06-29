@@ -10,7 +10,9 @@
   <x>2870.296000</x>
   <y>-1442.256000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Nalirith</asset>
+ </assets>
  <jumps>
   <jump target="Drom">
    <autopos/>
