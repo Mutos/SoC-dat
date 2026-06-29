@@ -10,7 +10,10 @@
   <x>3053.464000</x>
   <y>-1245.264000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Aerith</asset>
+  <asset>Danae</asset>
+ </assets>
  <jumps>
   <jump target="Irali">
    <autopos/>
