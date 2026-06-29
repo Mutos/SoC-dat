@@ -7,16 +7,14 @@
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>3528.664000</x>
-  <y>-1416.336000</y>
+  <x>3493.664000</x>
+  <y>-1425.336000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Estan Core Guard</asset>
+ </assets>
  <jumps>
   <jump target="Irm 0002">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="Irmothem">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
@@ -25,6 +23,10 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="Otheli">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Thim Irmothem">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
