@@ -15,12 +15,12 @@
   <asset>Hythin Core Guard</asset>
  </assets>
  <jumps>
-  <jump target="Ary-RC-KR - 1 - 1">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Duran">
    <pos x="2115.660025" y="-8449.091389"/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Thaim Krinai">
+   <autopos/>
    <hide>1.250000</hide>
   </jump>
  </jumps>
