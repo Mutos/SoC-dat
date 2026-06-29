@@ -10,12 +10,12 @@
  </GFX>
  <presence>
   <faction>Alliance</faction>
-  <value>300.000000</value>
-  <range>3</range>
+  <value>200.000000</value>
+  <range>2</range>
  </presence>
  <general>
   <class>A</class>
-  <population>5000</population>
+  <population>500</population>
   <hide>0.250000</hide>
   <services>
    <land/>
