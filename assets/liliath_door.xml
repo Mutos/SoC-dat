@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Control Point 1">
+<asset name="Liliath Door">
  <pos>
-  <x>8242.756542</x>
-  <y>138.663194</y>
+  <x>3565.396793</x>
+  <y>6057.340788</y>
  </pos>
  <GFX>
-  <space>Station-009-Outpost.png</space>
-  <exterior>station04.png</exterior>
+  <space>Asteroid-Base-001-Fighters-Base.png</space>
+  <exterior>desertic.png</exterior>
  </GFX>
  <presence>
-  <faction>Alliance</faction>
-  <value>200.000000</value>
+  <faction>Irilia Clan</faction>
+  <value>100.000000</value>
   <range>2</range>
  </presence>
  <general>
   <class>A</class>
-  <population>500</population>
+  <population>25000</population>
   <hide>0.250000</hide>
   <services>
    <land/>
@@ -24,6 +24,7 @@
    <missions/>
    <commodity/>
    <outfits/>
+   <shipyard/>
   </services>
   <commodities/>
   <description>(null)</description>

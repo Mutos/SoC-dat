@@ -12,11 +12,11 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="Nouvelle-Hong-Kong">
+  <jump target="Kadzyek Thurn">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Thurnae Station">
+  <jump target="Nouvelle-Hong-Kong">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

@@ -1,26 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="AG-18">
+<asset name="Duran-Duran">
  <pos>
-  <x>5398.620360</x>
-  <y>2976.636568</y>
+  <x>-2782.389652</x>
+  <y>-2848.637025</y>
  </pos>
  <GFX>
-  <space>station-sphere.png</space>
-  <exterior>station04.png</exterior>
+  <space>P02.png</space>
+  <exterior>aquatic.png</exterior>
  </GFX>
  <presence>
-  <faction>Independent</faction>
-  <value>50.000000</value>
-  <range>0</range>
+  <faction>Rithai Kemae</faction>
+  <value>100.000000</value>
+  <range>1</range>
  </presence>
  <general>
   <class>A</class>
-  <population>1000</population>
+  <population>40000</population>
   <hide>0.250000</hide>
   <services>
    <land/>
+   <refuel/>
    <bar/>
    <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
   </services>
   <commodities/>
   <description>(null)</description>

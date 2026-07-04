@@ -1,26 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="AG-18">
+<asset name="Firdal-1">
  <pos>
-  <x>5398.620360</x>
-  <y>2976.636568</y>
+  <x>5324.666656</x>
+  <y>798.699998</y>
  </pos>
  <GFX>
-  <space>station-sphere.png</space>
-  <exterior>station04.png</exterior>
+  <space>moon-M06.png</space>
+  <exterior>station05.png</exterior>
  </GFX>
  <presence>
   <faction>Independent</faction>
   <value>50.000000</value>
-  <range>0</range>
+  <range>1</range>
  </presence>
  <general>
   <class>A</class>
-  <population>1000</population>
+  <population>25000</population>
   <hide>0.250000</hide>
   <services>
    <land/>
+   <refuel/>
    <bar/>
    <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
   </services>
   <commodities/>
   <description>(null)</description>

@@ -7,19 +7,19 @@
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>3618.520000</x>
-  <y>-1361.040000</y>
+  <x>3620.248000</x>
+  <y>-1347.216000</y>
  </pos>
  <assets>
   <asset>Irmothem</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="Estan">
+  <jump target="Irm 0004">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Irm 0004">
+  <jump target="Thim Irmothem">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

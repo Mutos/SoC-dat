@@ -1,26 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="AG-18">
+<asset name="Void's Trial">
  <pos>
-  <x>5398.620360</x>
-  <y>2976.636568</y>
+  <x>-1583.841818</x>
+  <y>3941.116119</y>
  </pos>
  <GFX>
-  <space>station-sphere.png</space>
-  <exterior>station04.png</exterior>
+  <space>Asteroid-Base-002-Fighters-Base.png</space>
+  <exterior>station05.png</exterior>
  </GFX>
  <presence>
-  <faction>Independent</faction>
-  <value>50.000000</value>
-  <range>0</range>
+  <faction>Rithai Kemae</faction>
+  <value>0.000000</value>
+  <range>1</range>
  </presence>
  <general>
   <class>A</class>
-  <population>1000</population>
+  <population>150</population>
   <hide>0.250000</hide>
   <services>
    <land/>
    <bar/>
    <missions/>
+   <commodity/>
+   <outfits/>
   </services>
   <commodities/>
   <description>(null)</description>

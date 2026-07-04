@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="AG-18">
+<asset name="AG-18b">
  <pos>
-  <x>5398.620360</x>
-  <y>2976.636568</y>
+  <x>-1996.749996</x>
+  <y>-1952.377774</y>
  </pos>
  <GFX>
-  <space>station-sphere.png</space>
-  <exterior>station04.png</exterior>
+  <space>station-fleetbase.png</space>
+  <exterior>station05.png</exterior>
  </GFX>
  <presence>
   <faction>Independent</faction>
@@ -15,12 +15,12 @@
  </presence>
  <general>
   <class>A</class>
-  <population>1000</population>
+  <population>2500</population>
   <hide>0.250000</hide>
   <services>
    <land/>
    <bar/>
-   <missions/>
+   <outfits/>
   </services>
   <commodities/>
   <description>(null)</description>

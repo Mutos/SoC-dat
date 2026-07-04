@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="Irm 0015">
+<ssys name="Thaim Krinai">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -7,20 +7,20 @@
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>3825.016000</x>
-  <y>-830.832000</y>
+  <x>2806.360000</x>
+  <y>-820.176000</y>
  </pos>
  <assets/>
  <jumps>
-  <jump target="Irm 0014">
+  <jump target="Hath">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Irm 0016">
+  <jump target="Hythin">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Irm-RC - 2 -1">
+  <jump target="KR 0034">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

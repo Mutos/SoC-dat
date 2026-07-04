@@ -1,26 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="AG-18">
+<asset name="Aerith">
  <pos>
-  <x>5398.620360</x>
-  <y>2976.636568</y>
+  <x>3882.569437</x>
+  <y>5531.120745</y>
  </pos>
  <GFX>
-  <space>station-sphere.png</space>
-  <exterior>station04.png</exterior>
+  <space>Asteroid-Base-006-Split-Asteroid.png</space>
+  <exterior>forest2.png</exterior>
  </GFX>
  <presence>
   <faction>Independent</faction>
   <value>50.000000</value>
-  <range>0</range>
+  <range>1</range>
  </presence>
  <general>
   <class>A</class>
-  <population>1000</population>
+  <population>25000</population>
   <hide>0.250000</hide>
   <services>
    <land/>
+   <refuel/>
    <bar/>
    <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
   </services>
   <commodities/>
   <description>(null)</description>
