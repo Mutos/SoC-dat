@@ -24,7 +24,20 @@
    <commodity/>
    <outfits/>
   </services>
-  <commodities/>
+  <commodities>
+   <commodity>Generic Food</commodity>
+   <commodity>K'Rinn Food</commodity>
+   <commodity>Rith Food</commodity>
+   <commodity>Human Food</commodity>
+   <commodity>Sshaad Food</commodity>
+   <commodity>Shapeshifter Food</commodity>
+   <commodity>Pupeteer Food</commodity>
+   <commodity>Ore</commodity>
+   <commodity>Industrial Goods</commodity>
+   <commodity>Medicine</commodity>
+   <commodity>Luxury Goods</commodity>
+   <commodity>Ziffelan Minidragons</commodity>
+  </commodities>
   <description>(null)</description>
   <bar>(null)</bar>
  </general>
