@@ -19,15 +19,15 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="AC 0005">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="AC 0018">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Ran (Epsilon Eridani)">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Suna">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

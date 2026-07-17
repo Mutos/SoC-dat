@@ -17,11 +17,11 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="AC 0005">
+  <jump target="Crag Path">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Crag Path">
+  <jump target="Suna">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
