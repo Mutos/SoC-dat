@@ -8,9 +8,14 @@
   <space>moon-M00.png</space>
   <exterior>uninhabited-rocky-airless-03.png</exterior>
  </GFX>
+ <presence>
+  <faction>Core League</faction>
+  <value>100.000000</value>
+  <range>1</range>
+ </presence>
  <general>
   <class>A</class>
-  <population>0</population>
+  <population>250000</population>
   <hide>0.250000</hide>
   <services>
    <land/>
@@ -22,6 +27,7 @@
    <shipyard/>
    <blackmarket/>
   </services>
+  <commodities/>
   <description>The Moon, also casually called Luna, is the natural satellite to Earth and the first permanent Human settlement.
 
 The first settlement, Lunardome, was built between 1979 and 1985 using the then 15-ships-strong Space Shuttles fleet. In 1986 HTO, the Challenger disaster grounded the fleet, prompting USA, Europe and USSR to mount an emergency "space bridge" of automated supply runs. When STS flights resumed, the first crew to land at Lunardome discovered a giant holographic display over the dome's arching doorway : a memorial to space casualties, from Vladimir Komarov to the Challenger crew.
