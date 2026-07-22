@@ -15,11 +15,13 @@
  </presence>
  <general>
   <class>A</class>
-  <population>14800</population>
+  <population>1480000</population>
   <hide>1.000000</hide>
   <services>
    <land/>
    <refuel/>
+   <bar/>
+   <missions/>
   </services>
   <commodities/>
   <description>This planet was the cradleworld of the sentient species currently called Purgatorians. They destroyed themselves some 8000 years before the first of the current major spacegoing species set up to space.
@@ -32,5 +34,6 @@ Over the course of history, a number of further incidents involved Humans, K'Rin
 
 Currently, the planet is Under Edict from the ad-hoc Ashioto Cluster Authority that was formed for managing the technological remnants studies without taking further risks of catastrophs. It is basically a joint organisation between the Central League and the K'Rinn Council, with other States being represented through Commonwealth Delegates.
   </description>
+  <bar>(null)</bar>
  </general>
 </asset>
