@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Nana'k">
+ <pos>
+  <x>-1972.098762</x>
+  <y>-1602.330244</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-002-Fighters-Base.png</space>
+  <exterior>forest2.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>5000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</asset>

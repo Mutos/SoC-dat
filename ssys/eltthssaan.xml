@@ -10,13 +10,22 @@
   <x>-1143.848000</x>
   <y>-3973.776000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Doub'n</asset>
+  <asset>Eltth</asset>
+  <asset>Nana'k</asset>
+  <asset>Ssaan</asset>
+ </assets>
  <jumps>
   <jump target="Aareli">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Alinath">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Irilia-23">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

@@ -12,15 +12,15 @@
  </pos>
  <assets/>
  <jumps>
+  <jump target="Gogen">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="Ind 0001">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Ind 0009">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="Ind 0010">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
