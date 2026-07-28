@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="Uncharted 1245">
+<ssys name="Raam'Lik">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -7,24 +7,20 @@
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>-5212.347200</x>
-  <y>-2936.616640</y>
+  <x>-2785.448000</x>
+  <y>-3109.776000</y>
  </pos>
  <assets/>
  <jumps>
-  <jump target="Uncharted 0632">
+  <jump target="Aareli">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Uncharted 1063">
+  <jump target="Eeraniinal">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Uncharted 1641">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="Uncharted 8180">
+  <jump target="Elnat">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

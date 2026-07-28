@@ -12,6 +12,8 @@
  </pos>
  <assets>
   <asset>Black Rose</asset>
+  <asset>Eb'Aareli</asset>
+  <asset>Thim Aareli</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
@@ -23,8 +25,20 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Ind 0010">
+  <jump target="Gogen">
    <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Irilia-23">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Raam'Lik">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Thom Aareli-1">
+   <pos x="-4951.465851" y="-1961.328929"/>
    <hide>1.250000</hide>
   </jump>
  </jumps>

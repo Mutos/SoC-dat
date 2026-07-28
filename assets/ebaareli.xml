@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Eb'Aareli">
+ <pos>
+  <x>-1959.773144</x>
+  <y>2181.634255</y>
+ </pos>
+ <GFX>
+  <space>M09.png</space>
+  <exterior>Outpost-KTiln.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Candidate Systems</faction>
+  <value>100.000000</value>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>100000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</asset>

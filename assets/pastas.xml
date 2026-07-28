@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Pas'tas">
+ <pos>
+  <x>-2862.008328</x>
+  <y>-3061.683327</y>
+ </pos>
+ <GFX>
+  <space>Planet-010-farmland.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

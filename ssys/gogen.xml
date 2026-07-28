@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="Uncharted 0734">
+<ssys name="Gogen">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -7,21 +7,25 @@
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>-798.248000</x>
-  <y>-4760.016000</y>
+  <x>-2180.648000</x>
+  <y>-3655.824000</y>
  </pos>
  <assets/>
  <jumps>
-  <jump target="Uncharted 0263">
+  <jump target="Aareli">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Uncharted 1628">
-   <autopos/>
+  <jump target="Ind 0008">
+   <pos x="9168.844840" y="9879.460749"/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Uncharted 1720">
-   <autopos/>
+  <jump target="Ind 0009">
+   <pos x="3364.462870" y="-7035.260044"/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Ind 0015">
+   <pos x="-9627.450160" y="-728.527855"/>
    <hide>1.250000</hide>
   </jump>
  </jumps>
