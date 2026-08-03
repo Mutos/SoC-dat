@@ -21,9 +21,11 @@
    <land/>
    <refuel/>
    <bar/>
+   <missions/>
+   <blackmarket/>
   </services>
   <commodities/>
-  <description>Meetpoint lives by its name : it's the place where Spacers meet...
+  <description>Rencard lives by its name : it's the place where Spacers meet...
 
 It has been built by an association of nomad spacers in the asteroids belt of a remote system, near the beginning of the Planetarist Wars. During the war, more jump points were discovered in the system, but the station was not a major concern for the Policorpos. In fact, it gave them a "grey zone" where smuggled items could be exchanged and secret negociations with their opponents could be conducted.
 
