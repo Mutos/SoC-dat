@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Tau Ceti IV">
+<asset name="Hope-4">
  <pos>
-  <x>-2640.147217</x>
-  <y>2728.891661</y>
+  <x>2590.844748</x>
+  <y>2895.287494</y>
  </pos>
  <GFX>
-  <space>Planet-009-crateredSilver.png</space>
-  <exterior>station05.png</exterior>
+  <space>H04.png</space>
+  <exterior>snow.png</exterior>
  </GFX>
  <general>
   <class>A</class>
