@@ -27,8 +27,9 @@
    <shipyard/>
   </services>
   <commodities/>
-  <description>(null)</description>
-  <bar>(null)</bar>
+  <description>Orbiting around the Giant Gaz Planet Suzhou, this habitat is a Rockstealer and Jovian Fauna Research Station.
+</description>
+  <bar>Astrobiologists and Spatiologists from all the known Universe taking a lunch, between two studies of Space fauna.</bar>
  </general>
  <tech>
   <item>Low-tech Generic</item>
