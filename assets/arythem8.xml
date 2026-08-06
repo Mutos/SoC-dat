@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Higanth-Blanche">
+<asset name="Arythem-8">
  <pos>
-  <x>6153.894743</x>
-  <y>-2443.844506</y>
+  <x>-1802.621524</x>
+  <y>-2480.530474</y>
  </pos>
  <GFX>
-  <space>Station-HQ-001-Grey.png</space>
-  <exterior>forest2.png</exterior>
+  <space>P05.png</space>
+  <exterior>traderoom.png</exterior>
  </GFX>
  <presence>
   <faction>Arythem Clan</faction>
@@ -15,7 +15,7 @@
  </presence>
  <general>
   <class>A</class>
-  <population>20000</population>
+  <population>200000</population>
   <hide>0.250000</hide>
   <services>
    <land/>
@@ -24,7 +24,6 @@
    <missions/>
    <commodity/>
    <outfits/>
-   <shipyard/>
   </services>
   <commodities/>
   <description>(null)</description>
