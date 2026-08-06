@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="Son of the Eclipse">
+<ssys name="Child of the Eclipse">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -11,9 +11,9 @@
   <y>-3241.104000</y>
  </pos>
  <assets>
+  <asset>Child of the Eclipse</asset>
   <asset>Freedom Portal</asset>
   <asset>SkyRuler</asset>
-  <asset>Son of the Eclipse</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
