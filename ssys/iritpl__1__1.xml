@@ -12,15 +12,15 @@
  </pos>
  <assets/>
  <jumps>
+  <jump target="Child of the Eclipse">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="Iri-TPL - 1 - 2">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Skaeth">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="Son of the Eclipse">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

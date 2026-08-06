@@ -18,7 +18,7 @@
   <population>235000</population>
   <hide>0.250000</hide>
   <services>
-   <land>land_freeAdrimai_restrict</land>
+   <land>land_freeAdrimai_res</land>
    <refuel/>
    <bar/>
    <missions/>
@@ -36,7 +36,7 @@
    <commodity>Medicine</commodity>
    <commodity>Ziffelan Minidragons</commodity>
   </commodities>
-  <description>This station is the door to Son of the Eclipse for Free Adrimai aspiring to relocate on the friendly pupeteer planet.
+  <description>This station is the door to Child of the Eclipse for Free Adrimai aspiring to relocate on the friendly pupeteer planet.
   </description>
   <bar>(null)</bar>
  </general>

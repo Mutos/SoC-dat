@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="Ary 0031">
+<ssys name="Arythem-8">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -10,22 +10,27 @@
   <x>1486.029760</x>
   <y>1248.654720</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Arythem-8</asset>
+  <asset>Higanth-Blue</asset>
+  <asset>Higanth-Green</asset>
+  <asset>Higanth-White</asset>
+ </assets>
  <jumps>
   <jump target="Ary 0032">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Ary 0033">
-   <autopos/>
+   <pos x="6480.678524" y="-3160.426130"/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Ary 0051">
-   <autopos/>
+   <pos x="-11927.943816" y="-4882.718727"/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Ary 0052">
-   <autopos/>
+   <pos x="-5445.182949" y="4748.301964"/>
    <hide>1.250000</hide>
   </jump>
  </jumps>
