@@ -17,10 +17,6 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="CS 0045">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="CS 0048">
    <autopos/>
    <hide>1.250000</hide>
@@ -30,6 +26,10 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="CS 0051">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Ka'Alai">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
