@@ -12,15 +12,15 @@
  </pos>
  <assets/>
  <jumps>
+  <jump target="Aldebaran - Urgiz">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="Iri 0200">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Irilia-4">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="PA-Iri - 2 - 1">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
