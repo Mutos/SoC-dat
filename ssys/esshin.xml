@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="Esshiin">
+<ssys name="Esshin">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -13,6 +13,7 @@
  <assets>
   <asset>Aan'Tsch'</asset>
   <asset>I'An</asset>
+  <asset>K'Aareli</asset>
   <asset>Ol'Gam</asset>
   <asset>Tsch'Ishin</asset>
   <asset>Tshiaa'Han</asset>
@@ -23,15 +24,15 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="BI 0078">
+  <jump target="Al'Fagal">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="BI 0081">
+  <jump target="Ka'Rkara">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="BI 0094">
+  <jump target="Ram'Rit">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
