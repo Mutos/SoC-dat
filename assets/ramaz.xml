@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Higanth-Blue">
+<asset name="Ram'az">
  <pos>
-  <x>-2403.495366</x>
-  <y>-3528.207941</y>
+  <x>-3360.870567</x>
+  <y>2270.395818</y>
  </pos>
  <GFX>
-  <space>Shield-Emitter-001.png</space>
-  <exterior>oceanic.png</exterior>
+  <space>moon-M00.png</space>
+  <exterior>station03.png</exterior>
  </GFX>
  <presence>
-  <faction>Arythem Clan</faction>
+  <faction>Daneb Anarchs</faction>
   <value>50.000000</value>
   <range>0</range>
  </presence>
@@ -21,6 +21,9 @@
    <land/>
    <refuel/>
    <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
   </services>
   <commodities/>
   <description>(null)</description>

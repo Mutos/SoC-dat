@@ -11,21 +11,24 @@
   <y>-2568.912000</y>
  </pos>
  <assets>
+  <asset>Aniinal</asset>
   <asset>Doors of Lalerin Station</asset>
+  <asset>E'zral</asset>
   <asset>NehS Tsaahm</asset>
+  <asset>Ram'az</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="CS 0045">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="CS 0046">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="CS-IC - 1 - 3">
    <pos x="-7942.771328" y="4609.986237"/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Ka'Alai">
+   <autopos/>
    <hide>1.250000</hide>
   </jump>
  </jumps>

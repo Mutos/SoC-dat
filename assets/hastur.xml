@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Hastur">
+ <pos>
+  <x>-4154.304925</x>
+  <y>-1159.712398</y>
+ </pos>
+ <GFX>
+  <space>I02.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

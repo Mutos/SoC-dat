@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Higanth-Blue">
+<asset name="Higgez">
  <pos>
-  <x>-2403.495366</x>
-  <y>-3528.207941</y>
+  <x>-5636.692122</x>
+  <y>-597.427599</y>
  </pos>
  <GFX>
-  <space>Shield-Emitter-001.png</space>
-  <exterior>oceanic.png</exterior>
+  <space>Station-SSY004.png</space>
+  <exterior>desertic4.png</exterior>
  </GFX>
  <presence>
-  <faction>Arythem Clan</faction>
+  <faction>Free Traders</faction>
   <value>50.000000</value>
   <range>0</range>
  </presence>
  <general>
   <class>A</class>
-  <population>10000</population>
+  <population>200</population>
   <hide>0.250000</hide>
   <services>
    <land/>
    <refuel/>
    <bar/>
+   <missions/>
   </services>
   <commodities/>
   <description>(null)</description>

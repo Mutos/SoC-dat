@@ -15,10 +15,6 @@
   <asset>Sector 52 Memorial</asset>
  </assets>
  <jumps>
-  <jump target="HnH-Ary - 1 - 2">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="KT 123">
    <autopos/>
    <hide>1.250000</hide>
@@ -28,6 +24,10 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="KT 41">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Meg-Ur-K'ik">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

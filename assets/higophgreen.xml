@@ -1,26 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Higanth-Blue">
+<asset name="Higop'h-Green">
  <pos>
-  <x>-2403.495366</x>
-  <y>-3528.207941</y>
+  <x>-11517.046906</x>
+  <y>-4206.250006</y>
  </pos>
  <GFX>
-  <space>Shield-Emitter-001.png</space>
-  <exterior>oceanic.png</exterior>
+  <space>Station-HQ-001-Blue.png</space>
+  <exterior>desertic.png</exterior>
  </GFX>
  <presence>
   <faction>Arythem Clan</faction>
-  <value>50.000000</value>
-  <range>0</range>
+  <value>1.000000</value>
+  <range>3</range>
  </presence>
  <general>
   <class>A</class>
-  <population>10000</population>
+  <population>20000</population>
   <hide>0.250000</hide>
   <services>
    <land/>
    <refuel/>
    <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
   </services>
   <commodities/>
   <description>(null)</description>
