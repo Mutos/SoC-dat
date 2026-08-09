@@ -12,11 +12,11 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="PT-IC - 1 - 1">
+  <jump target="Nessuis">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Tshiaa'rint">
+  <jump target="PT-IC - 1 - 1">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
