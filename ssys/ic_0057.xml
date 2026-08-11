@@ -12,15 +12,15 @@
  </pos>
  <assets/>
  <jumps>
+  <jump target="Aan-Ebii">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="IC 0056">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="IC 0058">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="IC 0081">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
