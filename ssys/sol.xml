@@ -46,7 +46,7 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="Barnard's Star">
-   <autopos/>
+   <pos x="-135.630440" y="-10217.909009"/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Gateway">
@@ -54,11 +54,11 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="Gl 252">
-   <autopos/>
+   <pos x="-42175.742928" y="-14425.028952"/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Gl 380">
-   <autopos/>
+   <pos x="-458.941178" y="-1700.568928"/>
    <hide>1.250000</hide>
   </jump>
  </jumps>
