@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="HN Bootis b">
+<asset name="Thoas">
  <pos>
-  <x>1788.679062</x>
-  <y>-1656.184317</y>
+  <x>6028.510913</x>
+  <y>-4372.326596</y>
  </pos>
  <GFX>
-  <space>I05.png</space>
-  <exterior>forest.png</exterior>
+  <space>J07.png</space>
+  <exterior>traderoom.png</exterior>
  </GFX>
  <general>
   <class>A</class>
