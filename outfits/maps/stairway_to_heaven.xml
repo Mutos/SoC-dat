@@ -27,28 +27,28 @@
    <asset>Xerxes</asset>
   </sys>
   <sys name="Edasich">
-   <jump>AC 0005</jump>
    <jump>Ran (Epsilon Eridani)</jump>
+   <jump>Suna</jump>
    <asset>Eldritch</asset>
    <asset>Hypatia</asset>
   </sys>
-  <sys name="AC 0005">
+  <sys name="Suna">
    <jump>Edasich</jump>
    <jump>Ohashi</jump>
   </sys>
   <sys name="Ohashi">
-   <jump>AC 0005</jump>
-   <jump>CL-AC - 1 - 1</jump>
+   <jump>Crag Path</jump>
+   <jump>Suna</jump>
    <asset>Ohashi Border Station</asset>
    <asset>Ohashi External Surveyor</asset>
    <asset>Ohashi Internal Surveyor</asset>
   </sys>
-  <sys name="CL-AC - 1 - 1">
+  <sys name="Crag Path">
    <jump>Ohashi</jump>
    <jump>Van Maanen</jump>
   </sys>
   <sys name="Van Maanen">
-   <jump>CL-AC - 1 - 1</jump>
+   <jump>Crag Path</jump>
    <jump>Gates of Thunder</jump>
    <asset>Van Maanen Station</asset>
   </sys>
@@ -74,14 +74,6 @@
   </sys>
   <sys name="Gl 185">
    <jump>StH5</jump>
-   <jump>Wo 9209</jump>
-  </sys>
-  <sys name="Wo 9209">
-   <jump>CL-PA - 2 - 1</jump>
-   <jump>Gl 185</jump>
-  </sys>
-  <sys name="CL-PA - 2 - 1">
-   <jump>Wo 9209</jump>
   </sys>
  </specific>
 </outfit>
