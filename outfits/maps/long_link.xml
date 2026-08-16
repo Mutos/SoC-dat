@@ -14,97 +14,59 @@
    <asset>Jaltha</asset>
    <asset>Jaltha nel Nalth</asset>
   </sys>
-  <sys name="Ary 0071">
-   <jump>Ary 0066</jump>
-   <jump>Ergal it Nel</jump>
-  </sys>
-  <sys name="Ary 0069">
-   <jump>Ary 0067</jump>
+  <sys name="Thim Baartish">
+   <jump>Gizzard</jump>
    <jump>Jaltha</jump>
   </sys>
-  <sys name="Ary 0067">
-   <jump>Ary 0066</jump>
-   <jump>Ary 0069</jump>
-  </sys>
-  <sys name="Ary 0066">
-   <jump>Ary 0067</jump>
-   <jump>Ary 0071</jump>
-  </sys>
-  <sys name="Ary-ShC - 1 - 1">
-   <jump>Ary-IC-ShC - 1 - 2</jump>
-   <jump>Ary-ShC - 1 - 2</jump>
-   <jump>BI-Ary-Shc - 1 - 1</jump>
-   <jump>Ergal it Nel</jump>
-  </sys>
-  <sys name="BI-Ary-Shc - 1 - 1">
-   <jump>Ary-ShC - 1 - 1</jump>
+  <sys name="Gizzard">
    <jump>Heart of the Long Link</jump>
+   <jump>Thim Baartish</jump>
+   <asset>Gizzard Mining Prison</asset>
+  </sys>
+  <sys name="Heart of the Long Link">
+   <jump>BI-Ary-Shc - 1 - 1</jump>
+   <jump>Gizzard</jump>
+   <jump>Tsaahm Arythem</jump>
+  </sys>
+  <sys name="Tsaahm Arythem">
+   <jump>BI 0156</jump>
+   <jump>BI 0217</jump>
+   <jump>BI-Ary-Shc - 1 - 1</jump>
+   <jump>Heart of the Long Link</jump>
+  </sys>
+  <sys name="BI 0217">
+   <jump>Biimis nal Estiis</jump>
    <jump>Tsaahm Arythem</jump>
   </sys>
   <sys name="Biimis nal Estiis">
-   <jump>BI 0159</jump>
    <jump>BI 0217</jump>
+   <jump>Sha'shing</jump>
    <asset>Biimis Border Station</asset>
    <asset>Estiis Base</asset>
   </sys>
-  <sys name="Aareli nal Ergal">
-   <jump>BI 0140</jump>
-   <asset>Aareli</asset>
-   <asset>Ashilles</asset>
-   <asset>Ergal</asset>
-   <asset>Tshak'kala Station</asset>
-  </sys>
-  <sys name="BI 0145">
-   <jump>BI 0140</jump>
-   <jump>BI 0146</jump>
-  </sys>
-  <sys name="BI 0146">
-   <jump>BI 0145</jump>
-   <jump>BI 0155</jump>
-  </sys>
-  <sys name="BI 0155">
-   <jump>BI 0132</jump>
-   <jump>BI 0146</jump>
-   <jump>Leenan</jump>
-  </sys>
-  <sys name="BI 0156">
-   <jump>Leenan</jump>
-   <jump>Tsaahm Arythem</jump>
-  </sys>
-  <sys name="BI 0132">
-   <jump>BI 0135</jump>
-   <jump>BI 0155</jump>
-  </sys>
-  <sys name="BI 0135">
-   <jump>BI 0132</jump>
-   <jump>BI 0134</jump>
-  </sys>
-  <sys name="BI 0134">
-   <jump>BI 0133</jump>
-   <jump>BI 0135</jump>
-  </sys>
-  <sys name="BI 0133">
-   <jump>BI 0134</jump>
-   <jump>BI 0157</jump>
-  </sys>
-  <sys name="BI 0157">
-   <jump>BI 0133</jump>
-   <jump>BI 0158</jump>
-  </sys>
-  <sys name="BI 0158">
-   <jump>BI 0157</jump>
-   <jump>BI 0159</jump>
-  </sys>
-  <sys name="BI 0159">
+  <sys name="Sha'shing">
    <jump>BI 0158</jump>
    <jump>Biimis nal Estiis</jump>
   </sys>
-  <sys name="Ary-IC-ShC - 1 - 2">
-   <jump>Ary-ShC - 1 - 1</jump>
-   <jump>Ary-ShC - 1 - 2</jump>
-   <jump>Maetel</jump>
+  <sys name="BI 0158">
+   <jump>BI 0157</jump>
+   <jump>Sha'shing</jump>
+  </sys>
+  <sys name="BI 0157">
+   <jump>Alinal</jump>
+   <jump>BI 0133</jump>
+   <jump>BI 0158</jump>
+  </sys>
+  <sys name="Alinal">
+   <jump>BI 0116</jump>
+   <jump>BI 0133</jump>
+   <jump>BI 0157</jump>
+   <asset>Alinal Surveyor Outpost</asset>
+   <asset>Alshain</asset>
+   <asset>Athanor</asset>
   </sys>
   <sys name="BI 0116">
+   <jump>Alinal</jump>
    <jump>Bi 0115</jump>
   </sys>
   <sys name="Bi 0115">
@@ -125,50 +87,35 @@
    <asset>Lanilt'sh</asset>
    <asset>Lanilt'sh Border Station</asset>
   </sys>
+  <sys name="Maetel">
+   <jump>Ak'ri</jump>
+   <jump>Akthaim</jump>
+   <jump>Iralii</jump>
+   <jump>Lanilt'sh</jump>
+   <asset>Aareli Rendez-Vous</asset>
+   <asset>Aareli ud Mae</asset>
+   <asset>Mae ud Matae</asset>
+   <asset>Matae</asset>
+  </sys>
   <sys name="Iralii">
    <jump>Maetel</jump>
    <asset>Iralii Border Station</asset>
   </sys>
-  <sys name="Ary-ShC - 1 - 2">
-   <jump>Ary-IC-ShC - 1 - 2</jump>
+  <sys name="Akthaim">
    <jump>Ary-ShC - 1 - 1</jump>
-   <jump>Enshiin</jump>
-  </sys>
-  <sys name="ShC 0056">
-   <jump>Enshiin</jump>
-   <jump>ShC 0054</jump>
-  </sys>
-  <sys name="ShC 0054">
-   <jump>ShC 0056</jump>
-  </sys>
-  <sys name="Enshiin">
    <jump>Ary-ShC - 1 - 2</jump>
-   <jump>ShC 0056</jump>
-   <asset>Enshiin Border Station</asset>
+   <jump>Maetel</jump>
   </sys>
-  <sys name="BI 0217">
-   <jump>Biimis nal Estiis</jump>
-   <jump>Tsaahm Arythem</jump>
-  </sys>
-  <sys name="Tsaahm Arythem">
-   <jump>BI 0156</jump>
-   <jump>BI 0217</jump>
+  <sys name="Ary-ShC - 1 - 1">
+   <jump>Akthaim</jump>
+   <jump>Ary-ShC - 1 - 2</jump>
    <jump>BI-Ary-Shc - 1 - 1</jump>
-   <jump>Heart of the Long Link</jump>
+   <jump>Ergal it Nel</jump>
   </sys>
-  <sys name="Heart of the Long Link">
-   <jump>BI-Ary-Shc - 1 - 1</jump>
-   <jump>Gizzard</jump>
+  <sys name="BI-Ary-Shc - 1 - 1">
+   <jump>Ary-ShC - 1 - 1</jump>
+   <jump>Heart of the Long Link</jump>
    <jump>Tsaahm Arythem</jump>
-  </sys>
-  <sys name="Gizzard">
-   <jump>Heart of the Long Link</jump>
-   <jump>Thim Baartish</jump>
-   <asset>Gizzard Mining Prison</asset>
-  </sys>
-  <sys name="Thim Baartish">
-   <jump>Gizzard</jump>
-   <jump>Jaltha</jump>
   </sys>
   <sys name="Ergal it Nel">
    <jump>Ary 0071</jump>
@@ -178,24 +125,108 @@
    <asset>Kajath</asset>
    <asset>Rakh ud Ergal</asset>
   </sys>
+  <sys name="Ary 0071">
+   <jump>Ary 0066</jump>
+   <jump>Ergal it Nel</jump>
+  </sys>
+  <sys name="Ary 0066">
+   <jump>Ary 0067</jump>
+   <jump>Ary 0071</jump>
+  </sys>
+  <sys name="Ary 0067">
+   <jump>Ary 0066</jump>
+   <jump>Ary 0069</jump>
+  </sys>
+  <sys name="Ary 0069">
+   <jump>Ary 0067</jump>
+   <jump>Jaltha</jump>
+  </sys>
+  <sys name="BI 0156">
+   <jump>Leenan</jump>
+   <jump>Tsaahm Arythem</jump>
+  </sys>
   <sys name="Leenan">
    <jump>BI 0155</jump>
    <jump>BI 0156</jump>
    <asset>Ainal</asset>
    <asset>Leenan Outpost</asset>
   </sys>
+  <sys name="BI 0155">
+   <jump>BI 0132</jump>
+   <jump>BI 0146</jump>
+   <jump>Leenan</jump>
+  </sys>
+  <sys name="BI 0146">
+   <jump>BI 0145</jump>
+   <jump>BI 0155</jump>
+  </sys>
+  <sys name="BI 0145">
+   <jump>BI 0140</jump>
+   <jump>BI 0146</jump>
+  </sys>
   <sys name="BI 0140">
    <jump>Aareli nal Ergal</jump>
    <jump>BI 0145</jump>
   </sys>
-  <sys name="Maetel">
-   <jump>Ary-IC-ShC - 1 - 2</jump>
-   <jump>Iralii</jump>
-   <jump>Lanilt'sh</jump>
-   <asset>Aareli Rendez-Vous</asset>
-   <asset>Aareli ud Mae</asset>
-   <asset>Mae ud Matae</asset>
-   <asset>Matae</asset>
+  <sys name="Aareli nal Ergal">
+   <jump>BI 0140</jump>
+   <asset>Aareli</asset>
+   <asset>Ashilles</asset>
+   <asset>Ergal</asset>
+   <asset>Tshak'kala Station</asset>
+  </sys>
+  <sys name="BI 0132">
+   <jump>BI 0135</jump>
+   <jump>BI 0155</jump>
+  </sys>
+  <sys name="BI 0135">
+   <jump>BI 0132</jump>
+   <jump>BI 0134</jump>
+  </sys>
+  <sys name="BI 0134">
+   <jump>BI 0133</jump>
+   <jump>BI 0135</jump>
+  </sys>
+  <sys name="BI 0133">
+   <jump>Alinal</jump>
+   <jump>BI 0134</jump>
+   <jump>BI 0157</jump>
+  </sys>
+  <sys name="Ary-ShC - 1 - 2">
+   <jump>Akthaim</jump>
+   <jump>Ary-ShC - 1 - 1</jump>
+   <jump>Enshiin</jump>
+  </sys>
+  <sys name="Enshiin">
+   <jump>Ary-ShC - 1 - 2</jump>
+   <jump>ShC 0056</jump>
+   <asset>Enshiin Border Station</asset>
+  </sys>
+  <sys name="ShC 0056">
+   <jump>Enshiin</jump>
+   <jump>ShC 0054</jump>
+  </sys>
+  <sys name="ShC 0054">
+   <jump>Eshii-Irn</jump>
+   <jump>ShC 0056</jump>
+  </sys>
+  <sys name="Eshii-Irn">
+   <jump>Sh'Rak</jump>
+   <jump>ShC 0054</jump>
+   <asset>Irna'K</asset>
+   <asset>Ud Irn</asset>
+  </sys>
+  <sys name="Sh'Rak">
+   <jump>Ak'ri</jump>
+   <jump>Eshii-Irn</jump>
+   <asset>Sh'Rak Border Station</asset>
+  </sys>
+  <sys name="Ak'ri">
+   <jump>Maetel</jump>
+   <jump>Sh'Rak</jump>
+   <asset>Irnaali</asset>
+   <asset>Nali</asset>
+   <asset>Shar'b Derelict Border Station</asset>
   </sys>
  </specific>
 </outfit>
