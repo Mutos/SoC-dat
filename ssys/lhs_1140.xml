@@ -10,7 +10,11 @@
   <x>-1002.333760</x>
   <y>-1677.265920</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>LHS 1140 b</asset>
+  <asset>LHS 1140 c</asset>
+  <asset>LHS 1140 d</asset>
+ </assets>
  <jumps>
   <jump target="PA 0017">
    <autopos/>
