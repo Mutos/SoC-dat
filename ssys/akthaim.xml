@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="BI 0168">
+<ssys name="Akthaim">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -7,20 +7,28 @@
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>-1632.872000</x>
-  <y>1668.144000</y>
+  <x>-1442.792000</x>
+  <y>1364.016000</y>
  </pos>
  <assets/>
  <jumps>
-  <jump target="BI 0165">
+  <jump target="Ary-ShC - 1 - 1">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="BI 0169">
+  <jump target="Ary-ShC - 1 - 2">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="BI 0170">
+  <jump target="Arythem-14">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Arythem-15">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Maetel">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

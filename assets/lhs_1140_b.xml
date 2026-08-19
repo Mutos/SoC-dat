@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Fafnir">
+<asset name="LHS 1140 b">
  <pos>
-  <x>3465.617725</x>
-  <y>11465.716840</y>
+  <x>-1304.543331</x>
+  <y>-2901.943328</y>
  </pos>
  <GFX>
-  <space>I06.png</space>
-  <exterior>oceanic.png</exterior>
+  <space>K02.png</space>
+  <exterior>station04.png</exterior>
  </GFX>
  <general>
   <class>A</class>

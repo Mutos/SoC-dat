@@ -14,33 +14,6 @@
    <asset>Ortir-15</asset>
    <asset>Raltir-15</asset>
   </sys>
-  <sys name="Iri 0242">
-   <jump>Iri 0240</jump>
-   <jump>Skaeth</jump>
-  </sys>
-  <sys name="Iri 0240">
-   <jump>Iri 0230</jump>
-   <jump>Iri 0242</jump>
-  </sys>
-  <sys name="Iri 0230">
-   <jump>Iri 0231</jump>
-   <jump>Iri 0240</jump>
-   <jump>Irilia-18</jump>
-  </sys>
-  <sys name="Irilia-18">
-   <jump>Iri 0225</jump>
-   <jump>Iri 0230</jump>
-   <asset>Elthain</asset>
-   <asset>Irilia-18</asset>
-  </sys>
-  <sys name="Iri 0223">
-   <jump>Iri 0224</jump>
-   <jump>Iri 0225</jump>
-  </sys>
-  <sys name="Iri 0225">
-   <jump>Iri 0223</jump>
-   <jump>Irilia-18</jump>
-  </sys>
   <sys name="Iri 0214">
    <jump>Drih Dromae</jump>
    <jump>Irilia-15</jump>
@@ -56,9 +29,36 @@
    <jump>Iri 0223</jump>
    <jump>Iri 0231</jump>
   </sys>
+  <sys name="Iri 0223">
+   <jump>Iri 0224</jump>
+   <jump>Iri 0225</jump>
+  </sys>
+  <sys name="Iri 0225">
+   <jump>Iri 0223</jump>
+   <jump>Irilia-18</jump>
+  </sys>
+  <sys name="Irilia-18">
+   <jump>Iri 0225</jump>
+   <jump>Iri 0230</jump>
+   <asset>Elthain</asset>
+   <asset>Irilia-18</asset>
+  </sys>
+  <sys name="Iri 0230">
+   <jump>Iri 0231</jump>
+   <jump>Iri 0240</jump>
+   <jump>Irilia-18</jump>
+  </sys>
   <sys name="Iri 0231">
    <jump>Iri 0224</jump>
    <jump>Iri 0230</jump>
+  </sys>
+  <sys name="Iri 0240">
+   <jump>Iri 0230</jump>
+   <jump>Iri 0242</jump>
+  </sys>
+  <sys name="Iri 0242">
+   <jump>Iri 0240</jump>
+   <jump>Skaeth</jump>
   </sys>
   <sys name="Skaeth">
    <jump>Iri 0242</jump>
@@ -66,14 +66,14 @@
    <asset>Skaeth Border Station</asset>
   </sys>
   <sys name="Iri-TPL - 1 - 1">
+   <jump>Child of the Eclipse</jump>
    <jump>Skaeth</jump>
-   <jump>Son of the Eclipse</jump>
   </sys>
-  <sys name="Son of the Eclipse">
+  <sys name="Child of the Eclipse">
    <jump>Iri-TPL - 1 - 1</jump>
+   <asset>Child of the Eclipse</asset>
    <asset>Freedom Portal</asset>
    <asset>SkyRuler</asset>
-   <asset>Son of the Eclipse</asset>
   </sys>
  </specific>
 </outfit>

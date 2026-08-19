@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outfit name="Go to Sector 52">
+ <general>
+  <mass>0</mass>
+  <price>1000</price>
+  <description>Road taken by the Alliance to discover the Sector 52.</description>
+  <gfx_store>map</gfx_store>
+ </general>
+ <specific type="map">
+  <sys name="Sanctuary">
+   <jump>PA 0018</jump>
+   <asset>Mahavikra Flight School</asset>
+   <asset>Sanctuary</asset>
+  </sys>
+  <sys name="PA 0018">
+   <jump>PA 0021</jump>
+   <jump>Sanctuary</jump>
+  </sys>
+  <sys name="PA 0021">
+   <jump>GL 581 (Zarmina)</jump>
+   <jump>PA 0018</jump>
+  </sys>
+  <sys name="GL 581 (Zarmina)">
+   <jump>Gl 555</jump>
+   <jump>PA 0021</jump>
+   <asset>Zarmina</asset>
+  </sys>
+  <sys name="Gl 555">
+   <jump>33 G Librae</jump>
+   <jump>GL 581 (Zarmina)</jump>
+   <asset>Gl 555 b</asset>
+   <asset>Gl 555 c</asset>
+  </sys>
+  <sys name="33 G Librae">
+   <jump>Gl 555</jump>
+   <jump>Meg-Ur-K'ik</jump>
+  </sys>
+  <sys name="Meg-Ur-K'ik">
+   <jump>33 G Librae</jump>
+   <jump>Sector 52 (KT 52)</jump>
+  </sys>
+  <sys name="Sector 52 (KT 52)">
+   <jump>Meg-Ur-K'ik</jump>
+   <asset>Sector 52 Derelicts</asset>
+   <asset>Sector 52 Memorial</asset>
+  </sys>
+ </specific>
+</outfit>
