@@ -8,6 +8,11 @@
   <space>Asteroid-Base-002-Fighters-Base.png</space>
   <exterior>forest2.png</exterior>
  </GFX>
+ <presence>
+  <faction>Irilia Clan</faction>
+  <value>100.000000</value>
+  <range>4</range>
+ </presence>
  <general>
   <class>A</class>
   <population>5000</population>
