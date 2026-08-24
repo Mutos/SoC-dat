@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="AC-Ary-ShC-IC - 1 - 2">
+<ssys name="Tsaa'di-8">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -7,16 +7,24 @@
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>-1285.544000</x>
-  <y>805.872000</y>
+  <x>-1689.896000</x>
+  <y>1970.544000</y>
  </pos>
  <assets/>
  <jumps>
-  <jump target="AC-Ary-ShC-IC - 1 - 1">
+  <jump target="Sha'shing">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Ary-ShC - 1 - 2">
+  <jump target="Tsaa 0016">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Tsaa'di-7">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Urshaal">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

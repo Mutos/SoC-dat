@@ -18,15 +18,15 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="Ary 0071">
+  <jump target="Jehp-Thi'ak-2">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Ary-ShC - 1 - 1">
+  <jump target="Jehp-Thi'ak-4">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="HnH-Ary - 1 - 3">
+  <jump target="Thaim Tomorai">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
