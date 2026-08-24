@@ -20,15 +20,15 @@
    <pos x="6684.784384" y="-5293.734994"/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="CS-SC - 1 - 1">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Shadow">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Shadow Grave">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Ta'ndow">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

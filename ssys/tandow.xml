@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="CS-SC - 1 - 1">
+<ssys name="Ta'ndow">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -10,7 +10,12 @@
   <x>-2540.072000</x>
   <y>-2311.440000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>La Ranette</asset>
+  <asset>Lenett</asset>
+  <asset>Ol'mine</asset>
+  <asset>Shadow Bonfire</asset>
+ </assets>
  <jumps>
   <jump target="CS 0038">
    <autopos/>
@@ -25,11 +30,11 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="Gamma 14">
-   <autopos/>
+   <pos x="5870.737514" y="-438.372397"/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Teufelfeuer">
-   <autopos/>
+   <pos x="6915.827949" y="-2627.748716"/>
    <hide>1.250000</hide>
   </jump>
  </jumps>
