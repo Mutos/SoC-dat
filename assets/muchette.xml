@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Muchette">
+ <pos>
+  <x>3736.202732</x>
+  <y>-2452.284267</y>
+ </pos>
+ <GFX>
+  <space>moon-O01.png</space>
+  <exterior>lava.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>
