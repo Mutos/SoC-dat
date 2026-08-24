@@ -19,6 +19,7 @@
   <hide>0.250000</hide>
   <services>
    <land/>
+   <bar/>
    <blackmarket/>
   </services>
   <commodities/>
@@ -27,6 +28,6 @@
 In the early XXIIIth century, it served as a contraband cache and hiding place for the dreaded Hopper's Ogres, a branch of the Hopper Connexion, who then started to build a Humans farm within the deserted domes on the planetary surface. These installations were dismantled by the "Furet" squad, with the help of hired mercenaries, who exfiltred the poors victims of the farm.
 
 The derelict station is once more an empty hulk, sometimes housing squatters, spacers or smugglers in its vast abandonned halls.</description>
-  <bar>Only dust and rubbish in the corridor... did you hear something ?</bar>
+  <bar>Only dust and rubbish in the corridor... or did you hear something ?</bar>
  </general>
 </asset>
