@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Savitri D">
+<asset name="Savitri I">
  <pos>
-  <x>-11271.254378</x>
-  <y>5827.315189</y>
+  <x>1898.054814</x>
+  <y>1501.503460</y>
  </pos>
  <GFX>
-  <space>C00.png</space>
-  <exterior>station04.png</exterior>
+  <space>A02.png</space>
+  <exterior>lava.png</exterior>
  </GFX>
  <general>
   <class>A</class>
