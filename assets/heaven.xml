@@ -6,7 +6,7 @@
  </pos>
  <GFX>
   <space>Planet-002-rockWater.png</space>
-  <exterior>mining.png</exterior>
+  <exterior>forest.png</exterior>
  </GFX>
  <presence>
   <faction>Core League</faction>

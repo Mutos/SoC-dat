@@ -6,7 +6,7 @@
  </pos>
  <GFX>
   <space>asteroids-001.png</space>
-  <exterior>station05.png</exterior>
+  <exterior>uninhabited-rocky-airless-00.png</exterior>
  </GFX>
  <presence>
   <faction>Miner</faction>
