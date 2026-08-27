@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="CS-IC-CL - 1 - 1">
+<ssys name="Aan-Lish">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -12,11 +12,11 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="Anaon (Gl 326)">
+  <jump target="Aan-Llala">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="CS-IC - 1 - 3">
+  <jump target="Anaon (Gl 326)">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
