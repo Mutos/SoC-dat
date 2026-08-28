@@ -10,18 +10,24 @@
   <x>-5033.576000</x>
   <y>-490.128000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Al'Ess'Rit</asset>
+  <asset>Ka'Ess'Rit</asset>
+  <asset>Od'Ess'Rit</asset>
+  <asset>Rit'Ess'Rit</asset>
+  <asset>Ro'da</asset>
+ </assets>
  <jumps>
   <jump target="BI 0188">
-   <autopos/>
+   <pos x="-3322.584609" y="-6269.605303"/>
    <hide>1.250000</hide>
   </jump>
   <jump target="BI 0190">
-   <autopos/>
+   <pos x="2456.475549" y="-1470.715119"/>
    <hide>1.250000</hide>
   </jump>
   <jump target="BI 0191">
-   <autopos/>
+   <pos x="-2247.249140" y="-1231.407653"/>
    <hide>1.250000</hide>
   </jump>
  </jumps>

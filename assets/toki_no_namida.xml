@@ -6,7 +6,7 @@
  </pos>
  <GFX>
   <space>Asteroid-Base-001-Fighters-Base.png</space>
-  <exterior>station05.png</exterior>
+  <exterior>scrapped_station.png</exterior>
  </GFX>
  <presence>
   <faction>Ashioto Cluster</faction>
@@ -44,7 +44,7 @@
 until it was taken by Harmand's Irregulars and became a major headquarter for the rebellion. 
 After the Planetarist wars, it was refurbished into a transit station. Before the Ashioto Cluster was founded, it frequently hosted small traffics and acted as a meeting place for somewhat illegal business.
 Now, under the supervision of the Ashioto Cluster, these activities should have ended, but the place is still a crowded transit spacestation, still renowned for one of its restaurants who serve various nice meals from all the sophontness.
-Except the Aligot. Awful. Don't try it.</description>
-  <bar>This old-style restaurant is crowded with spacers, tourists and merchants, enjoying the view of Ashioto, that seems to slowly turn green again... </bar>
+Except the Aligot. Awful. Don't try it. </description>
+  <bar>This old-style restaurant is crowded with spacers, tourists and merchants, enjoying the view of Ashioto, that seems to slowly turn green again ... </bar>
  </general>
 </asset>

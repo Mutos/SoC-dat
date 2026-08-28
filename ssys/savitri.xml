@@ -11,10 +11,10 @@
   <y>141.456000</y>
  </pos>
  <assets>
-  <asset>Savitri A</asset>
-  <asset>Savitri B</asset>
-  <asset>Savitri C</asset>
-  <asset>Savitri D</asset>
+  <asset>Savitri I</asset>
+  <asset>Savitri II</asset>
+  <asset>Savitri III</asset>
+  <asset>Savitri IV</asset>
  </assets>
  <jumps>
   <jump target="Anhui">
@@ -34,7 +34,7 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="Villera">
-   <autopos/>
+   <pos x="2044.234674" y="-7116.278960"/>
    <hide>1.250000</hide>
   </jump>
  </jumps>

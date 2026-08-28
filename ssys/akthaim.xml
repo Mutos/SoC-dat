@@ -12,19 +12,19 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="Ary-ShC - 1 - 1">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="Ary-ShC - 1 - 2">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Arythem-14">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Arythem-15">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Jehp-Ozynn-1">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Jehp-Thi'ak-4">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
