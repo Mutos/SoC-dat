@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="CL 0025">
+<ssys name="Malferria">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -10,7 +10,9 @@
   <x>-2520.592000</x>
   <y>-310.752000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Malferria</asset>
+ </assets>
  <jumps>
   <jump target="CL 0023">
    <autopos/>
