@@ -23,15 +23,15 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
+  <jump target="Aoi Nami">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="GJ 1097">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="GJ 1103">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="HnH-Gam - 1 - 2">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
