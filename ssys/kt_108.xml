@@ -10,7 +10,9 @@
   <x>86.992000</x>
   <y>630.840000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>L'Linalt 0003</asset>
+ </assets>
  <jumps>
   <jump target="KT 17">
    <autopos/>

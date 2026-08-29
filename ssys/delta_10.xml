@@ -12,10 +12,6 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="AC 0021">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Delta 11">
    <autopos/>
    <hide>1.250000</hide>
@@ -25,6 +21,10 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="Delta 6">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Ek'knat">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

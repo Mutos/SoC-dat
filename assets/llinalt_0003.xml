@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="L'Linalt 0003">
+ <pos>
+  <x>3128.241661</x>
+  <y>2196.424996</y>
+ </pos>
+ <GFX>
+  <space>Outpost-KTiln.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <presence>
+  <faction>K'Rinn Council</faction>
+  <value>100.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>10000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</asset>
