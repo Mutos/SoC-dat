@@ -10,7 +10,9 @@
   <x>-1176.680000</x>
   <y>714.288000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Urthaim-Tilg'rat</asset>
+ </assets>
  <jumps>
   <jump target="Jehp-Ozynn-3">
    <autopos/>
