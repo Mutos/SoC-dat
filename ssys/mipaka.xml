@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="CL 0054">
+<ssys name="Mipaka">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -10,7 +10,10 @@
   <x>-1884.584000</x>
   <y>786.864000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Bahari</asset>
+  <asset>Ziwa Kubwa</asset>
+ </assets>
  <jumps>
   <jump target="CL 0051">
    <autopos/>
