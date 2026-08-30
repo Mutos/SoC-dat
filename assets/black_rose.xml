@@ -25,6 +25,7 @@
    <commodity/>
    <outfits/>
    <shipyard/>
+   <blackmarket/>
   </services>
   <commodities>
    <commodity>Generic Food</commodity>
@@ -44,7 +45,7 @@
 
 It trades everything that comes near to it, thanks to its captain's many connections, and gathers raw minerals from the local asteroid fields and a few independant systems beyond the nearby jump point.
   </description>
-  <bar>None</bar>
+  <bar>Miners, spacers and travellers' from nearby all the sophontess. Eb'ish Sshaads from the nearby Eb'aareli and Irilian Rithai from Irilia-23 are especially well represented. </bar>
  </general>
  <tech>
   <item>Low-tech Generic</item>
