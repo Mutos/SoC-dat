@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="CL 0007">
+<ssys name="Groombridge 34">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -12,11 +12,11 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="CL 0030">
+  <jump target="Lalande 21185">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Lalande 21185">
+  <jump target="Struve 2398">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

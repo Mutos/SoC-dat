@@ -17,15 +17,15 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="CL 0015">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="CL 0028">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="CL 0029">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Kruger 60">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
