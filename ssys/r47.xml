@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="CL-HnH - 2 - 1">
+<ssys name="R-47">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -17,6 +17,10 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="Little Sol">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Rockstealers' Grove">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
