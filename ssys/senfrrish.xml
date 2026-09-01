@@ -7,10 +7,11 @@
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>-2595.368000</x>
-  <y>1889.328000</y>
+  <x>-2528.368000</x>
+  <y>1868.328000</y>
  </pos>
  <assets>
+  <asset>E'Sen'Frri</asset>
   <asset>Sen'Frrish</asset>
  </assets>
  <jumps>

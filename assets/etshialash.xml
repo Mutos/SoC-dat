@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Zaff'Rin">
+<asset name="Etshia'lash">
  <pos>
-  <x>-1956.691740</x>
-  <y>-2187.797064</y>
+  <x>-3036.337914</x>
+  <y>2346.261115</y>
  </pos>
  <GFX>
-  <space>M06.png</space>
-  <exterior>desertic.png</exterior>
+  <space>M10.png</space>
+  <exterior>Outpost-KTiln.png</exterior>
  </GFX>
  <general>
   <class>A</class>
