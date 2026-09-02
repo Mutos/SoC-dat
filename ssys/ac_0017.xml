@@ -12,15 +12,15 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="AC 0011">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="AC 0019">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="T'Kal">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Tonbo no haka">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

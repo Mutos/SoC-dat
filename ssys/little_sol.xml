@@ -17,15 +17,15 @@
   <asset>PIF High-Station</asset>
  </assets>
  <jumps>
-  <jump target="CL-HnH - 2 - 1">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Gl 3753">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="HN Bootis">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="R-47">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

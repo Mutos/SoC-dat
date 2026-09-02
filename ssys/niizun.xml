@@ -10,7 +10,10 @@
   <x>-2694.159259</x>
   <y>1955.831481</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Danesh es Sen'frr </asset>
+  <asset>Etshia'lash</asset>
+ </assets>
  <jumps>
   <jump target="Af'Zent">
    <autopos/>

@@ -7,11 +7,12 @@
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>-2582.082148</x>
-  <y>2008.005630</y>
+  <x>-2514.082148</x>
+  <y>2034.005630</y>
  </pos>
  <assets>
   <asset>Af'Zent</asset>
+  <asset>E'Af'z</asset>
  </assets>
  <jumps>
   <jump target="CSS 005">

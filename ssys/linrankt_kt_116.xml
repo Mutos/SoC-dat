@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="AC 0021">
+<ssys name="Lin'Rankt (KT 116)">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -7,20 +7,16 @@
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>-701.480000</x>
-  <y>914.736000</y>
+  <x>-138.152000</x>
+  <y>627.888000</y>
  </pos>
  <assets/>
  <jumps>
-  <jump target="Delta 10">
+  <jump target="KT 269">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Delta 11">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="Persephone's Bane">
+  <jump target="Neel'Rilk">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

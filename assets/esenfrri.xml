@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Jabir">
+<asset name="E'Sen'Frri">
  <pos>
-  <x>6008.738414</x>
-  <y>-1774.888885</y>
+  <x>-6019.003188</x>
+  <y>460.051199</y>
  </pos>
  <GFX>
-  <space>D03.png</space>
-  <exterior>station03.png</exterior>
+  <space>Asteroid-Base-001-Fighters-Base.png</space>
+  <exterior>aquatic3.png</exterior>
  </GFX>
  <presence>
-  <faction>Independent</faction>
-  <value>150.000000</value>
-  <range>2</range>
+  <faction>Confederated Sshaad Stars</faction>
+  <value>300.000000</value>
+  <range>3</range>
  </presence>
  <general>
   <class>A</class>
-  <population>250000</population>
+  <population>0</population>
   <hide>0.250000</hide>
   <services>
    <land/>

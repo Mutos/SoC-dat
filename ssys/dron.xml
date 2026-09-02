@@ -14,7 +14,7 @@
  <jumps>
   <jump target="BI 0128">
    <autopos/>
-   <hide>1.250000</hide>
+   <hide>3.000000</hide>
   </jump>
   <jump target="CSS 005">
    <autopos/>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Zaff'Rin">
+<asset name="Oddball">
  <pos>
-  <x>-1956.691740</x>
-  <y>-2187.797064</y>
+  <x>1888.216089</x>
+  <y>-3348.887328</y>
  </pos>
  <GFX>
-  <space>M06.png</space>
-  <exterior>desertic.png</exterior>
+  <space>S00.png</space>
+  <exterior>Station-SR001.png</exterior>
  </GFX>
  <general>
   <class>A</class>

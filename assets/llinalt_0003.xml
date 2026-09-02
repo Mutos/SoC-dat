@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Jabir">
+<asset name="L'Linalt 0003">
  <pos>
-  <x>6008.738414</x>
-  <y>-1774.888885</y>
+  <x>3128.241661</x>
+  <y>2196.424996</y>
  </pos>
  <GFX>
-  <space>D03.png</space>
+  <space>Outpost-KTiln.png</space>
   <exterior>station03.png</exterior>
  </GFX>
  <presence>
-  <faction>Independent</faction>
-  <value>150.000000</value>
-  <range>2</range>
+  <faction>K'Rinn Council</faction>
+  <value>100.000000</value>
+  <range>1</range>
  </presence>
  <general>
   <class>A</class>
-  <population>250000</population>
+  <population>10000</population>
   <hide>0.250000</hide>
   <services>
    <land/>

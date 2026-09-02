@@ -16,15 +16,15 @@
   <asset>Taphao Thong</asset>
  </assets>
  <jumps>
-  <jump target="AC 0011">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="AC 0012">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Ashioto - Purgatoire">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Tonbo no haka">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

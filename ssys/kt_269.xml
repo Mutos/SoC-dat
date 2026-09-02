@@ -10,17 +10,19 @@
   <x>-54.704000</x>
   <y>568.632000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Teel'Inet</asset>
+ </assets>
  <jumps>
-  <jump target="AC-KC - 2 - 1">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="KT 108">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="KT 17">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Lin'Rankt (KT 116)">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

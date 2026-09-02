@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Zaff'Rin">
+<asset name="Malferria">
  <pos>
-  <x>-1956.691740</x>
-  <y>-2187.797064</y>
+  <x>2208.245756</x>
+  <y>-2990.332794</y>
  </pos>
  <GFX>
-  <space>M06.png</space>
+  <space>K03.png</space>
   <exterior>desertic.png</exterior>
  </GFX>
  <general>

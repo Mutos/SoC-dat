@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Jabir">
+<asset name="Danesh es Sen'frr ">
  <pos>
-  <x>6008.738414</x>
-  <y>-1774.888885</y>
+  <x>3769.863993</x>
+  <y>-2651.683995</y>
  </pos>
  <GFX>
-  <space>D03.png</space>
-  <exterior>station03.png</exterior>
+  <space>asteroids-001.png</space>
+  <exterior>aquatic3.png</exterior>
  </GFX>
  <presence>
-  <faction>Independent</faction>
-  <value>150.000000</value>
-  <range>2</range>
+  <faction>Confederated Sshaad Stars</faction>
+  <value>4.000000</value>
+  <range>3</range>
  </presence>
  <general>
   <class>A</class>

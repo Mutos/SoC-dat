@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="AC-KC - 2 - 1">
+<ssys name="Maigo">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -7,18 +7,22 @@
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>-138.152000</x>
-  <y>627.888000</y>
+  <x>-2584.000000</x>
+  <y>-1615.000000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Mei</asset>
+  <asset>Satsuki</asset>
+  <asset>Wishbone Derelict</asset>
+ </assets>
  <jumps>
-  <jump target="KT 269">
+  <jump target="Gamma 6">
    <autopos/>
-   <hide>1.250000</hide>
+   <hide>3.000000</hide>
   </jump>
-  <jump target="Neel'Rilk">
+  <jump target="Kujira no Sangosho">
    <autopos/>
-   <hide>1.250000</hide>
+   <hide>3.000000</hide>
   </jump>
  </jumps>
 </ssys>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Zaff'Rin">
+<asset name="Satsuki">
  <pos>
-  <x>-1956.691740</x>
-  <y>-2187.797064</y>
+  <x>1533.503997</x>
+  <y>-2683.631995</y>
  </pos>
  <GFX>
-  <space>M06.png</space>
-  <exterior>desertic.png</exterior>
+  <space>moon-P00.png</space>
+  <exterior>station04.png</exterior>
  </GFX>
  <general>
   <class>A</class>
