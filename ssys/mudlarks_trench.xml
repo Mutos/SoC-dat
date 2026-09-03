@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="SC-PT - 1 - 3">
+<ssys name="Mudlarks' Trench">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -14,11 +14,11 @@
  <jumps>
   <jump target="GJ 1097">
    <autopos/>
-   <hide>1.250000</hide>
+   <hide>3.000000</hide>
   </jump>
   <jump target="Gamma 1">
    <autopos/>
-   <hide>1.250000</hide>
+   <hide>3.000000</hide>
   </jump>
   <jump target="SC-PT - 1 - 4">
    <autopos/>
