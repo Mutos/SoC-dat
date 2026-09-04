@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="Ran (Epsilon Eridani)">
+<ssys name="Ran">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -17,7 +17,7 @@
   <asset>Xerxes</asset>
  </assets>
  <jumps>
-  <jump target="Ashioto - Purgatoire">
+  <jump target="Ashioto">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
