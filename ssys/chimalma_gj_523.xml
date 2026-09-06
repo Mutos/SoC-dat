@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="PA 0117">
+<ssys name="Chimalma (GJ 523)">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -10,7 +10,12 @@
   <x>-295.400000</x>
   <y>-1877.712000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Cabracan</asset>
+  <asset>Coatlicue</asset>
+  <asset>Quetzalcoatl</asset>
+  <asset>Zipacna</asset>
+ </assets>
  <jumps>
   <jump target="PA 0028">
    <autopos/>
