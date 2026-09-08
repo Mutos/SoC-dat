@@ -10,17 +10,20 @@
   <x>-1880.048000</x>
   <y>-30.624000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Eolia</asset>
+  <asset>Mytilene-1</asset>
+ </assets>
  <jumps>
-  <jump target="CL 0058">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="CL 0062">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Pollux">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Ross 878">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

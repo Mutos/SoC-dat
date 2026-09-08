@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="Gl 252">
+<ssys name="Shen Nong (Gl 252)">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -10,9 +10,13 @@
   <x>-1767.376000</x>
   <y>-185.352000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Fuxi</asset>
+  <asset>Nuwa</asset>
+  <asset>Shen Nong-1</asset>
+ </assets>
  <jumps>
-  <jump target="CL 0058">
+  <jump target="Ross 878">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
