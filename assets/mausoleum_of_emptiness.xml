@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Mausoleum of emptiness">
+ <pos>
+  <x>1693.652931</x>
+  <y>-1729.332457</y>
+ </pos>
+ <GFX>
+  <space>001.png</space>
+  <exterior>Outpost-KTiln.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>
