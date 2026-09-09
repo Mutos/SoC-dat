@@ -14,15 +14,15 @@
   <asset>Dimidium</asset>
  </assets>
  <jumps>
-  <jump target="CL 0020">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="CL 0023">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="CL 0028">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Imori">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
