@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Uchu Bochi 4">
+ <pos>
+  <x>3845.516856</x>
+  <y>-5774.775638</y>
+ </pos>
+ <GFX>
+  <space>asteroids-001.png</space>
+  <exterior>desertic.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

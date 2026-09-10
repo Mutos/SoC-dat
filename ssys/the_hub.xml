@@ -21,15 +21,15 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="CL 0029">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Kruger 60">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Pollux">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Sparrow's Nest">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

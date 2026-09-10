@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="Ashioto - Purgatoire">
+<ssys name="Ashioto">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -34,7 +34,7 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Ran (Epsilon Eridani)">
+  <jump target="Ran">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

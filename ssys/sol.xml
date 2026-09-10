@@ -35,6 +35,7 @@
   <asset>Titania</asset>
   <asset>Triton</asset>
   <asset>Tuskegee Training Academy</asset>
+  <asset>Umbria High</asset>
   <asset>Umbriel</asset>
   <asset>Uranus</asset>
   <asset>Venus</asset>
@@ -53,12 +54,12 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Gl 252">
-   <pos x="-42175.742928" y="-14425.028952"/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Gl 380">
    <pos x="-458.941178" y="-1700.568928"/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Shen Nong (Gl 252)">
+   <pos x="-42175.742928" y="-14425.028952"/>
    <hide>1.250000</hide>
   </jump>
  </jumps>

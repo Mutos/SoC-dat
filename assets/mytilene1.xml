@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Mytilene-1">
+ <pos>
+  <x>-3594.149993</x>
+  <y>772.076665</y>
+ </pos>
+ <GFX>
+  <space>Station-SCO003.png</space>
+  <exterior>scrapped_station.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Core League</faction>
+  <value>100.000000</value>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>50000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</asset>

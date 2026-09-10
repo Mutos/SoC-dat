@@ -12,11 +12,11 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="SC-PT - 1 - 1">
+  <jump target="Mudlarks' Trench">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="SC-PT - 1 - 3">
+  <jump target="SC-PT - 1 - 1">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

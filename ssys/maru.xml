@@ -14,7 +14,7 @@
   <asset>Ahra</asset>
  </assets>
  <jumps>
-  <jump target="Ashioto - Purgatoire">
+  <jump target="Ashioto">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

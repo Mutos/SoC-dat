@@ -18,11 +18,11 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="GJ 3466">
+  <jump target="GJ 3500">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="GJ 3500">
+  <jump target="Hoshi no Kushi">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

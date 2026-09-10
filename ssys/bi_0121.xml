@@ -12,6 +12,10 @@
  </pos>
  <assets/>
  <jumps>
+  <jump target="O'oo">
+   <autopos/>
+   <hide>3.000000</hide>
+  </jump>
   <jump target="Tsaa'di-2">
    <autopos/>
    <hide>1.250000</hide>

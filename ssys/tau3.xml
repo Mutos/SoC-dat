@@ -10,7 +10,13 @@
   <x>-1405.800000</x>
   <y>-710.040000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Anansi</asset>
+  <asset>Asase Ya</asset>
+  <asset>Nyame</asset>
+  <asset>Tau-3812</asset>
+  <asset>Tau-Sigma</asset>
+ </assets>
  <jumps>
   <jump target="New Earth (Eta Cassiopeia)">
    <autopos/>
@@ -21,11 +27,11 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="Teegarden">
-   <autopos/>
+   <pos x="-5834.477178" y="-3496.062099"/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Tripoint">
-   <autopos/>
+   <pos x="725.149004" y="-6801.715268"/>
    <hide>1.250000</hide>
   </jump>
  </jumps>

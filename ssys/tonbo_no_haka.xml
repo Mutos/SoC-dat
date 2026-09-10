@@ -10,7 +10,14 @@
   <x>-738.848000</x>
   <y>578.872000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Mausoleum of emptiness</asset>
+  <asset>Uchu Bochi 1</asset>
+  <asset>Uchu Bochi 2</asset>
+  <asset>Uchu Bochi 3</asset>
+  <asset>Uchu Bochi 4</asset>
+  <asset>Uchu Bochi 5</asset>
+ </assets>
  <jumps>
   <jump target="AC 0007">
    <autopos/>
