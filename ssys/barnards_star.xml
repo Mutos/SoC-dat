@@ -11,26 +11,32 @@
   <y>-310.744000</y>
  </pos>
  <assets>
+  <asset>Arion</asset>
   <asset>Barnard b</asset>
   <asset>Barnard c</asset>
   <asset>Barnard d</asset>
   <asset>Barnard e</asset>
+  <asset>Boreas</asset>
+  <asset>Chione</asset>
+  <asset>Cora</asset>
+  <asset>Despina</asset>
+  <asset>Talos-1</asset>
  </assets>
  <jumps>
   <jump target="Gl 3001">
-   <autopos/>
+   <pos x="-13177.896527" y="-374.756729"/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Gl 534.1">
-   <autopos/>
+   <pos x="4117.107360" y="-4864.290655"/>
    <hide>1.250000</hide>
   </jump>
   <jump target="McLeod">
-   <autopos/>
+   <pos x="-3724.691102" y="-4819.218259"/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Sol">
-   <autopos/>
+   <pos x="6225.813431" y="-827.270107"/>
    <hide>1.250000</hide>
   </jump>
  </jumps>
