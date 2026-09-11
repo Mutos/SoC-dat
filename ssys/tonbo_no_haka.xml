@@ -19,14 +19,6 @@
   <asset>Uchu Bochi 5</asset>
  </assets>
  <jumps>
-  <jump target="AC 0007">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="AC 0012">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="AC 0017">
    <autopos/>
    <hide>1.250000</hide>
@@ -36,6 +28,14 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="Gl 1132">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Gl 367">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="KT 18">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
