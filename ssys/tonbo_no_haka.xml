@@ -35,5 +35,9 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
+  <jump target="Gl 1132">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
  </jumps>
 </ssys>
