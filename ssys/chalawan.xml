@@ -16,11 +16,11 @@
   <asset>Taphao Thong</asset>
  </assets>
  <jumps>
-  <jump target="AC 0012">
+  <jump target="Ashioto">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Ashioto">
+  <jump target="KT 18">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
