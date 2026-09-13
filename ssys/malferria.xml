@@ -14,7 +14,7 @@
   <asset>Malferria</asset>
  </assets>
  <jumps>
-  <jump target="CL 0023">
+  <jump target="Alma">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

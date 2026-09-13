@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="PA-SC - 1 -1">
+<ssys name="Haro 6-47">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -7,16 +7,20 @@
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>-628.904000</x>
-  <y>-2717.520000</y>
+  <x>-2197.456000</x>
+  <y>-172.512000</y>
  </pos>
  <assets/>
  <jumps>
-  <jump target="PA 0109">
+  <jump target="51 Pegasi">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="PA-SC - 1 - 2">
+  <jump target="Imori">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="The Hub">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

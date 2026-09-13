@@ -14,11 +14,11 @@
   <asset>Dimidium</asset>
  </assets>
  <jumps>
-  <jump target="CL 0023">
+  <jump target="Alma">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="CL 0028">
+  <jump target="Haro 6-47">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

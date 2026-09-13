@@ -19,11 +19,11 @@
   <asset>Virtual Miner Local</asset>
  </assets>
  <jumps>
-  <jump target="CL 0039">
+  <jump target="CL 0041">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="CL 0041">
+  <jump target="GD 140">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
