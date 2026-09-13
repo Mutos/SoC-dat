@@ -15,11 +15,11 @@
   <asset>Le Manege</asset>
  </assets>
  <jumps>
-  <jump target="CL 0039">
+  <jump target="CL 0040">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="CL 0040">
+  <jump target="GD 140">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
