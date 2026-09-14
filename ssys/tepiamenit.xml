@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="CL 0003">
+<ssys name="Tepiamenit">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -10,7 +10,11 @@
   <x>-2291.464000</x>
   <y>-659.704000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Ach</asset>
+  <asset>Heqet</asset>
+  <asset>Temet</asset>
+ </assets>
  <jumps>
   <jump target="CL 0002">
    <autopos/>

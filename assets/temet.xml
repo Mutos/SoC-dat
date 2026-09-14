@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Temet">
+ <pos>
+  <x>2928.566661</x>
+  <y>-998.374998</y>
+ </pos>
+ <GFX>
+  <space>H03.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>
