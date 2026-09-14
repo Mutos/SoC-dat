@@ -10,10 +10,15 @@
   <x>-1494.904000</x>
   <y>-186.904000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Artio</asset>
+  <asset>Artio-1</asset>
+  <asset>Sequana</asset>
+  <asset>Sirona</asset>
+ </assets>
  <jumps>
   <jump target="Sol">
-   <autopos/>
+   <pos x="-4109.581150" y="-3659.550224"/>
    <hide>1.250000</hide>
   </jump>
  </jumps>
