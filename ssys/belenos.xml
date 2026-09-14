@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="PA 0080">
+<ssys name="Belenos">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -10,7 +10,9 @@
   <x>-201.659200</x>
   <y>-1918.759680</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Belisama</asset>
+ </assets>
  <jumps>
   <jump target="Chimalma (GJ 523)">
    <autopos/>
