@@ -15,11 +15,11 @@
   <asset>Gl 849 c</asset>
  </assets>
  <jumps>
-  <jump target="CL 0032">
+  <jump target="CL 0040">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="CL 0040">
+  <jump target="Gl 687">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
