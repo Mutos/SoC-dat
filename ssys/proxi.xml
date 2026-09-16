@@ -16,11 +16,11 @@
   <asset>Proxi d</asset>
  </assets>
  <jumps>
-  <jump target="CL 0026">
+  <jump target="CL 0033">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="CL 0033">
+  <jump target="Gl 682">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

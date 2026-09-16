@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="CL 0026">
+<ssys name="Gl 682">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -10,7 +10,10 @@
   <x>-2461.840000</x>
   <y>-201.888000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Gl 682 b</asset>
+  <asset>Gl 682 c</asset>
+ </assets>
  <jumps>
   <jump target="Alma">
    <autopos/>
