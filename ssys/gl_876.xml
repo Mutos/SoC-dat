@@ -10,7 +10,12 @@
   <x>-1671.864000</x>
   <y>24.440000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Gl 876 b</asset>
+  <asset>Gl 876 c</asset>
+  <asset>Gl 876 d</asset>
+  <asset>Gl 876 e</asset>
+ </assets>
  <jumps>
   <jump target="Anhui">
    <autopos/>

@@ -10,7 +10,10 @@
   <x>-2300.752000</x>
   <y>28.168000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Gl 849 b</asset>
+  <asset>Gl 849 c</asset>
+ </assets>
  <jumps>
   <jump target="CL 0032">
    <autopos/>
