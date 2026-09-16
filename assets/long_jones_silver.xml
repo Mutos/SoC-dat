@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Long Jones Silver">
+ <pos>
+  <x>-1384.413331</x>
+  <y>-745.453332</y>
+ </pos>
+ <GFX>
+  <space>moon-D02.png</space>
+  <exterior>forest2.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

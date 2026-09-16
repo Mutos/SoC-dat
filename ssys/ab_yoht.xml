@@ -10,10 +10,19 @@
   <x>-2707.648000</x>
   <y>-2244.712000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Billy Bones</asset>
+  <asset>Black Dog</asset>
+  <asset>Hawkins</asset>
+  <asset>Long Jones Silver</asset>
+  <asset>Lost Bar</asset>
+  <asset>Smollett</asset>
+  <asset>Treasure's Island</asset>
+  <asset>Trelawney</asset>
+ </assets>
  <jumps>
   <jump target="Arama">
-   <autopos/>
+   <pos x="7679.869550" y="-3371.198114"/>
    <hide>1.250000</hide>
   </jump>
  </jumps>
