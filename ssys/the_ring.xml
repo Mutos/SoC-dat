@@ -16,20 +16,28 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
+  <jump target="TPL 0140">
+   <pos x="-2608.842990" y="-7776.697374"/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="TPL 0141">
-   <autopos/>
+   <pos x="-3091.921908" y="-3863.623609"/>
    <hide>1.250000</hide>
   </jump>
   <jump target="TPL 0143">
-   <autopos/>
+   <pos x="-5115.281656" y="-5037.708990"/>
    <hide>1.250000</hide>
   </jump>
   <jump target="TPL 0144">
-   <autopos/>
+   <pos x="-976.975906" y="-6830.998701"/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="TPL 0146">
+   <pos x="-4735.106956" y="-7210.522723"/>
    <hide>1.250000</hide>
   </jump>
   <jump target="TPL 0159">
-   <autopos/>
+   <pos x="-1011.151464" y="-4983.460848"/>
    <hide>1.250000</hide>
   </jump>
  </jumps>
