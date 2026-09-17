@@ -26,10 +26,6 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Gl 3622">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Gl 784">
    <autopos/>
    <hide>1.250000</hide>
@@ -39,6 +35,10 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="New Earth (Eta Cassiopeia)">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Pathway">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
