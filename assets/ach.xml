@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ach">
+ <pos>
+  <x>-1589.936944</x>
+  <y>-1126.205335</y>
+ </pos>
+ <GFX>
+  <space>J00.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

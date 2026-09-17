@@ -10,7 +10,10 @@
   <x>-1999.764480</x>
   <y>-1344.026880</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Argo</asset>
+  <asset>Meetpoint</asset>
+ </assets>
  <jumps>
   <jump target="Carrouf">
    <autopos/>

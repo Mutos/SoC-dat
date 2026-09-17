@@ -14,15 +14,15 @@
   <asset>GD 140 b</asset>
  </assets>
  <jumps>
-  <jump target="CL 0040">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Hammerfall">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Le Manege">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Outslide">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

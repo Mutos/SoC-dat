@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ryugu-Jo">
+ <pos>
+  <x>6532.727027</x>
+  <y>4646.517111</y>
+ </pos>
+ <GFX>
+  <space>I06.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

@@ -17,11 +17,11 @@
   <asset>Zipacna</asset>
  </assets>
  <jumps>
-  <jump target="PA 0028">
+  <jump target="Belenos">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="PA 0080">
+  <jump target="PA 0028">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

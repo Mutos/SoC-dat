@@ -19,15 +19,15 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="GJ 3500">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Syrtis">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="The Gap">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Void's Door">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

@@ -10,10 +10,19 @@
   <x>-2633.448000</x>
   <y>-2134.512000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>By Stone Well</asset>
+  <asset>Gaea</asset>
+  <asset>Holle</asset>
+  <asset>Inbetween</asset>
+  <asset>Kur</asset>
+  <asset>Monster World</asset>
+  <asset>Oz</asset>
+  <asset>Ryugu-Jo</asset>
+ </assets>
  <jumps>
   <jump target="Arama">
-   <autopos/>
+   <pos x="5825.246507" y="5987.000138"/>
    <hide>1.250000</hide>
   </jump>
  </jumps>

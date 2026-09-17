@@ -12,11 +12,11 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="RQL 0008">
+  <jump target="RQL 0040">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="RQL 0040">
+  <jump target="Shallow Reef">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

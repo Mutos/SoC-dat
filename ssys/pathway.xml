@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Pathway">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-1313.768000</x>
+  <y>-409.824000</y>
+ </pos>
+ <assets>
+  <asset>Heaven's Gates</asset>
+ </assets>
+ <jumps>
+  <jump target="38 Geminorum">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="39 Leonis">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Heaven (Delta Pavonis)">
+   <pos x="1437.552101" y="-5844.308597"/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Kapteyns">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+</ssys>

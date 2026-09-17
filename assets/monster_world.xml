@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Monster World">
+ <pos>
+  <x>3772.419833</x>
+  <y>-5520.614389</y>
+ </pos>
+ <GFX>
+  <space>G01.png</space>
+  <exterior>station05.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

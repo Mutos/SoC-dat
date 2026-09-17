@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Gl 849 c">
+ <pos>
+  <x>4210.780470</x>
+  <y>-5117.839564</y>
+ </pos>
+ <GFX>
+  <space>J07.png</space>
+  <exterior>aquatic3.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>
