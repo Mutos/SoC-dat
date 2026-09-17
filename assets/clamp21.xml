@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Clamp-21">
+ <pos>
+  <x>3008.436661</x>
+  <y>-825.323332</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-006-Split-Asteroid.png</space>
+  <exterior>desertic.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Free Traders</faction>
+  <value>25.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>2000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</asset>
