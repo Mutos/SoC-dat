@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="TPL 0120">
+<ssys name="Giggling Sands">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -10,7 +10,9 @@
   <x>-150.248000</x>
   <y>-4353.936000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Giggling Sands</asset>
+ </assets>
  <jumps>
   <jump target="TPL 0116">
    <autopos/>
