@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="Ka'Rkara">
+<ssys name="Ka'ish">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -10,7 +10,9 @@
   <x>-4810.664000</x>
   <y>-1013.712000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Ka'ish-Mali</asset>
+ </assets>
  <jumps>
   <jump target="BI 0087">
    <autopos/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="BI 0187">
+<ssys name="Rak'R">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -10,7 +10,9 @@
   <x>-5021.480000</x>
   <y>-623.184000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Rak'R's Anomaly</asset>
+ </assets>
  <jumps>
   <jump target="BI 0171">
    <autopos/>
@@ -25,7 +27,7 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="BI 0188">
-   <autopos/>
+   <pos x="-1520.162919" y="1794.295017"/>
    <hide>1.250000</hide>
   </jump>
  </jumps>
