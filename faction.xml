@@ -662,7 +662,7 @@
   <logo>default</logo>
   <longname>Complementarist Protectorate</longname>
   <player>0</player>
-  <colour>orange</colour>
+  <colour>blue</colour>
   <spawn>trader</spawn>
   <standing>trader</standing>
   <allies>
