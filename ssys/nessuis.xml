@@ -15,19 +15,23 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="BI 0106">
+  <jump target="Art'uis">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="BI 0185">
+  <jump target="Ash'Ogal">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="BI 0190">
+  <jump target="Ess'atl">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="BI 0191">
+  <jump target="Kleglet">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Ne'Get">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="BI 0210">
+<ssys name="Ess'atl">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -7,20 +7,16 @@
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>-5251.304000</x>
-  <y>-377.808000</y>
+  <x>-4987.000000</x>
+  <y>-314.000000</y>
  </pos>
  <assets/>
  <jumps>
-  <jump target="Ash'Ogal">
+  <jump target="Kleglet">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="BI 0211">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="BI 0212">
+  <jump target="Nessuis">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
