@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Shaa'Sson">
+ <pos>
+  <x>5269.201379</x>
+  <y>-369.768518</y>
+ </pos>
+ <GFX>
+  <space>asteroids-004.png</space>
+  <exterior>station05.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Free Traders</faction>
+  <value>250.000000</value>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>20000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+   <blackmarket/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</asset>

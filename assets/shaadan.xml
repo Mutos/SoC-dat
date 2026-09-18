@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Shaa'Dan">
+ <pos>
+  <x>2329.541662</x>
+  <y>-3438.847215</y>
+ </pos>
+ <GFX>
+  <space>M03.png</space>
+  <exterior>oceanic.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Candidate Systems</faction>
+  <value>150.000000</value>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>250000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</asset>

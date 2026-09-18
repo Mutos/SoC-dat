@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ol'al">
+ <pos>
+  <x>-7657.289723</x>
+  <y>-3867.162415</y>
+ </pos>
+ <GFX>
+  <space>I04.png</space>
+  <exterior>traderoom.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

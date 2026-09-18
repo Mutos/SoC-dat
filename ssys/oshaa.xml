@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="CS 0055">
+<ssys name="O'Shaa">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -10,7 +10,13 @@
   <x>-3068.840000</x>
   <y>-2974.992000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Kao'Shaa</asset>
+  <asset>Ol'Amash</asset>
+  <asset>Ol'al</asset>
+  <asset>Shaa'Dan</asset>
+  <asset>Shaa'Sson</asset>
+ </assets>
  <jumps>
   <jump target="CS 0036">
    <autopos/>
