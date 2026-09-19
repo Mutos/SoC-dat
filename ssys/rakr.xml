@@ -12,6 +12,7 @@
  </pos>
  <assets>
   <asset>Rak'R's Anomaly</asset>
+  <asset>Rak'R's Beacon</asset>
  </assets>
  <jumps>
   <jump target="BI 0171">
@@ -26,7 +27,7 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="BI 0188">
+  <jump target="Ish'tiis">
    <pos x="-1520.162919" y="1794.295017"/>
    <hide>1.250000</hide>
   </jump>

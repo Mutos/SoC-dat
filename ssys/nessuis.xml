@@ -23,15 +23,15 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Ess'atl">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Kleglet">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Ne'Get">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="T'satl">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

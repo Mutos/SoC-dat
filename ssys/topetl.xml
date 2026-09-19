@@ -1,30 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="Na'netl">
+<ssys name="Top'etl">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
-  <interference>100.000000</interference>
+  <interference>0.000000</interference>
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>-4919.224000</x>
-  <y>-445.560000</y>
+  <x>-4926.000000</x>
+  <y>-227.000000</y>
  </pos>
  <assets/>
  <jumps>
-  <jump target="Ak'etl">
+  <jump target="Ess'atl">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Esh'elt">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="Ish'tiis">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="Kleglet">
+  <jump target="T'satl">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

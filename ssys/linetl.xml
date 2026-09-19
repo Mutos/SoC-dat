@@ -20,10 +20,6 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Esh'elt">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Shoosoln">
    <autopos/>
    <hide>1.250000</hide>

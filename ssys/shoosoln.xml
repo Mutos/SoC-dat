@@ -7,8 +7,8 @@
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>-4765.736000</x>
-  <y>-460.752000</y>
+  <x>-4744.736000</x>
+  <y>-440.752000</y>
  </pos>
  <assets>
   <asset>Hraasrnor</asset>
@@ -17,19 +17,15 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
+  <jump target="Ak'etl">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="BI 0075">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Esh'elt">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Li'netl">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="Na'netl">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
