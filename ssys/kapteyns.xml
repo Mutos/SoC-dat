@@ -11,20 +11,21 @@
   <y>-365.536000</y>
  </pos>
  <assets>
-  <asset>Kapteyn b</asset>
-  <asset>Kapteyn c</asset>
+  <asset>Cellarius</asset>
+  <asset>Clamp-21</asset>
+  <asset>Harmonia</asset>
  </assets>
  <jumps>
   <jump target="Gateway">
-   <autopos/>
+   <pos x="-3868.545924" y="3685.917364"/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Pathway">
-   <autopos/>
+   <pos x="2253.767753" y="-2891.762927"/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Rencard (Gl 229)">
-   <autopos/>
+   <pos x="-3783.842334" y="-6067.928324"/>
    <hide>1.250000</hide>
   </jump>
  </jumps>

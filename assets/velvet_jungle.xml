@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Ro'da">
+<asset name="Velvet Jungle">
  <pos>
-  <x>-4058.209483</x>
-  <y>-5993.844960</y>
+  <x>-2649.894907</x>
+  <y>3312.368633</y>
  </pos>
  <GFX>
-  <space>Station-009-Outpost.png</space>
-  <exterior>Outpost-KTiln.png</exterior>
+  <space>M00.png</space>
+  <exterior>station03.png</exterior>
  </GFX>
  <presence>
-  <faction>Daneb Anarchs</faction>
-  <value>100.000000</value>
-  <range>1</range>
+  <faction>Red Quadrant League</faction>
+  <value>250.000000</value>
+  <range>2</range>
  </presence>
  <general>
   <class>A</class>
-  <population>20000</population>
+  <population>25000</population>
   <hide>0.250000</hide>
   <services>
    <land/>

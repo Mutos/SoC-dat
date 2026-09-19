@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Ro'da">
+<asset name="Shaa'Sson">
  <pos>
-  <x>-4058.209483</x>
-  <y>-5993.844960</y>
+  <x>5269.201379</x>
+  <y>-369.768518</y>
  </pos>
  <GFX>
-  <space>Station-009-Outpost.png</space>
-  <exterior>Outpost-KTiln.png</exterior>
+  <space>asteroids-004.png</space>
+  <exterior>station05.png</exterior>
  </GFX>
  <presence>
-  <faction>Daneb Anarchs</faction>
-  <value>100.000000</value>
-  <range>1</range>
+  <faction>Free Traders</faction>
+  <value>250.000000</value>
+  <range>3</range>
  </presence>
  <general>
   <class>A</class>
@@ -25,6 +25,7 @@
    <commodity/>
    <outfits/>
    <shipyard/>
+   <blackmarket/>
   </services>
   <commodities/>
   <description>(null)</description>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Ro'da">
+<asset name="Ol'Amash">
  <pos>
-  <x>-4058.209483</x>
-  <y>-5993.844960</y>
+  <x>4714.548602</x>
+  <y>585.466820</y>
  </pos>
  <GFX>
-  <space>Station-009-Outpost.png</space>
-  <exterior>Outpost-KTiln.png</exterior>
+  <space>K05.png</space>
+  <exterior>traderoom.png</exterior>
  </GFX>
  <presence>
   <faction>Daneb Anarchs</faction>
-  <value>100.000000</value>
-  <range>1</range>
+  <value>50.000000</value>
+  <range>0</range>
  </presence>
  <general>
   <class>A</class>
-  <population>20000</population>
+  <population>10000</population>
   <hide>0.250000</hide>
   <services>
    <land/>
@@ -24,7 +24,7 @@
    <missions/>
    <commodity/>
    <outfits/>
-   <shipyard/>
+   <blackmarket/>
   </services>
   <commodities/>
   <description>(null)</description>

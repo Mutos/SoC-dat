@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Ro'da">
+<asset name="Hollow Plains">
  <pos>
-  <x>-4058.209483</x>
-  <y>-5993.844960</y>
+  <x>2108.567996</x>
+  <y>-2683.631995</y>
  </pos>
  <GFX>
-  <space>Station-009-Outpost.png</space>
-  <exterior>Outpost-KTiln.png</exterior>
+  <space>M02.png</space>
+  <exterior>forest.png</exterior>
  </GFX>
  <presence>
-  <faction>Daneb Anarchs</faction>
-  <value>100.000000</value>
-  <range>1</range>
+  <faction>Red Quadrant League</faction>
+  <value>200.000000</value>
+  <range>2</range>
  </presence>
  <general>
   <class>A</class>

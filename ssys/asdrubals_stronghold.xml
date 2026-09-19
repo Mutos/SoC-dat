@@ -16,6 +16,10 @@
   <asset>Stronghold II</asset>
  </assets>
  <jumps>
+  <jump target="Ino'en">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="Lizard's Crossroad">
    <autopos/>
    <hide>1.250000</hide>
@@ -25,10 +29,6 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="PT 0060">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="PT-IC - 1 - 3">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

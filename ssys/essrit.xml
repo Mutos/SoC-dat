@@ -18,16 +18,16 @@
   <asset>Ro'da</asset>
  </assets>
  <jumps>
-  <jump target="BI 0188">
-   <pos x="-3322.584609" y="-6269.605303"/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="BI 0190">
+  <jump target="Art'uis">
    <pos x="2456.475549" y="-1470.715119"/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="BI 0191">
+  <jump target="Ash'Ogal">
    <pos x="-2247.249140" y="-1231.407653"/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="BI 0188">
+   <pos x="-3322.584609" y="-6269.605303"/>
    <hide>1.250000</hide>
   </jump>
  </jumps>

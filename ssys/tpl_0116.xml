@@ -12,15 +12,15 @@
  </pos>
  <assets/>
  <jumps>
+  <jump target="Giggling Sands">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="TPL 0108">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="TPL 0117">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="TPL 0120">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
