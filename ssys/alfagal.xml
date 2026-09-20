@@ -24,6 +24,10 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
+  <jump target="K'Shalalin">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="Ram'Rit">
    <autopos/>
    <hide>1.250000</hide>
