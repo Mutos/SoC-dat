@@ -19,15 +19,15 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
+  <jump target="GJ 3021">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="Octavia">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="PA 0004">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="PA 0006">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
