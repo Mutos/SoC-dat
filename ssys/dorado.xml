@@ -11,7 +11,9 @@
   <y>-616.960000</y>
  </pos>
  <assets>
-  <asset>Dorado</asset>
+  <asset>Kleopatra</asset>
+  <asset>Melibea</asset>
+  <asset>Siwa</asset>
  </assets>
  <jumps>
   <jump target="Gl 185">

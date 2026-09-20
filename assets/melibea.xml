@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Dorado">
+<asset name="Melibea">
  <pos>
-  <x>4225.773784</x>
-  <y>-3942.757891</y>
+  <x>2717.118231</x>
+  <y>-2922.196782</y>
  </pos>
  <GFX>
-  <space>Asteroid-Base-001-Fighters-Base.png</space>
+  <space>D03.png</space>
   <exterior>desertic2.png</exterior>
  </GFX>
  <presence>
   <faction>Independent</faction>
-  <value>25.000000</value>
+  <value>100.000000</value>
   <range>1</range>
  </presence>
  <general>
   <class>A</class>
-  <population>10000</population>
+  <population>25000</population>
   <hide>0.250000</hide>
   <services>
    <land/>
