@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="BI 0207">
+<ssys name="Tiia'net">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -12,6 +12,10 @@
  </pos>
  <assets/>
  <jumps>
+  <jump target="BI 0083">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="BI 0173">
    <autopos/>
    <hide>1.250000</hide>

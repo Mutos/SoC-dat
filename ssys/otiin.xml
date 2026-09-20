@@ -16,6 +16,10 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
+  <jump target="Issh'Rolt">
+   <autopos/>
+   <hide>1.500000</hide>
+  </jump>
   <jump target="Tsaa'lisht">
    <autopos/>
    <hide>1.250000</hide>

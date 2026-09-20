@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="BI 0186">
+<ssys name="Issh'Rolt">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -19,6 +19,10 @@
   <jump target="BI 0205">
    <autopos/>
    <hide>1.250000</hide>
+  </jump>
+  <jump target="Otii'n">
+   <autopos/>
+   <hide>2.000000</hide>
   </jump>
   <jump target="Rak'R">
    <autopos/>
