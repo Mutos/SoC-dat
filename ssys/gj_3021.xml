@@ -10,7 +10,9 @@
   <x>-798.820480</x>
   <y>-1325.085760</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Chantico</asset>
+ </assets>
  <jumps>
   <jump target="Ross 145">
    <autopos/>
