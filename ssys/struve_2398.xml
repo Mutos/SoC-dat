@@ -10,7 +10,9 @@
   <x>-2203.112000</x>
   <y>-395.088000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Struve 2398 Ab</asset>
+ </assets>
  <jumps>
   <jump target="Copernicus">
    <autopos/>
