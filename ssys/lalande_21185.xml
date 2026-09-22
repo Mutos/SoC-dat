@@ -10,7 +10,11 @@
   <x>-2106.568000</x>
   <y>-509.368000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Lalande b</asset>
+  <asset>Lalande c</asset>
+  <asset>Lalande d</asset>
+ </assets>
  <jumps>
   <jump target="Argelanders Star">
    <autopos/>
