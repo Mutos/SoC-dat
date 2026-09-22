@@ -10,9 +10,18 @@
   <x>-2434.192000</x>
   <y>-269.280000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Armut</asset>
+  <asset>Erik (CPD-69 177 b)</asset>
+  <asset>Quarpiz</asset>
+  <asset>Urluq</asset>
+ </assets>
  <jumps>
   <jump target="51 Pegasi">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="DENIS 0334-49">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
@@ -24,7 +33,7 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Malferria">
+  <jump target="L 173-19">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Armut">
+ <pos>
+  <x>-3569.901053</x>
+  <y>-2924.263468</y>
+ </pos>
+ <GFX>
+  <space>asteroid-D13.png</space>
+  <exterior>uninhabited-rocky-airless-00.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Free Traders</faction>
+  <value>25.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>10000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</asset>

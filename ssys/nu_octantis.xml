@@ -10,7 +10,10 @@
   <x>-134.696000</x>
   <y>-1962.384000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Nu Octantis Ab</asset>
+  <asset>Nu Octantis B</asset>
+ </assets>
  <jumps>
   <jump target="Belenos">
    <autopos/>

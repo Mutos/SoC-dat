@@ -7,8 +7,8 @@
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>-2520.592000</x>
-  <y>-310.752000</y>
+  <x>-2645.592000</x>
+  <y>-344.752000</y>
  </pos>
  <assets>
   <asset>Malferria</asset>
@@ -16,7 +16,11 @@
   <asset>YZ Ceti c</asset>
  </assets>
  <jumps>
-  <jump target="Alma">
+  <jump target="DENIS 0334-49">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="L 173-19">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

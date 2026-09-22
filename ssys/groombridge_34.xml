@@ -10,7 +10,10 @@
   <x>-2201.608000</x>
   <y>-460.984000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Groombridge 34 Ab</asset>
+  <asset>Groombridge 34 Ac</asset>
+ </assets>
  <jumps>
   <jump target="Lalande 21185">
    <autopos/>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Dorado">
+<asset name="Urluq">
  <pos>
-  <x>4225.773784</x>
-  <y>-3942.757891</y>
+  <x>-1381.995569</x>
+  <y>-1417.659971</y>
  </pos>
  <GFX>
-  <space>Asteroid-Base-001-Fighters-Base.png</space>
-  <exterior>desertic2.png</exterior>
+  <space>asteroid-D11.png</space>
+  <exterior>uninhabited-rocky-airless-02.png</exterior>
  </GFX>
  <presence>
-  <faction>Independent</faction>
-  <value>25.000000</value>
-  <range>1</range>
+  <faction>Free Traders</faction>
+  <value>50.000000</value>
+  <range>0</range>
  </presence>
  <general>
   <class>A</class>
@@ -22,9 +22,7 @@
    <refuel/>
    <bar/>
    <missions/>
-   <commodity/>
-   <outfits/>
-   <shipyard/>
+   <blackmarket/>
   </services>
   <commodities/>
   <description>(null)</description>

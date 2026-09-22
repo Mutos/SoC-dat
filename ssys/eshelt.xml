@@ -7,24 +7,24 @@
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>-4767.464000</x>
-  <y>-369.168000</y>
+  <x>-4883.464000</x>
+  <y>-376.168000</y>
  </pos>
  <assets/>
  <jumps>
+  <jump target="Ak'etl">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Ess'atl">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="Kleglet">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Li'netl">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Na'netl">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="Shoosoln">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

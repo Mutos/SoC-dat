@@ -16,11 +16,15 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="BI 0023">
+  <jump target="BI 0079">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="BI 0079">
+  <jump target="Baartish">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="K'Shalalin">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

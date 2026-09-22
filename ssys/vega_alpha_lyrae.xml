@@ -10,9 +10,11 @@
   <x>-768.867200</x>
   <y>-1178.844800</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Vega b</asset>
+ </assets>
  <jumps>
-  <jump target="PA 0007">
+  <jump target="Ross 145">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

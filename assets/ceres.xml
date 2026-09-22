@@ -8,10 +8,27 @@
   <space>D07.png</space>
   <exterior>mining6.png</exterior>
  </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <value>50.000000</value>
+  <range>1</range>
+ </presence>
  <general>
   <class>A</class>
-  <population>0</population>
+  <population>250000</population>
   <hide>0.250000</hide>
-  <services/>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+   <blackmarket/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
  </general>
 </asset>
