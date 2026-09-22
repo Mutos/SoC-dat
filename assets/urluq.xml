@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Urluq">
+ <pos>
+  <x>-1381.995569</x>
+  <y>-1417.659971</y>
+ </pos>
+ <GFX>
+  <space>asteroid-D11.png</space>
+  <exterior>uninhabited-rocky-airless-02.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Free Traders</faction>
+  <value>50.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>10000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <blackmarket/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</asset>

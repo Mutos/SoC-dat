@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Quarpiz">
+ <pos>
+  <x>-1720.807387</x>
+  <y>-864.861743</y>
+ </pos>
+ <GFX>
+  <space>J00.png</space>
+  <exterior>aquatic3.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>
