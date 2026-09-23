@@ -12,15 +12,15 @@
  </pos>
  <assets/>
  <jumps>
+  <jump target="Purple Edge">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="TPL - Aan 002">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="TPL 0209">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="TPL 0210">
+  <jump target="Verdant Edge">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
