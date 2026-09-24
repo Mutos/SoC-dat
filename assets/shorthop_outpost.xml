@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Short-Hop Outpost">
+ <pos>
+  <x>2928.566661</x>
+  <y>-3549.777771</y>
+ </pos>
+ <GFX>
+  <space>Outpost-PurrSphere-001-Base-100px.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent Stars</faction>
+  <value>350.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>10000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</asset>

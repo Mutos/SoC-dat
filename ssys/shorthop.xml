@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="IS 0069">
+<ssys name="Short-Hop">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -10,14 +10,17 @@
   <x>4870.832000</x>
   <y>-1956.992000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Gwendoline</asset>
+  <asset>Short-Hop Outpost</asset>
+ </assets>
  <jumps>
   <jump target="Ary-IS - 1 - 1">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="FastFlyers">
-   <autopos/>
+   <pos x="4794.202225" y="-3763.119669"/>
    <hide>1.250000</hide>
   </jump>
   <jump target="IS 0068">

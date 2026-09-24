@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Armoth Trade Station">
+ <pos>
+  <x>1426.158717</x>
+  <y>-3220.358394</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-007c-Mining-Facility.png</space>
+  <exterior>traderoom.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Irmothem Clan</faction>
+  <value>400.000000</value>
+  <range>4</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>20000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</asset>
