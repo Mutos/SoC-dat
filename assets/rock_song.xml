@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Rock Song">
+ <pos>
+  <x>-1925.877697</x>
+  <y>-2126.168977</y>
+ </pos>
+ <GFX>
+  <space>G02.png</space>
+  <exterior>station05.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>
