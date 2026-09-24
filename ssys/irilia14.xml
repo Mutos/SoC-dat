@@ -15,11 +15,11 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="Iri 0165">
+  <jump target="Iden">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Iri 0171">
+  <jump target="Iri 0165">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
