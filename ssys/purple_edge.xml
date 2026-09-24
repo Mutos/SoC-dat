@@ -19,6 +19,10 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
+  <jump target="Deep Outworld">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="TPL 0115">
    <autopos/>
    <hide>1.250000</hide>
