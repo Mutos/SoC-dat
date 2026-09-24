@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="TPL - Aan 002">
+<ssys name="R-Ti-112">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -12,7 +12,7 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="TPL - Aan 001">
+  <jump target="BW-Si-14">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
