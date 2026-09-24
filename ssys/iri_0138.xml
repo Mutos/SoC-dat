@@ -20,15 +20,15 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Iri 0144">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Iri 0180">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Kerloth">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Tav'tembu">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
