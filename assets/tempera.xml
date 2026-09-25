@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Sea Foam">
+<asset name="Tempera">
  <pos>
-  <x>3105.345594</x>
-  <y>-3143.683194</y>
+  <x>498.388799</x>
+  <y>-2721.969595</y>
  </pos>
  <GFX>
-  <space>Planet-006-water.png</space>
-  <exterior>forest.png</exterior>
+  <space>I06.png</space>
+  <exterior>desertic4.png</exterior>
  </GFX>
  <general>
   <class>A</class>

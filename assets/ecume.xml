@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Obscure">
+<asset name="Ecume">
  <pos>
-  <x>-7782.532785</x>
-  <y>-10121.126380</y>
+  <x>3757.084793</x>
+  <y>-3987.110392</y>
  </pos>
  <GFX>
-  <space>J04.png</space>
-  <exterior>oceanic2.png</exterior>
+  <space>Planet-006-water.png</space>
+  <exterior>forest.png</exterior>
  </GFX>
  <general>
   <class>A</class>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Obscure">
+<asset name="Aquarelle">
  <pos>
-  <x>-7782.532785</x>
-  <y>-10121.126380</y>
+  <x>7437.494385</x>
+  <y>-4447.161591</y>
  </pos>
  <GFX>
-  <space>J04.png</space>
-  <exterior>oceanic2.png</exterior>
+  <space>O04.png</space>
+  <exterior>oceanic.png</exterior>
  </GFX>
  <general>
   <class>A</class>

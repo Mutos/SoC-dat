@@ -11,9 +11,11 @@
   <y>-2112.712000</y>
  </pos>
  <assets>
+  <asset>Aquarelle</asset>
   <asset>Claire</asset>
+  <asset>Ecume</asset>
   <asset>Obscure</asset>
-  <asset>Sea Foam</asset>
+  <asset>Tempera</asset>
  </assets>
  <jumps>
   <jump target="'Ha'Rtiish">
