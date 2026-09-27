@@ -14,10 +14,6 @@
   <asset>Tavv'tembu Border Station</asset>
  </assets>
  <jumps>
-  <jump target="Iri 0138">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Iri 0143">
    <autopos/>
    <hide>1.250000</hide>
@@ -31,6 +27,10 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="Irm-Iri - 2 - 1">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Orleth">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
