@@ -12,11 +12,11 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="KT 143">
+  <jump target="K'Tinaalt (KT 59)">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="KT 59 (K'Tinaalt)">
+  <jump target="KT 143">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

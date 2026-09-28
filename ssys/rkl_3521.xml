@@ -17,11 +17,11 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="KT 258">
+  <jump target="K'Tinaalt (KT 59)">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="KT 59 (K'Tinaalt)">
+  <jump target="KT 258">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

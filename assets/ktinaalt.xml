@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="K'Tinaalt">
+ <pos>
+  <x>3483.219438</x>
+  <y>-4858.758324</y>
+ </pos>
+ <GFX>
+  <space>station-agriculture.png</space>
+  <exterior>scrapped_station.png</exterior>
+ </GFX>
+ <presence>
+  <faction>K'Rinn Council</faction>
+  <value>350.000000</value>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>250000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</asset>
