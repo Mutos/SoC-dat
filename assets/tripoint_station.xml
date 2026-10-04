@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Nova Russia">
+<asset name="Tripoint Station">
  <pos>
-  <x>2430.118699</x>
-  <y>-1387.617991</y>
+  <x>6677.131987</x>
+  <y>-1469.607997</y>
  </pos>
  <GFX>
-  <space>M09.png</space>
-  <exterior>mining5.png</exterior>
+  <space>003.png</space>
+  <exterior>station03.png</exterior>
  </GFX>
  <presence>
-  <faction>Core League</faction>
-  <value>100.000000</value>
-  <range>3</range>
+  <faction>Independent</faction>
+  <value>50.000000</value>
+  <range>0</range>
  </presence>
  <general>
   <class>A</class>
-  <population>20000</population>
+  <population>2500</population>
   <hide>0.250000</hide>
   <services>
    <land/>
@@ -23,8 +23,6 @@
    <bar/>
    <missions/>
    <commodity/>
-   <outfits/>
-   <shipyard/>
   </services>
   <commodities/>
   <description>(null)</description>

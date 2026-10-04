@@ -10,7 +10,9 @@
   <x>-1442.896000</x>
   <y>-859.008000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Tripoint Station</asset>
+ </assets>
  <jumps>
   <jump target="Hermes">
    <autopos/>
