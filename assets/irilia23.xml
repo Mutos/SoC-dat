@@ -11,7 +11,7 @@
  <presence>
   <faction>Irilia Clan</faction>
   <value>100.000000</value>
-  <range>1</range>
+  <range>3</range>
  </presence>
  <general>
   <class>A</class>
@@ -27,7 +27,7 @@
    <shipyard/>
   </services>
   <commodities/>
-  <description>(null)</description>
-  <bar>(null)</bar>
+  <description>Irilia-23 is one of the latest Irilia colonies, as the Clan slowed down its pace on settling after the Fringe Wars.</description>
+  <bar>Friendly Irilia Rithai celebrating freedom with locals Sshaads, Shapeshifters refugees and descendants of rescued castaways.</bar>
  </general>
 </asset>
