@@ -10,7 +10,9 @@
   <x>-4551.464000</x>
   <y>-956.688000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Kiu'ron</asset>
+ </assets>
  <jumps>
   <jump target="BI 0028">
    <autopos/>
