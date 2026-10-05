@@ -10,7 +10,9 @@
   <x>-4675.880000</x>
   <y>-842.640000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Ram'oot</asset>
+ </assets>
  <jumps>
   <jump target="Al'Fagal">
    <autopos/>
