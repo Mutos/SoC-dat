@@ -20,6 +20,10 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
+  <jump target="Niish'nal">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="T'atariilt">
    <autopos/>
    <hide>1.250000</hide>
