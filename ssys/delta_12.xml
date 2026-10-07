@@ -10,7 +10,13 @@
   <x>-126.056000</x>
   <y>1065.072000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>At'A</asset>
+  <asset>K'Rit'At</asset>
+  <asset>O'k</asset>
+  <asset>T'Tkin</asset>
+  <asset>T'Tla</asset>
+ </assets>
  <jumps>
   <jump target="Delta 11">
    <autopos/>
