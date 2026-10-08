@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="U'met">
+<asset name="Ak'Tin">
  <pos>
-  <x>-4020.123325</x>
-  <y>-3594.149993</y>
+  <x>-1610.179197</x>
+  <y>6632.404787</y>
  </pos>
  <GFX>
-  <space>station-sphere.png</space>
-  <exterior>lava.png</exterior>
+  <space>station-fleetbase.png</space>
+  <exterior>station05.png</exterior>
  </GFX>
  <presence>
   <faction>Independent</faction>
-  <value>100.000000</value>
+  <value>50.000000</value>
   <range>1</range>
  </presence>
  <general>
   <class>A</class>
-  <population>20000</population>
+  <population>5000</population>
   <hide>0.250000</hide>
   <services>
    <land/>
@@ -23,9 +23,7 @@
    <bar/>
    <missions/>
    <commodity/>
-   <outfits/>
    <shipyard/>
-   <blackmarket/>
   </services>
   <commodities/>
   <description>(null)</description>

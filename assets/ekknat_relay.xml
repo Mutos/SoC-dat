@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="U'met">
+<asset name="Ek'Knat Relay">
  <pos>
-  <x>-4020.123325</x>
-  <y>-3594.149993</y>
+  <x>4063.785592</x>
+  <y>-4255.473592</y>
  </pos>
  <GFX>
-  <space>station-sphere.png</space>
-  <exterior>lava.png</exterior>
+  <space>Outpost-KTiln.png</space>
+  <exterior>scrapped_station.png</exterior>
  </GFX>
  <presence>
-  <faction>Independent</faction>
-  <value>100.000000</value>
-  <range>1</range>
+  <faction>Ashioto Cluster</faction>
+  <value>25.000000</value>
+  <range>0</range>
  </presence>
  <general>
   <class>A</class>
-  <population>20000</population>
+  <population>10000</population>
   <hide>0.250000</hide>
   <services>
    <land/>
@@ -25,7 +25,6 @@
    <commodity/>
    <outfits/>
    <shipyard/>
-   <blackmarket/>
   </services>
   <commodities/>
   <description>(null)</description>
