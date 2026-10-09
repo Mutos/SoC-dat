@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="CL 0044">
+<ssys name="Palta-1 (CL44)">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -12,6 +12,7 @@
  </pos>
  <assets>
   <asset>Astroids Cluster 187954</asset>
+  <asset>Palta-1b</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
   <asset>Virtual Miner Local</asset>
  </assets>
