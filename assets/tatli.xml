@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Tat'li">
+ <pos>
+  <x>1463.667050</x>
+  <y>-2495.937495</y>
+ </pos>
+ <GFX>
+  <space>station-agriculture.png</space>
+  <exterior>scrapped_station.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Children of the Stars</faction>
+  <value>150.000000</value>
+  <range>6</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>20000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</asset>
