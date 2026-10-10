@@ -10,7 +10,10 @@
   <x>-1266.192000</x>
   <y>1591.192000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Arythem 16</asset>
+  <asset>Ha'Garr</asset>
+ </assets>
  <jumps>
   <jump target="O'zod">
    <autopos/>
