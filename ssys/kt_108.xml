@@ -16,6 +16,10 @@
   <asset>L'Linalt 0003</asset>
  </assets>
  <jumps>
+  <jump target="Hamal (KT 37)">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="KT 17">
    <autopos/>
    <hide>1.250000</hide>
