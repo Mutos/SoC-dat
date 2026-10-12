@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="CL 0042">
+<ssys name="Antaboga">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -11,6 +11,8 @@
   <y>491.376000</y>
  </pos>
  <assets>
+  <asset>Bedawang</asset>
+  <asset>Budiharto Asteroids Cluster</asset>
   <asset>Virtual Miner Local</asset>
  </assets>
  <jumps>
