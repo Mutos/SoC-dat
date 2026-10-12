@@ -21,11 +21,11 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="CL 0045">
+  <jump target="Crossover">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Crossover">
+  <jump target="Nafaka">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
