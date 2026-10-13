@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="CL 0043">
+<ssys name="Trushul">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -11,6 +11,7 @@
   <y>474.096000</y>
  </pos>
  <assets>
+  <asset>Landaur's Field </asset>
   <asset>Virtual Miner Local</asset>
  </assets>
  <jumps>

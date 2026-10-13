@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Asteroid Cluster 617465">
+<asset name="Landaur's Field ">
  <pos>
   <x>6899.898802</x>
   <y>7081.556717</y>
  </pos>
  <GFX>
   <space>asteroids-006.png</space>
-  <exterior>station03.png</exterior>
+  <exterior>uninhabited-rocky-airless-04.png</exterior>
  </GFX>
  <general>
   <class>A</class>

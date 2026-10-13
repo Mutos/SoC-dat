@@ -17,15 +17,15 @@
   <asset>Virtual Miner Local</asset>
  </assets>
  <jumps>
-  <jump target="CL 0043">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Crossover">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Nafaka">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Trushul">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

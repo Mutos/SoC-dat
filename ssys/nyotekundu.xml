@@ -20,11 +20,11 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="CL 0043">
+  <jump target="Hammerfall">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Hammerfall">
+  <jump target="Trushul">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
