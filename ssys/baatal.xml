@@ -15,15 +15,15 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
+  <jump target="BaaBam-Al'Ka">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="ShC 0037">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="ShC 0039">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="ShC-CL - 1 - 2">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

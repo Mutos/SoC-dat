@@ -16,11 +16,11 @@
   <asset>Virtual Miner Local</asset>
  </assets>
  <jumps>
-  <jump target="CL 0041">
+  <jump target="Hammerfall">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Hammerfall">
+  <jump target="Hornets' Path">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
