@@ -14,15 +14,15 @@
   <asset>Kiu'ron</asset>
  </assets>
  <jumps>
-  <jump target="BI 0028">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="BI 0079">
+  <jump target="Eg'Dossh">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Esshin">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Gu'Bul">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

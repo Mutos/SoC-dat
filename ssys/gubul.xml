@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="BI 0025">
+<ssys name="Gu'Bul">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -7,16 +7,20 @@
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>-4247.912000</x>
-  <y>-1007.952000</y>
+  <x>-4440.872000</x>
+  <y>-863.376000</y>
  </pos>
  <assets/>
  <jumps>
-  <jump target="Baartish">
+  <jump target="Al'Fagal">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Bi 0019">
+  <jump target="BI 0069">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Eg'Dossh">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
