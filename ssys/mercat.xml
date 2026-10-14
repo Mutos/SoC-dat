@@ -10,7 +10,10 @@
   <x>-2441.800000</x>
   <y>-542.200000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Lamia</asset>
+  <asset>Mercat</asset>
+ </assets>
  <jumps>
   <jump target="CL 0002">
    <autopos/>
