@@ -14,11 +14,11 @@
   <asset>Tadmor</asset>
  </assets>
  <jumps>
-  <jump target="AC 0015">
+  <jump target="Ashioto">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Ashioto">
+  <jump target="Dust Bowl">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
