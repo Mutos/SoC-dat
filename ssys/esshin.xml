@@ -11,9 +11,12 @@
   <y>-927.312000</y>
  </pos>
  <assets>
+  <asset>A'Dom</asset>
   <asset>Aan'Tsch'</asset>
+  <asset>Do'Gam</asset>
   <asset>I'An</asset>
   <asset>K'Aareli</asset>
+  <asset>Kar'g Et'dal</asset>
   <asset>Ol'Gam</asset>
   <asset>Tsch'Ishin</asset>
   <asset>Tshiaa'Han</asset>
@@ -21,6 +24,7 @@
   <asset>Tshiaa'Tshasha</asset>
   <asset>Tshiaa'rsh</asset>
   <asset>Ub'Ul</asset>
+  <asset>Ul'Hul</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>

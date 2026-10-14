@@ -11,11 +11,11 @@
  <presence>
   <faction>Children of the Stars</faction>
   <value>50.000000</value>
-  <range>1</range>
+  <range>9</range>
  </presence>
  <general>
   <class>A</class>
-  <population>10000</population>
+  <population>100000</population>
   <hide>0.250000</hide>
   <services>
    <land/>

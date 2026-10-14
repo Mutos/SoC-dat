@@ -16,6 +16,10 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
+  <jump target="Outer Ring">
+   <pos x="-4735.106956" y="-7210.522723"/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="TPL 0140">
    <pos x="-2608.842990" y="-7776.697374"/>
    <hide>1.250000</hide>
@@ -30,10 +34,6 @@
   </jump>
   <jump target="TPL 0144">
    <pos x="-976.975906" y="-6830.998701"/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="TPL 0146">
-   <pos x="-4735.106956" y="-7210.522723"/>
    <hide>1.250000</hide>
   </jump>
   <jump target="TPL 0159">

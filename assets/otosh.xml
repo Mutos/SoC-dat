@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ot'Osh">
+ <pos>
+  <x>-3660.708326</x>
+  <y>-998.374998</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-002-Fighters-Base.png</space>
+  <exterior>uninhabited-rocky-airless-02.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Free Traders</faction>
+  <value>100.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>200000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+   <blackmarket/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</asset>

@@ -20,5 +20,9 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
+  <jump target="Uncharted 2533">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
  </jumps>
 </ssys>

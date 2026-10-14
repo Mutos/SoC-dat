@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ek'Knat Relay">
+ <pos>
+  <x>4063.785592</x>
+  <y>-4255.473592</y>
+ </pos>
+ <GFX>
+  <space>Outpost-KTiln.png</space>
+  <exterior>scrapped_station.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Ashioto Cluster</faction>
+  <value>150.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>10000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</asset>

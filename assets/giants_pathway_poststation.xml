@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Giant's Pathway Post-Station">
+ <pos>
+  <x>-1590.004626</x>
+  <y>2052.215274</y>
+ </pos>
+ <GFX>
+  <space>Outpost-LifeShell-Green-100px.png</space>
+  <exterior>aquatic.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent Stars</faction>
+  <value>400.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>20000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</asset>

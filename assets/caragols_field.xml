@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Caragol's Field">
+ <pos>
+  <x>4396.399769</x>
+  <y>8411.198428</y>
+ </pos>
+ <GFX>
+  <space>asteroids-006.png</space>
+  <exterior>uninhabited-rocky-airless-00.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Children of the Stars</faction>
+  <value>75.000000</value>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>20000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <blackmarket/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</asset>

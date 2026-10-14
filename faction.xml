@@ -581,7 +581,7 @@
   <logo>default</logo>
   <longname>Wandering Domains</longname>
   <player>0</player>
-  <colour>green</colour>
+  <colour>blue</colour>
   <spawn>trader</spawn>
   <standing>trader</standing>
   <enemies>

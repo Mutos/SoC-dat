@@ -12,15 +12,15 @@
  </pos>
  <assets/>
  <jumps>
+  <jump target="Gentle Breeze">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="RQL 0054">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="RQL 0055">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="TPL 0023">
+  <jump target="Starlight Shower">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

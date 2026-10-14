@@ -17,10 +17,6 @@
   <asset>Delta 2 D</asset>
  </assets>
  <jumps>
-  <jump target="CL 0051">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Crossover">
    <autopos/>
    <hide>1.250000</hide>
@@ -35,6 +31,10 @@
   </jump>
   <jump target="RS-7 - Delta Lock">
    <pos x="3078.904103" y="2175.633156"/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Stered-Egor">
+   <autopos/>
    <hide>1.250000</hide>
   </jump>
  </jumps>

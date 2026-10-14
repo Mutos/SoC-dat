@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Kiu'ron">
+ <pos>
+  <x>2884.194439</x>
+  <y>-2728.891661</y>
+ </pos>
+ <GFX>
+  <space>G03.png</space>
+  <exterior>snow.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Baartish Intersystems</faction>
+  <value>100.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>10000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</asset>

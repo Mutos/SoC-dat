@@ -15,7 +15,7 @@
   <asset>Le Manege</asset>
  </assets>
  <jumps>
-  <jump target="GD 140">
+  <jump target="Bottleneck">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

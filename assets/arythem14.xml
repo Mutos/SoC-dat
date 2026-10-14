@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Arythem-14">
+ <pos>
+  <x>2116.235516</x>
+  <y>-2530.281595</y>
+ </pos>
+ <GFX>
+  <space>M07.png</space>
+  <exterior>Outpost-KTiln.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Arythem Clan</faction>
+  <value>50.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>20000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</asset>

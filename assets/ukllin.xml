@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Uk'Llin">
+ <pos>
+  <x>629.222761</x>
+  <y>-5198.945360</y>
+ </pos>
+ <GFX>
+  <space>station-sphere.png</space>
+  <exterior>traderoom.png</exterior>
+ </GFX>
+ <presence>
+  <faction>K'Rinn Council</faction>
+  <value>300.000000</value>
+  <range>5</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>250000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</asset>

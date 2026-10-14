@@ -10,7 +10,9 @@
   <x>-1036.400000</x>
   <y>1504.760000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Arythem-14</asset>
+ </assets>
  <jumps>
   <jump target="Akthaim">
    <autopos/>

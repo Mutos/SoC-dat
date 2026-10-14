@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="T'Tla">
+ <pos>
+  <x>-5392.457551</x>
+  <y>-662.501928</y>
+ </pos>
+ <GFX>
+  <space>station-commerce.png</space>
+  <exterior>station05.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Free Traders</faction>
+  <value>25.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>200000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</asset>

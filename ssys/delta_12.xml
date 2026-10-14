@@ -7,12 +7,22 @@
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>-126.056000</x>
-  <y>1065.072000</y>
+  <x>-193.056000</x>
+  <y>1061.072000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>At'A</asset>
+  <asset>K'Rit'At</asset>
+  <asset>O'k</asset>
+  <asset>T'Tkin</asset>
+  <asset>T'Tla</asset>
+ </assets>
  <jumps>
   <jump target="Delta 11">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Hamal (KT 37)">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

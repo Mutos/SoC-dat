@@ -19,11 +19,11 @@
   <asset>Ziffel IV Quarantine Station</asset>
  </assets>
  <jumps>
-  <jump target="CL 0005">
+  <jump target="Groombridge 34">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Groombridge 34">
+  <jump target="Mercat">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="K'klet">
+ <pos>
+  <x>-2791.752309</x>
+  <y>-2292.564810</y>
+ </pos>
+ <GFX>
+  <space>Outpost-KTiln.png</space>
+  <exterior>traderoom.png</exterior>
+ </GFX>
+ <presence>
+  <faction>K'Rinn Council</faction>
+  <value>25.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>1000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</asset>

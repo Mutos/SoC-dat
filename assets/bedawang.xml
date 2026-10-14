@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Bedawang">
+ <pos>
+  <x>5404.536656</x>
+  <y>665.583332</y>
+ </pos>
+ <GFX>
+  <space>Asteroid-Base-001-Fighters-Base.png</space>
+  <exterior>asteroids-001.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <value>50.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>10000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</asset>

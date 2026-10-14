@@ -21,15 +21,15 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Iri 0138">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Iri 0141">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Iri 0244">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Orleth">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

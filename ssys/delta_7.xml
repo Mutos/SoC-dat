@@ -10,7 +10,11 @@
   <x>-1276.904000</x>
   <y>966.576000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Jitu la Kijani</asset>
+  <asset>Nne-Saba</asset>
+  <asset>Ot'Osh</asset>
+ </assets>
  <jumps>
   <jump target="Delta 13">
    <autopos/>

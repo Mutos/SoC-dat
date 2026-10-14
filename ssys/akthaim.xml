@@ -10,7 +10,13 @@
   <x>-1442.792000</x>
   <y>1364.016000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Akthis</asset>
+  <asset>Irath</asset>
+  <asset>Kakhlis</asset>
+  <asset>Kokith</asset>
+  <asset>L'muth</asset>
+ </assets>
  <jumps>
   <jump target="Arythem-14">
    <autopos/>

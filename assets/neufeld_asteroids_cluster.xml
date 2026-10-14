@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <asset name="Neufeld Asteroids Cluster">
  <pos>
-  <x>-7684.974428</x>
-  <y>1507.525704</y>
+  <x>-6470.949061</x>
+  <y>2927.334099</y>
  </pos>
  <GFX>
-  <space>asteroids-006.png</space>
-  <exterior>oceanic.png</exterior>
+  <space>asteroids-001.png</space>
+  <exterior>station04.png</exterior>
  </GFX>
  <general>
   <class>A</class>

@@ -25,13 +25,13 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="PA-KC - 1 - 2">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="RS-1 - Freiheit Turen">
    <pos x="-13757.504093" y="6271.269151"/>
    <hide>2.000000</hide>
+  </jump>
+  <jump target="RkL 1228">
+   <autopos/>
+   <hide>1.250000</hide>
   </jump>
  </jumps>
  <asteroids>

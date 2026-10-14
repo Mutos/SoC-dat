@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="A'Dom">
+ <pos>
+  <x>17922.827965</x>
+  <y>-3942.383192</y>
+ </pos>
+ <GFX>
+  <space>Station-001-Comm-Hub.png</space>
+  <exterior>scrapped_station.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Daneb Anarchs</faction>
+  <value>100.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>200000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</asset>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Starlight Winds">
+ <pos>
+  <x>-2610.467131</x>
+  <y>-2490.341665</y>
+ </pos>
+ <GFX>
+  <space>Outpost-PurrSphere-002-Panels-100px.png</space>
+  <exterior>traderoom.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Thirteen Planets League</faction>
+  <value>100.000000</value>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>120000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</asset>

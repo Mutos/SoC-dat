@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ecume">
+ <pos>
+  <x>1360.984798</x>
+  <y>-2895.553727</y>
+ </pos>
+ <GFX>
+  <space>Planet-006-water.png</space>
+  <exterior>forest.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

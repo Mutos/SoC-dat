@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Sor'Bon">
+ <pos>
+  <x>3718.747193</x>
+  <y>-3143.683194</y>
+ </pos>
+ <GFX>
+  <space>K05.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>
