@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Gl 341b ">
+ <pos>
+  <x>1570.776664</x>
+  <y>-1650.646663</y>
+ </pos>
+ <GFX>
+  <space>C00.png</space>
+  <exterior>desertic4.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>
