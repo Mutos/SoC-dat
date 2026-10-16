@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Asteroids Field 826412">
+<asset name="Kreuzer Fields">
  <pos>
-  <x>3481.674627</x>
-  <y>13279.299570</y>
+  <x>3007.946923</x>
+  <y>-1733.632579</y>
  </pos>
  <GFX>
   <space>asteroids-004.png</space>

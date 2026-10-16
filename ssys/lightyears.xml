@@ -10,7 +10,11 @@
   <x>-2935.016000</x>
   <y>-1184.360000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Light-Years HQ</asset>
+  <asset>Radiance</asset>
+  <asset>Rich's Fields</asset>
+ </assets>
  <jumps>
   <jump target="Cartel">
    <autopos/>

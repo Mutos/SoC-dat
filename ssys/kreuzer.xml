@@ -10,7 +10,11 @@
   <x>-3111.272000</x>
   <y>-1135.976000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Kreuzer Fields</asset>
+  <asset>Malcom</asset>
+  <asset>Sojourn</asset>
+ </assets>
  <jumps>
   <jump target="Cartel">
    <autopos/>

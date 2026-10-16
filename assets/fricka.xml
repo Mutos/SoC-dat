@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Asteroids Field 362810">
+<asset name="Fricka">
  <pos>
-  <x>9967.775980</x>
-  <y>13066.731974</y>
+  <x>-1065.695123</x>
+  <y>-1846.160626</y>
  </pos>
  <GFX>
-  <space>asteroids-006.png</space>
-  <exterior>aquatic2.png</exterior>
+  <space>Planet-005-redWater.png</space>
+  <exterior>forest.png</exterior>
  </GFX>
  <general>
   <class>A</class>
