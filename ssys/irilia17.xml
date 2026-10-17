@@ -11,11 +11,11 @@
   <y>-1648.176000</y>
  </pos>
  <assets>
+  <asset>Barum Oram</asset>
   <asset>Irilia-17</asset>
-  <asset>Left-Hand Moon</asset>
-  <asset>Right-Hand Moon</asset>
-  <asset>Seynbeg Kemae</asset>
+  <asset>Seynberg Kemae</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
+  <asset>Zum Oram</asset>
  </assets>
  <jumps>
   <jump target="Iri 0015">

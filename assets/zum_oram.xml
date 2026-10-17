@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Left-Hand Moon">
+<asset name="Zum Oram">
  <pos>
-  <x>-3237.111351</x>
-  <y>-4277.537716</y>
+  <x>-3220.150961</x>
+  <y>-4164.667521</y>
  </pos>
  <GFX>
-  <space>moon-O00.png</space>
-  <exterior>aquatic3.png</exterior>
+  <space>moon-J00.png</space>
+  <exterior>forest2.png</exterior>
  </GFX>
  <general>
   <class>A</class>
