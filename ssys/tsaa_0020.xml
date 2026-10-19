@@ -16,6 +16,10 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
+  <jump target="Erathan Arn">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="Laelith">
    <autopos/>
    <hide>1.250000</hide>
@@ -25,10 +29,6 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="Tsaa 0019">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="Tsaa 0021">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

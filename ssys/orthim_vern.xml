@@ -12,11 +12,11 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="Ari Sshiin">
+  <jump target="Aleth Dep'Ai">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Erathan Arn">
+  <jump target="Ari Sshiin">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
