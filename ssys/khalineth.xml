@@ -10,7 +10,10 @@
   <x>1123.288000</x>
   <y>-2824.656000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Orthei</asset>
+  <asset>Wahmath</asset>
+ </assets>
  <jumps>
   <jump target="Iri 0168">
    <autopos/>

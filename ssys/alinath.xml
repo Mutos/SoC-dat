@@ -10,7 +10,10 @@
   <x>254.104000</x>
   <y>-3210.000000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Alinath Relay</asset>
+  <asset>Onir</asset>
+ </assets>
  <jumps>
   <jump target="Eltth-Ssaan">
    <autopos/>
