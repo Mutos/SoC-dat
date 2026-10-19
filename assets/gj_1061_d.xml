@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="GJ 1061 d">
+ <pos>
+  <x>2005.377928</x>
+  <y>-4644.600724</y>
+ </pos>
+ <GFX>
+  <space>P00.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

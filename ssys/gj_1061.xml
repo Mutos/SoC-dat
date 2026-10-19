@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="PA 0017">
+<ssys name="GJ 1061">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -11,6 +11,9 @@
   <y>-1570.487040</y>
  </pos>
  <assets>
+  <asset>GJ 1061 b</asset>
+  <asset>GJ 1061 c </asset>
+  <asset>GJ 1061 d</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
