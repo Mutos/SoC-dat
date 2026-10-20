@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Gulnare">
+ <pos>
+  <x>3226.695952</x>
+  <y>1737.864101</y>
+ </pos>
+ <GFX>
+  <space>moon-C01.png</space>
+  <exterior>traderoom.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>
