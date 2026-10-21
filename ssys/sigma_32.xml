@@ -12,15 +12,19 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="Sigma 11">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="Sigma 13">
+  <jump target="Sigma 10">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Sigma 33">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Sigma 34">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Sigma 35">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

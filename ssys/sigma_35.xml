@@ -7,24 +7,12 @@
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>1349.656000</x>
-  <y>1752.816000</y>
+  <x>1583.000000</x>
+  <y>1989.000000</y>
  </pos>
  <assets/>
  <jumps>
-  <jump target="Jaltha">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="Sigma 12">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="Sigma 33">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="Sigma 34">
+  <jump target="Sigma 32">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
