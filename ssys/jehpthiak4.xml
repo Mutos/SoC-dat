@@ -16,6 +16,10 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
+  <jump target="Delthaim">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="Ergal it Nel">
    <autopos/>
    <hide>1.250000</hide>
@@ -25,10 +29,6 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="Jehp-Thi'ak Thaim">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="Sigma 7">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

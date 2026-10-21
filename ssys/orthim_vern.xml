@@ -20,15 +20,15 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
+  <jump target="Delthaim">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="Erathandrom">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Sigma 5">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="Sigma 7">
+  <jump target="Thoroth">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

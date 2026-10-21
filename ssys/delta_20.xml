@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="Sigma 4">
+<ssys name="Delta 20">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -12,19 +12,23 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="Sigma 2">
+  <jump target="Delta 16">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Sigma 3">
+  <jump target="Delta 18">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Sigma 5">
+  <jump target="Delta 19">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Sigma 7">
+  <jump target="Delthaim">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Thoroth">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
