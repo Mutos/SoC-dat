@@ -16,15 +16,15 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Ari Sshiin">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Delthaim">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Erathandrom">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Sigma 7">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

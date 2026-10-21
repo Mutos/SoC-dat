@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="Ari Sshiin">
+<ssys name="Sigma 7">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -11,8 +11,6 @@
   <y>2190.000000</y>
  </pos>
  <assets>
-  <asset>Ari Shiin Debris Cloud</asset>
-  <asset>Til'kk'Rantk Research Station</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
