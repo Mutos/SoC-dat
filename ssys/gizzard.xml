@@ -19,6 +19,10 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
+  <jump target="Sigma 3">
+   <autopos/>
+   <hide>2.500000</hide>
+  </jump>
   <jump target="Thim Baartish">
    <autopos/>
    <hide>1.250000</hide>

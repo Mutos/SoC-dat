@@ -24,6 +24,10 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
+  <jump target="Sigma 4">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="Sigma 7">
    <autopos/>
    <hide>1.250000</hide>
