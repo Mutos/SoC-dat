@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="PT 0020">
+<ssys name="Qoppa">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -10,7 +10,9 @@
   <x>-3195.944000</x>
   <y>-1395.176000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Qoppa</asset>
+ </assets>
  <jumps>
   <jump target="Arcadia">
    <autopos/>
