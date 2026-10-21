@@ -12,7 +12,7 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="RS-1 - Freiheit Turen">
+  <jump target="RS-1 - Freiheit Tueren">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
@@ -20,7 +20,7 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="RS-3 - Hochbergspitze">
+  <jump target="RS-3 - Erinath">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

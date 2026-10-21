@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="Erathan">
+<ssys name="Aleth Dep'Ai">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -12,8 +12,7 @@
  </pos>
  <assets>
   <asset>Alaissh</asset>
-  <asset>Arythem 11 - Erathan</asset>
-  <asset>Erathan Base</asset>
+  <asset>Ariolh</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
@@ -21,7 +20,7 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Sigma 6">
+  <jump target="Orthim Vern">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

@@ -18,15 +18,15 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="BI 0025">
+  <jump target="Ast'irsh">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="BI 0027">
+  <jump target="Eg'Dossh">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="BI 0028">
+  <jump target="Giu'tlak">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

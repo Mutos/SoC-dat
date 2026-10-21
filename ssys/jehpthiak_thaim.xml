@@ -12,12 +12,12 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="Delta 13">
-   <pos x="-16786.398286" y="-8401.226700"/>
+  <jump target="Aleth Dep'Ai">
+   <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Erathan">
-   <autopos/>
+  <jump target="Delta 13">
+   <pos x="-16786.398286" y="-8401.226700"/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Heart of the Long Link">

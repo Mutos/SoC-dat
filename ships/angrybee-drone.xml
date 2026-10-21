@@ -8,7 +8,7 @@
  <price>300000</price>
  <time_mod>1.0</time_mod>
  <fabricator>Robosys</fabricator>
- <description>The Angry Bee is one of the most successful escort drones on the market. Designed to protect merchant ships and convoys, its AI is a fearful opponent. The small size of its frame allows it to open smaller jump sphere, thereby decreasing its fuel jump consumption.</description>
+ <description>The Angry Bee is one of the most successful escort drones on the market. Designed to protect merchant ships and convoys, its AI is a fearful opponent. The small size of its frame allows it to use smaller shields, thereby decreasing its fuel jump consumption.</description>
  <health>
   <absorb>0</absorb>
   <armour>5</armour>

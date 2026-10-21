@@ -7,12 +7,12 @@
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>-72.923200</x>
-  <y>-1398.276800</y>
+  <x>-133.923200</x>
+  <y>-1397.276800</y>
  </pos>
  <assets/>
  <jumps>
-  <jump target="Althaim">
+  <jump target="Greenlight">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

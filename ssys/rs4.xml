@@ -12,9 +12,12 @@
  </pos>
  <assets>
   <asset>Byron</asset>
+  <asset>Gulnare</asset>
+  <asset>Medora</asset>
+  <asset>Parisina</asset>
  </assets>
  <jumps>
-  <jump target="RS-3 - Hochbergspitze">
+  <jump target="RS-3 - Erinath">
    <pos x="-7618.114526" y="-5738.682463"/>
    <hide>1.250000</hide>
   </jump>

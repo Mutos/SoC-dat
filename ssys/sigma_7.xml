@@ -12,11 +12,15 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="Erathan">
+  <jump target="Aleth Dep'Ai">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Jehp-Thi'ak-4">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Orthim Vern">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
@@ -25,10 +29,6 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="Sigma 5">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="Sigma 6">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

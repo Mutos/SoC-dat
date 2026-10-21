@@ -10,7 +10,9 @@
   <x>-1052.136000</x>
   <y>316.136000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Gl 341b </asset>
+ </assets>
  <jumps>
   <jump target="Edasich">
    <autopos/>

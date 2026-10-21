@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Asteroids Field 362810">
+<asset name="Gulnare">
  <pos>
-  <x>9967.775980</x>
-  <y>13066.731974</y>
+  <x>3226.695952</x>
+  <y>1737.864101</y>
  </pos>
  <GFX>
-  <space>asteroids-006.png</space>
-  <exterior>aquatic2.png</exterior>
+  <space>moon-C01.png</space>
+  <exterior>traderoom.png</exterior>
  </GFX>
  <general>
   <class>A</class>

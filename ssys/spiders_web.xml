@@ -11,11 +11,16 @@
   <y>-1487.266560</y>
  </pos>
  <assets>
+  <asset>Aranea</asset>
   <asset>Freiheit Raumstation</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
   <jump target="Eta Leporis">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="GJ 1061">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
@@ -28,10 +33,6 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="PA 0004">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="PA 0017">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Left-Hand Moon">
+<asset name="Apekoram">
  <pos>
-  <x>-3237.111351</x>
-  <y>-4277.537716</y>
+  <x>-2169.801662</x>
+  <y>-2586.900551</y>
  </pos>
  <GFX>
-  <space>moon-O00.png</space>
+  <space>moon-C01.png</space>
   <exterior>aquatic3.png</exterior>
  </GFX>
  <general>
   <class>A</class>
   <population>0</population>
-  <hide>2.000000</hide>
+  <hide>0.250000</hide>
   <services/>
  </general>
 </asset>

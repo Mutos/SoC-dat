@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Asteroids Field 826412">
+<asset name="GJ 1061 d">
  <pos>
-  <x>3481.674627</x>
-  <y>13279.299570</y>
+  <x>2005.377928</x>
+  <y>-4644.600724</y>
  </pos>
  <GFX>
-  <space>asteroids-004.png</space>
-  <exterior>desertic4.png</exterior>
+  <space>P00.png</space>
+  <exterior>station04.png</exterior>
  </GFX>
  <general>
   <class>A</class>

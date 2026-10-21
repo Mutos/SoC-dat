@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="GJ 1061 b">
+ <pos>
+  <x>1154.910337</x>
+  <y>-1630.987304</y>
+ </pos>
+ <GFX>
+  <space>M09.png</space>
+  <exterior>uninhabited-rocky-airless-03.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

@@ -5,8 +5,8 @@
   <y>2053.668553</y>
  </pos>
  <GFX>
-  <space>Station-SSY004.png</space>
-  <exterior>station03.png</exterior>
+  <space>Asteroid-Base-002-Fighters-Base.png</space>
+  <exterior>scrapped_station.png</exterior>
  </GFX>
  <presence>
   <faction>Pirate</faction>
@@ -25,6 +25,7 @@
    <commodity/>
    <outfits/>
    <shipyard/>
+   <blackmarket/>
   </services>
   <commodities>
    <commodity>Generic Food</commodity>

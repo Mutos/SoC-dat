@@ -7,16 +7,31 @@
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>731.032000</x>
-  <y>1664.688000</y>
+  <x>-824.632000</x>
+  <y>1757.696000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Erathan Base</asset>
+  <asset>Erathan Cluster</asset>
+ </assets>
  <jumps>
-  <jump target="Ary 0135">
+  <jump target="Tsaa 0019">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Sigma 6">
+  <jump target="Tsaa 0020">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Tsaa 0022">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Tsaa 0023">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Tsaa 0024">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
