@@ -11,7 +11,10 @@
   <y>-1395.176000</y>
  </pos>
  <assets>
+  <asset>Gladius</asset>
   <asset>Qoppa</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+  <asset>Virtual Miner Small</asset>
  </assets>
  <jumps>
   <jump target="Arcadia">
