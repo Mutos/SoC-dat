@@ -16,10 +16,6 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="Ind 0004">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Ind 0006">
    <autopos/>
    <hide>1.250000</hide>
@@ -29,6 +25,10 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="KC-SC-PA-CS - 1 - 1">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="OA-Ik'Ti">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

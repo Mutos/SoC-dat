@@ -29,16 +29,16 @@
   <asset>Naled XI</asset>
  </assets>
  <jumps>
-  <jump target="Ind 0004">
-   <pos x="-6857.288363" y="7094.196804"/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Ind 0007">
    <pos x="-12997.522392" y="-3481.076358"/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Lani'el">
    <pos x="9508.957410" y="-6648.086009"/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="OA-Ik'Ti">
+   <pos x="-6857.288363" y="7094.196804"/>
    <hide>1.250000</hide>
   </jump>
  </jumps>
