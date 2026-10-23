@@ -7,20 +7,20 @@
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>122.776000</x>
-  <y>823.152000</y>
+  <x>889.376000</x>
+  <y>1868.184000</y>
  </pos>
  <assets/>
  <jumps>
-  <jump target="KT 108">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Sigma 2">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Sigma 3">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Thim Baartish">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

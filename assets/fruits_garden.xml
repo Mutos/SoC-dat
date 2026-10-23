@@ -8,10 +8,27 @@
   <space>station-agriculture.png</space>
   <exterior>traderoom.png</exterior>
  </GFX>
+ <presence>
+  <faction>HnH</faction>
+  <value>150.000000</value>
+  <range>3</range>
+ </presence>
  <general>
   <class>A</class>
-  <population>0</population>
+  <population>200000</population>
   <hide>0.250000</hide>
-  <services/>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+   <blackmarket/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
  </general>
 </asset>

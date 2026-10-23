@@ -16,15 +16,15 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
+  <jump target="Delthaim">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="Jehp-Thi'ak Thaim">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Orthim Vern">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="Sigma 7">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

@@ -12,10 +12,6 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="Ari Sshiin">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Sigma 15">
    <autopos/>
    <hide>1.250000</hide>
@@ -28,7 +24,11 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Sigma 9">
+  <jump target="Sigma 7">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Sigma 8">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

@@ -7,28 +7,34 @@
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>203.992000</x>
-  <y>1526.448000</y>
+  <x>599.704000</x>
+  <y>2190.000000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+ </assets>
  <jumps>
-  <jump target="Aleth Dep'Ai">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="Jehp-Thi'ak-4">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Orthim Vern">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Sigma 4">
+  <jump target="Sigma 10">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Sigma 5">
+  <jump target="Sigma 14">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Sigma 22">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Sigma 6">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Sigma 8">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

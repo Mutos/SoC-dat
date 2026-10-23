@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="Ari Sshiin">
+<ssys name="Delta 20">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -7,32 +7,28 @@
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>599.704000</x>
-  <y>2190.000000</y>
+  <x>174.616000</x>
+  <y>1148.016000</y>
  </pos>
- <assets>
-  <asset>Ari Shiin Debris Cloud</asset>
-  <asset>Til'kk'Rantk Research Station</asset>
-  <asset>Virtual Independent Area 3 Jumps</asset>
- </assets>
+ <assets/>
  <jumps>
-  <jump target="Orthim Vern">
+  <jump target="Delta 16">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Sigma 11">
+  <jump target="Delta 18">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Sigma 14">
+  <jump target="Delta 19">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Sigma 22">
+  <jump target="Delthaim">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Sigma 9">
+  <jump target="Thoroth">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

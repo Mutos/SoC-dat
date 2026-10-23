@@ -16,6 +16,10 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
+  <jump target="PT 0043">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="Purple Grill">
    <autopos/>
    <hide>1.250000</hide>
