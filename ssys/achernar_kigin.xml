@@ -10,7 +10,9 @@
   <x>-1971.560000</x>
   <y>-3111.504000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>L'Linal't 0012</asset>
+ </assets>
  <jumps>
   <jump target="Ind 0001">
    <autopos/>

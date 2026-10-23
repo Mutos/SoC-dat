@@ -19,6 +19,10 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
+  <jump target="At'ma">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="CS 0050">
    <autopos/>
    <hide>1.250000</hide>

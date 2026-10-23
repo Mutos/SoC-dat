@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="CS-TPL-RQL - 1 - 1">
+<ssys name="Lani'el">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -10,7 +10,9 @@
   <x>-1228.520000</x>
   <y>-3403.536000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Ini'el</asset>
+ </assets>
  <jumps>
   <jump target="CS-TPL-TQL - 1 - 2">
    <autopos/>
