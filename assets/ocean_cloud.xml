@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ocean Cloud">
+ <pos>
+  <x>1129.848249</x>
+  <y>-2593.515298</y>
+ </pos>
+ <GFX>
+  <space>Outpost-LifeShell-Blue-100px.png</space>
+  <exterior>Outpost-LifeShell-Blue-400px.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Thirteen Planets League</faction>
+  <value>50.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>250</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>Ocean Cloud is the main Orbital Sation of the planet Ocean.</description>
+  <bar>Puppeteers pilots taking  abreak, and passengers waiting for the next Ship.</bar>
+ </general>
+</asset>
