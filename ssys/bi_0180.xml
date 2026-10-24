@@ -12,11 +12,11 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="BI 0177">
+  <jump target="Eshii-Niishin">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Eshii-Niishin">
+  <jump target="Papp'etl">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

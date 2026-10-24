@@ -15,15 +15,15 @@
   <asset>Lilin'a</asset>
  </assets>
  <jumps>
-  <jump target="BI 0177">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Eshii-Niishin">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Gala'as">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Papp'etl">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
