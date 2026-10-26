@@ -16,11 +16,11 @@
   <asset>Spip</asset>
  </assets>
  <jumps>
-  <jump target="Mahandah">
+  <jump target="Atoum">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="PA 0030">
+  <jump target="Mahandah">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
