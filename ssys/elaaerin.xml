@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="KC-SC-CS - 1 - 1">
+<ssys name="El'Aaerin">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -7,16 +7,20 @@
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>-720.488000</x>
-  <y>-2029.776000</y>
+  <x>-2797.544000</x>
+  <y>-2779.728000</y>
  </pos>
  <assets/>
  <jumps>
-  <jump target="KC-SC-PA-CS - 1 - 1">
+  <jump target="CS 0037">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="PA-KC - 2 - 1">
+  <jump target="CS 0038">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Eeraniinal">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

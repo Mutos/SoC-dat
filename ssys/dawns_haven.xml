@@ -17,11 +17,11 @@
   <asset>New Link Station</asset>
  </assets>
  <jumps>
-  <jump target="PA-SC - 1 - 2">
+  <jump target="Eleven Stones">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="SC 00011">
+  <jump target="PA-SC - 1 - 2">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
