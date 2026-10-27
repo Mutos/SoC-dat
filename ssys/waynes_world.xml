@@ -14,11 +14,11 @@
   <asset>Wayne's World</asset>
  </assets>
  <jumps>
-  <jump target="PA 0012">
+  <jump target="Ardilla">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="PA 0031">
+  <jump target="Kaeru">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

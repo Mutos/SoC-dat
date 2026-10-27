@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="Ind 0006">
+<ssys name="At'ma">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -7,24 +7,28 @@
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>-2085.608000</x>
-  <y>-3035.472000</y>
+  <x>-1875.664000</x>
+  <y>-3328.624000</y>
  </pos>
  <assets/>
  <jumps>
-  <jump target="Achernar (K'igin)">
+  <jump target="Eeraniinal">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Eshii-K'tin">
+  <jump target="Ind 0001">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Ind 0003">
+  <jump target="Ind 0002">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Ind 0019">
+  <jump target="Ind 0020">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Miners' Crossroad">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

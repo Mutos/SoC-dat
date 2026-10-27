@@ -12,11 +12,11 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="Elathon">
+  <jump target="A'Tin-4">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="KC-SC-PA-CS - 1 - 1">
+  <jump target="Elathon">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

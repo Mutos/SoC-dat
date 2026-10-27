@@ -11,11 +11,15 @@
   <y>-3624.720000</y>
  </pos>
  <assets>
-  <asset>Ariisha Elasaii</asset>
+  <asset>Ariisha Elsaii</asset>
   <asset>Candlelight</asset>
  </assets>
  <jumps>
-  <jump target="CS-TPL-RQL - 1 - 1">
+  <jump target="At'ma">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Lani'el">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

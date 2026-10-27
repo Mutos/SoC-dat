@@ -16,11 +16,11 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="BI 0180">
+  <jump target="Bi 0019">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Bi 0019">
+  <jump target="Duu'ett">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

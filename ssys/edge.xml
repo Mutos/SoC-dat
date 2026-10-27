@@ -17,15 +17,15 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
+  <jump target="Eleven Stones">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="RQL 0043">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="RQL 0044">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="SC 00011">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

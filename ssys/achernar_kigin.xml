@@ -10,21 +10,23 @@
   <x>-1971.560000</x>
   <y>-3111.504000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>L'Linal't 0012</asset>
+ </assets>
  <jumps>
   <jump target="Ind 0001">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Ind 0004">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="Ind 0006">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Ind 0020">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="K'Dar">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="OA-Ik'Ti">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
