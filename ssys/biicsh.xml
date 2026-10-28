@@ -12,11 +12,11 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="Ettin">
+  <jump target="Ilnir">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Ren'sh">
+  <jump target="Ren'shiin">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
