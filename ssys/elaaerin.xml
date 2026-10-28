@@ -12,15 +12,15 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="CS 0037">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="CS 0038">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Eeraniinal">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Ioh'Sen">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="To'Tol">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="CS 0038">
+<ssys name="Otol'Da Deesh">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -7,24 +7,20 @@
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>-2745.704000</x>
-  <y>-2594.832000</y>
+  <x>-3357.416000</x>
+  <y>-2135.184000</y>
  </pos>
  <assets/>
  <jumps>
-  <jump target="CS 0037">
+  <jump target="Nii'miak">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="CS 0057">
+  <jump target="Shaeaku'">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="El'Aaerin">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="Ta'ndow">
+  <jump target="Stii'eenssh">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

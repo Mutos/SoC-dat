@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="CS 0018">
+<ssys name="Rli'eetl">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -7,20 +7,24 @@
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>-3357.416000</x>
-  <y>-2135.184000</y>
+  <x>-3146.600000</x>
+  <y>-2299.344000</y>
  </pos>
  <assets/>
  <jumps>
-  <jump target="CS 0020">
+  <jump target="CS 0021">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Nii'miak">
+  <jump target="CS 0023">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Shaeaku'">
+  <jump target="CS 0024">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="CS 0042">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
