@@ -10,7 +10,10 @@
   <x>-1135.208000</x>
   <y>-1542.480000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Lakhis</asset>
+  <asset>Lithiane</asset>
+ </assets>
  <jumps>
   <jump target="PA 0004">
    <autopos/>
