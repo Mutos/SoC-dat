@@ -25,6 +25,7 @@
    <commodity/>
    <outfits/>
    <shipyard/>
+   <blackmarket/>
   </services>
   <commodities>
    <commodity>Generic Food</commodity>

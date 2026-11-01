@@ -10,7 +10,10 @@
   <x>-1378.856000</x>
   <y>-1659.984000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Latere</asset>
+  <asset>Thorn'Roll</asset>
+ </assets>
  <jumps>
   <jump target="Gl 555">
    <autopos/>
