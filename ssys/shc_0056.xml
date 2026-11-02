@@ -16,15 +16,15 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="ShC 0054">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="ShC 0055">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="ShC 0059">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Shar'dah">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
