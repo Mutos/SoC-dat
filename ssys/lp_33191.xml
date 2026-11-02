@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="PA 0020">
+<ssys name="LP 33-191">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -10,7 +10,9 @@
   <x>-811.355200</x>
   <y>-1813.547520</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Furole</asset>
+ </assets>
  <jumps>
   <jump target="PA 0019">
    <autopos/>
