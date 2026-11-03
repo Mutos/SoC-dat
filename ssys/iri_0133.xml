@@ -12,15 +12,15 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="Iri 0132">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Iri 0134">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Iri 0146">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Nord'ith">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
