@@ -10,7 +10,9 @@
   <x>-1723.680000</x>
   <y>-40.608000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Hurtaly</asset>
+ </assets>
  <jumps>
   <jump target="Alpha Corvi">
    <autopos/>
