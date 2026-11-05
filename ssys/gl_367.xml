@@ -10,7 +10,11 @@
   <x>-780.320000</x>
   <y>480.376000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Gl 367 b</asset>
+  <asset>Gl 367 c</asset>
+  <asset>Gl 367 d</asset>
+ </assets>
  <jumps>
   <jump target="Titawin">
    <autopos/>
