@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Giant">
+<asset name="Sh'Tar">
  <pos>
-  <x>9407.126919</x>
-  <y>-2119.915925</y>
+  <x>5312.854606</x>
+  <y>-2871.355254</y>
  </pos>
  <GFX>
-  <space>J02.png</space>
-  <exterior>station04.png</exterior>
+  <space>moon-A01.png</space>
+  <exterior>station05.png</exterior>
  </GFX>
  <general>
   <class>A</class>
