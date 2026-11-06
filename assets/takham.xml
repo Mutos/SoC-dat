@@ -8,10 +8,26 @@
   <space>moon-P03.png</space>
   <exterior>station05.png</exterior>
  </GFX>
+ <presence>
+  <faction>Shadow Complex</faction>
+  <value>50.000000</value>
+  <range>3</range>
+ </presence>
  <general>
   <class>A</class>
-  <population>0</population>
+  <population>10000</population>
   <hide>0.250000</hide>
-  <services/>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
  </general>
 </asset>

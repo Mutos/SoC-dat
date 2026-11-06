@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Virtual Wandering Domains 3 jumps.">
+ <virtual/>
+ <presence>
+  <faction>Wandering Domains</faction>
+  <value>50.000000</value>
+  <range>3</range>
+ </presence>
+</asset>

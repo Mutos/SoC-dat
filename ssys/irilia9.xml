@@ -18,15 +18,15 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="Iri 0120">
+  <jump target="Nord'ith">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Iri 0122">
+  <jump target="Nuumouz">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Iri 0132">
+  <jump target="Nuun'an">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

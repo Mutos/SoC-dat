@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Thorn'Roll">
+ <pos>
+  <x>-2204.060031</x>
+  <y>-2963.711789</y>
+ </pos>
+ <GFX>
+  <space>station-sphere.png</space>
+  <exterior>desertic3.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <value>25.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>5000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <blackmarket/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</asset>

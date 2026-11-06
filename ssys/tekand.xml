@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Te'Kand">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>-2131.232000</x>
+  <y>-2605.504000</y>
+ </pos>
+ <assets>
+  <asset>Sh'Tar</asset>
+  <asset>T'Lenth</asset>
+  <asset>T'Tar</asset>
+  <asset>Te'Thalat</asset>
+  <asset>To'dd</asset>
+  <asset>Virtual Miner Local</asset>
+ </assets>
+ <jumps>
+  <jump target="SC 0004">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="T'Tilkan">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Thousand Fathoms">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+</ssys>

@@ -17,10 +17,6 @@
   <asset>Shadow Bonfire</asset>
  </assets>
  <jumps>
-  <jump target="CS 0038">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="CS 0043">
    <autopos/>
    <hide>1.250000</hide>
@@ -31,6 +27,10 @@
   </jump>
   <jump target="Gamma 14">
    <pos x="5870.737514" y="-438.372397"/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Ioh'Sen">
+   <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Teufelfeuer">
