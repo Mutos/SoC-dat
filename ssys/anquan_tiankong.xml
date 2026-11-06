@@ -10,7 +10,11 @@
   <x>-2065.740480</x>
   <y>-1532.954880</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Anquan Tiankong</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+  <asset>Virtual Miner Small</asset>
+ </assets>
  <jumps>
   <jump target="Carrouf">
    <autopos/>

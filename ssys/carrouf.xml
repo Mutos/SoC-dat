@@ -25,7 +25,7 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Dwarves' Tunnels (Gl 261)">
+  <jump target="Dwarves' Tunnels">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
@@ -33,7 +33,7 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Meetpoint (Gl 291)">
+  <jump target="Meetpoint">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

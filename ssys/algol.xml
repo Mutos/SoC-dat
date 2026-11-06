@@ -14,7 +14,7 @@
   <asset>Parma Central</asset>
  </assets>
  <jumps>
-  <jump target="Akai Jigoku (Gl 268)">
+  <jump target="Akai Jigoku">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

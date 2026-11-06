@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="Meetpoint (Gl 291)">
+<ssys name="Meetpoint">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -23,11 +23,11 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Dwarves' Tunnels (Gl 261)">
+  <jump target="Dwarves' Tunnels">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Eden (Gl 304)">
+  <jump target="Eden">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

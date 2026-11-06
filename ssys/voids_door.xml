@@ -15,7 +15,7 @@
   <asset>Virtual Pirate Small</asset>
  </assets>
  <jumps>
-  <jump target="Eden (Gl 304)">
+  <jump target="Eden">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
