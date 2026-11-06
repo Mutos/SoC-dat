@@ -19,15 +19,15 @@
   <asset>Uchu Bochi 5</asset>
  </assets>
  <jumps>
+  <jump target="Ananuca">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="Chalawan">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Gl 1132">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="Gl 367">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
