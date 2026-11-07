@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Os'ma">
+ <pos>
+  <x>-11692.080533</x>
+  <y>-3882.569437</y>
+ </pos>
+ <GFX>
+  <space>X01.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

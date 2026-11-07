@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Lughur">
+ <pos>
+  <x>-7964.813873</x>
+  <y>2351.727773</y>
+ </pos>
+ <GFX>
+  <space>J07.png</space>
+  <exterior>aquatic3.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>
