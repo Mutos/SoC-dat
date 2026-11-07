@@ -12,10 +12,6 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="IC 0002">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="IC 0003">
    <autopos/>
    <hide>1.250000</hide>
@@ -29,6 +25,10 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="IC 0021">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Ot'Eshell">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

@@ -21,11 +21,11 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="IC 0002">
+  <jump target="Iksser">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Iksser">
+  <jump target="Ot'Eshell">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
