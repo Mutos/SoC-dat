@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Nii'ba">
+ <pos>
+  <x>962.938848</x>
+  <y>-2985.110430</y>
+ </pos>
+ <GFX>
+  <space>Station-001-Comm-Hub.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Independent</faction>
+  <value>10.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>200</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <blackmarket/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+ </general>
+</asset>
