@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Alsh'Onersh">
+ <pos>
+  <x>-4673.463211</x>
+  <y>-405.718235</y>
+ </pos>
+ <GFX>
+  <space>I02.png</space>
+  <exterior>aquatic.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>
