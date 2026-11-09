@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ka'R'Nk Stronghold">
+ <pos>
+  <x>-4153.239992</x>
+  <y>1597.399997</y>
+ </pos>
+ <GFX>
+  <space>Station-HQ-001-Grey.png</space>
+  <exterior>station03.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Ka'Ralt Secession</faction>
+  <value>150.000000</value>
+  <range>1</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>25000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</asset>
