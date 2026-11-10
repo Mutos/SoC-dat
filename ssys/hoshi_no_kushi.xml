@@ -12,11 +12,11 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="Dwarves' Tunnels (Gl 261)">
+  <jump target="Dwarves' Tunnels">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Eden (Gl 304)">
+  <jump target="Eden">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

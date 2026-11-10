@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Circle">
+ <pos>
+  <x>1144.827297</x>
+  <y>-5353.939997</y>
+ </pos>
+ <GFX>
+  <space>moon-G00.png</space>
+  <exterior>desertic4.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

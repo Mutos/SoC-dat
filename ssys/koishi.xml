@@ -10,7 +10,9 @@
   <x>-1544.902720</x>
   <y>-2041.989120</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Caillou</asset>
+ </assets>
  <jumps>
   <jump target="Devereau's Holds">
    <autopos/>

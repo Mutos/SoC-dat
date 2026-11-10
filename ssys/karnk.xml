@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="IC 0002">
+<ssys name="Ka'R'Nk">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
-  <interference>0.000000</interference>
+  <interference>100.000000</interference>
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>-3730.664000</x>
-  <y>750.576000</y>
+  <x>1343.248000</x>
+  <y>-943.368000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Ka'Klin</asset>
+  <asset>Ka'R'Nk Stronghold</asset>
+  <asset>Virtual Irilia Unpresence Local</asset>
+ </assets>
  <jumps>
-  <jump target="Aans">
+  <jump target="Iri-KR - 2 - 1">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="IC 0003">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="IC 0005">
+  <jump target="KR 0012">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

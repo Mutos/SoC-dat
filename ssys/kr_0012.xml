@@ -10,7 +10,9 @@
   <x>1421.008000</x>
   <y>-1015.944000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Virtual Irilia Unpresence Local</asset>
+ </assets>
  <jumps>
   <jump target="KR 0010">
    <autopos/>
@@ -20,7 +22,7 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="KR 0013">
+  <jump target="Ka'R'Nk">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

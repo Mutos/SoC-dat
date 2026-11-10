@@ -14,7 +14,7 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="Fruit's Garden (Gl 334)">
+  <jump target="Fruit's Garden">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
@@ -22,7 +22,7 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Meetpoint (Gl 291)">
+  <jump target="Meetpoint">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

@@ -10,22 +10,33 @@
   <x>-3516.392000</x>
   <y>-382.992000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Alsh'Onersh</asset>
+  <asset>Doz'Ol</asset>
+  <asset>Eri'Erish</asset>
+  <asset>Kassir</asset>
+  <asset>Nii'ba</asset>
+  <asset>Osh'aloor</asset>
+  <asset>Rot'Am</asset>
+  <asset>Sha'Shaam</asset>
+  <asset>Virtual Independent Local</asset>
+  <asset>Wee'Kam</asset>
+ </assets>
  <jumps>
   <jump target="Eshodal">
-   <autopos/>
+   <pos x="7324.304767" y="1237.693838"/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Ino'en">
-   <autopos/>
+   <pos x="-5461.206902" y="441.246132"/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Lizard's Crossroad">
-   <autopos/>
+   <pos x="1320.233683" y="-6990.901291"/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Talshimaal">
-   <autopos/>
+   <pos x="-3406.764309" y="1792.576709"/>
    <hide>1.250000</hide>
   </jump>
  </jumps>
