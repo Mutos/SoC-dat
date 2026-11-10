@@ -6,7 +6,7 @@
  </pos>
  <GFX>
   <space>Station-SR001.png</space>
-  <exterior>station05.png</exterior>
+  <exterior>scrapped_station.png</exterior>
  </GFX>
  <presence>
   <faction>Free Traders</faction>
@@ -25,11 +25,12 @@
    <commodity/>
    <outfits/>
    <shipyard/>
+   <blackmarket/>
   </services>
   <commodities/>
-  <description>This station is a small trading post.
+  <description>Orbiting the Giant Planet Telian IV, Telian Zone is a somewhat vast habitat. Originaly a small trading post, its position in the middle of several jump roads make it a place to be, and it grew quite well with the time... 
   </description>
-  <bar>Merchantbeings, mostly Humans.</bar>
+  <bar>Merchants, tourists and spacers, mostly Humans and méta-Humans, drinking all sorts of beverage, from cheap ale to complex and expensives cocktails.</bar>
  </general>
  <tech>
   <item>Low-tech Generic</item>
