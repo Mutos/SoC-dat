@@ -12,6 +12,10 @@
  </pos>
  <assets/>
  <jumps>
+  <jump target="K'Men">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="K'Tor">
    <autopos/>
    <hide>1.250000</hide>
@@ -25,10 +29,6 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="KR 0010">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="KR 0040">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
