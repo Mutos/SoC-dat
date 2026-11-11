@@ -7,19 +7,19 @@
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>-350.704640</x>
-  <y>-1231.003840</y>
+  <x>-319.704640</x>
+  <y>-1211.003840</y>
  </pos>
  <assets>
   <asset>Daria</asset>
   <asset>Muchette</asset>
  </assets>
  <jumps>
-  <jump target="Inferno">
+  <jump target="Bursztyn">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Sora no Shikyuu">
+  <jump target="Inferno">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
