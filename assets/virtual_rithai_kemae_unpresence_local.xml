@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Virtual Rithai Kemae Unpresence Local">
+ <virtual/>
+ <presence>
+  <faction>Rithai Kemae</faction>
+  <value>-500.000000</value>
+  <range>0</range>
+ </presence>
+</asset>

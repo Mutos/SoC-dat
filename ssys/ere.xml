@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="KR 0034">
+<ssys name="Er'E">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -12,11 +12,11 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="KR 0035">
+  <jump target="Thaim Krinai">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Thaim Krinai">
+  <jump target="Uk'Kat'Lik">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
