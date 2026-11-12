@@ -10,7 +10,9 @@
   <x>1757.671360</x>
   <y>-1166.467200</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>At'L'Linal'T</asset>
+ </assets>
  <jumps>
   <jump target="KR 0008">
    <autopos/>
@@ -21,7 +23,7 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="TPL-KR - 1 - 2">
-   <autopos/>
+   <pos x="3189.473319" y="-3033.172449"/>
    <hide>1.250000</hide>
   </jump>
  </jumps>
