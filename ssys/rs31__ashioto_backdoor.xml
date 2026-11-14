@@ -13,6 +13,8 @@
  <assets>
   <asset>Neufreistadt</asset>
   <asset>Raumhansa</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+  <asset>Virtual Miner Small</asset>
  </assets>
  <jumps>
   <jump target="Backdoor">

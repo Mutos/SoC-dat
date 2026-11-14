@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Dvarapala">
+ <pos>
+  <x>8807.504080</x>
+  <y>-8457.761222</y>
+ </pos>
+ <GFX>
+  <space>003.png</space>
+  <exterior>Outpost-KTiln.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Core League</faction>
+  <value>0.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</asset>
