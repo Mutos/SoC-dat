@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Aii'el">
+ <pos>
+  <x>6062.948305</x>
+  <y>-6651.410934</y>
+ </pos>
+ <GFX>
+  <space>002.png</space>
+  <exterior>station04.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Daneb Anarchs</faction>
+  <value>100.000000</value>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>5000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</asset>
