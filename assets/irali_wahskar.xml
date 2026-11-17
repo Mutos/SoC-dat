@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Irali">
+<asset name="Irali Wahskar">
  <pos>
   <x>-2180.486493</x>
   <y>-5105.503377</y>
  </pos>
  <GFX>
-  <space>O04.png</space>
+  <space>G03.png</space>
   <exterior>forest.png</exterior>
  </GFX>
  <general>
