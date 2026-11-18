@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Marnia ud Deskae">
+ <pos>
+  <x>-1537.095542</x>
+  <y>818.682788</y>
+ </pos>
+ <GFX>
+  <space>000.png</space>
+  <exterior>traderoom.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Rithai Kemae</faction>
+  <value>100.000000</value>
+  <range>0</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>13000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>Marnia ud Deskae is the main meeting place, the core where the Council of the Rithai Kemae gather to takes decisions.</description>
+  <bar>None</bar>
+ </general>
+</asset>
