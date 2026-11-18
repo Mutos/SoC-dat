@@ -12,10 +12,9 @@
  <faction>
   <name>Independent</name>
   <static />
-  <invisible />
   <known/>
   <player>3</player>
-  <colour>blue</colour>
+  <colour>brown</colour>
   <spawn>independent</spawn>
   <standing>static</standing>
   <allies>
@@ -45,6 +44,23 @@
   <logo>miner</logo>
   <longname>Space Miners</longname>
   <player>3</player>
+  <colour>Grey40</colour>
+  <spawn>miner</spawn>
+  <standing>miner</standing>
+  <equip>miner</equip>
+  <allies>
+  </allies>
+  <enemies>
+   <enemy>Pirate</enemy>
+  </enemies>
+ </faction>
+ <faction>
+  <name>Spacers</name>
+  <known/>
+  <logo>miner</logo>
+  <longname>Spacers</longname>
+  <player>0</player>
+  <colour>Grey40</colour>
   <spawn>miner</spawn>
   <standing>miner</standing>
   <equip>miner</equip>
@@ -76,7 +92,7 @@
   <logo>pirate</logo>
   <longname>Pirates</longname>
   <player>-20</player>
-  <colour>red</colour>
+  <colour>DarkRed</colour>
   <spawn>pirate</spawn>
   <standing>pirate</standing>
   <equip>pirate</equip>
@@ -173,7 +189,7 @@
   <logo>default</logo>
   <longname>Joint Peacekeepers Corps</longname>
   <player>0</player>
-  <colour>purple</colour>
+  <colour>blue</colour>
   <spawn>trader</spawn>
   <standing>trader</standing>
   <allies>
@@ -220,7 +236,7 @@
   <logo>default</logo>
   <longname>Rithai Kemae</longname>
   <player>0</player>
-  <colour>silver</colour>
+  <colour>LightBlue</colour>
   <spawn>trader</spawn>
   <standing>trader</standing>
   <enemies>
@@ -322,7 +338,7 @@
   <logo>drih</logo>
   <longname>Free Adrimai</longname>
   <player>0</player>
-  <colour>silver</colour>
+  <colour>MidnightBlue</colour>
   <spawn>trader</spawn>
   <standing>trader</standing>
   <enemies>
@@ -488,7 +504,7 @@
   <logo>default</logo>
   <longname>Akta Manniskor</longname>
   <player>0</player>
-  <colour>purple</colour>
+  <colour>DarkPurple</colour>
   <spawn>independent</spawn>
   <standing>independent</standing>
   <allies>
@@ -529,7 +545,7 @@
   <logo>default</logo>
   <longname>Shadow Complex</longname>
   <player>0</player>
-  <colour>silver</colour>
+  <colour>LightBlue</colour>
   <spawn>trader</spawn>
   <standing>trader</standing>
   <enemies>
@@ -542,7 +558,7 @@
   <logo>default</logo>
   <longname>Ashioto Cluster</longname>
   <player>0</player>
-  <colour>silver</colour>
+  <colour>orange</colour>
   <spawn>trader</spawn>
   <standing>trader</standing>
   <enemies>
@@ -568,7 +584,7 @@
   <logo>default</logo>
   <longname>Red Quadrant League</longname>
   <player>0</player>
-  <colour>purple</colour>
+  <colour>red</colour>
   <spawn>trader</spawn>
   <standing>trader</standing>
   <enemies>
@@ -645,7 +661,7 @@
   <logo>default</logo>
   <longname>Daneb Anarchs</longname>
   <player>0</player>
-  <colour>silver</colour>
+  <colour>yellow</colour>
   <spawn>trader</spawn>
   <standing>trader</standing>
   <allies>
@@ -662,7 +678,7 @@
   <logo>default</logo>
   <longname>Complementarist Protectorate</longname>
   <player>0</player>
-  <colour>blue</colour>
+  <colour>LightBlue</colour>
   <spawn>trader</spawn>
   <standing>trader</standing>
   <allies>
@@ -680,7 +696,7 @@
   <logo>default</logo>
   <longname>Candidate Systems</longname>
   <player>0</player>
-  <colour>aqua</colour>
+  <colour>Cyan</colour>
   <spawn>trader</spawn>
   <standing>trader</standing>
   <enemies>
@@ -696,7 +712,7 @@
   <logo>default</logo>
   <longname>Ren'sh Planetary Council</longname>
   <player>0</player>
-  <colour>silver</colour>
+  <colour>aqua</colour>
   <spawn>trader</spawn>
   <standing>trader</standing>
   <enemies>
@@ -712,7 +728,7 @@
   <logo>default</logo>
   <longname>Proteous Resistance</longname>
   <player>0</player>
-  <colour>aqua</colour>
+  <colour>MidnightBlue</colour>
   <spawn>trader</spawn>
   <standing>trader</standing>
   <enemies>
