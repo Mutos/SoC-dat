@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="Iri 0136">
+<ssys name="Ern'om">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -10,7 +10,9 @@
   <x>3247.576000</x>
   <y>-2596.848000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Thilath</asset>
+ </assets>
  <jumps>
   <jump target="Iri 0135">
    <autopos/>
