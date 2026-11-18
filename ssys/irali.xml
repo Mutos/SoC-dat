@@ -12,8 +12,9 @@
  </pos>
  <assets>
   <asset>Gadhonex</asset>
-  <asset>Irali</asset>
   <asset>Irali Core Guard</asset>
+  <asset>Irali Wahskar</asset>
+  <asset>Uad'Ashmut Irali</asset>
  </assets>
  <jumps>
   <jump target="Drom">

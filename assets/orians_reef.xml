@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Telian">
+<asset name="Orian's Reef">
  <pos>
-  <x>-1810.386663</x>
-  <y>-2529.216662</y>
+  <x>3860.383326</x>
+  <y>-3381.163327</y>
  </pos>
  <GFX>
-  <space>J06.png</space>
-  <exterior>desertic2.png</exterior>
+  <space>I02.png</space>
+  <exterior>station03.png</exterior>
  </GFX>
  <general>
   <class>A</class>

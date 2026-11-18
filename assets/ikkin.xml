@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="Rho Indi b">
+<asset name="Ik'Kin">
  <pos>
-  <x>3860.383326</x>
-  <y>-3381.163327</y>
+  <x>-10538.402757</x>
+  <y>4792.199991</y>
  </pos>
  <GFX>
-  <space>I02.png</space>
-  <exterior>station03.png</exterior>
+  <space>I04.png</space>
+  <exterior>forest2.png</exterior>
  </GFX>
  <general>
   <class>A</class>

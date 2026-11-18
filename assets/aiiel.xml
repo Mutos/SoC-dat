@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<asset name="La Mulana">
+<asset name="Aii'el">
  <pos>
-  <x>4991.874990</x>
-  <y>-3161.520827</y>
+  <x>6062.948305</x>
+  <y>-6651.410934</y>
  </pos>
  <GFX>
-  <space>Station-SCO004.png</space>
-  <exterior>traderoom.png</exterior>
+  <space>002.png</space>
+  <exterior>station04.png</exterior>
  </GFX>
  <presence>
-  <faction>Free Traders</faction>
+  <faction>Daneb Anarchs</faction>
   <value>100.000000</value>
   <range>2</range>
  </presence>
  <general>
   <class>A</class>
-  <population>25000</population>
+  <population>5000</population>
   <hide>0.250000</hide>
   <services>
    <land/>
@@ -24,7 +24,6 @@
    <missions/>
    <commodity/>
    <outfits/>
-   <shipyard/>
   </services>
   <commodities/>
   <description>(null)</description>
