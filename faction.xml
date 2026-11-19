@@ -283,7 +283,7 @@
   <logo>default</logo>
   <longname>Erdil Clan</longname>
   <player>0</player>
-  <colour>blue</colour>
+  <colour>orange</colour>
   <spawn>trader</spawn>
   <standing>trader</standing>
   <allies>
@@ -355,7 +355,7 @@
   <logo>dvaered</logo>
   <longname>Gham Garri</longname>
   <player>0</player>
-  <colour>orange</colour>
+  <colour>DarkRed</colour>
   <spawn>ghamgarri</spawn>
   <standing>trader</standing>
   <allies>
@@ -755,5 +755,39 @@
   <colour>green</colour>
   <spawn>trader</spawn>
   <standing>trader</standing>
+ </faction>
+ <faction>
+  <name>Police Patrol</name>
+  <known/>
+  <logo>default</logo>
+  <longname>Local Police Forces</longname>
+  <player>0</player>
+  <colour>blue</colour>
+  <spawn>Police Patrol</spawn>
+  <standing>Police Patrol</standing>
+  <allies>
+   <ally>Core League</ally>
+   <ally>Alliance</ally>
+   <ally>Candidate Systems</ally>
+   <ally>Aragwedyr Clan</ally>
+   <ally>K'Rinn Council</ally>
+   <ally>Irilia Clan</ally>
+   <ally>Irmothem Clan</ally>
+   <ally>Erdil Clan</ally>
+   <ally>Arythem Clan</ally>
+   <ally>Purple Trail</ally>
+   <ally>Ashioto Cluster</ally>
+   <ally>Thirteen Planets League</ally>
+   <ally>Red Quadrant League</ally>
+   <ally>Baartish Intersystems</ally>
+   <ally>Rithai Kemae</ally>
+   <ally>Joint Peacekeepers Corps</ally>
+   <ally>Ren'sh Planetary Council</ally>
+   <ally>Stellar Police</ally>
+   <ally>Wandering Domains</ally>
+  </allies>
+  <enemies>
+   <enemy>Pirate</enemy>
+  </enemies>
  </faction>
 </Factions>

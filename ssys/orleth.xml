@@ -18,10 +18,6 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Iri 0141">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Iri 0180">
    <autopos/>
    <hide>1.250000</hide>
@@ -31,6 +27,10 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="Tavv'tembu">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Therdil">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

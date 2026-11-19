@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Eer'TsaahM-2">
+ <pos>
+  <x>2773.263883</x>
+  <y>-7780.545895</y>
+ </pos>
+ <GFX>
+  <space>Jump-Gate-001.png</space>
+  <exterior>desertic4.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>

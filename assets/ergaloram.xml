@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ergaloram">
+ <pos>
+  <x>-1296.545479</x>
+  <y>1215.432356</y>
+ </pos>
+ <GFX>
+  <space>moon-P02.png</space>
+  <exterior>aquatic3.png</exterior>
+ </GFX>
+ <general>
+  <class>A</class>
+  <population>0</population>
+  <hide>0.250000</hide>
+  <services/>
+ </general>
+</asset>
