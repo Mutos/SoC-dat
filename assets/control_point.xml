@@ -9,8 +9,8 @@
   <exterior>asteroids-001.png</exterior>
  </GFX>
  <presence>
-  <faction>Independent</faction>
-  <value>350.000000</value>
+  <faction>Space Police</faction>
+  <value>500.000000</value>
   <range>4</range>
  </presence>
  <general>
