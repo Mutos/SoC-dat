@@ -763,8 +763,8 @@
   <longname>Local Police Forces</longname>
   <player>0</player>
   <colour>blue</colour>
-  <spawn>Police Patrol</spawn>
-  <standing>Police Patrol</standing>
+  <spawn>stellarpolice</spawn>
+  <standing>stellarpolice</standing>
   <allies>
    <ally>Core League</ally>
    <ally>Alliance</ally>
