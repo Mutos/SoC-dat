@@ -13,6 +13,7 @@
  <assets>
   <asset>Blue Water</asset>
   <asset>Bone Pearl</asset>
+  <asset>Eer'TsaahM-2</asset>
   <asset>Garden's Wall</asset>
   <asset>Hyena Pup</asset>
   <asset>Jade</asset>
@@ -24,6 +25,7 @@
   <asset>Rhombus-2</asset>
   <asset>The Watcher</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
+  <asset>Virtual Independent Local</asset>
  </assets>
  <jumps>
   <jump target="Ab Yoht">
