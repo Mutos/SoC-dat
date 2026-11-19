@@ -757,14 +757,14 @@
   <standing>trader</standing>
  </faction>
  <faction>
-  <name>Space Police</name>
+  <name>Police Patrol</name>
   <known/>
   <logo>default</logo>
   <longname>Local Police Forces</longname>
   <player>0</player>
   <colour>blue</colour>
-  <spawn>Space Police</spawn>
-  <standing>Space Police</standing>
+  <spawn>Police Patrol</spawn>
+  <standing>Police Patrol</standing>
   <allies>
    <ally>Core League</ally>
    <ally>Alliance</ally>
