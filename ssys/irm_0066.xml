@@ -12,11 +12,11 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="Irm 0060">
+  <jump target="Erdil-3">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Irm 0064">
+  <jump target="Irm 0060">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
