@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="Ary-Iri - 1 - 2">
+<ssys name="Uhorth">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -10,7 +10,12 @@
   <x>3492.376000</x>
   <y>-1979.664000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Oujhaanskar</asset>
+  <asset>Virtual Arythem Area</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+  <asset>Virtual Irilia Area</asset>
+ </assets>
  <jumps>
   <jump target="Ary-Iri - 1 - 1">
    <autopos/>
