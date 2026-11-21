@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="IS 0001">
+<ssys name="Icefall">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -10,7 +10,10 @@
   <x>4431.920000</x>
   <y>-2988.608000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Ice Piercer</asset>
+  <asset>Waterfall Deep  </asset>
+ </assets>
  <jumps>
   <jump target="IS 0002">
    <autopos/>
