@@ -11,7 +11,10 @@
   <y>-2419.728000</y>
  </pos>
  <assets>
+  <asset>Ghalem</asset>
+  <asset>Ramoth</asset>
   <asset>Tavv'tembu Border Station</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
   <jump target="Orleth">
