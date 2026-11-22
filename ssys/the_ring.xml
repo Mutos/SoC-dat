@@ -3,41 +3,45 @@
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
-  <interference>0.000000</interference>
+  <interference>100.000000</interference>
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>706.840000</x>
-  <y>-4651.152000</y>
+  <x>-324.776000</x>
+  <y>-3144.336000</y>
  </pos>
  <assets>
   <asset>Bubble</asset>
+  <asset>Ring Bazaar</asset>
   <asset>The Ring</asset>
-  <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="Outer Ring">
-   <pos x="-4735.106956" y="-7210.522723"/>
+  <jump target="Node-1">
+   <pos x="-79.762908" y="-5189.915265"/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="TPL 0140">
-   <pos x="-2608.842990" y="-7776.697374"/>
+  <jump target="Node-2">
+   <pos x="166.204109" y="-2979.898531"/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="TPL 0141">
-   <pos x="-3091.921908" y="-3863.623609"/>
+  <jump target="Node-3">
+   <pos x="-1268.278878" y="-1179.925722"/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="TPL 0143">
-   <pos x="-5115.281656" y="-5037.708990"/>
+  <jump target="Node-5">
+   <pos x="-4949.768346" y="-2915.917769"/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="TPL 0144">
-   <pos x="-976.975906" y="-6830.998701"/>
+  <jump target="Node-6">
+   <pos x="-4576.307084" y="-4660.667099"/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="TPL 0159">
-   <pos x="-1011.151464" y="-4983.460848"/>
+  <jump target="Node-7">
+   <pos x="-2300.235618" y="-5998.779203"/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Savory Clouds">
+   <pos x="-3556.196526" y="-1315.964489"/>
    <hide>1.250000</hide>
   </jump>
  </jumps>

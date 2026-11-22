@@ -16,15 +16,11 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Outer Ring">
+  <jump target="Outer Road">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="TPL 0141">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="The Ring">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

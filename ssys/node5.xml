@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="RQL 0036">
+<ssys name="Node-5">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -7,20 +7,24 @@
   <nebula volatility="0.000000">0.000000</nebula>
  </general>
  <pos>
-  <x>-232.616000</x>
-  <y>-3007.536000</y>
+  <x>-478.776000</x>
+  <y>-3097.336000</y>
  </pos>
  <assets/>
  <jumps>
-  <jump target="RQL 0025">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="RQL 0027">
+  <jump target="Node-6">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Savory Clouds">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="TPL-RQL - 2 - 1">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="The Ring">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
