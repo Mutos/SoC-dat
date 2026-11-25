@@ -18,6 +18,10 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
+  <jump target="Ergoth">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="Irm 0055">
    <autopos/>
    <hide>1.250000</hide>
