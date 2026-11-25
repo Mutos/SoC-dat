@@ -11,14 +11,15 @@
   <y>-2086.800000</y>
  </pos>
  <assets>
+  <asset>Armoth</asset>
   <asset>Armoth Trade Station</asset>
  </assets>
  <jumps>
-  <jump target="Irm 0046">
+  <jump target="Pok'ka'skar ">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Pok'ka'skar">
+  <jump target="Tholem">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
