@@ -27,7 +27,7 @@
    <shipyard/>
   </services>
   <commodities/>
-  <description>(null)</description>
-  <bar>(null)</bar>
+  <description>This station is the main entry point to planet Ares for all ships unable to make planetfall.</description>
+  <bar>A few Ares locals and tourists, and many tradesbeing, mostly Humans</bar>
  </general>
 </asset>
