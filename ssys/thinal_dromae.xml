@@ -17,15 +17,15 @@
   <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="Irm 0049">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="Irm 0058">
+  <jump target="Erdil Ab'oam">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
   <jump target="Irm 0106">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Thim Rakhim">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

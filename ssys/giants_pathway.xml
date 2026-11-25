@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ssys name="Giant's Pathway">
+<ssys name="Giants' Pathway">
  <general>
   <radius>10000.000000</radius>
   <stars>400</stars>
@@ -11,14 +11,14 @@
   <y>-2307.776000</y>
  </pos>
  <assets>
-  <asset>Giant's Pathway Post-Station</asset>
+  <asset>Giants' Pathway Border Station</asset>
  </assets>
  <jumps>
   <jump target="IS 0020">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Irm-IS - 1 - 1">
+  <jump target="Pok'ka'skar">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

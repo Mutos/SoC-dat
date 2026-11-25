@@ -14,8 +14,21 @@
   <asset>Divers' Beach</asset>
   <asset>Savory Clouds</asset>
   <asset>Virtual Independent Area 3 Jumps</asset>
+  <asset>Virtual Wandering Domains 3 jumps.</asset>
  </assets>
  <jumps>
+  <jump target="Node-3">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Node-5">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="PA-TPL-RQL - 1 - 2">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
   <jump target="RQL 0023">
    <autopos/>
    <hide>1.250000</hide>
@@ -24,7 +37,7 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="RQL 0036">
+  <jump target="The Ring">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssys name="Erdil Ab'oam">
+ <general>
+  <radius>10000.000000</radius>
+  <stars>400</stars>
+  <interference>100.000000</interference>
+  <nebula volatility="0.000000">0.000000</nebula>
+ </general>
+ <pos>
+  <x>4142.104000</x>
+  <y>-1805.136000</y>
+ </pos>
+ <assets/>
+ <jumps>
+  <jump target="Erdil-2">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Irm 0055">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Thim Rakhim">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Thinal Dromae">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+ </jumps>
+</ssys>

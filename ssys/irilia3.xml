@@ -10,7 +10,10 @@
   <x>1325.464000</x>
   <y>-2180.112000</y>
  </pos>
- <assets/>
+ <assets>
+  <asset>Irilia-3</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
+ </assets>
  <jumps>
   <jump target="Iri 0026">
    <autopos/>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ramoth">
+ <pos>
+  <x>3117.791515</x>
+  <y>-1027.053932</y>
+ </pos>
+ <GFX>
+  <space>000.png</space>
+  <exterior>asteroids-001.png</exterior>
+ </GFX>
+ <presence>
+  <faction>Irmothem Clan</faction>
+  <value>50.000000</value>
+  <range>2</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>10000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>(null)</description>
+  <bar>(null)</bar>
+ </general>
+</asset>

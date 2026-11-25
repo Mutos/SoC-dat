@@ -12,6 +12,7 @@
  </pos>
  <assets>
   <asset>Galathim Border Station</asset>
+  <asset>Virtual Irmothem Area</asset>
  </assets>
  <jumps>
   <jump target="Irm 0028">
@@ -22,7 +23,7 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="Irm-Iri - 1 - 1">
+  <jump target="Thim Galathim">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

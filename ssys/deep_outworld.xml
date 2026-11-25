@@ -12,7 +12,7 @@
  </pos>
  <assets/>
  <jumps>
-  <jump target="Outer Ring">
+  <jump target="Outer Road">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

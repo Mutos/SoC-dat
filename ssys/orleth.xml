@@ -12,12 +12,9 @@
  </pos>
  <assets>
   <asset>Oram'm'oujj</asset>
+  <asset>Virtual Independent Area 3 Jumps</asset>
  </assets>
  <jumps>
-  <jump target="Ary-Iri - 1 - 2">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
   <jump target="Iri 0180">
    <autopos/>
    <hide>1.250000</hide>
@@ -31,6 +28,10 @@
    <hide>1.250000</hide>
   </jump>
   <jump target="Therdil">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Uhorth">
    <autopos/>
    <hide>1.250000</hide>
   </jump>

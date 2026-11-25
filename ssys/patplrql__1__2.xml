@@ -16,7 +16,11 @@
    <autopos/>
    <hide>1.250000</hide>
   </jump>
-  <jump target="PA-TPL-RQL 1 - 1">
+  <jump target="RQL 0025">
+   <autopos/>
+   <hide>1.250000</hide>
+  </jump>
+  <jump target="Savory Clouds">
    <autopos/>
    <hide>1.250000</hide>
   </jump>
