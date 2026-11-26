@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <asset name="Aan'Tsch'">
  <pos>
-  <x>6766.763876</x>
-  <y>-6877.694431</y>
+  <x>6021.310544</x>
+  <y>-7143.927764</y>
  </pos>
  <GFX>
   <space>moon-P00.png</space>
@@ -27,7 +27,7 @@
    <shipyard/>
   </services>
   <commodities/>
-  <description>(null)</description>
-  <bar>(null)</bar>
+  <description>Aan'Tsch' is a small and frozen world, as small as a moon. In Shaads History, it was one of the main base for Interstellar exploration, and it's still what it is now, expecially with the construction of Aii'el, a new slingstation in its orbit. The planet house some scientific and spacefaring base-domes on its ground.</description>
+  <bar>Scientists and engineers, mainly Sshaads, taking a break, with a few glasses of Gl'tsh and pecking some rocknuts, chatting about the latests gossips.</bar>
  </general>
 </asset>
