@@ -10,7 +10,7 @@
  </GFX>
  <presence>
   <faction>Free Traders</faction>
-  <value>1.000000</value>
+  <value>10.000000</value>
   <range>1</range>
  </presence>
  <general>
@@ -21,10 +21,15 @@
    <land/>
    <refuel/>
    <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
    <blackmarket/>
   </services>
   <commodities/>
-  <description>(null)</description>
-  <bar>(null)</bar>
+  <description>Nested in orbit of one of the goldylocks planets of the Teegarden System, Garden Center is a florishing smuggling Station. Litterally, as it was created by a group of passionates botanists.
+
+Sometimes, they accepts payment in seeds and cutting of rare plants, to complete their vast collection of flora from all the known universe. </description>
+  <bar>Visitors taking a tee in the space Garden in the hall of the Garden center, in the System of Teegarden.</bar>
  </general>
 </asset>
