@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset name="Ha'Aldil">
+ <pos>
+  <x>-5862.831384</x>
+  <y>2317.542176</y>
+ </pos>
+ <GFX>
+  <space>station-shipyard2.png</space>
+  <exterior>traderoom.png</exterior>
+ </GFX>
+ <presence>
+  <faction>K'Rinn Council</faction>
+  <value>150.000000</value>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>A</class>
+  <population>118000</population>
+  <hide>0.250000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+   <shipyard/>
+  </services>
+  <commodities/>
+  <description>Sharing a common orbit with H'Rkann and Kirt, Ha'Aldil is one of the most ancient Slingshot-Station in H'Rkann. Nearby, is the orbital capital Station of Nit'rilk, Headquarter of the K'Rinn Council.
+The K'Rinn where first, between the six species, to discover the piercer technologie that made Slingshot-stations possible. In the past, as they explored their home systems, they discover Purgatoriens ruins equipped with this technology and studying it. They are not really eager to share it, because of the risky consequences and the advantages it allows for space travels, but have already given it away to the Alliance during the Cartelist Wars, in gage of their help. But now, with the existence of the Community, space-slingshot technology are slowly spreading in the others states.</description>
+  <bar>K'Rinns travellers sharing the "drops of friendship" with cared one before embarquing for a far destination, in a quick travel.</bar>
+ </general>
+</asset>
