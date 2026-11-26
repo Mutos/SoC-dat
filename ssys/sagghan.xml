@@ -14,14 +14,5 @@
   <asset>Armoth</asset>
   <asset>Armoth Trade Station</asset>
  </assets>
- <jumps>
-  <jump target="Pok'ka'skar ">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
-  <jump target="Tholem">
-   <autopos/>
-   <hide>1.250000</hide>
-  </jump>
- </jumps>
+ <jumps/>
 </ssys>

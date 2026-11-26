@@ -19,10 +19,12 @@
   <hide>0.250000</hide>
   <services>
    <land/>
+   <refuel/>
    <bar/>
    <missions/>
    <commodity/>
    <outfits/>
+   <shipyard/>
   </services>
   <commodities>
    <commodity>Generic Food</commodity>
@@ -38,8 +40,10 @@
    <commodity>Luxury Goods</commodity>
    <commodity>Ziffelan Minidragons</commodity>
   </commodities>
-  <description>(null)</description>
-  <bar>(null)</bar>
+  <description>A strange planet with remnants of living creatures from divers biospheres. Several isolated ecosystems were found to be long-time descendents of similar lifeforms from many known planets, including at least 3 cradleworlds of Commonwealth species : Earth, Tshi'aarsh and Skarae.
+It is hypothetized that an "engineers" civilization, so-called "Geomasters", heavily transformed it in a long-gone past, probably 100 000 years ago, well before even the Purgatorians rose to sentience. Nothing is known about what that species -or entity- could have been.
+The planet's peculiar ecologic patchwork is used in two main ways, apart from being studied by scientists from all species, states and disciplines. Numerous bridge species were introduced by the mysterious "Geomasters" or evolved from millenia of constant contact. So the planet is a treasure trove for exobiologists and terraformers seeking to make different ecospheres coexist in newly colonized worlds. Also, naturally occuring food-producing ressources are available in plenty, leading to the development of permacultural agricultural areas.</description>
+  <bar>Locals and visitors from all species enjoying some various drinks on the market place of Isoyar, coming from the nearly hived daneb to Castletown, and from the stars, some scientist of all sorts eager to study the planet ecosystem and history.</bar>
  </general>
  <tech>
   <item>Low-tech Generic</item>
