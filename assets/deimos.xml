@@ -6,12 +6,27 @@
  </pos>
  <GFX>
   <space>asteroid-D25.png</space>
-  <exterior>station04.png</exterior>
+  <exterior>scrapped_station.png</exterior>
  </GFX>
+ <presence>
+  <faction>Core League</faction>
+  <value>50.000000</value>
+  <range>2</range>
+ </presence>
  <general>
   <class>A</class>
-  <population>0</population>
+  <population>12000</population>
   <hide>0.250000</hide>
-  <services/>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+   <outfits/>
+  </services>
+  <commodities/>
+  <description>Carved in the surface of Deimos, the second moonlet of Mars, stand the main spaceport of the planet. Here, you can found classical way of travels in a spartiat cargo or coastership cabin, for a very reasonnable price, in comparaison with the the one applied in the slingshot-station of Dvarapala.   </description>
+  <bar>Spacers, miners and traveller waiting for the next ship, sipping some cheap beer or even a bubble of Rockstealer's Fuel cocktail.</bar>
  </general>
 </asset>

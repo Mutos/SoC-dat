@@ -10,12 +10,12 @@
  </GFX>
  <presence>
   <faction>Core League</faction>
-  <value>0.000000</value>
-  <range>0</range>
+  <value>100.000000</value>
+  <range>1</range>
  </presence>
  <general>
   <class>A</class>
-  <population>0</population>
+  <population>10000</population>
   <hide>0.250000</hide>
   <services>
    <land/>
@@ -26,7 +26,7 @@
    <outfits/>
   </services>
   <commodities/>
-  <description>(null)</description>
-  <bar>(null)</bar>
+  <description>Dvarapala was originally a slingshot station build by the Olympus yards to send new ships in all the Core League. Then, the company opens the station to travellers, but only the most wealthy could afford the exorbitant price of the ticket. In its hall stand two towering Statues of Dvarapala, Gentle demons, one male and one female, that protect the travellers. They are covered with little notes, emas, ex-votos and wishes of all sorts, abandonned by visitors searching to draw favors of the stars, good luck and fortune on their travels.</description>
+  <bar>Near the towering Guardians Statues that protect the Station's Hall, richs travellers waiting for the next Sling to somewhere else in the know universe, dining in a comfy small Cafe-buvette.</bar>
  </general>
 </asset>
