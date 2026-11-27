@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <asset name="Norma Core Guard">
  <pos>
-  <x>6589.274987</x>
-  <y>7010.811097</y>
+  <x>4074.934661</x>
+  <y>5753.640934</y>
  </pos>
  <GFX>
   <space>station-fleetbase.png</space>
@@ -27,8 +27,9 @@
    <shipyard/>
   </services>
   <commodities/>
-  <description>None</description>
-  <bar>None</bar>
+  <description>The Norma Core Guard is a military Station that host a multi-clanic elite garnison in charge to defend the border of the Rithai Kemae.
+This was once a more or less abandonned Irmothem station, but the Rith Core Council decided to retook it to control the sector, just in the border of the Irilia Sphere.</description>
+  <bar>Elite Rithai guards from all possible clans, echanging about the actualities during their shifts. </bar>
  </general>
  <tech>
   <item>Low-tech Generic</item>
