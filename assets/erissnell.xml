@@ -8,6 +8,11 @@
   <space>Jump-Gate-001.png</space>
   <exterior>station03.png</exterior>
  </GFX>
+ <presence>
+  <faction>Baartish Intersystems</faction>
+  <value>50.000000</value>
+  <range>2</range>
+ </presence>
  <general>
   <class>A</class>
   <population>10000</population>
@@ -20,7 +25,8 @@
    <commodity/>
    <outfits/>
   </services>
-  <description>(null)</description>
-  <bar>(null)</bar>
+  <commodities/>
+  <description>Eris'snell is the first Slingshot-station constructed by the Baartish. Build around  the year 2225, it took at least 8 years to achieve it. It orbit around Tshonaal, near the Baartish Moonworld.</description>
+  <bar>High-masters and Counter-masters waiting for the next flight in the stylized Hall of Eris'snell, crafted in the pure style Neo-Biishama.</bar>
  </general>
 </asset>
