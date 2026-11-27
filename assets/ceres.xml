@@ -9,7 +9,7 @@
   <exterior>mining6.png</exterior>
  </GFX>
  <presence>
-  <faction>Independent</faction>
+  <faction>Spacers</faction>
   <value>50.000000</value>
   <range>1</range>
  </presence>
@@ -28,7 +28,9 @@
    <blackmarket/>
   </services>
   <commodities/>
-  <description>(null)</description>
-  <bar>(null)</bar>
+  <description>
+Ceres is the main and only dwarf planet in the main asteroid belt of Sol. Their inhabitants develloped soon a very independant spacer culture, and the Ceresites anarcho-communists communities were qualified at least "prompt to rebellion" in the Cartel-Sol Era.
+Rich in water, silicates and rares earth, and counting on the metal of the next large asteroid, Vesta, Ceres is a wealthy world with even agricultural and fishery farm, thanks to its larges pouches of salted water in its underground subsoil.</description>
+  <bar>In the Dome-City of Occator, visitors and Ceresites could enjoy the view of icy geysers, which make this place so famous.</bar>
  </general>
 </asset>
