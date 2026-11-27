@@ -23,7 +23,9 @@
    <missions/>
   </services>
   <commodities/>
-  <description>(null)</description>
-  <bar>(null)</bar>
+  <description>AG-18 was once a research station and laboratory from the Globecorp Company. It was a secretive place until the revelation of the infamous Hunchbacks' affair. It was revealed by a whistleblower that the company worked on sentient Biomechas, using Human ADN. When journalists rushed on the place, no proofs where found, but the reputation of Globecorp was already tarnished. 
+Nowadays, the station was abaonned for years, and become a place for squatters and spaceurbex. Very recently, the place have been reclaimed by some new owner.</description>
+  <bar>
+The Halls of AG-18 are  in heavy remedial works, so there is mainly construction workers, but the old walls of the station retains fantoms of the past... and their whispers are terrifying.</bar>
  </general>
 </asset>
